@@ -726,7 +726,7 @@ A steep price to pay, especially considering how weak the seaplanes are in compa
   * 20s, launch 3 unguided torps in a cone.
 
 * Desc: 
->Think Tirpitz, except not quite as hard-hitting and not as fussy about her company. She will outdamage all her competitors (excepting Hood), while still being able to defend herself through a set of CL guns.  
+>Think Tirpitz, except not quite as hard-hitting and not as fussy about her company. She will outdamage all her BC competitors (excepting Hood and Amagi), while still being able to defend herself through a set of CL guns.  
 A force to be reckoned with, especially considering her cost, but don't count on the torps to do much more than stop the occasional fireboat.
  
 ![BC](https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png "KMS Scharnhorst") - **[KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst)** **(T1 if deployed with Graf Zeppelin)**
