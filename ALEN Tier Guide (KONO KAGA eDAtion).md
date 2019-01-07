@@ -723,14 +723,16 @@ A steep price to pay, especially considering how weak the seaplanes are in compa
 ![BC](https://azurlane.koumakan.jp/w/images/5/52/GneisenauChibi.png "KMS Gneisenau") - **[KMS Gneisenau](https://azurlane.koumakan.jp/Gneisenau)** **(T1 if deployed with Graf Zeppelin)**
 * Skill:
   * +25% FP to self.
-  * 20s, launch 3 unguided torps in a cone.
+  * 20s, launch 3 unguided torpedoes in a cone.
 
 * Desc: 
 >Think Tirpitz, except not quite as hard-hitting and not as fussy about her company. She will outdamage all her BC competitors (excepting Hood and Amagi), while still being able to defend herself through a set of CL guns.  
 A force to be reckoned with, especially considering her cost, but don't count on the torps to do much more than stop the occasional fireboat.
  
 ![BC](https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png "KMS Scharnhorst") - **[KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst)** **(T1 if deployed with Graf Zeppelin)**
-* Skill: Every 15s, fires a 3-bullet (Normal, upgrades to AP after SL6) salvo at a random target. This salvo will automatically crit; Every 20s launches 3 unguided torpedoes
+* Skill:
+  * Every 15s, fires a 3-bullet (Normal, upgrades to AP after SL6) auto-critting salvo at a random target.
+  * Every 20s, launch 3 unguided torpedoes in a cone.
 
 * Desc: 
 >Think Warspite, except with a functional barrage and less showboating. Between her regular guns, the CL secondaries, the automated barrage and the torps, she will throw out damage more often than any other backliner in the game.  
