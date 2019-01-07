@@ -52,8 +52,8 @@ Good reading, and godspeed cap'n!
 ---
 ![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai") - **[USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)**
 * Skill:
-  * 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s.**
-  * Every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.**
+  * 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s.
+  * Every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
   
 - Desc: "Vorpal Bunny".
 >While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant.  
@@ -764,7 +764,7 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
 * Desc: 
 >Demands a specific fleet composition to outshine her competition, but is it sweet when she does - +25% FP, AA, Reload and Evasion are nothing to laugh at, but it cannot be understated how much she limits your composition.
 
-![BB](https://azurlane.koumakan.jp/w/images/8/87/WarspiteChibi.png "HMS Warspite") - **[HMS Warspite](https://azurlane.koumakan.jp/Warspite) ** **(T1.5 if deployed w/ Queen Elizabeth)**
+![BB](https://azurlane.koumakan.jp/w/images/8/87/WarspiteChibi.png "HMS Warspite") - **[HMS Warspite](https://azurlane.koumakan.jp/Warspite)** **(T1.5 if deployed w/ Queen Elizabeth)**
 * Skill: Every 15s, fires a 2-bullet AP salvo at the furthermost target. This salvo will automatically crit.
 
 - Desc: "The Queen's Royal Corgi".
