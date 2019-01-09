@@ -13,11 +13,11 @@ Good reading, and godspeed cap'n!
 
 ### Evaluation Criteria:
 - Ships are tiered by their PvE PERFORMANCE first and foremost, but notes on notable PvP usage will be made if suitable.
-- Ships are tiered according to their ability to act as a STAND-ALONE UNIT; if a unit performs better in a specific composition or if certain conditions are met, it will be noted with a second tier mark.
+- Ships are tiered according to their ability to act as a STAND-ALONE UNIT; if a unit is strictly meant to be a supporter (eg. Vestal), performs better in a specific composition or under specific circumstances, it will be noted with a second tier mark.
 - Ships are compared to others in their OWN CLASS for tiering purposes; if two ships are have comparable stats and purpose, the least expensive one will be ranked higher.
 - Ships in a tier are listed alphabetically and in order of nationality (USS -> HMS -> IJN -> KMS).
-- All skill values mentioned are at MAX level.
-- Auto performance is NOT taken into consideration. (AI is dumb and ships with more/better guns outperform the rest.)
+- All units are assumed to be MAXED (ie. lv100, BiS gear, SL10 across the board).
+- Auto or Manual performance is not taken into consideration, unless it is specifically relevant to the unit.
 - Submarines will NOT be tiered until more data on their live, peak performance is collected. This will take a while, folks.
  
 
@@ -1026,7 +1026,19 @@ While definitely usable, her only real use case would be plugging Hard Mode enfo
 Why is this even mentioned, then? Because her +XP skill stacks with Langley's, that's why, and having her around as a 0LB exp booster may be a good idea to hasten the leveling process.
 
 ---
-# AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon") - A Few Notes
+# AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon") - A few notes, and Vestal
+
+"Repair Ship" is a misnomer for these crafts, to say the least. Here are the reasons why ---> https://pastebin.com/RucY4TwC  
+TLDR; they contribute little to nothing to the fight, their healing is pathetic and vastly outclassed as soon as you use more than a single DD for your vanguard, the +1 ammo is easily negated by a single ambush (and given the inability to attack surface targets they can't assist the fleet in the battle either) and they cost the same as the much superior healer options (Unicorn / Shouhou / Arizona).  
+However, **Vestal** - unlike Akashi - has a few redeeming features that make her worth taking along for lategame low(ish)-cost farming, provided you don't mind the increase in clearing times.
+
+#### ![AR](https://azurlane.koumakan.jp/w/images/3/3c/VestalChibi.png "USS Vestal") - [USS Vestal](https://azurlane.koumakan.jp/Vestal)
+* Skill: 
+  * Once per battle, Vestal heals a ship under 20% HP by 20% of the healed's HP; if the target is Enterprise, the healing amount is increased by 50%.
+  * Begin each Sortie with 3 Emergency Repairs (consumable +10% fleetwide HP heals, used in the map screen). 
  
-A misnomer to say the least. See here why ---> https://pastebin.com/RucY4TwC
-TLDR; not only they do contribute little to nothing to the fight, unlike Unicorn/Shouhou/Arizona, but the healing they provide is much lower than that of Unicorn/Shouhou/Arizona as soon as you start using multiple ships, even DDs, and their +1 ammo can be easily negated by a single ambush.
+* Desc: "Vestal is Bestal".  
+>"Wait, Vestal? Why not Akashi? Isn't her heal better?", you may be asking yourself - and you'd be right, Akashi's healing capacity is technically better. And it doesn't matter in the slightest.  
+As covered above, Repair Ships are *terrible* healers and far outshone by cheaper/stronger/both options; competing with them is a lost cause.  
+What you seek in a Repair Ship is utility, and Vestal brings a surprising amount of it to the table: be it through her rescue skill, guaranteed to save an ailing backliner's sorry arse, her stellar AA suite (two AA gun slots, each benefiting from the ARs' inbuilt +1 AGM, and three auxiliary slots you can fill with AA radars to kick her plane offence into high gear), and the usual 3 fleetwide consumable heals.  
+She won't clear quick and she's obviously more suited to high-AA environments, but she *will* get the job done.
