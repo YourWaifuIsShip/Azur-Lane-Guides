@@ -44,9 +44,18 @@ Good reading, and godspeed cap'n!
 #### Assorted notes:
 - Read the VERY IMPORTANT OPENING NOTE at the top.
 - The 'loadout' listed under CV/L entries details the number of planes each unit gets; eg. Unicorn gets 3 Fighters / 0 Dive Bombers / 3 Torpedo Bombers.
- 
 
+## Table of Contents 
+- ### [DD ![DD](https://azurlane.koumakan.jp/w/images/thumb/f/f6/DD_img.png/45px-DD_img.png "DD Icon")](#dd-)
+- ### [CL ![CL](https://azurlane.koumakan.jp/w/images/2/20/CL_img.png "CL Icon")](#cl-)
+- ### [CA ![CA](https://azurlane.koumakan.jp/w/images/c/c3/CA_img.png "CA Icon")](#ca-)
+- ### [BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")](#bbbc-)
+- ### [CV/CVL ![CV(L)](https://azurlane.koumakan.jp/w/images/d/d1/CV_img.png "CV/L Icon")](#cvcvl-)
+- ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar-)
+<br/><br/>
 ---
+<br/><br/>
+
 ## DD ![DD](https://azurlane.koumakan.jp/w/images/thumb/f/f6/DD_img.png/45px-DD_img.png "DD Icon")
 ### Tier 0:
 ---
@@ -277,10 +286,9 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
 * Desc: 
 >One of the top DD choices for a 0LB min-cost farm fleet due to her high torpedo stat, low fuel usage, and chain torpedo skill.
 
-
-
-
+<br/><br/>
 ---
+<br/><br/>
 ## CL ![CL](https://azurlane.koumakan.jp/w/images/2/20/CL_img.png "CL Icon")
 ### Tier 0:
 ---
@@ -451,9 +459,10 @@ Her one job is being immensely irritating/powerful in the arena, and dying for y
 >San Diego has had, for the longest time, a terrible reputation - hailed as the prime example of rarity not being an indication of quality, her reputation is somewhat deserved, considering her main claim to glory is tons of AA (to the detriment of the rest of her offensive stats) when AA is only really needed in W12, a steep Oil price tag and a tendency to appear in crafting whenever you don't want her to... but that's not all there is to it.  
 The usual claim is that San Diego can't do anything to surface enemies; if you were to use her as a normal CL this would be correct, as her FP is low and her Gun Efficiency is worse. However, her barrage can dish out surprising amounts of damage and she can mount DD guns, which means she can spam said powerful barrage; moreover, while her Torpedo stat is abysmal, her Torpedo Efficiency is good enough, meaning she can benefit a lot from auxiliary torpedoes.  
 Does all this redeem her, then? Not really, even in this fashion, you'd need to manually control her and you'd need lots of high-end gear to get her to perform properly. If you're not expecting planes and you don't care about her, feel free to scrap her as you always did; if you do, then Sandy might just be what you need.
- 
- 
+
+<br/><br/>
 ---
+<br/><br/>
 ## CA ![CA](https://azurlane.koumakan.jp/w/images/c/c3/CA_img.png "CA Icon")
 ### Tier 0:
 ---
@@ -605,7 +614,9 @@ Also, she's slightly better at AA than her sisters (key word being "slightly", t
 >It's exceedingly rare for a frontliner to have more HP than carriers and battlecruisers, but Prinz Eugen makes it happen. Proud owner of a HP pool larger than 90% of the ships in the game, she pays for this priviledge by being saddled with a semi-useless skill and poor offensive stats.  
 If you're looking that something that won't die anytime soon, look no further; if you're looking for something that can do anything more than that, look everywhere else.
 
+<br/><br/>
 ---
+<br/><br/>
 ## BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")
 ### Tier 0:
 ---
@@ -807,7 +818,9 @@ Avoid.
 >You know what was just said about Nelson and Rodney? Well, they're even worse, courtesy of their weaker statlines and lack of CL guns; as for Maryland's +Dmg on low HP, it goes without saying that if you're taking damage, you're in an undesirable situation to begin with.  
 Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in the game.
 
+<br/><br/>
 ---
+<br/><br/>
 ## CV/CVL ![CV(L)](https://azurlane.koumakan.jp/w/images/d/d1/CV_img.png "CV/L Icon")
 ### Tier 0:
 ---
@@ -1025,8 +1038,11 @@ While definitely usable, her only real use case would be plugging Hard Mode enfo
 >The first carrier to ever sail the seas, and it shows. As THE early prototype for the ships that would later dominate the oceans, she's incredibly weak and brought further down by her mandatory CL gun - which can barely deal scratch damage, owing to her 0 Firepower statline.  
 Why is this even mentioned, then? Because her +XP skill stacks with Langley's, that's why, and having her around as a 0LB exp booster may be a good idea to hasten the leveling process.
 
+<br/><br/>
 ---
-# AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon") - A few notes, and Vestal
+<br/><br/>
+## AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")
+### A few notes, and Vestal
 
 "Repair Ship" is a misnomer for these crafts, to say the least. Here are the reasons why ---> https://pastebin.com/RucY4TwC  
 TLDR; they contribute little to nothing to the fight, their healing is pathetic and vastly outclassed as soon as you use more than a single DD for your vanguard, the +1 ammo is easily negated by a single ambush (and given the inability to attack surface targets they can't assist the fleet in the battle either) and they cost the same as the much superior healer options (Unicorn / Shouhou / Arizona).  
