@@ -9,8 +9,9 @@ Indeed, you could even interpret the tiers as a relative measure of how much inv
 Whatever the case and however you choose to read this guide, I want to stress this - ALL units are viable, SOME are better than others, NONE of them will work if you don't know how to use them.
 Good reading, and godspeed cap'n!
 ## _VERY IMPORTANT OPENING NOTE_ 
-
-
+ 
+  
+  
 ### Evaluation Criteria:
 - Ships are tiered by their PvE PERFORMANCE first and foremost, but notes on notable PvP usage will be made if suitable.
 - Ships are tiered according to their ability to act as a STAND-ALONE UNIT; if a unit is strictly meant to be a supporter (eg. Vestal), performs better in a specific composition or under specific circumstances, it will be noted with a second tier mark.
@@ -19,8 +20,9 @@ Good reading, and godspeed cap'n!
 - All units are assumed to be MAXED (ie. lv100, BiS gear, SL10 across the board).
 - Auto or Manual performance is not taken into consideration, unless it is specifically relevant to the unit.
 - Submarines will NOT be tiered until more data on their live, peak performance is collected. This will take a while, folks.
- 
-
+  
+  
+  
 #### Tier Explanations:
 - Tier 0                : The best of the best, rivaled by few and matched by none. They set the bar for everyone else.
 - Tier 0.5              : Terrifyingly effective units with little to no real competition in their class or function, usually by virtue of exceptionally strong skills and statlines.
@@ -30,21 +32,26 @@ Good reading, and godspeed cap'n!
 - Not Tiered            : Ships that range from 'usable' to 'bottom of the barrel', but in both cases not good enough to make it on the list.
 - Pro Team Players      : Ships that, while unremarkable on their own, become exceedingly good when deployed with each other. They are tiered as a single unit.
 - Honourable Mentions   : Ships that, while too weak or unwieldy for general usage, nonetheless possess some interesting or useful quirk that may warrant attention.
-
- 
-
+  
+  
+  
 #### Retrofit/Kai Priority List:
 - DD                  : Laffey > Ayanami = Z23 > Tanikaze > Javelin > Cygnet > Fortune > Hammann > N/A
 - CL                  : Jintsuu > Leander > Abukuma > Ajax > N/A
 - CA                  : Suffolk > Furutaka/Kako
 - BB/C                : Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES)
 - CV/L                : Ranger > Shouhou > Bogue > Langley > Long Island > N/A
- 
-
+  
+  
+  
 #### Assorted notes:
 - Read the VERY IMPORTANT OPENING NOTE at the top.
 - The 'loadout' listed under CV/L entries details the number of planes each unit gets; eg. Unicorn gets 3 Fighters / 0 Dive Bombers / 3 Torpedo Bombers.
-
+- This guide is far from a solo effort: while the writing is mine, the tierings are researched and approved collegially with Gurosebe#4054, Enbayft#2527, Cantarella#7963 and the #helpful fellows over at the Azur Lane English Community server, while the coding framework that makes this possible was provided by Enbayft#2527 and improved upon by Boz#5174.  
+Without these people, the Tier Guide would never be as comprehensive, accurate or good-looking as it is, and it is to them that I extend my sincere gratitude.
+  
+  
+  
 ## Table of Contents 
 - ### [DD ![DD](https://azurlane.koumakan.jp/w/images/thumb/f/f6/DD_img.png/45px-DD_img.png "DD Icon")](#dd--1)
 - ### [CL ![CL](https://azurlane.koumakan.jp/w/images/2/20/CL_img.png "CL Icon")](#cl--1)
