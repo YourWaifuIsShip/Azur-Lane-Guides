@@ -601,7 +601,7 @@ The second most gun-focused of the Takao-class, she provides the most stable out
 * Skill: Increases Reload by 35% and 30% chance to launch a second salvo on torpedo launch
 
 * Desc: 
->Maya trades Takao's double damage chance for a permanent passive reload boost. An interesting concept, and paired with double Autoloaders lets her fire her guns and torps than any other CA, which is remarkable on its own right; however, such consistency is paid with an even lower potential damage output than that of Atago.  
+>Maya trades Takao's double damage chance for a permanent passive reload boost. An interesting concept, and paired with double Autoloaders lets her fire her guns and torps faster than any other CA, which is remarkable on its own right... but is a rather poor trade nonetheless.
 Also, she's slightly better at AA than her sisters (key word being "slightly", though).
 
 ![CA](https://azurlane.koumakan.jp/w/images/0/02/Admiral_HipperChibi.png "KMS Admiral Hipper") - **[KMS Admiral Hipper](https://azurlane.koumakan.jp/Admiral_Hipper)**
