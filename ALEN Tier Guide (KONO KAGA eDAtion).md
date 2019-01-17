@@ -642,10 +642,11 @@ If you're looking that something that won't die anytime soon, look no further; i
   * +30% Damage to self, as long as she is the only BB/BC in the fleet.
   * Every 15s, launches a cone of 4 homing torpedoes with improved tracking.
 
-- Desc: "Torpitz? Neetpitz? Derpitz?"
->One of the hardest hitting BBs in the game, provided you cater to her social anxiety.  
-Pair her with CV/CVL/BM/BBVs only, because her damage increase is the reason for her power; the homing torpedoes are the sweet, sweet icing on the cake and let her get some free damage on enemy mobs or, more often, intercept suicide boats before they even come close.  
-All that said, however, remember that the +30% dmg is the SOLE REASON she is as good as she is; without it she has very little reason to be used and will be easily outshone by pretty much everyone.
+- Desc: "Slow and steady torps the race."
+>One of the most consistent and hardest hitting BBs in the game, provided you cater to her social anxiety.  
+Unlike many of her other similarly ranked competitors, Tirpitz isn't flashy in the slightest - no 'real' barrages to speak of, no gamechanging synergies, no ability to take other BB/BC with her - but she doesn't need to be, when hitting hard as a truck with no conditions or strings attached is something none of her rivals can claim.
+Tirpitz is, in a way, the "safe" choice - her abilities can't misfire, her HP+Armour make her tougher than anyone else, her damage buff extends to her CL guns as well as the torpedo spread, ensuring that even at 0 Ammo she will be able to operate at nigh-peak efficiency regardless.
+All that said, however, becomes quickly irrelevant as soon as she loses her solitary buff; without it she has very little reason to be used and will be easily outshone by pretty much everyone.
  
 ### Tier 0.5:
 ---
