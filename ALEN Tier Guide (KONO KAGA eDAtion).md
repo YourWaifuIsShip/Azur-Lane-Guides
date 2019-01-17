@@ -644,9 +644,9 @@ If you're looking that something that won't die anytime soon, look no further; i
 
 - Desc: "Slow and steady torps the race."
 >One of the most consistent and hardest hitting BBs in the game, provided you cater to her social anxiety.  
-Unlike many of her other similarly ranked competitors, Tirpitz isn't flashy in the slightest - no 'real' barrages to speak of, no gamechanging synergies, no ability to take other BB/BC with her - but she doesn't need to be, when hitting hard as a truck with no conditions or strings attached is something none of her rivals can claim.
-Tirpitz is, in a way, the "safe" choice - her abilities can't misfire, her HP+Armour make her tougher than anyone else, her damage buff extends to her CL guns as well as the torpedo spread, ensuring that even at 0 Ammo she will be able to operate at nigh-peak efficiency regardless.
-All that said, however, becomes quickly irrelevant as soon as she loses her solitary buff; without it she has very little reason to be used and will be easily outshone by pretty much everyone.
+Unlike many of her other similarly ranked competitors, Tirpitz isn't flashy in the slightest - no 'real' barrages to speak of, no gamechanging synergies, no ability to take other BB/BC with her - but she doesn't need to be, when hitting hard as a truck with no conditions or strings attached is something none of her rivals can claim.  
+Tirpitz is, in a way, the "safe" choice - her abilities can't misfire, her HP+Armour make her tougher than anyone else, her damage buff extends to her CL guns as well as the torpedo spread, ensuring that even at 0 Ammo she will be able to operate at nigh-peak efficiency regardless.  
+However, all this becomes quickly irrelevant as soon as she loses her +30% damage buff as it the main reason behind her power; without it she has very little reason to be used and will be easily outshone by pretty much everyone.  
  
 ### Tier 0.5:
 ---
