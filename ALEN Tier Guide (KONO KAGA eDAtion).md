@@ -942,7 +942,7 @@ Her buffs and layout are good enough to warrant usage even solo.
 * Loadout: 2/6/0
 
 * Desc: 
->These two ships are identical in use, and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo.  
+>These two ships are identical in use (albeit not in popularity, only Saratoga has a Kai to this day), and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo.  
 They don't launch fast, but when they do they really leave a mark - make sure to stagger the launches as to not overwrite the Damage buff, though.
  
 ![CV](https://azurlane.koumakan.jp/w/images/c/c4/Ark_RoyalChibi.png "HMS Ark Royal") - **[HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)**
