@@ -353,7 +353,29 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
 ### Tier 0:
 ---
 
-![CL](https://azurlane.koumakan.jp/w/images/b/b7/JintsuuKaiChibi.png "IJN Jintsuu Kai") - **[IJN Jintsuu Kai](https://azurlane.koumakan.jp/Jintsuu#Retrofit)**
+![CL](https://azurlane.koumakan.jp/w/images/4/42/San_DiegoKaiChibi.png "San Diego Kai") - **[USS San Diego Kai](https://azurlane.koumakan.jp/San_Diego#Retrofit)**
+* Skill: 
+  * 15% chance upon firing AA guns, +50% AA to the entire fleet for 8s
+  * +25% own AA; every 20s, launches a special barrage (torrent of slightly homing stars behind her, 1/4 of the screen in width) 
+  * Can equip DD guns, and should.
+  
+- Desc: "WATASHI WA NUMBA WAN!"
+>They finally did it, the madmen. Not only they Kai'd Azur Lane's greatest meme, they even made her the hero she was always supposed to be - sporting one whole extra Main Gun Mount, some much needed markups in Firepower and Efficiency, a shiny new and dazzling (but ultimately not too powerful) barrage and EVEN MORE anti-air capabilities, neither the skies nor the seas present any challenge to the once most unwanted gold unit in the game.  
+You'll still want to give her an Oxygen Torpedo or two, though - her torp stat remains abysmal, and even if it's not the torps you're taking her for there's no reason to let them rot. Besides, fireworks go great with a nice, starry night.
+
+
+![CL](https://azurlane.koumakan.jp/w/images/a/a4/HMS_NeptuneChibi.png "Neptune") - **[HMS Neptune](https://azurlane.koumakan.jp/HMS_Neptune)**
+* Skill: 
+  * +35% own AP damage.
+  * Once per fight and upon falling below 20% HP, heals herself for 25% of her max HP and gains +30% Reload.
+  * +15% damage to Sirens.
+  
+- Desc: "Insistent termaidology."
+>Unlike Hood and Monarch's case, there is no real ambiguity here - Neptune does do Phoenix's job better, although at a considerably higher cost.  
+Armed with an excellent AP barrage and a very powerful AP boosting passive, and protected by the largest HP pool in her class and a better version of Phoenix's self-rescue skill, Neptune is perfectly capable of carrying on the fight for much longer while simultaneously making it much shorter than her USS counterpart could do.
+
+
+![CL](https://azurlane.koumakan.jp/w/images/b/b7/JintsuuKaiChibi.png "Jintsuu Kai") - **[IJN Jintsuu Kai](https://azurlane.koumakan.jp/Jintsuu#Retrofit)**
 * Skill: 
   * -20% Damage taken to self, +10% Torpedo Critical chance and +30% Torpedo Critical Damage to all DD/CL in Fleet
   * +20% Reload and Torpedo to all DD/CL in Fleet
@@ -362,28 +384,30 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
 >As far as torpedoes are concerned, this is what peak efficiency looks like. Sporting three different superb torpedo buffs for whoever has any business mounting them and stellar torpedo stats+efficiency, she's a powerhouse in her own right with access to a handy damage cut (which she needs, considering her abysmal HP pool) and an uncharacteristically good barrage.  
 With no real weakness to speak of, her one significant flaw is not being able to bolster CA torpedoes - you'll want to look elsewhere for that.
  
+ 
+### Tier 0.5:
+---
+
+![CL](https://azurlane.koumakan.jp/w/images/1/18/MontpelierChibi.png "Montpelier") - **[USS Montpelier](https://azurlane.koumakan.jp/Montpelier)**
+* Skill: 
+  * 60% chance every 20s, +25% Firepower and Accuracy to all CL/CA in the fleet.
+  * 25% chance upon firing AA guns, -20% own FP and +40% own AA for 3s.
+  
+- Desc:
+> Creme de la creme of the Cleveland class by virtue of a slightly superior statline (compared to her sisters'), an absolute bomb of a Cruiser buffing skill, and surprising amounts of Luck to make the most out of her already sturdy build.  
+Most, if not all, Cruiser compositions will benefit by her presence.
 
 ### Tier 1:
 ---
 
-![CL](https://azurlane.koumakan.jp/w/images/4/4a/ClevelandChibi.png "USS Cleveland") - **[USS Cleveland](https://azurlane.koumakan.jp/Cleveland)**
-* Skill: 
-  * 25% chance every 20s to boost Damage fleetwide by 25%
-  * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
-
-- Desc: "The Original Dadster". 
->Units for whom the excellence of their statline outweighs a poor selection of skills are rare and far between, but there's few better examples than this than Cleveland.  
-Sporting an impressive 3.8k HP, high Reload, slightly higher than usual Evasion and good guns, Cleve doesn't need skills to make her presence felt on the battlefield and excels as a tank; that said, while her AA skill is more of a detriment than a boon, her fleetwide boost is unreliable but potentially great.  
-All in all, strong and dependable, just like her.
-
-![CL](https://azurlane.koumakan.jp/w/images/f/fc/PhoenixChibi.png "USS Phoenix") - **[USS Phoenix](https://azurlane.koumakan.jp/Phoenix)**
+![CL](https://azurlane.koumakan.jp/w/images/f/fc/PhoenixChibi.png "Phoenix") - **[USS Phoenix](https://azurlane.koumakan.jp/Phoenix)**
 * Skill:
   * Once per fight and upon falling below 20% HP, restore 25% HP and +30% FP for 15s.
 
 * Desc: 
 >Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
 
-![CL](https://azurlane.koumakan.jp/w/images/7/71/St._LouisChibi.png "USS St. Louis") - **[USS St. Louis](https://azurlane.koumakan.jp/St._Louis)**
+![CL](https://azurlane.koumakan.jp/w/images/7/71/St._LouisChibi.png "St. Louis") - **[USS St. Louis](https://azurlane.koumakan.jp/St._Louis)**
 * Skill: 
   * 60% chance every 20s to boost her own Firepower, Reload, and Evasion by 30% for 10s
   * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
@@ -391,59 +415,96 @@ All in all, strong and dependable, just like her.
 * Desc: "It's not luck, it's all skill".
 >Lewdis' rather impressive statline goes exceedingly well with a solid set of self-buffs to all relevant stats for a Gun-CL like herself, letting her withstand amounts of punishment that would fell a lesser CL or fire harder and faster than much of her competition.
 
-![CL](https://azurlane.koumakan.jp/w/images/d/d8/EdinburghChibi.png "HMS Edinburgh") - **[HMS Edinburgh](https://azurlane.koumakan.jp/Edinburgh)**
+![CL](https://azurlane.koumakan.jp/w/images/3/3d/BelchanChibi.png "Belchan") - **[HMS Belchan](https://azurlane.koumakan.jp/Belchan)**
 * Skill:
-  * +25% AP dmg.
+  * +8 Speed and +25% Evasion.
+  * Upon battle start, heals the fleet by 3.5% of her max HP.
+  
+* Desc: 
+>The cutest Belfast you'll ever see, and with a brand new support-focused skillset to boot.  
+Not entirely as powerful as her older self, but she's up there without being forced to take a subpar gun, is considerably more Evasive and that full fleet healing is a nice addition.
+
+![CL](https://azurlane.koumakan.jp/w/images/d/d8/EdinburghChibi.png "Edinburgh") - **[HMS Edinburgh](https://azurlane.koumakan.jp/Edinburgh)**
+* Skill:
+  * +25% own AP damage.
 
 - Desc: "Worth her weight in gold."
 >Edinburgh is in a similar situation as Cleveland: both have merely 'okay' skills, both have impressive statlines, both will stay in front and tank for days while the rest of the team gets the job done.  
 The difference lies in how 'safe' they play things, as Edinburgh gets a passive boost to AP damage inflicted, an even bulkier HP pool (4.1k is amazing for both varieties of Cruiser) and no AA skill to burn her FP, but doesn't get that lone shot at the fleetwide buff and may find herself short-changed when planes ARE an issue.  
 Still, there's very few finer, more reliable frontline tanks than she - and that's a definite plus.
 
-![CL](https://azurlane.koumakan.jp/w/images/3/31/LeanderKaiChibi.png "HMS Leander Kai") - **[HMS Leander Kai](https://azurlane.koumakan.jp/Leander)**
+![CL](https://azurlane.koumakan.jp/w/images/3/31/LeanderKaiChibi.png "Leander Kai") - **[HMS Leander Kai](https://azurlane.koumakan.jp/Leander)**
 * Skill: 
-  * Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
-  * At battle start and 20% chance at every 20s thereafter, create a smokescreen that lasts 5s. Smokescreen provides 40% evasion
+  * +15% Firepower to CL/CA.
+  * Upon battle start and on a 30% chance every 15s, creates a smokescreen (+40% Evasion Rate while inside) for 5s.
 
 * Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
+
+![CL](https://azurlane.koumakan.jp/w/images/e/e7/SheffieldChibi.png "Sheffield") - **[HMS Sheffield](https://azurlane.koumakan.jp/Sheffield)**
+* Skill:
+  *  Allied ships with lower current HP than Sheffield at the start of battle have a 30% chance to take -50% dmg upon taking damage.
+  * +12% CritRate and +30% CritDmg to self.
+
+* Desc: Amazing how some spit and polish can enhance decimetres thick armour, isn't it?
+>Rivaled by very few in the field of damage reduction buffs, Sheffield's defensive skill can greatly extend the survivability of almost any given vanguard, especially DD ones (provided she's placed in the middle and her HP has been raised above those she is meant to protect); and she'll do it while still being capable of packing a serious, if swingy, punch.
 
  
 ### Tier 1.5:
 ---
-![CL](https://azurlane.koumakan.jp/w/images/8/86/HelenaChibi.png "USS Helena") - **[USS Helena](https://azurlane.koumakan.jp/Helena)** **(T0 vs bosses)**
+![CL](https://azurlane.koumakan.jp/w/images/4/43/BrooklynChibi.png "Brooklyn") - **[USS Brooklyn](https://azurlane.koumakan.jp/Brooklyn)**
 * Skill:
-  * 20s 60% chance to inflict a -40% damage resistance debuff on all enemies currently on the screen.
+  * +15% Firepower to CL/CA.
+
+* Desc: 
+>A full-gun alternative to Leander, somewhat sturdier than she is and in possession of a better barrage. Solid and a vital step on the road to Wichita.
+
+![CL](https://azurlane.koumakan.jp/w/images/4/4a/ClevelandChibi.png "Cleveland") - **[USS Cleveland](https://azurlane.koumakan.jp/Cleveland)**
+* Skill: 
+  * 25% chance every 20s to boost Damage fleetwide by 25%
+  * 25% upon firing AA guns, -20% own FP and +40% own AA for 3s.
+
+- Desc: "The Original Dadster". 
+>Units for whom the excellence of their statline outweighs a poor selection of skills are rare and far between, but there's few better examples than this than Cleveland.  
+Sporting an impressive 3.8k HP, high Reload, slightly higher than usual Evasion and good guns, Cleve doesn't need skills to make her presence felt on the battlefield and excels as a tank; that said, while her AA skill is more of a detriment than a boon, her fleetwide boost is unreliable but potentially great.  
+All in all, strong and dependable, just like her.
+
+![CL](https://azurlane.koumakan.jp/w/images/a/a0/ColumbiaChibi.png "Columbia") - **[USS Columbia](https://azurlane.koumakan.jp/Columbia)**
+* Skill: 
+  * Lowers damage sustained by the Flagship by 25%.
+  * 25% upon firing AA guns, -20% own FP and +40% own AA for 3s.
+  
+- Desc:
+>Ever wanted to use Hammann but didn't want to deal with her terrible stats and weaponry? Well, now you can.  
+All the utility of her skills with the sturdiness and DPS of the Cleveland-class. Neat.
+
+![CL](https://azurlane.koumakan.jp/w/images/8/86/HelenaChibi.png "Helena") - **[USS Helena](https://azurlane.koumakan.jp/Helena)** **(T0 vs bosses)**
+* Skill:
+  * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen.
 
 * Desc: 
 >Helena is exceedingly good against bosses and merely alright everywhere else.  
 While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
-
-![CL](https://azurlane.koumakan.jp/w/images/4/43/BrooklynChibi.png "USS Brooklyn") - **[USS Brooklyn](https://azurlane.koumakan.jp/Brooklyn)**
-* Skill:
-  * +15% FP to all Cruisers.
-
-* Desc: 
->A full-gun alternative to Leander, somewhat sturdier than she is and in possession of a better barrage. Solid and a vital step on the road to Wichita.
  
-![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - **[HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax)**
+![CL](https://azurlane.koumakan.jp/w/images/7/71/AchillesKaiChibi.png "Achilles Kai") ![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "Ajax Kai") - **[HMS Achilles Kai](https://azurlane.koumakan.jp/Achilles#retrofit)** **[HMS Ajax Kai](https://azurlane.koumakan.jp/ajax#retrofit)**
 * Skill: 
-  * 60% chance every 20s to boost Firepower by 40% for 10s
+  * 60% chance every 20s, +40% own Firepower for 10s.
   * Increases damage dealt to CAs by 25%
 
 *  Desc: 
->Ajax goes all in on the offensive, sporting a stellar FP/Torp stat bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff.  
-Powerful for her class and rather inexpensive, but beware the severely subpar HP.
+>Ajax and Achilles go all in on the offensive, sporting a stellar FP/Torp stat bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff.  
+Powerful for their class and rather inexpensive, but beware the severely subpar HP.
 
-![CL](https://azurlane.koumakan.jp/w/images/8/84/BelfastChibi.png "HMS Belfast") - **[HMS Belfast](https://azurlane.koumakan.jp/Belfast)**
+
+![CL](https://azurlane.koumakan.jp/w/images/8/84/BelfastChibi.png "Belfast") - **[HMS Belfast](https://azurlane.koumakan.jp/Belfast)**
 * Skill: 
-  * Increase HE damage by 25% and chance to ignite fire by 3% 
-  * 10s after battle starts and 20% chance at every 20s thereafter, create a smokescreen that lasts 10s. Smokescreen provides 35% evasion and 35% reduced damage taken from airstrikes
+  * Increase HE damage by 25% and chance to Ignite by 3%.
+  * 10s after battle starts and on a 20% chance every 20s aftewards, create a special smokescreen (+35% Evasion Rate and-35% damage from planes while inside) that lasts 10s.
 
 * Desc: Hot maid, in more ways than one.
 >Dealing more damage than usual with HE guns and packing better torps than every other HMS cruiser, she tends to have a good answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate and planes not attacking you.  
-Her place is strictly PvP, as there's many other HMS CL who will do what she does - be it DPS or tanking - better for less.
+Her place is strictly PvP, as there are many other CL who will do what she does - be it DPS or tanking - better for less.
 
-![CL](https://azurlane.koumakan.jp/w/images/7/7a/AbukumaKaiChibi.png "IJN Abukuma Kai") - **[IJN Abukuma Kai](https://azurlane.koumakan.jp/Abukuma)**
+![CL](https://azurlane.koumakan.jp/w/images/7/7a/AbukumaKaiChibi.png "Abukuma Kai") - **[IJN Abukuma Kai](https://azurlane.koumakan.jp/Abukuma)**
 * Skill: 
   * 15% boost of torpedo stat to every DD in the fleet
   * 30% chance to launch a second salvo on torpedo launch
@@ -452,42 +513,70 @@ Her place is strictly PvP, as there's many other HMS CL who will do what she doe
 >Abukuma is the IJN's very own Leander, now with 30% more torpedoes: out go the FP buff and she smokescreen, in come the DD Torp buff and a decent chance to fire her rather excellent torpedo launchers twice.  
 Not too flashy, but sturdy enough and dependable.
 
-![CL](https://azurlane.koumakan.jp/w/images/7/74/NakaChibi.png "IJN Naka") - [IJN Naka](https://azurlane.koumakan.jp/Naka)
+![CL](https://azurlane.koumakan.jp/w/images/3/37/SendaiKaiChibi.png "Sendai Kai") - **[IJN Sendai Kai](https://azurlane.koumakan.jp/Sendai#retrofit)
 * Skill: 
   * +15% Torp and Reload to all DD/CL in the fleet.
+  * 10s after battle start and on a 40% chance every 20s afterwards, deploys a flare (-25% Evasion Rate in the area) for 10s.
 
 * Desc: 
->As frail as she's a good torp booster for your typical IJN vanguard, and a placeholder for the yet-to-come Sendai.  
-Not particularly remarkable, beyond her rather stellar barrage and shockingly low HP pool, but definitely effective.
+>A slightly weaker Jintsuu who stole a few notes from Aurora's book.   
+Her statline is still damn good, though, and their buffs can stack - as do the -EvaRate debuffs, if you REALLY want to stick it to those DD in PvP.
 
 ### Tier 2:
 ---
 
-![CL](https://azurlane.koumakan.jp/w/images/d/dc/HonoluluChibi.png "USS Honolulu") - **[USS Honolulu](https://azurlane.koumakan.jp/Honolulu)**
+![CL](https://azurlane.koumakan.jp/w/images/5/50/DenverChibi.png "Denver") - **[USS Denver](https://azurlane.koumakan.jp/Denver)**
 * Skill: 
-  * 20s 60% chance for +40% FP for 8s.
+  * 60% chance every 20s, +40% FP for 8s.
+  * 25% upon firing AA guns, -20% FP and +40% own AA for 3s.
+
+*  Desc: 
+>The weakest of the Solomon Cavaliers, which means she's still pretty solid.  
+She'll only buff herself, but a +40% FP never really goes amiss.
+
+![CL](https://azurlane.koumakan.jp/w/images/d/dc/HonoluluChibi.png "Honolulu") - **[USS Honolulu](https://azurlane.koumakan.jp/Honolulu)**
+* Skill: 
+  * 60% chance every 20s, +40% FP for 8s.
 
 *  Desc: 
 >More Firepower and better Efficiency than what Denver gets and doesn't need to worry about planes mugging her precious FP, but at the cost of a much flimsier hull.  
-A solid pick regardless, especially if you expect aircraft
+A solid pick regardless, especially if you expect aircraft.
 
-![CL](https://azurlane.koumakan.jp/w/images/4/44/AuroraChibi.png "HMS Aurora") - **[HMS Aurora](https://azurlane.koumakan.jp/Aurora)**
+![CL](https://azurlane.koumakan.jp/w/images/4/44/AuroraChibi.png "Aurora") - **[HMS Aurora](https://azurlane.koumakan.jp/Aurora)**
 * Skill: 
-  * Increases own damage against destroyers, transport vessels, torpedo boats, and suicide boats by 20% 
-  * Decreases the evasion rate of all enemy destroyers and light cruisers by 20%.
+  * +20% own Damage vs cargo ships, torpedo boats, suicide boats and DDs. 
+  * While alive, -20% Evasion Rate for enemy DD/CL.
 
 *  Desc: 
 >Excellent but niche DD/CL-busting skills paired with average CL stats, with the glaring exception of her sub-par HP.  
 More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
 
-![CL](https://azurlane.koumakan.jp/w/images/1/11/LeipzigChibi.png "KMS Leipzig") - **[KMS Leipzig](https://azurlane.koumakan.jp/Leipzig)**
+![CL](https://azurlane.koumakan.jp/w/images/3/33/AganoChibi.png "Agano") - **[IJN Agano](https://azurlane.koumakan.jp/Agano)**
+* Skill: 
+  * +15% FP to DDs.
+  * While alive, CV/L in the fleet take -15% damage.
+
+* Desc: 
+>Agano is an interesting little beastie, proud owner of an unconventional kit (DD FP boost, CV/L defence boost) and... less proud owner of a somewhat unremarkable statline for IJN CL, especially when compared to Sendai and Jintsuu.  
+While she isn't a bad unit on her own by any stretch, her competitors are more powerful and their skills more wieldy and impactful than hers - which means her best use would be as a DD FP buffer, similarly to London.
+
+![CL](https://azurlane.koumakan.jp/w/images/1/11/LeipzigChibi.png "Leipzig") - **[KMS Leipzig](https://azurlane.koumakan.jp/Leipzig)**
 * Skill: 
   * 10% FP/Eva/Reload to all CL/CA in the fleet.
 
 * Desc: 
 >Leipzig is a solid buff-provider, but is put down by her own somewhat lacking stats. Best used in an all-KMS lineup for maximum impact, as well as Torp-CA fronts, but she has a place in any frontline.
 
-![CL](https://azurlane.koumakan.jp/w/images/5/5c/AvroraChibi.png "SN Avrora") - **[SN Avrora](https://azurlane.koumakan.jp/Avrora)**
+![CL](https://azurlane.koumakan.jp/w/images/4/4c/Emile_BertinChibi.png "Emile Bertin") - **[FFNF Emile Bertin](https://azurlane.koumakan.jp/Emile_Bertin)**
+* Skill: 
+  * +15% FP/Eva/Acc to French (FFNF and MNF) DDs in the fleet.
+  * If the vanguard is composed of Emile Bertin and DDs, +4 Speed and +20% Damage vs DD/CL for herself.
+
+* Desc: 
+>An ideal escort for French DDs, and not entirely without merit when deployed with other nations' destroyers.   
+Her buffs are pretty decent, her barrage is good and her statline is alright, if somewhat low on the HP side; all in all, a solid entry in the CL roster.
+
+![CL](https://azurlane.koumakan.jp/w/images/5/5c/AvroraChibi.png "Avrora") - **[SN Avrora](https://azurlane.koumakan.jp/Avrora)**
 * Skill: 
   * +35% Damage to the entire vanguard.
   * Has MGM+1 and Torpedoes.
@@ -500,7 +589,26 @@ All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and a
 
  
 ### Pro Team Players:
-_N/A_
+#### ![CL](https://azurlane.koumakan.jp/w/images/6/60/Ping_HaiKaiChibi.png "Ping Hai Kai") ![CL](hhttps://azurlane.koumakan.jp/w/images/d/d4/Ning_HaiKaiChibi.png "Ning Hai Kai") ![CL](https://azurlane.koumakan.jp/w/images/e/ed/Yat_SenChibi.png "Yat Sen") [ROC Ping Hai Kai](https://azurlane.koumakan.jp/Ping_Hai#retrofit), [ROC Ning Hai Kai](https://azurlane.koumakan.jp/Ning_Hai#retrofit), [ROC Yat Sen](https://azurlane.koumakan.jp/Yat_Sen) **(T0.5)**
+* Skill (Ping Hai Kai): 
+  * If the vanguard contains Ning Hai, +35% FP.
+  * +25% Damage vs IJN units.
+  * +8 Speed and +15% FP.
+  
+* Skill (Ning Hai Kai): 
+  * If the vanguard contains Ping Hai, +35% FP.
+  * +25% Damage vs IJN units.
+  * +8 Speed and +15% FP.
+
+* Skill (Yat Sen): 
+  * If deployed with either Ping Hai or Ning Hai (or both), they take -20% Damage and increase their Evasion Rate by +30%. 
+  * +25% Damage vs IJN units.
+  * Can equip 2 CL guns and has AAGM+1.
+
+- Description: "Everybody was Kung Fu fighting~" 
+>Obscenely slow (pre-Kai), pitiful HP and middling torps at best; Yat Sen is somewhat more interesting, with her double guns and twin AA mount, but her statline is lacking and her skill doesn't affect herself.  
+Nothing about these three looks usable, until you start deploying them together - at which point the sisters start hitting as hard as CAs and evade better than DDs, easily outshining most of the T1.5 or T1 in the game.  
+Lots of investment needed and Yat Sen MUST be protected at all costs (hint, place her between Ping and Ning), but worth it.
  
 ### Honorable Mention:
 #### ![CL](https://azurlane.koumakan.jp/w/images/6/66/JuneauChibi.png "USS Juneau") [USS Juneau](https://azurlane.koumakan.jp/Juneau)
@@ -519,6 +627,7 @@ Her one job is being immensely irritating/powerful in the arena, and dying for y
 >San Diego has had, for the longest time, a terrible reputation - hailed as the prime example of rarity not being an indication of quality, her reputation is somewhat deserved, considering her main claim to glory is tons of AA (to the detriment of the rest of her offensive stats) when AA is only really needed in W12, a steep Oil price tag and a tendency to appear in crafting whenever you don't want her to... but that's not all there is to it.  
 The usual claim is that San Diego can't do anything to surface enemies; if you were to use her as a normal CL this would be correct, as her FP is low and her Gun Efficiency is worse. However, her barrage can dish out surprising amounts of damage and she can mount DD guns, which means she can spam said powerful barrage; moreover, while her Torpedo stat is abysmal, her Torpedo Efficiency is good enough, meaning she can benefit a lot from auxiliary torpedoes.  
 Does all this redeem her, then? Not really, even in this fashion, you'd need to manually control her and you'd need lots of high-end gear to get her to perform properly. If you're not expecting planes and you don't care about her, feel free to scrap her as you always did; if you do, then Sandy might just be what you need.
+
 
 <br/><br/>
 ---
