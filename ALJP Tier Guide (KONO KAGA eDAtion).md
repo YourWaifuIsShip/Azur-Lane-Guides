@@ -605,7 +605,7 @@ All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and a
   * +25% Damage vs IJN units.
   * Can equip 2 CL guns and has AAGM+1.
 
-- Description: "Everybody was Kung Fu fighting~" 
+- Description: Everybody was Kung Fu fighting~
 >Obscenely slow (pre-Kai), pitiful HP and middling torps at best; Yat Sen is somewhat more interesting, with her double guns and twin AA mount, but her statline is lacking and her skill doesn't affect herself.  
 Nothing about these three looks usable, until you start deploying them together - at which point the sisters start hitting as hard as CAs and evade better than DDs, easily outshining most of the T1.5 or T1 in the game.  
 Lots of investment needed and Yat Sen MUST be protected at all costs (hint, place her between Ping and Ning), but worth it.
