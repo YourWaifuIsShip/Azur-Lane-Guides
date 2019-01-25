@@ -872,6 +872,24 @@ If you're looking that something that won't die anytime soon, look no further; i
 ### Tier 0:
 ---
 
+![BB](https://azurlane.koumakan.jp/w/images/4/45/Duke_of_YorkChibi.png "Duke of York") - **[HMS Duke of York](https://azurlane.koumakan.jp/Duke_of_York)**
+* Skill: 
+  * Every 20s, fires an aimed Normal slowing (-40% Speed for 6s) barrage (4 356mm quad-like shots) at the farthest available target.
+  * Enemies hit by Duke of York's Main Gun fire take +12% damage from all sources for 8s; also, her first volley deals x1.5 damage.
+
+- Desc: 
+>With stats coming close to Warspite's stellar FP and Reload and a suite of skills aimed at softening the enemy up, not only she can lay on the hurt but she can also make sure her fellow warships do the same. A worthy inclusion in every fleet.
+
+![BB](https://azurlane.koumakan.jp/w/images/a/ae/MonarchChibi.png "Monarch") - **[HMS Monarch](https://azurlane.koumakan.jp/Monarch)**
+* Skill: 
+  * 70% chance on Main Gun fire, fire a fixed AP slowing (-40% Speed for 6s) barrage (Hood-like)
+  * Enemies hit by Duke of York's Main Gun fire take +12% damage from all sources for 8s; also, her first volley deals x1.5 damage.
+
+- Desc: 
+>It'd be easy to regard Monarch as a straight upgrade to Hood. She mounts CL guns, Her FP is much higher, her Efficiencies are better, her barrage is AP and she can even heal herself... what more could one possibly want from a battleship?
+The truth isn't quite so simple, though. While Monarch's statline is indeed superior (with the glaring exception of AA) and the self-heal greatly extends her operational time even beyond Hood's already impressive one, Monarch's barrage will neither quicken the backline's pace nor can it be used with the same reckless abandon due to the AP modifiers; while she won't fall flat against Light Armour, courtesy of her excellent regular shelling, she doesn't quite match Hood's supportive capabilities and weight of fire.
+As a result, it would be wise to pick your sovereign of choice with an eye to battlefield conditions - if enemy BB/C are out for blood or Medium/Heavy Armour is getting you down, Monarch will weather their storm and put them in their place with staggering ease.
+
 ![BC](https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png "IJN Amagi") - **[IJN Amagi](https://azurlane.koumakan.jp/Amagi)**
 * Skill: 
   * -9% FP/Torp/Aviation to all enemies as long as she's alive
@@ -892,6 +910,18 @@ Unlike many of her other similarly ranked competitors, Tirpitz isn't flashy in t
 Tirpitz is, in a way, the "safe" choice - her abilities can't misfire, her HP+Armour make her tougher than anyone else, her damage buff extends to both her CL guns and torpedo spread, ensuring that even at 0 Ammo she will still be able to strike and defend herself at nigh-peak efficiency regardless.
 However, all this becomes quickly irrelevant as soon as she loses her +30% damage buff as it the main reason behind her power; without it she has very little reason to be used and will be easily outshone by pretty much everyone.  
  
+ ![BB](https://azurlane.koumakan.jp/w/images/0/0f/Jean_BartChibi.png "Jean Bart") - **[MNF Jean Bart](https://azurlane.koumakan.jp/Jean_Bart)**
+* Skill: 
+  * All first Main Gun salvo deal +60% damage, and all manually aimed Main Gun salvo damage deal a further +60% damage.
+  * When equipped with the 380Mle quadruple BB gun, gain +30% CritChance and +50% CritDmg on her Main Gun.
+  * Starts the battle with a preloaded volley, but has MGM-1.
+  
+- Desc: The terror of the Seven Seas.
+>As befitting of a pirate queen, Jean Bart doesn't play by the rules: while lacking a third salvo would be a net loss on a dreadnought's effectiveness on the field, Jean makes up for it in spades by showing up to the fight with her horrifically overcharged guns already loaded, resulting in damage spikes that would make Ayanami blush.
+Volume of fire is ultimately maintained by her gun, firing a respectable 8 shots in total, and cooldowns aren't a concern either thanks to her higher-than-normal Reload; whatever she's facing, it's heading straight to Davy Jones' locker.
+Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow dreadnoughts. The Jolliest Roger of them all.
+ 
+ 
 ### Tier 0.5:
 ---
 
@@ -903,6 +933,15 @@ However, all this becomes quickly irrelevant as soon as she loses her +30% damag
 >Second only to Tirpitz in terms of pure staying power and armed with a quickly-proccable, backline-buffing, devastating barrage, she is exceptionally good under almost all circumstances; whether it is tearing apart mob nodes, showering enemy battleships in heavy firepower or providing support, Hood gets it done.  
 Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
 
+![BB](https://azurlane.koumakan.jp/w/images/8/85/NagatoChibi.png "Nagato") - **[IJN Nagato](https://azurlane.koumakan.jp/Nagato)**
+* Skill: 
+  * When sortied as Flagship, grant all IJN units +10% Firepower, +20% Reload/Accuracy, and +20% damage output to all IJN carriers.
+  * 40% chance on Main Gun fire, launch a fixed linear HE barrage.
+
+* Desc: Mikasa for those who don't like or want more big guns.
+>A well-rounded warship on her own right compared to her dakka-centric senpai, her set of buffs is about as good as those provided by Mikasa but she needs the flagship slot even more due to her barrage.
+Place her there and she'll carry your IJN carrier division to glory and triumph; place her to the sides and she's merely okay.
+
 ![BB](https://azurlane.koumakan.jp/w/images/e/e0/HyuugaChibi.png "IJN Hyuuga") - **[IJN Hyuuga](https://azurlane.koumakan.jp/Hyuuga)**
 * Skill: 
   * +20% FP to self.
@@ -910,6 +949,7 @@ Remember to have her be the flagship to make the most out of her barrage, and th
 
 * Desc: 
 >THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
+
 
 ### Tier 1:
 ---
@@ -962,6 +1002,14 @@ A steep price to pay, especially considering how weak the seaplanes are in compa
  
 ### Tier 1.5:
 ---
+![BB](https://azurlane.koumakan.jp/w/images/b/be/NevadaKaiChibi.png "Nevada Kai") ![BB](https://azurlane.koumakan.jp/w/images/0/0b/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
+* Skill: 
+  * 8% chance to reduce any damage taken by 50% on taking damage
+  * 30% chance to do double damage when firing main gun
+
+* Desc: 
+>Similar in form, statline and function to her bigger, blacker cousin - AA and backline-wide tank skill aside - these cowgirls operate at a fraction of Sodak's cost while providing similar results. Still RNG, yes, but still quite solid.
+
 ![BB](https://azurlane.koumakan.jp/w/images/8/80/South_DakotaChibi.png "USS South Dakota") - **[USS South Dakota](https://azurlane.koumakan.jp/South_Dakota)**
 * Skill: 
   * Every 30s, absorb 50% damage taken by main fleet for 8s, then heal for 50% of the damage taken during that time
@@ -976,6 +1024,20 @@ A steep price to pay, especially considering how weak the seaplanes are in compa
 
 * Desc: The core of most HMS fleets. 
 >If you're taking her, it's because of her worth as a force multiplier - her statline is just alright, even after her own buffs, and there's much better picks for solo backliners.
+ 
+ ![BB](https://azurlane.koumakan.jp/w/images/8/8a/KirishimaChibi.png "Kirishima") - **[IJN Kirishima](https://azurlane.koumakan.jp/Kirishima)**
+* Skill: 
+  * 60% chance upon Main Gun fire, launch a semi-aimed Sanshikidan barrage (8 shells in two waves of four, heading towards the nearest enemies); also, deal +15% damage to BB.
+
+* Desc: 
+>(PvE) Airstrike murderer extraordinaire thanks to her barrage, accomplished fireboat slayer owing to her CL guns on a BC frame, and even gets an edge against the most threatening enemies you can face later on.
+A very solid defensive pick, further helped by the fact her Sanshikidan barrage doesn't need her to be in the flagship slot to do work.
+ 
+ ![BB](https://azurlane.koumakan.jp/w/images/2/23/KongouChibi.png "Kongou") - **[IJN Kongou](https://azurlane.koumakan.jp/Kongou)**
+* Skill: 
+  * While alive in fleet, +15% Firepower/Accuracy and +20% Evasion for all Kongou-class (Kongou, Kirishima, Haruna, Hiei). 
+
+* Desc: Kongou-class support craft. Not very flashy, but her buffs are anything but unremarkable - the extra Evasion in particular makes a Kongou-class backline powerful and extremely hard to shift.
  
 ![BB](https://azurlane.koumakan.jp/w/images/c/c9/IseChibi.png "IJN Ise") - **[IJN Ise](https://azurlane.koumakan.jp/Ise)**
 * Skill: 
@@ -1042,6 +1104,44 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
 
 * Desc: 
 >Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself properly.
+
+![BC](https://azurlane.koumakan.jp/w/images/1/12/IzumoChibi.png "Izumo") - **[IJN Izumo](https://azurlane.koumakan.jp/Izumo)**
+* Skill: 
+  * 70% chance on Main Gun fire, launch a fixed linear AP barrage.
+  * Take -35% AP damage, but take +6% Ignition damage and extends Ignition duration by 3s.
+  * Deal +15% damage vs Sirens.
+
+* Desc: Consistently bad.
+>One really has to wonder what has Izumo ever done to developers to warrant such a treatment.
+As awful in AL as she is in WoWS, Izumo is bad by any standard - her barrage barely scratches Light Armour while being unable to bypass it due to the parallel shots, her 'defensive' skill harms her much more than it does protect her due to the complete absence of enemy BB AP (and prevalence of BB HE), and worse still, as a barrage boat she needs flagship slot... while sharing Mikasa, Nagato and Kirishima's nation.
+Her sole saving grace is her exceptional statline, and even then it is marred by high Oil costs, comparatively low Efficiencies and is far from making any significant difference.
+Bad not just by PR standards but as a whole, there is little to no reason to ever use her over any other barrage boat.
+
+![BC](https://azurlane.koumakan.jp/w/images/3/3a/MikasaChibi.png "Mikasa") - **[IJN Mikasa](https://azurlane.koumakan.jp/Mikasa)** **(T0 if deployed w/ IJN BB/BC)**
+* Skill: 
+  * Upon taking damage, 12% chance to halve that damage; also, when sortied as Flagship, grant all IJN units +20% Firepower/Reload.
+  * 60% chance upon Main Gun fire, grant all BB/C +20% damage output for 8s.
+  * If equipping the "Z Flag" auxiliary item, grant +5% Firepower/Accuracy to the entire fleet.
+
+* Desc: Pint-sized dai-senpai.
+>While her HP might be low and she may lack an AA gun, she does make up for it in spades through a superb Reload stat and astoundingly good buffs.  
+An iffy pick on her own, but a monstrous force multiplier for other IJN BB/Cs and no slouch herself.
+
+![BC](https://azurlane.koumakan.jp/w/images/9/96/MutsuChibi.png "Mutsu") - **[IJN Mutsu](https://azurlane.koumakan.jp/Mutsu)**
+* Skill: 
+  * 40% chance on Main Gun fire, launch a fixed linear HE barrage.
+
+* Desc: 
+>An oversized monitor like Rodney or Nelson, but with an actually good barrage and better stats.
+
+![BC](https://azurlane.koumakan.jp/w/images/8/81/DunkerqueChibi.png "Dunkerque") - **[MNF Dunkerque](https://azurlane.koumakan.jp/Dunkerque)**
+* Skill: 
+  * 50% chance on Main Gun fire, launch a fixed linear HE barrage (2 tight columns of 4 HE shells and a few needles to the sides).
+  * Starts the battle with a preloaded volley, but has MGM-1.
+
+* Desc: The predecessor to Jean Bart, and it does show.
+>Like Jean, she lacks her third salvo and can launch her bombardment immediately; unlike Jean, said bombardment operates just like any other and is considerably weaker as a result, while her barrage fires on a coin toss.  
+All that said, she'll always get to fire one more volley per round than 99% of the other dreadnoughts and her gun efficiency is very high.   Decent, all things considered.
 
 ### Honorable Mention:
 #### ![BM](https://azurlane.koumakan.jp/w/images/f/fe/TerrorChibi.png "HMS Terror") ![BM](https://azurlane.koumakan.jp/w/images/a/a3/ErebusChibi.png "HMS Erebus") [HMS Terror](https://azurlane.koumakan.jp/Terror) [HMS Erebus](https://azurlane.koumakan.jp/Erebus)
