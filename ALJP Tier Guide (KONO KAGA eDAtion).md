@@ -399,6 +399,13 @@ Most, if not all, Cruiser compositions will benefit by her presence.
 
 ### Tier 1:
 ---
+![CL](https://azurlane.koumakan.jp/w/images/8/86/HelenaChibi.png "Helena") - **[USS Helena](https://azurlane.koumakan.jp/Helena)** **(T0 vs bosses)**
+* Skill:
+  * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen.
+
+* Desc: 
+>Helena is exceedingly good against bosses and merely alright everywhere else.  
+While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
 
 ![CL](https://azurlane.koumakan.jp/w/images/f/fc/PhoenixChibi.png "Phoenix") - **[USS Phoenix](https://azurlane.koumakan.jp/Phoenix)**
 * Skill:
@@ -476,14 +483,6 @@ All in all, strong and dependable, just like her.
 - Desc:
 >Ever wanted to use Hammann but didn't want to deal with her terrible stats and weaponry? Well, now you can.  
 All the utility of her skills with the sturdiness and DPS of the Cleveland-class. Neat.
-
-![CL](https://azurlane.koumakan.jp/w/images/8/86/HelenaChibi.png "Helena") - **[USS Helena](https://azurlane.koumakan.jp/Helena)** **(T0 vs bosses)**
-* Skill:
-  * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen.
-
-* Desc: 
->Helena is exceedingly good against bosses and merely alright everywhere else.  
-While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
  
 ![CL](https://azurlane.koumakan.jp/w/images/7/71/AchillesKaiChibi.png "Achilles Kai") ![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "Ajax Kai") - **[HMS Achilles Kai](https://azurlane.koumakan.jp/Achilles#retrofit)** **[HMS Ajax Kai](https://azurlane.koumakan.jp/ajax#retrofit)**
 * Skill: 
@@ -606,9 +605,9 @@ All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and a
   * Can equip 2 CL guns and has AAGM+1.
 
 - Description: Everybody was Kung Fu fighting~
->Obscenely slow (pre-Kai), pitiful HP and middling torps at best; Yat Sen is somewhat more interesting, with her double guns and twin AA mount, but her statline is lacking and her skill doesn't affect herself.  
-Nothing about these three looks usable, until you start deploying them together - at which point the sisters start hitting as hard as CAs and evade better than DDs, easily outshining most of the T1.5 or T1 in the game.  
-Lots of investment needed and Yat Sen MUST be protected at all costs (hint, place her between Ping and Ning), but worth it.
+>Obscenely slow (pre-Kai), pitiful HP and middling torps at best; Yat Sen is somewhat more interesting, with her double guns and twin AA mount, but her statline is severely lacking and has the questionable distinction of being tied with Avrora for slowest unit in the game.
+Nothing about these three looks usable, until you start deploying them together - at which point the sisters start evading better than basically anyone else in the game, achieveing unrivaled amounts of effective HP while dishing out respectable DPS besides.  
+Lots of investment needed and Yat Sen MUST be protected at all costs (hint, place her between Ping and Ning), but they're the ultimate stonewall - it's worth it.
  
 ### Honorable Mention:
 #### ![CL](https://azurlane.koumakan.jp/w/images/6/66/JuneauChibi.png "USS Juneau") [USS Juneau](https://azurlane.koumakan.jp/Juneau)
@@ -636,24 +635,76 @@ Does all this redeem her, then? Not really, even in this fashion, you'd need to 
 ### Tier 0:
 ---
  
-![CA](https://azurlane.koumakan.jp/w/images/7/74/MinneapolisChibi.png "USS Minneapolis") - **[USS Minneapolis](https://azurlane.koumakan.jp/Minneapolis)**
+ ![CA](https://azurlane.koumakan.jp/w/images/7/74/MinneapolisChibi.png "USS Minneapolis") - **[USS Minneapolis](https://azurlane.koumakan.jp/Minneapolis)**
 * Skill:
   * +15% Firepower and +30% Reload for 12s after killing an enemy vessel, if skill is already active it will refresh the duration 
   * When Minneapolis' HP falls under 30%, lose 2 Speed but gain -10% damage sustained and heal 4% HP every 3s for 16s (can only proc once per fight).
 
-- Desc: "Monster Hunter".
+- Desc: Monster Hunter. Je suis monté.
 > Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP/Rld buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
+ 
+
+![CA](https://azurlane.koumakan.jp/w/images/7/7b/MogamiKaiChibi.png "Mogami Kai") - **[IJN Mogami Kai](https://azurlane.koumakan.jp/Mogami#retrofit)**
+* Skill:
+  * 60% chance every 20s, +40% FP for 8s.
+  * Take -20% AP damage.
+  * Gain a stack of +8% Firepower for every 5 torpedoes launched by Mogami that hit a target. Max 3 stacks.
+  * Has MGM+1 and torpedoes.
+
+- Desc: Oni-chan~
+> Step aside Portland, there's a new best CA in the game - at least on the offense.
+While she is definitely less tanky, missing the extra 800 HP and 11 Evasion Port gets, she casts a massive shadow over her DPS thanks to higher Firepower, better Main Gun efficiency, better offensive skills, a much better barrage and, most importantly, still getting Main Gun +1 despite the torps as if she were a gunboat.
+
+![CA](https://azurlane.koumakan.jp/w/images/8/87/RoonChibi.png "Roon") - **[KMS Roon](https://azurlane.koumakan.jp/Roon)**
+* Skill:
+  * Main Gun cycles between HE and AP every 2 salvo, then gains a +3.5% Reload stack for every Main Gun salvo fired. Max 12 stacks.
+  * Every 30s, generates 4 orbiting shields (two on a very narrow orbit, one on a medium orbit, one on a wide orbit) lasting 8 shots or 15s.
+  * +15% damage vs Sirens.
+  * Has MGM+1 and torpedoes.
+
+- Desc: ROON FOR YOUR LIVES!
+> In many ways, Saint Louis and Roon stand at opposite ends.  
+Whereas the former starts out strong and loses some of her lustre as the battle drags on, the latter only gets stronger; where the former's barrage is uncomfortably wide, the latter's is very concentrated and devastating; where the former relies on high speed and evasion to stay out of harm's way, the latter simply adds layers of HP and shields to power through the barrages; and as the former gradually mellows out of her cold templar persona, the latter grows ever more violent and unhinged.  
+As a result, Roon is best served on boss battles - where she has time to rev up her guns and let the concentrated barrage tear single hard targets apart.
+
+![CA](https://azurlane.koumakan.jp/w/images/b/ba/Saint_LouisChibi.png "Saint Louis") - **[FFNF Saint Louis](https://azurlane.koumakan.jp/Saint_Louis)**
+* Skill:
+  * +35% HE damage and -3% Ignition chance
+  * Upon battle start, gain +8 Speed (permanent) and +30% Evasion (for 40s)
+  * +15% damage vs Sirens.
+
+- Desc: DESU VULT!
+> Historically praised by multiple navies as one of the absolute best heavy cruiser designs but robbed of its chance to shine due to the fall of France in WW2, Azur Lane's Saint Louis has come to set the record straight - and does she ever.  
+Mightiest of all CA by weight of stats and skills, there is no area where she doesn't excel - her guns absolutely melt opposing Light Armour and punch through Heavy Armour better than any other frontliners' in the game, her Speed is slightly superior to that of CLs and enjoys a hefty boost to her already high Evasion for more than half a minute after the battle starts, her AA is uncharacteristically high for her class and she enjoys all the perks of her Spe-CA peers (Medium Armour, MGM+1 and Torpedoes).  
+The only fault one can find in her would be her barrage - its wide linear pattern helps dispatching multiple weak foes, yes, but also neuters its impact against single targets.
 
  
 ### Tier 0.5:
 ---
+
+![CA](https://azurlane.koumakan.jp/w/images/4/44/PortlandKaiChibi.png "Portland Kai") - **[USS Portland Kai](https://azurlane.koumakan.jp/Portland#retrofit)**
+* Skill: 
+  * When sortied w/ Indianapolis, gain +15% Firepower, AA and Evasion
+  * 25% chance every 20s, +15% damage resistance to the entire fleet for 8s
+
+* Desc: 
+>Exceptional HP, twice the base Evasion other CAs get, high Firepower and high AA - in a similar fashion to Cleveland, her stats alone justify her rating and the skills are just icing on the cake. She won't hit as often as Wichita or as hard as Chicago, but she's more consistent and much harder to kill.
 
 ![CA](https://azurlane.koumakan.jp/w/images/7/7b/WichitaChibi.png "USS Wichita") - **[USS Wichita](https://azurlane.koumakan.jp/Wichita)**
 * Skill: 
   * Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
   * 25% chance when firing main guns to fire another salvo
 
-* Desc: Can you say 24 shots in a row? She certainly can. Wichita is THE heaviest frontline DPS in the entire game, bar none. Her HP is rather lacklustre, but it's an easily solved issue and dead enemies can't hurt you anyway.
+* Desc: 
+>Can you say 24 shots in a row? She certainly can. Wichita is THE heaviest frontline DPS in the entire game, bar none. Her HP is rather lacklustre, but it's an easily solved issue and dead enemies can't hurt you anyway.
+
+![CA](https://azurlane.koumakan.jp/w/images/c/cb/ChoukaiChibi.png "Choukai") - **[IJN Choukai](https://azurlane.koumakan.jp/Choukai)**
+* Skill: 
+  * Gain +10% Firepower (permanent); 60% chance every 20s, +20% Firepower and Torpedo to all allied CL/CA for 10s
+  * Upon Main Gun fire, 30% chance to double its damage
+
+* Desc: 
+>The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
  
  ### Tier 1:
 ---
@@ -666,18 +717,46 @@ Does all this redeem her, then? Not really, even in this fashion, you'd need to 
 >What was said about Wichita applies to Chicago as well. Slightly frailer than she is and needing RNG to get the most out of her, she will nonetheless punch hard - and harder than anyone else when she does proc.  
 Also worth mentioning, if she procs on her first salvo, the buff affects the second one too!
 
-
- 
-### Tier 1.5:
----
-
 ![CA](https://azurlane.koumakan.jp/w/images/5/58/HoustonChibi.png "USS Houston") - **[USS Houston](https://azurlane.koumakan.jp/Houston)**
 * Skill: 
   * 20% chance upon Main Gun fire to gain +100% Eva for 15s.
 
 - Desc: "Problem? What problem?"
->While an Evasion-focused CA sounds ludicrous, and it is under most circumstances, Houston actually makes it work given enough Evasion-boosting auxiliaries: CAs live and die by their Evasion (or lack thereof), so stacking it actually lets her survive under heavy fire for much longer than you'd expect.  
+> While an Evasion-focused CA sounds ludicrous, and it is under most circumstances, Houston actually makes it work given enough Evasion-boosting auxiliaries: CAs live and die by their Evasion (or lack thereof), so stacking it actually lets her survive under heavy fire for much longer than you'd expect.  
 What issues she does have are fairly minor: she needs to proc to get tough, obviously, but her uptime is high and she has two chances to proc per firing cycle; and her damage output isn't as high as it could be, since her only skill is that Evasion buff, but it's still higher than most non-CA (and many Torp-CA) frontliners manage.
+
+![CA](https://azurlane.koumakan.jp/w/images/0/02/IbukiChibi.png "Ibui") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)**
+* Skill:
+  * Gain +40% Torpedo CritRate and +65% Torpedo CritDmg (permanent).
+  * Upon launching torpedoes, 30% chance to launch a special torpedo barrage.
+  * +15% damage vs Sirens.
+  * Has TWO preloaded torpedo spreads.
+
+- Desc: What do you mean "she's not a DD"?
+> Someone at the design bureau must've missed a memo when they designed Ibuki.  
+Sporting an IJN DD's skillset and an IJN CA's statline, her entire being is at odds with her purpose as a dedicated torpedo delivery system. While she starts with TWO preloaded torp spreads and her said spreads can be exceedinhgly powerful, her torpedo stat is low and bolstering is hard, as she lacks access to the Sendai-class' buffs and OxyTorp auxiliaries come at the expense of survivability; at the same time, while her guns pack a respectable punch for a Torp-CA, they are completely neglected by her skillset and tend to fulfil the same purpose a DD's guns would (give her something to do while reloading).  
+As a result, Ibuki's performance more closely resembles that of a high-end DD than a CA's - rush in, unload torps, sit down and wait to be useful again as torps reload - despite (mostly) enjoying the benefits of her CA statline.
+
+### Tier 1.5:
+---
+
+![CA](https://azurlane.koumakan.jp/w/images/6/6b/AstoriaChibi.png "Astoria") - **[USS Astoria](https://azurlane.koumakan.jp/Astoria)**
+* Skill: 
+  * When sortied w/ at least 1 New Orleans-class CA (Quincy / Vincennes / Minneapolis), gain and grant them +10% Firepower, +20% Accuracy and AA.
+  * Take -20% damage from DD/CL gun attacks.
+
+* Desc: 
+>Leader of the New Orleans class, she emphasises their strengths and shares their reinforced armour plating.  
+Solid and dependable, if unremarkable. No reason not to take her if you're going to field them at all, but Minneapolis has better things to do than hang out with her sisters.
+
+![CA](https://azurlane.koumakan.jp/w/images/d/d2/QuincyChibi.png "Quincy") ![CA](https://azurlane.koumakan.jp/w/images/3/3f/VincennesChibi.png "Vincennes") - **[USS Quincy](https://azurlane.koumakan.jp/Quincy)** **[USS Vincennes](https://azurlane.koumakan.jp/Vincennes)**
+* Skill: 
+  * 60% chance every 20s, gain +40% Firepower for 10s.
+  * Take -20% damage from DD/CL gun attacks.
+
+* Desc: 
+>Sporting a matching set of Medium Armour, anti-DD/CL gunfire skills and considerable AA capabilities, the New Orleans-class CAs focus more on the defence than the offence, unlike almost every other CA in the USS.  
+A good fit for mob- as well as boss-hunting, considering how frequent are DD and CL bosses, but beware their weaker guns and the need to take Astoria to make the most out of them.
 
 ![CA](https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png "USS Indianapolis") - **[USS Indianapolis](https://azurlane.koumakan.jp/Indianapolis)**
 * Skill: 
@@ -688,18 +767,11 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
 >The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
 Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/73/PortlandChibi.png "USS Portland") - **[USS Portland](https://azurlane.koumakan.jp/Portland)**
-* Skill:
-  * When together with Indianapolis, Increase Firepower, AA, and Reload by 15%
-  * 20s 25% chance to reduce damage taken by the entire fleet by 15% for 8s
-
-*  Desc: 
->A Portland without her Kai is fairly unremarkable, due to her much less impressive (but still serviceable) statline, but she's still a gunboat and, on the bright side, she now has a reason to roll with her sister.
 
 ![CA](https://azurlane.koumakan.jp/w/images/b/bf/SuffolkKaiChibi.png "HMS Suffolk Kai") - **[HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk)** **(T1 when deployed with Queen Elizabeth)**
 * Skill: 
-  * 25% chance when firing main guns to fire another salvo
-  * 60% chance every 20s to increase Firepower by 40% for 10s
+  * 25% chance when firing main guns to fire another salvo.
+  * 60% chance every 20s to increase Firepower by 40% for 10s.
 
 * Desc: 
 >Boasting the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above every other Torp-CA and has access to QE's buffs to boot.  
@@ -715,24 +787,34 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 
 ![CA](https://azurlane.koumakan.jp/w/images/7/7a/FurutakaKaiChibi.png "IJN Furutaka Kai") ![CA](https://azurlane.koumakan.jp/w/images/7/7b/KakoKaiChibi.png "IJN Kako Kai") - **[IJN Furutaka Kai](https://azurlane.koumakan.jp/Furutaka)** & **[IJN Kako Kai](https://azurlane.koumakan.jp/Kako)**
 * Skill: 
-  * 60% activation every 20s, increases own FP by 40% for 10s
+  * 60% chance every 20s, gain +40% Firepower for 10s.
   * Every torpedo launch has a 30.0% chance to launch another spread.
 
 * Desc: 
 >Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "KMS Deutschland") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)**
+![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "Deutschland") ![CA](https://azurlane.koumakan.jp/w/images/b/b1/Admiral_Graf.SpeeChibi.png "Admiral Graf Spee") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)** **[KMS Admiral Graf Spee](https://azurlane.koumakan.jp/Admiral_Graf.Spee)**
 * Skill: 
-  * +35% dmg vs DD/CL.
+  * Deal +35% damage to DD/CL.
+  * May equip the 283mm SKC28, but shouldn't.
 
 - Desc: 
->Too large for a mere CA and too small for a proper BC, Deutschland is an odd creature.  
-Capable of mounting a unique underchambered BB gun, she sports massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than she is (DD and CL) - but is let down by that same gun's AP element (which underperforms against DD and CL), her lower-than-average Speed and Evasion, and the weak torpedoes she's stuck with.  
-A wrecking ball against small craft, to be sure, but watch out for when she picks a fight with people her size.
+>Too large for mere CA and too small for proper BCs, these Pocket Battleships are odd creatures.  
+Capable of mounting a unique underchambered BB gun, they sport massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than they (DD and CL) - but are let down by that same gun's AP element (which underperforms against DD and CL), their lower-than-average Speed and Evasion, and the weak torpedoes they're stuck with.  
+A wrecking ball against small craft, to be sure, but watch out for when they pick a fight with people her size - and place Spee at the front, as she is slightly tankier than her sister.
 
  
 ### Tier 2:
 ---
+
+![CA](https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png "USS Indianapolis") - **[USS Indianapolis](https://azurlane.koumakan.jp/Indianapolis)**
+* Skill: 
+  * Every 30s, spawns 2 orbiting shields that last 8 shots or 15s; if broken, all nearby enemies take minor damage.
+  * Upon taking damage, 8% chance to halve that damage.
+
+* Desc: 
+>The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
+Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
 
 ![CA](https://azurlane.koumakan.jp/w/images/8/89/NorthamptonChibi.png "USS Northampton") - **[USS Northampton](https://azurlane.koumakan.jp/Northampton)**
 * Skill: 
