@@ -312,16 +312,13 @@ With no real weakness to speak of, her one significant flaw is not being able to
 
 ### Tier 1:
 ---
+![CL](https://azurlane.koumakan.jp/w/images/8/86/HelenaChibi.png "USS Helena") - **[USS Helena](https://azurlane.koumakan.jp/Helena)** **(T0 vs bosses)**
+* Skill:
+  * 20s 60% chance to inflict a -40% damage resistance debuff on all enemies currently on the screen.
 
-![CL](https://azurlane.koumakan.jp/w/images/4/4a/ClevelandChibi.png "USS Cleveland") - **[USS Cleveland](https://azurlane.koumakan.jp/Cleveland)**
-* Skill: 
-  * 25% chance every 20s to boost Damage fleetwide by 25%
-  * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
-
-- Desc: "The Original Dadster". 
->Units for whom the excellence of their statline outweighs a poor selection of skills are rare and far between, but there's few better examples than this than Cleveland.  
-Sporting an impressive 3.8k HP, high Reload, slightly higher than usual Evasion and good guns, Cleve doesn't need skills to make her presence felt on the battlefield and excels as a tank; that said, while her AA skill is more of a detriment than a boon, her fleetwide boost is unreliable but potentially great.  
-All in all, strong and dependable, just like her.
+* Desc: 
+>Helena is exceedingly good against bosses and merely alright everywhere else.  
+While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
 
 ![CL](https://azurlane.koumakan.jp/w/images/f/fc/PhoenixChibi.png "USS Phoenix") - **[USS Phoenix](https://azurlane.koumakan.jp/Phoenix)**
 * Skill:
@@ -357,20 +354,22 @@ Still, there's very few finer, more reliable frontline tanks than she - and that
  
 ### Tier 1.5:
 ---
-![CL](https://azurlane.koumakan.jp/w/images/8/86/HelenaChibi.png "USS Helena") - **[USS Helena](https://azurlane.koumakan.jp/Helena)** **(T0 vs bosses)**
-* Skill:
-  * 20s 60% chance to inflict a -40% damage resistance debuff on all enemies currently on the screen.
-
-* Desc: 
->Helena is exceedingly good against bosses and merely alright everywhere else.  
-While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
-
 ![CL](https://azurlane.koumakan.jp/w/images/4/43/BrooklynChibi.png "USS Brooklyn") - **[USS Brooklyn](https://azurlane.koumakan.jp/Brooklyn)**
 * Skill:
   * +15% FP to all Cruisers.
 
 * Desc: 
 >A full-gun alternative to Leander, somewhat sturdier than she is and in possession of a better barrage. Solid and a vital step on the road to Wichita.
+ 
+![CL](https://azurlane.koumakan.jp/w/images/4/4a/ClevelandChibi.png "USS Cleveland") - **[USS Cleveland](https://azurlane.koumakan.jp/Cleveland)**
+* Skill: 
+  * 25% chance every 20s to boost Damage fleetwide by 25%
+  * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
+
+- Desc: "The Original Dadster". 
+>Units for whom the excellence of their statline outweighs a poor selection of skills are rare and far between, but there's few better examples than this than Cleveland.  
+Sporting an impressive 3.8k HP, high Reload, slightly higher than usual Evasion and good guns, Cleve doesn't need skills to make her presence felt on the battlefield and excels as a tank; that said, while her AA skill is more of a detriment than a boon, her fleetwide boost is unreliable but potentially great.  
+All in all, strong and dependable, just like her.
  
 ![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - **[HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax)**
 * Skill: 
@@ -399,7 +398,7 @@ Her place is strictly PvP, as there's many other HMS CL who will do what she doe
 >Abukuma is the IJN's very own Leander, now with 30% more torpedoes: out go the FP buff and she smokescreen, in come the DD Torp buff and a decent chance to fire her rather excellent torpedo launchers twice.  
 Not too flashy, but sturdy enough and dependable.
 
-![CL](https://azurlane.koumakan.jp/w/images/7/74/NakaChibi.png "IJN Naka") - [IJN Naka](https://azurlane.koumakan.jp/Naka)
+![CL](https://azurlane.koumakan.jp/w/images/7/74/NakaChibi.png "IJN Naka") - **[IJN Naka](https://azurlane.koumakan.jp/Naka)**
 * Skill: 
   * +15% Torp and Reload to all DD/CL in the fleet.
 
@@ -447,7 +446,26 @@ All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and a
 
  
 ### Pro Team Players:
-_N/A_
+#### ![CL](https://azurlane.koumakan.jp/w/images/6/60/Ping_HaiKaiChibi.png "Ping Hai Kai") ![CL](https://azurlane.koumakan.jp/w/images/d/d4/Ning_HaiKaiChibi.png "Ning Hai Kai") ![CL](https://azurlane.koumakan.jp/w/images/e/ed/Yat_SenChibi.png "Yat Sen") - [ROC Ping Hai Kai](https://azurlane.koumakan.jp/Ping_Hai#retrofit), [ROC Ning Hai Kai](https://azurlane.koumakan.jp/Ning_Hai#retrofit), [ROC Yat Sen](https://azurlane.koumakan.jp/Yat_Sen) **(T0.5)**
+* Skill (Ping Hai Kai): 
+  * If the vanguard contains Ning Hai, +35% FP.
+  * +25% Damage vs IJN units.
+  * +8 Speed and +15% FP.
+  
+* Skill (Ning Hai Kai): 
+  * If the vanguard contains Ping Hai, +35% FP.
+  * +25% Damage vs IJN units.
+  * +8 Speed and +15% FP.
+
+* Skill (Yat Sen): 
+  * If deployed with either Ping Hai or Ning Hai (or both), they take -20% Damage and increase their Evasion Rate by +30%. 
+  * +25% Damage vs IJN units.
+  * Can equip 2 CL guns and has AAGM+1.
+
+- Description: Everybody was Kung Fu fighting~
+>Obscenely slow (pre-Kai), pitiful HP and middling torps at best; Yat Sen is somewhat more interesting, with her double guns and twin AA mount, but her statline is severely lacking and has the questionable distinction of being tied with Avrora for slowest unit in the game.
+Nothing about these three looks usable, until you start deploying them together - at which point the sisters start evading better than basically anyone else in the game, achieveing unrivaled amounts of effective HP while dishing out respectable DPS besides.  
+Lots of investment needed and Yat Sen MUST be protected at all costs (hint, place her between Ping and Ning), but they're the ultimate stonewall - it's worth it.
  
 ### Honorable Mention:
 #### ![CL](https://azurlane.koumakan.jp/w/images/6/66/JuneauChibi.png "USS Juneau") [USS Juneau](https://azurlane.koumakan.jp/Juneau)
@@ -485,6 +503,15 @@ Does all this redeem her, then? Not really, even in this fashion, you'd need to 
  
 ### Tier 0.5:
 ---
+
+
+![CA](https://azurlane.koumakan.jp/w/images/4/44/PortlandKaiChibi.png "Portland Kai") - **[USS Portland Kai](https://azurlane.koumakan.jp/Portland#retrofit)**
+* Skill: 
+  * When sortied w/ Indianapolis, gain +15% Firepower, AA and Evasion
+  * 25% chance every 20s, +15% damage resistance to the entire fleet for 8s
+
+* Desc: 
+>Exceptional HP, twice the base Evasion other CAs get, high Firepower and high AA - in a similar fashion to Cleveland, her stats alone justify her rating and the skills are just icing on the cake. She won't hit as often as Wichita or as hard as Chicago, but she's more consistent and much harder to kill.
 
 ![CA](https://azurlane.koumakan.jp/w/images/7/7b/WichitaChibi.png "USS Wichita") - **[USS Wichita](https://azurlane.koumakan.jp/Wichita)**
 * Skill: 
@@ -526,14 +553,6 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
 >The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
 Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/73/PortlandChibi.png "USS Portland") - **[USS Portland](https://azurlane.koumakan.jp/Portland)**
-* Skill:
-  * When together with Indianapolis, Increase Firepower, AA, and Reload by 15%
-  * 20s 25% chance to reduce damage taken by the entire fleet by 15% for 8s
-
-*  Desc: 
->A Portland without her Kai is fairly unremarkable, due to her much less impressive (but still serviceable) statline, but she's still a gunboat and, on the bright side, she now has a reason to roll with her sister.
-
 ![CA](https://azurlane.koumakan.jp/w/images/b/bf/SuffolkKaiChibi.png "HMS Suffolk Kai") - **[HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk)** **(T1 when deployed with Queen Elizabeth)**
 * Skill: 
   * 25% chance when firing main guns to fire another salvo
@@ -559,14 +578,15 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 * Desc: 
 >Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "KMS Deutschland") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)**
+![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "Deutschland") ![CA](https://azurlane.koumakan.jp/w/images/b/b1/Admiral_Graf.SpeeChibi.png "Admiral Graf Spee") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)** **[KMS Admiral Graf Spee](https://azurlane.koumakan.jp/Admiral_Graf.Spee)**
 * Skill: 
-  * +35% dmg vs DD/CL.
+  * Deal +35% damage to DD/CL.
+  * May equip the 283mm SKC28, but shouldn't.
 
 - Desc: 
->Too large for a mere CA and too small for a proper BC, Deutschland is an odd creature.  
-Capable of mounting a unique underchambered BB gun, she sports massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than she is (DD and CL) - but is let down by that same gun's AP element (which underperforms against DD and CL), her lower-than-average Speed and Evasion, and the weak torpedoes she's stuck with.  
-A wrecking ball against small craft, to be sure, but watch out for when she picks a fight with people her size.
+>Too large for mere CA and too small for proper BCs, these Pocket Battleships are odd creatures.  
+Capable of mounting a unique underchambered BB gun, they sport massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than they (DD and CL) - but are let down by that same gun's AP element (which underperforms against DD and CL), their lower-than-average Speed and Evasion, and the weak torpedoes they're stuck with.  
+A wrecking ball against small craft, to be sure, but watch out for when they pick a fight with people her size - and place Spee at the front, as she is slightly tankier than her sister.
 
  
 ### Tier 2:
