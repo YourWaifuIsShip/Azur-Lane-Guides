@@ -758,16 +758,6 @@ Solid and dependable, if unremarkable. No reason not to take her if you're going
 >Sporting a matching set of Medium Armour, anti-DD/CL gunfire skills and considerable AA capabilities, the New Orleans-class CAs focus more on the defence than the offence, unlike almost every other CA in the USS.  
 A good fit for mob- as well as boss-hunting, considering how frequent are DD and CL bosses, but beware their weaker guns and the need to take Astoria to make the most out of them.
 
-![CA](https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png "USS Indianapolis") - **[USS Indianapolis](https://azurlane.koumakan.jp/Indianapolis)**
-* Skill: 
-  * Every 30s, spawns 2 shields that blocks 8 shots
-  * 8% chance to reduce any damage taken by 50% on taking damage
-
-* Desc: 
->The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
-Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
-
-
 ![CA](https://azurlane.koumakan.jp/w/images/b/bf/SuffolkKaiChibi.png "HMS Suffolk Kai") - **[HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk)** **(T1 when deployed with Queen Elizabeth)**
 * Skill: 
   * 25% chance when firing main guns to fire another salvo.
