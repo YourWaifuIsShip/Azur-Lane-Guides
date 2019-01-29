@@ -83,7 +83,7 @@ The DPS monster to AyaKai's DPH.
   * Can equip CL guns, but shouldn't.
 
 * Desc: "Gun Fuhrer".
->Z23 takes the opposite approach to Ayanami, in that she goes all in on guns - her base FP is unmatched among DDs and her skills further ehnance her gun DPS to obscene degrees, while also having great uptime.  
+>Z23 takes the opposite approach to Ayanami, in that she goes all in on guns - her base FP is unmatched among DDs and her skills further enhance her gun DPS to obscene degrees, while also having great uptime.  
 Torps are even more of an afterthought than they are on Laffey, however, and unlike Laffey she can't make up for it by simply spamming them; she will punch ship-sized holes in Light and Medium Armour, but she'll find herself a little stumped against Heavy.
 
 ![DD](https://azurlane.koumakan.jp/w/images/2/2b/Z46Chibi.png "Z46") - **[KMS Z46](https://azurlane.koumakan.jp/Z46)**
@@ -176,7 +176,7 @@ That said, if you have no need for such a skill you should probably look for ano
   * Upon expiration, decrease reload by 100% for 3s.
 
 - Desc: "Vorpal Häschen"
->Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrekcing them in the process for a few seconds).  
+>Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrecking them in the process for a few seconds).  
 Very similar in behaviour to her USS counterpart, but whereas she can run a one-bunny show thanks to her Kai statline and skills, Z35 needs Z1's presence to really compare; and while she won't be matching her anytime soon, she'll still be giving many other DDs a run for their money.
 
 
@@ -196,7 +196,7 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
   * Upon taking damage, 15% chance to make entire escort fleet to evade all attacks for 10s. DoT and Ramming damage still apply. CAN'T PROC BEFORE 20s HAVE PASSED (skill starts on cooldown).
 
 * Desc: 
->Slippery little bastard, despite her CA-like movement speed. Her offensive stats are somewhat lacklustre, but she makes up for it with her skill - it might be RNG and her high Evasion works against it, but 10s of invulnerability is nothing to scoff at. Make sure to have her eat weak shots to minimise exposure to dange.
+>Slippery little bastard, despite her CA-like movement speed. Her offensive stats are somewhat lacklustre, but she makes up for it with her skill - it might be RNG and her high Evasion works against it, but 10s of invulnerability is nothing to scoff at. Make sure to have her eat weak shots to minimise exposure to danger.
 
 ![DD](https://azurlane.koumakan.jp/w/images/3/33/FletcherChibi.png "USS Fletcher") - **[USS Fletcher](https://azurlane.koumakan.jp/Fletcher)** **(T0.5 w/ Charles Ausburne and Nicholas)**
 * Skill:
@@ -222,7 +222,7 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
 * Desc: 
 >The Nick is a true generalist, competent in everything and excelling in nothing.  
 Good gunnery with a skill that supports it, good Evasion with a proc-on-fire skill for maximum uptime, comparatively high HP, okay torps, okay AA; solid all around, but easily outshone in any of these areas by more dedicated units.  
-Make sure to bring a Fletcher along to capitalise on her strenghts.
+Make sure to bring a Fletcher along to capitalise on her strengths.
 
 ![DD](https://azurlane.koumakan.jp/w/images/a/a2/MakinamiChibi.png "IJN Makinami") - **[IJN Makinami](https://azurlane.koumakan.jp/Makinami)**
 * Skill: 
@@ -284,7 +284,7 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
   * +18% Exp gain for DDs.
 
 * Desc: 
->The first real DD to hit the seas, and boy does it show. Her barely combat-worthy statline and lack of any skill beyond the XP boost makes her a very poor candiate for Limit Breaks, and a very good candidate for 0LB shenanigans.
+>The first real DD to hit the seas, and boy does it show. Her barely combat-worthy statline and lack of any skill beyond the XP boost makes her a very poor candidate for Limit Breaks, and a very good candidate for 0LB shenanigans.
 
 #### ![DD](https://azurlane.koumakan.jp/w/images/f/f3/ShiranuiChibi.png "IJN Shiranui") [IJN Shiranui](https://azurlane.koumakan.jp/Shiranui)
 * Skill:
@@ -318,7 +318,7 @@ With no real weakness to speak of, her one significant flaw is not being able to
 
 * Desc: 
 >Helena is exceedingly good against bosses and merely alright everywhere else.  
-While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
+While the power of her debuff is unparalleled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
 
 ![CL](https://azurlane.koumakan.jp/w/images/f/fc/PhoenixChibi.png "USS Phoenix") - **[USS Phoenix](https://azurlane.koumakan.jp/Phoenix)**
 * Skill:
@@ -464,7 +464,7 @@ All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and a
 
 - Description: Everybody was Kung Fu fighting~
 >Obscenely slow (pre-Kai), pitiful HP and middling torps at best; Yat Sen is somewhat more interesting, with her double guns and twin AA mount, but her statline is severely lacking and has the questionable distinction of being tied with Avrora for slowest unit in the game.
-Nothing about these three looks usable, until you start deploying them together - at which point the sisters start evading better than basically anyone else in the game, achieveing unrivaled amounts of effective HP while dishing out respectable DPS besides.  
+Nothing about these three looks usable, until you start deploying them together - at which point the sisters start evading better than basically anyone else in the game, achieving unrivaled amounts of effective HP while dishing out respectable DPS besides.  
 Lots of investment needed and Yat Sen MUST be protected at all costs (hint, place her between Ping and Ning), but they're the ultimate stonewall - it's worth it.
  
 ### Honorable Mention:
@@ -638,7 +638,7 @@ Also, she's slightly better at AA than her sisters (key word being "slightly", t
   * 20s 70% chance to spawn 3 rotating shields (durability: 10 shots each).
 
 * Desc: 
->It's exceedingly rare for a frontliner to have more HP than carriers and battlecruisers, but Prinz Eugen makes it happen. Proud owner of a HP pool larger than 90% of the ships in the game, she pays for this priviledge by being saddled with a semi-useless skill and poor offensive stats.  
+>It's exceedingly rare for a frontliner to have more HP than carriers and battlecruisers, but Prinz Eugen makes it happen. Proud owner of a HP pool larger than 90% of the ships in the game, she pays for this privilege by being saddled with a semi-useless skill and poor offensive stats.  
 If you're looking that something that won't die anytime soon, look no further; if you're looking for something that can do anything more than that, look everywhere else.
 
 <br/><br/>
@@ -874,7 +874,7 @@ Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in t
 * Loadout: 3/2/3
 
 - Desc: "The Foxes launched first."
->Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Airpower and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle (compared to other CVs).  
+>Well, there they are, the poster vixens of Azur Lane. Distinctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Airpower and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle (compared to other CVs).  
 As is customary for IJN sister ships, they only shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch is.
 
 
