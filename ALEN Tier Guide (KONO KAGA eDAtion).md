@@ -258,6 +258,16 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
  
  
 ### Pro Team Players:
+#### ![DD](https://azurlane.koumakan.jp/w/images/c/cc/An_ShanChibi.png "Anshan") ![DD](https://azurlane.koumakan.jp/w/images/2/20/Chang_ChunChibi.png "Changchun") ![DD](https://azurlane.koumakan.jp/w/images/7/7f/Fu_ShunChibi.png "Fushun") ![DD](https://azurlane.koumakan.jp/w/images/f/f5/Tai_YuanChibi.png "Taiyuan") - [PRAN Anshan](https://azurlane.koumakan.jp/An_Shan), [PRAN Changchun](https://azurlane.koumakan.jp/Chang_Chun), [PRAN Fushun](https://azurlane.koumakan.jp/Fu_Shun) [PRAN Taiyuan](https://azurlane.koumakan.jp/Tai_Yuan) **(T1.5)**
+* Skill (Anshan): While in combat, Anshan-class (all PRAN) ships have increased Accuracy, Firepower by 25% and evasion by 10%
+* Skill (Changchun): Increases Firepower, Reload and Accuracy by 12% for all North Union and Eastern Radiance (ROC, PRAN) ships in fleet.
+* Skill (Fushun): Increase own main gun's critical rate by 20%.
+* Skill (Taiyuan): While in combat with 6 ships in the fleet, increase own Firepower and Reload by 25%, and evasion by 10%.
+
+- Description:
+>This pack of cleverly disguised Gunboat CL possesses a staggering amount of Firepower and Reload for its class as well as somewhat higher HP, but it does so at the expense of their now almost worthless torpedoes.
+Use Fushun if you don't want to pony up for a full fleet: her DPS won't be as stable as Taiyuan's, but she won't be far off and you'll be burning a lot less Oil.
+
 #### ![DD](https://azurlane.koumakan.jp/w/images/6/61/CrescentKaiChibi.png "Crescent Kai") ![DD](https://azurlane.koumakan.jp/w/images/6/6e/CometKaiChibi.png "Comet Kai") ![DD](https://azurlane.koumakan.jp/w/images/5/5f/CygnetKaiChibi.png "Cygnet Kai") [HMS Crescent Kai](https://azurlane.koumakan.jp/Crescent), [Comet Kai](https://azurlane.koumakan.jp/Comet), [Cygnet Kai](https://azurlane.koumakan.jp/Cygnet#) **(T2)**
 * Skill (Crescent): 30% activation every 20 seconds, evade all incoming attacks for 6 seconds || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance.
 
