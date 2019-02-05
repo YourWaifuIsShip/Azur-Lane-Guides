@@ -457,6 +457,17 @@ Still, there's very few finer, more reliable frontline tanks than she - and that
 
 * Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
 
+![CL](https://azurlane.koumakan.jp/w/images/c/cf/SiriusChibi.png "Sirius") - **[HMS Sirius](https://azurlane.koumakan.jp/Sirius)** **(T0 w/ carriers)**
+* Skill:
+  * +10% Aviation and +10% HitRate vs DD/CL/CA; also, +7% Firepower/Torpedo/Reload for every CV/L in the fleet.
+  * +20% FP.
+  * Can use DD guns, and should.
+  
+* Desc: Not 2B taken lightly.
+>Similar in a few ways to Jintsuu, Sirius offers a spectacular buff to a specific subset of units while benefiting greatly from it herself - significant enough to offset her otherwise unimpressive statline and really get the most out of her DD guns.
+Gunnery is her main asset, and her barrage even more so - one of the absolute best as far as vanguards are concerned, very quick and hard-hitting despite the unassuming Normal shells, and unique in its narrowing pattern, which makes landing most of the shots from long range a rather simple task.
+That said, you will need to deploy a few carriers to get the full experience and with her barrage making up a significant portion of her overall DPS, her auto performance will suffer - handle with care.
+
 ![CL](https://azurlane.koumakan.jp/w/images/e/e7/SheffieldChibi.png "Sheffield") - **[HMS Sheffield](https://azurlane.koumakan.jp/Sheffield)**
 * Skill:
   *  Allied ships with lower current HP than Sheffield at the start of battle have a 30% chance to take -50% dmg upon taking damage.
@@ -883,7 +894,7 @@ If you're looking that something that won't die anytime soon, look no further; i
 ![BB](https://azurlane.koumakan.jp/w/images/a/ae/MonarchChibi.png "Monarch") - **[HMS Monarch](https://azurlane.koumakan.jp/Monarch)**
 * Skill: 
   * 70% chance on Main Gun fire, fire a fixed AP slowing (-40% Speed for 6s) barrage (Hood-like)
-  * Enemies hit by Duke of York's Main Gun fire take +12% damage from all sources for 8s; also, her first volley deals x1.5 damage.
+  * Once per battle and upon falling below 20% HP, restore 3% HP every 2s for 8s; also, for every 1% HP lost during the fight, her Reload increases by 1.
 
 - Desc: 
 >It'd be easy to regard Monarch as a straight upgrade to Hood. She mounts CL guns, Her FP is much higher, her Efficiencies are better, her barrage is AP and she can even heal herself... what more could one possibly want from a battleship?
