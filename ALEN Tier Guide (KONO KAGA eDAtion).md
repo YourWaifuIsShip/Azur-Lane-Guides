@@ -472,10 +472,10 @@ All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and a
   * +25% Damage vs IJN units.
   * Can equip 2 CL guns and has AAGM+1.
 
-- Description: Everybody was Kung Fu fighting~
->Obscenely slow (pre-Kai), pitiful HP and middling torps at best; Yat Sen is somewhat more interesting, with her double guns and twin AA mount, but her statline is severely lacking and has the questionable distinction of being tied with Avrora for slowest unit in the game.
-Nothing about these three looks usable, until you start deploying them together - at which point the sisters start evading better than basically anyone else in the game, achieveing unrivaled amounts of effective HP while dishing out respectable DPS besides.  
-Lots of investment needed and Yat Sen MUST be protected at all costs (hint, place her between Ping and Ning), but they're the ultimate stonewall - if that's what you want, it's worth it.
+- Description: The great wall of China.
+>Obscenely slow (pre-Kai), pitiful HP and middling torps at best; Yat Sen is somewhat more interesting, with her double guns and twin AA mount, but her statline is severely lacking and has the questionable distinction of being tied with Avrora for slowest unit in the game.  
+Nothing about these three looks usable, until you start deploying them together - at which point the sisters start evading better than basically anyone else in the game, even on the Single Line formation, achieveing unrivaled amounts of effective HP while dishing out respectable DPS besides.  
+Lots of investment needed and Yat Sen MUST be protected at all costs (hint, place her between Ping and Ning), but they're the ultimate stonewall - if that's what you're looking for, it's worth it.
  
 ### Honorable Mention:
 #### ![CL](https://azurlane.koumakan.jp/w/images/6/66/JuneauChibi.png "USS Juneau") [USS Juneau](https://azurlane.koumakan.jp/Juneau)
