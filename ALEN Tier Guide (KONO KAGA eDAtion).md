@@ -36,11 +36,11 @@ Good reading, and godspeed cap'n!
   
   
 #### Retrofit/Kai Priority List:
-- DD                  : Laffey > Ayanami = Z23 > Tanikaze > Javelin > Cygnet > Fortune > Hammann > N/A
-- CL                  : Jintsuu > Leander > Abukuma > Ajax > N/A
-- CA                  : Suffolk > Furutaka/Kako
-- BB/C                : Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES)
-- CV/L                : Ranger > Shouhou > Bogue > Langley > Long Island > N/A
+- DD                  : Laffey > Ayanami = Z23 > Cassin/Downes > Tanikaze > Javelin > Cygnet > Fortune > Hammann > N/A
+- CL                  : Jintsuu > Leander > Ping Hai/Ning Hai > Abukuma > Ajax > N/A
+- CA                  : Portland > Suffolk > Furutaka/Kako
+- BB/C                : Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) > Warspite
+- CV/L                : Ranger > Shouhou > Langley > Bogue > Long Island > N/A
   
   
   
