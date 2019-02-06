@@ -20,6 +20,7 @@ Good reading, and godspeed cap'n!
 - All units are assumed to be MAXED (ie. lv100, BiS gear, SL10 across the board).
 - Auto or Manual performance is not taken into consideration, unless it is specifically relevant to the unit.
 - Submarines will NOT be tiered until more data on their live, peak performance is collected. This will take a while, folks.
+- The Retrofit Priority List orderings are decided on the basis of how effective is the retrofitted unit, not how much does it need the retrofit; in other words, the better (more powerful/more useful) the retrofit, the higher it is.
   
   
   
@@ -36,17 +37,18 @@ Good reading, and godspeed cap'n!
   
   
 #### Retrofit/Kai Priority List:
-- DD                  : Laffey > Ayanami = Z23 > Cassin/Downes > Tanikaze > Javelin > Cygnet > Fortune > Hammann > N/A
-- CL                  : Jintsuu > Leander > Ping Hai/Ning Hai > Abukuma > Ajax > N/A
-- CA                  : Portland > Suffolk > Furutaka/Kako
-- BB/C                : Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) > Warspite
-- CV/L                : Ranger > Shouhou > Langley > Bogue > Long Island > N/A
+- DD                  : Laffey > Ayanami = Z23 > Cassin/Downes > Tanikaze > Javelin > Fortune
+- CL                  : Jintsuu > Leander > Ping Hai/Ning Hai > Abukuma > Ajax/Achilles
+- CA                  : Portland > Furutaka/Kako > Suffolk
+- BB/C                : Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) > Warspite*
+- CV/L                : Ranger = Shouhou > Langley
   
   
   
 #### Assorted notes:
 - Read the VERY IMPORTANT OPENING NOTE at the top.
 - The 'loadout' listed under CV/L entries details the number of planes each unit gets; eg. Unicorn gets 3 Fighters / 0 Dive Bombers / 3 Torpedo Bombers.
+- The asterisk next to a name in the Priority List means the Kai is tied to some sort of event and may not be available right now; also, if you do not see a name in it, it's because it is not worth prioritizing.
 - This guide is far from a solo effort: while the writing is mine, the tierings are researched and approved collegially with Gurosebe#4054, Enbayft#2527, Cantarella#7963 and the #helpful fellows over at the Azur Lane English Community server, while the coding framework that makes this possible was provided by Enbayft#2527 and improved upon by Boz#5174.  
 Without these people, the Tier Guide would never be as comprehensive, accurate or good-looking as it is, and it is to them that I extend my sincere gratitude.
   
