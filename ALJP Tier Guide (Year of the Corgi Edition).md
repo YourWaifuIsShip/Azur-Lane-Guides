@@ -39,7 +39,7 @@ Good reading, and godspeed cap'n!
 #### Retrofit/Kai Priority List:
 - DD                  : Laffey > Ayanami = Z23 > Cassin/Downes > Kagerou = Tanikaze > Nicholas > Javelin > Foxhound
 - CL                  : San Diego* > Jintsuu > Leander > Ping Hai/Ning Hai > Abukuma > Ajax/Achilles
-- CA                  : Mogami > Portland > Suffolk > Furutaka/Kako
+- CA                  : Mogami > Portland > Furutaka/Kako > Suffolk
 - BB/C                : Hyuuga > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) > Warspite* > Nevada/Oklahoma
 - CV/L                : Ranger = Shouhou > Hiryu/Soryu > Saratoga > Langley
   
@@ -48,7 +48,7 @@ Good reading, and godspeed cap'n!
 #### Assorted notes:
 - Read the VERY IMPORTANT OPENING NOTE at the top.
 - The 'loadout' listed under CV/L entries details the number of planes each unit gets; eg. Unicorn gets 3 Fighters / 0 Dive Bombers / 3 Torpedo Bombers.
-- The asterisk next to a name in the Priority List means the Kai is tied to some sort of event and may not be available right now.
+- The asterisk next to a name in the Priority List means the Kai is tied to some sort of event and may not be available right now; also, if you do not see a name in it, it's because it is not worth prioritizing.
 - This guide is far from a solo effort: while the writing is mine, the tierings are researched and approved collegially with Gurosebe#4054, Enbayft#2527, Cantarella#7963 and the #helpful fellows over at the Azur Lane English Community server, while the coding framework that makes this possible was provided by Enbayft#2527 and improved upon by Boz#5174.  
 Without these people, the Tier Guide would never be as comprehensive, accurate or good-looking as it is, and it is to them that I extend my sincere gratitude.
   
