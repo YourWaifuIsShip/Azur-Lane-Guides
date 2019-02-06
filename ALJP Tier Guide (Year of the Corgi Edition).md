@@ -1383,6 +1383,16 @@ Her only real flaw is her lacking Reload, a mere 100 compared to most other top-
 >Similar in concept and usage to Ranger, her airstrikes come out faster but don't provide quite the same weight of fire.  
 Still, high plane efficiency coupled with a neat AA buff for the backline allows her to be quite helpful in most situations - and with the advent of ASW, she's the best CVL for the task.
  
+ #### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
+* Skill: 
+  * Increases experience gained by CV by 15%
+  * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
+  * Has a 6/2/0 loadout.
+
+* Desc: 
+>Saddled with the much reviled F/F/B loadout and a useless (in combat) primary skill, it's hard to justify her use in most fleets - until you realise just how useful Reload is for CVL, and how cheap and effective a full CVL backline can be.  
+Manual only, but the results are guaranteed; and if you need the exp boost, keep one 0LB around specifically for that purpose.
+ 
 ![CV](https://azurlane.koumakan.jp/w/images/d/db/HornetChibi.png "USS Hornet") - **[BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)**
 * Skill: 
   * 60% chance to drop 12 additional bombs with her airstrike upon launch
@@ -1412,17 +1422,7 @@ Her niche is providing air superiority and protecting the frontline from harm th
 >An extra-tough carrier designed for prolonged fights, which basically means 'boss battles only'.  
 Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be.
 
-### Honorable Mention:
-#### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
-* Skill: 
-  * Increases experience gained by CV by 15%
-  * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
-  * Has a 6/2/0 loadout.
-
-* Desc: 
->Saddled with the much reviled F/F/B loadout and a useless (in combat) primary skill, it's hard to justify her use in most fleets - until you realise just how useful Reload is for CVL, and how cheap and effective a full CVL backline can be.  
-Manual only, but the results are guaranteed; and if you need the exp boost, keep one 0LB around specifically for that purpose.
-
+### Honourable Mention:
 #### ![CV](https://azurlane.koumakan.jp/w/images/1/1b/WaspChibi.png "USS Wasp") - [USS Wasp](https://azurlane.koumakan.jp/Wasp)
 * Skill: 
   * When deployed w/ at least 1 HMS backliner and upon airstrike launch, 50% chance to launch a Spitfire squadron.
