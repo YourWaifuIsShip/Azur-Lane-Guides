@@ -530,7 +530,8 @@ Does all this redeem her, then? Not really, even in this fashion, you'd need to 
   * Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
   * 25% chance when firing main guns to fire another salvo
 
-* Desc: Can you say 24 shots in a row? She certainly can. Wichita is THE heaviest frontline DPS in the entire game, bar none. Her HP is rather lacklustre, but it's an easily solved issue and dead enemies can't hurt you anyway.
+* Desc: Can you say 24 shots in a row? She certainly can.   
+Wichita brings to bear one of the absolute highest vanguard DPS in the game, owing to her Chain Cannon skill and the passive +15% FP; and while her HP is rather lacklustre, it's an easily solved issue and dead enemies can't hurt you anyway.
  
  ### Tier 1:
 ---
@@ -540,7 +541,7 @@ Does all this redeem her, then? Not really, even in this fashion, you'd need to 
   * 30% chance upon Main Gun fire to double its shots' damage.
 
 * Desc: 
->What was said about Wichita applies to Chicago as well. Slightly frailer than she is and needing RNG to get the most out of her, she will nonetheless punch hard - and harder than anyone else when she does proc.  
+>What was said about Wichita applies to Chicago as well. Slightly frailer than she is and more selfish, she will nonetheless punch hard - and harder than anyone else when she does proc, which she often will.
 Also worth mentioning, if she procs on her first salvo, the buff affects the second one too!
 
 
