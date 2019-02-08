@@ -542,8 +542,8 @@ While her HP is rather lacklustre, it's an easily solved issue and dead enemies 
   * 30% chance upon Main Gun fire to double its shots' damage.
 
 * Desc: 
->What was said about Wichita applies to Chicago as well. Slightly frailer than she is and more selfish, she will nonetheless punch hard - and harder than anyone else when she does proc, which she often will.  
-Also worth mentioning, if she procs on her first salvo, the buff affects the second one too!
+>What was said about Wichita applies to Chicago as well. Slightly frailer than she is and more selfish, she will nonetheless punch hard and harder than anyone else when she does proc, which she often will - a proc on the first salvo lasts throughout the second, and the second salvo may still proc if the first one didn't.  
+As a result, her double damage uptime is considerably higher than the 30% may lead you to believe. Bring out the big guns.
 
 
  
