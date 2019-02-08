@@ -582,7 +582,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 * Desc: 
 >Takao is a tad on the RNG side, but sports high HP and a remarkable statline. Her skills are what makes her as good as she is, but they're not exactly the most reliable. Still, they are powerful and thus worth respect.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/7a/FurutakaKaiChibi.png "IJN Furutaka Kai") ![CA](https://azurlane.koumakan.jp/w/images/7/7b/KakoKaiChibi.png "IJN Kako Kai") - **[IJN Furutaka Kai](https://azurlane.koumakan.jp/Furutaka)** & **[IJN Kako Kai](https://azurlane.koumakan.jp/Kako)**
+![CA](https://azurlane.koumakan.jp/w/images/7/7a/FurutakaKaiChibi.png "IJN Furutaka Kai") ![CA](https://azurlane.koumakan.jp/w/images/7/7b/KakoKaiChibi.png "IJN Kako Kai") - **[IJN Furutaka Kai](https://azurlane.koumakan.jp/Furutaka)** & **[IJN Kako Kai](https://azurlane.koumakan.jp/Kako#retrofit)**
 * Skill: 
   * 60% activation every 20s, increases own FP by 40% for 10s
   * Every torpedo launch has a 30.0% chance to launch another spread.
@@ -590,7 +590,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 * Desc: 
 >Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "Deutschland") ![CA](https://azurlane.koumakan.jp/w/images/b/b1/Admiral_Graf.SpeeChibi.png "Admiral Graf Spee") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)** **[KMS Admiral Graf Spee](https://azurlane.koumakan.jp/Admiral_Graf.Spee)**
+![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "Deutschland") ![CA](https://azurlane.koumakan.jp/w/images/0/04/Admiral_Graf_SpeeChibi.png "Admiral Graf Spee") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)** & **[KMS Admiral Graf Spee](https://azurlane.koumakan.jp/Admiral_Graf.Spee)**
 * Skill: 
   * Deal +35% damage to DD/CL.
   * May equip the 283mm SKC28, but shouldn't.
