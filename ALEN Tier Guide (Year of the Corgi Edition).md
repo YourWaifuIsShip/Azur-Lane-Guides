@@ -1005,24 +1005,12 @@ Her only real flaw is her lacking Reload, a mere 100 compared to most other top-
 
 ### Tier 2:
 ---
-
-![CVL](https://azurlane.koumakan.jp/w/images/1/16/BogueKaiChibi.png "USS Bogue Kai") - **[USS Bogue Kai](https://azurlane.koumakan.jp/Bogue)**
-* Skill: 
-  * 15% activation when launching an airstrike, the next airstrike becomes available immediately
-  * Increases AA for backline by 15%, does not stack with other command skills that have similar effect.
-
-* Loadout: 3/3/0
-
-* Desc: 
->Similar in concept and usage to Ranger, her airstrikes come out faster but don't provide quite the same weight of fire.  
-Still, high plane efficiency coupled with a neat AA buff for the backline allows her to be quite helpful in most situations - and with the advent of ASW, she's the best CVL for the task.
  
-![CV](https://azurlane.koumakan.jp/w/images/d/db/HornetChibi.png "USS Hornet") - **[BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)**
+#### ![CV](https://azurlane.koumakan.jp/w/images/d/db/HornetChibi.png "USS Hornet") - **[BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)**
 * Skill: 
   * 60% chance to drop 12 additional bombs with her airstrike upon launch;\
   * 25% chance to inflict double damage with her airstrike.
-
-* Loadout: 3/3/2
+  * Has a 3/3/2 loadout.
 
 * Desc: 
 >Once a meme, now a force to be reckoned with. Think of her as a barrage boat in carrier form - her main job is blasting ships into smithereens, and she does that remarkably well with two powerful skills dedicated precisely to that and a solid statline.  
@@ -1031,41 +1019,60 @@ Just don't expect much in the way of support, beyond the air coverage provided b
 #### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
 * Skill: 
   * Increases experience gained by CV by 15%
-  * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
-
-* Loadout: 6/2/0
+  * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect.
+  * Has a 6/2/0 loadout.
 
 * Desc: 
 >Saddled with the much reviled F/F/B loadout and a useless (in combat) primary skill, it's hard to justify her use in most fleets - until you realise just how useful Reload is for CVL, and how cheap and effective a full CVL backline can be.  
 Manual only, but the results are guaranteed; and if you need the exp boost, keep one 0LB around specifically for that purpose.
 
-![CV](https://azurlane.koumakan.jp/w/images/0/00/IllustriousChibi.png "HMS Illustrious") - **[HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)**
-* Skill: On launching an airstrike, provides a shield to the escort fleet for 8s. Shield HP is 10% of Illustrious's HP
-
-* Loadout: 6/0/2
+ #### ![CVL](https://i.imgur.com/te8TrVP.png "Chaser") - [HMS Chaser](https://azurlane.koumakan.jp/Chaser)
+* Skill: 
+  * Upon airstrike launch, 15% chance to immediately reload it.
+  * Upon airstrike launch, reveal all submarines on the screen for 10s and launch three biplanes armed with depth charges and two parallel torpedoes each.
+  * Has a 3/0/3 loadout.
 
 * Desc: 
->A very defensive-focused CV with double fighter slots and a shield generator.  
-Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (like Eldridge's).
+>Chaser had a look at Ranger before leaving for the Royals and realised she was up to something good.  
+With functionally 9 planes at her back and call without giving up her AA guns or high Reload, she can handily rival most other CVL in DPS while keeping some support capabilites to her credit - as well as a decent chance to throw out torrents of planes.  
+That said, she's still mostly an attack craft - her ASW capabilties, while a nice touch, are entirely useless on non-ASW maps and unnecessary there, given how easily dealt with subs are.
 
-![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(T0 w/ Shoukaku)**
+#### ![CV](https://azurlane.koumakan.jp/w/images/0/00/IllustriousChibi.png "HMS Illustrious") - **[HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)**
+* Skill: 
+  * Upon airstrike launch, grants every vanguard unit a shield for 10% of Illustrious' max HP, lasting 8s.
+  * Has a 6/0/2 loadout.
+
+* Desc: 
+>A very defensive-focused CV with double fighter slots and a shield generator. Her poor DPS is the stuff of legend.
+Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo attack runs.
+
+#### ![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(T0 w/ Shoukaku)**
 * Skill: 
   * Increases next airstrike damage by 20% on launching airstrike, stacks up to 3 times
   * When paired, increases Air Power by 20% and takes 20% less damage
-
-* Loadout: 2/3/3
+  * Has a 2/3/3 loadout.
 
 * Desc: 
 >An extra-tough carrier designed for prolonged fights, which basically means 'boss battles only'.  
 Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be.
 
 ### Honorable Mention:
+#### ![CVL](https://azurlane.koumakan.jp/w/images/1/16/BogueKaiChibi.png "USS Bogue Kai") - **[USS Bogue Kai](https://azurlane.koumakan.jp/Bogue)**
+* Skill: 
+  * 15% activation when launching an airstrike, the next airstrike becomes available immediately
+  * Increases AA for backline by 15%, does not stack with other command skills that have similar effect.
+  * Has a 3/3/0 loadout.
+
+* Desc: 
+>Similar in concept and usage to Ranger, her airstrikes come out faster but don't provide close to the same weight of fire.  
+Still, high plane efficiency coupled with a neat AA buff for the backline allows her to be decently useful and cost-effective in most situations.
+
 #### ![CV](https://azurlane.koumakan.jp/w/images/1/1b/WaspChibi.png "USS Wasp") - [USS Wasp](https://azurlane.koumakan.jp/Wasp)
-* Skill: When there is a Royal Navy ship in the Main Fleet, every time Wasp launches an airstrike, there is a 30% (50%) chance of launching another round of airstrike with Spitfires. 
+* Skill: 
+  * When deployed w/ at least 1 HMS backliner and upon airstrike launch, 50% chance to launch a Spitfire squadron.
+  * Has a 3/3/2 loadout.
 
-* Loadout: 3/3/2
-
-- Desc: "SMOL WASP YO"
+- Desc: SMOL WASP YO!
 >The cheapest CV in the game, by virtue of her Blue rarity... and that's pretty much it, as far as remarkable features go.  
 Her staline is somewhat lacklustre, her skill doesn't add much to her DPS and pushes you into using HMS backliners.  
 While definitely usable, her only real use case would be plugging Hard Mode enforced ship requirements.
@@ -1074,8 +1081,7 @@ While definitely usable, her only real use case would be plugging Hard Mode enfo
 * Skill: 
   * Increases experience gained by CV/L by 15%
   * +15% Aviation to all CV/L for 8s after Houshou launches an airstrike.
-
-* Loadout: 3/0/3
+  * Has a 3/0/3 loadout.
 
 * Desc: 
 >The first carrier to ever sail the seas, and it shows. As THE early prototype for the ships that would later dominate the oceans, she's incredibly weak and brought further down by her mandatory CL gun - which can barely deal scratch damage, owing to her 0 Firepower statline.  
