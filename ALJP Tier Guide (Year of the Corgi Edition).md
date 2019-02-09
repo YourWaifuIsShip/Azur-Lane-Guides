@@ -1404,14 +1404,26 @@ Manual only, but the results are guaranteed; and if you need the exp boost, keep
 >Once a meme, now a force to be reckoned with. Think of her as a barrage boat in carrier form - her main job is blasting ships into smithereens, and she does that remarkably well with two powerful skills dedicated precisely to that and a solid statline.  
 Just don't expect much in the way of support, beyond the air coverage provided by her okay fighters.
 
+ #### ![CVL](https://i.imgur.com/te8TrVP.png "Chaser") - [HMS Chaser](https://azurlane.koumakan.jp/Chaser)
+* Skill: 
+  * Upon airstrike launch, 15% chance to immediately reload it.
+  * Upon airstrike launch, reveal all submarines on the screen for 10s and launch three biplanes armed with depth charges and two parallel torpedoes each.
+  * Has a 3/0/3 loadout.
+
+* Desc: 
+>Chaser had a look at Ranger before leaving for the Royals and realised she was up to something good.  
+With functionally 9 planes at her back and call without giving up her AA guns or high Reload, she can handily rival most other CVL in DPS while keeping some support capabilites to her credit - as well as a decent chance to throw out torrents of planes.  
+That said, she's still mostly an attack craft - her ASW capabilties, while a nice touch, are entirely useless on non-ASW maps and unnecessary there, given how easily dealt with subs are.
+
+
 ![CV](https://azurlane.koumakan.jp/w/images/0/00/IllustriousChibi.png "HMS Illustrious") - **[HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)**
 * Skill: 
   * Upon airstrike launch, grants every vanguard unit a shield for 10% of Illustrious' max HP, lasting 8s.
   * Has a 6/0/2 loadout.
 
 * Desc: 
->A very defensive-focused CV with double fighter slots and a shield generator.  
-Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (like Eldridge's).
+>A very defensive-focused CV with double fighter slots and a shield generator. Her low DPS is the stuff of legend.    
+Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo strikes.
 
 ![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(T0 w/ Shoukaku)**
 * Skill: 
