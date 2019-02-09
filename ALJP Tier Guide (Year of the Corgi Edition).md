@@ -1373,18 +1373,7 @@ Her only real flaw is her lacking Reload, a mere 100 compared to most other top-
 
 ### Tier 2:
 ---
-
-![CVL](https://azurlane.koumakan.jp/w/images/1/16/BogueKaiChibi.png "USS Bogue Kai") - **[USS Bogue Kai](https://azurlane.koumakan.jp/Bogue)**
-* Skill: 
-  * 15% activation when launching an airstrike, the next airstrike becomes available immediately
-  * Increases AA for backline by 15%, does not stack with other command skills that have similar effect.
-  * Has a 3/3/0 loadout.
-
-* Desc: 
->Similar in concept and usage to Ranger, her airstrikes come out faster but don't provide quite the same weight of fire.  
-Still, high plane efficiency coupled with a neat AA buff for the backline allows her to be quite helpful in most situations - and with the advent of ASW, she's the best CVL for the task.
- 
- #### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
+#### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
 * Skill: 
   * Increases experience gained by CV by 15%
   * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
@@ -1436,6 +1425,16 @@ Her niche is providing air superiority and protecting the frontline from harm th
 Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be.
 
 ### Honourable Mention:
+#### ![CVL](https://azurlane.koumakan.jp/w/images/1/16/BogueKaiChibi.png "USS Bogue Kai") - **[USS Bogue Kai](https://azurlane.koumakan.jp/Bogue)**
+* Skill: 
+  * 15% activation when launching an airstrike, the next airstrike becomes available immediately
+  * Increases AA for backline by 15%, does not stack with other command skills that have similar effect.
+  * Has a 3/3/0 loadout.
+
+* Desc: 
+>Similar in concept and usage to Ranger, her airstrikes come out faster but don't provide close to the same weight of fire.  
+Still, high plane efficiency coupled with a neat AA buff for the backline allows her to be decently useful and cost-effective in most situations.
+
 #### ![CV](https://azurlane.koumakan.jp/w/images/1/1b/WaspChibi.png "USS Wasp") - [USS Wasp](https://azurlane.koumakan.jp/Wasp)
 * Skill: 
   * When deployed w/ at least 1 HMS backliner and upon airstrike launch, 50% chance to launch a Spitfire squadron.
