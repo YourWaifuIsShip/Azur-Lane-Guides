@@ -985,11 +985,20 @@ They don't launch fast, but when they do they really leave a mark - make sure to
 * Skill: 
   * Airstrikes deploy a round of Torpedoes from Swordfish planes and slow enemies by 60% for 8s
   * 25% chance to do double damage on Airstrike.
-
-* Loadout: 0/2/6
-
+  * Has a 0/2/6 loadout.
+  
 * Desc: 
 >A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen. Whether it's boss-busting or wave-clearing, give her the appropriate planes and she won't fail to impress - just don't expect much of anything from her terrible DBs.
+
+![CVL](https://azurlane.koumakan.jp/w/images/6/62/RyuujouChibi.png "Ryuujou") - **[IJN Ryuujou](https://azurlane.koumakan.jp/Ryuujou)**
+* Skill: 
+  * After ANY allied air strike, 70% chance for +15% Aviation (self) and +15% Reload (all CVL) and -15% damage received (all CV/L) for 8s
+  * 5 seconds after her first two airstrikes, launches 3 additional Suisei (dropping x1 1000lb bomb, x2 100lb bombs).
+  * Has a 3/0/3 loadout.
+
+* Desc: 
+>A powerful little cheerleader for the rest of your carriers, armed with a limited complement of surplus Suisei to throw out.  
+Her ability to buff whenever an airstrike is called in is both interesting and effective, giving her a rather remarkable uptime that also happens to further cut down on her already great Reload, and the extra Suisei are a nice little addition.
 
 ![CV](https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** **(T0 w/ other KMS units)**
 * Skill: 
