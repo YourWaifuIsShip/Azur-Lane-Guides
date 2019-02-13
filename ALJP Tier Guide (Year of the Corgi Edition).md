@@ -806,7 +806,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 * Desc: 
 >Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "Deutschland") ![CA](https://azurlane.koumakan.jp/w/images/b/b1/Admiral_Graf.SpeeChibi.png "Admiral Graf Spee") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)** **[KMS Admiral Graf Spee](https://azurlane.koumakan.jp/Admiral_Graf.Spee)**
+![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "Deutschland") ![CA](https://azurlane.koumakan.jp/w/images/0/04/Admiral_Graf_SpeeChibi.png "Admiral Graf Spee") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)** & **[KMS Admiral Graf Spee](https://azurlane.koumakan.jp/Admiral_Graf.Spee)**
 * Skill: 
   * Deal +35% damage to DD/CL.
   * May equip the 283mm SKC28, but shouldn't.
@@ -1039,6 +1039,18 @@ A steep price to pay, especially considering how weak the seaplanes are in compa
 > An unassuming figure and a merely okay statline belies one of the best buffs in the game - albeit faction-locked, and reliant on large fleets to make the most of it.  
 You're not taking her because she's good, but because she's a force multiplier.
  
+ ![BB](https://i.imgur.com/y3gjZTq.jpg "HMS Warspite") - **[HMS Warspite Kai](https://azurlane.koumakan.jp/Warspite#retrofit)**
+* Skill: 
+  * +10s after the start of the battle and every 15s afterwards, fires two aimed AP auto-critting shells at the farthest available target AND places a marker upon it (increasing the chances other HMS backliners will fire upon it); also, the first barrage will deal +130% damage.
+  * Gain -5 Dispersion to the Main Gun, +15% FP and +15% HitRate against DD.
+
+- Desc: The Queen's Royal Corgi.
+>Well, the Kai's come and gone, and Warspite's left in more or less the same position she once was - as far as PvE is concerned, at least.  
+While her statline did enjoy a substantial offensive boost in the form of more stats, higher Efficiencies and a strong passive skill, her new-and-improved barrage suffers from the same unreliability that torpedoed her shot(s) at glory - as powerful as those AP shells now are, they're still all too likely to be fired at Light targets (or worse, at fireboats), while the marker part of barrage appears to be bafflingly ineffectual, as evidenced both by *HMS BB/C still opening fire on unmarked targets* and by the possibility of *multiple markers coexisting, negating the supposed benefits*.  
+On the bright side, Warspite's newfound strength lets her be competitive there once more in the PvP areans, where her intended targets are always armoured, immobile and valuable.  
+[Also, she's still a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
+ 
+ 
  ![BB](https://azurlane.koumakan.jp/w/images/8/8a/KirishimaChibi.png "Kirishima") - **[IJN Kirishima](https://azurlane.koumakan.jp/Kirishima)**
 * Skill: 
   * 60% chance upon Main Gun fire, launch a semi-aimed Sanshikidan barrage (8 shells in two waves of four, heading towards the nearest enemies); also, deal +15% damage to BB.
@@ -1105,13 +1117,7 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
 * Desc: 
 >Demands a specific fleet composition to outshine her competition, but is it sweet when she does - +25% FP, AA, Reload and Evasion are nothing to laugh at, but it cannot be understated how much she limits your composition.
 
-![BB](https://azurlane.koumakan.jp/w/images/8/87/WarspiteChibi.png "HMS Warspite") - **[HMS Warspite](https://azurlane.koumakan.jp/Warspite)** **(T1.5 if deployed w/ Queen Elizabeth)**
-* Skill: Every 15s, fires a 2-bullet AP salvo at the furthermost target. This salvo will automatically crit.
 
-- Desc: "The Queen's Royal Corgi".
->Warspite's historical achievements may be impressive, but AL does little justice to them beyond giving her the highest base FP of all BB (PR notwithstanding) and an okay statline elsewhere. What brings her down is partly her effective FP being lower than many others', but mostly her useless skill: an automated, autocritting barrage sounds great, until you realise it struggles immensely hitting anything that's not a stationary target and that the AP modifier makes it useless against the very common Light Armour in the game.  
-[Also, she's a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
- 
 ![BC](https://azurlane.koumakan.jp/w/images/c/c1/RenownChibi.png "HMS Renown") - **[HMS Renown](https://azurlane.koumakan.jp/Renown)** **(T1.5 if deployed w/ Queen Elizabeth)**
 * Skill: 
   * Upon first Main Gun fire, +15% Damage to all subsequent salvo (does not stack nor reset).
