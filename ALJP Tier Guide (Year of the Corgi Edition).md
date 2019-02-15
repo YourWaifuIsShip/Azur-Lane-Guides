@@ -120,6 +120,15 @@ Proud owner of a quick-firing, high-volume, AP conal barrage with four homing to
 >Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even exceed the tens of thousands.  
 On the flip side, Torpedoes are all she's got and once she's blown her load, she won't have much to do except waiting for them to come back online. The DPH monster to LafKai's DPS.
 
+![DD](https://azurlane.koumakan.jp/w/images/4/49/KawakazeChibi.png "Kawakaze") - **[IJN Kawakaze](https://azurlane.koumakan.jp/Kawakaze)**
+* Skill:
+  * All IJN DD deal +15% damage to CL/CA.
+  * Her torpedoes always deal 115% damage against all targets, regardless of the normal torpedo modifiers (80/100/130)
+
+* Desc: Black Not Shooter.
+>A veritable turncoat of a DD, Kawakaze's main purpose is making Light Armoured units' lives hell by drilling right through it with her torps and her stellar torpedo-armed barrage - and she accomplishes it beautifully.  
+Terrifyingly effective against her intended targets, to the point of overtaking even Ayanami Kai - but she does still lose to her when faced with Heavy Armour, against which her skill puts her at a disadvantage.
+
 ![DD](https://azurlane.koumakan.jp/w/images/c/c3/YuudachiChibi.png "Yuudachi") - **[Poi (IJN Yuudachi)](https://azurlane.koumakan.jp/Yuudachi)**
 * Skill:
   * 6% chance on Main Gun fire for +40% FP/Torp/Evasion/Reload to self.
@@ -172,6 +181,15 @@ With no real weakness on display, beyond simply not being quite as good as more 
  
 ### Tier 1.5:
 ---
+![DD](https://azurlane.koumakan.jp/w/images/3/37/MauryChibi.png "USS Maury") - **[USS Maury](https://azurlane.koumakan.jp/Maury)**
+* Skill:
+  * 40% chance every 10s to raise evasion by 60% for 8s
+  * Upon launching torpedoes, 30% chance to launch a second spread
+
+* Desc: 
+>Good double torpedoes and merely passable guns? On my USS DD? It's more likely than you think.  
+Maury does things differently from many of her colleagues, but she does them well - despite not quite reaching the torp heights of the IJN or the gunnery of the KMS, she strikes a comfortable balance between the two factions and proves a reliable, independent addition to most fleets.
+
 ![DD](https://azurlane.koumakan.jp/w/images/f/f3/JavelinKaiChibi.png "Javelin Kai") - **[HMS Javelin Kai](https://azurlane.koumakan.jp/Javelin#Retrofit)**
 * Skill:
   * 5% chance on firing main gun to boost Evasion by 60% for 8s
@@ -259,15 +277,6 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
 
 * Desc: 
 >Lynchpin of the Fletcher Trio, think of her as an USS Z1 with a greater focus on gunnery as opposed to torps, as befitting her nation's doctrine. Very solid and dependable, but obviously better with other Fletchers.
-
-![DD](https://azurlane.koumakan.jp/w/images/3/37/MauryChibi.png "USS Maury") - **[USS Maury](https://azurlane.koumakan.jp/Maury)**
-* Skill:
-  * 40% chance every 10s to raise evasion by 60% for 8s
-  * 30% chance to launch a second salvo on torpedo launch
-
-* Desc: 
->Another DD with double-launch skill, always useful to have. The quick-firing Evasion skill is also fairly welcome.
- 
  
  ![DD](https://azurlane.koumakan.jp/w/images/5/5a/ArdentKaiChibi.png "HMS Ardent Kai")- **[HMS Ardent Kai](https://azurlane.koumakan.jp/Ardent#Retrofit)**
 * Skill: 
