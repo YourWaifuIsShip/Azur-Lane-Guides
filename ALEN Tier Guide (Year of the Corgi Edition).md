@@ -260,6 +260,7 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
  
  
 ### Pro Team Players:
+---
 #### ![DD](https://azurlane.koumakan.jp/w/images/c/cc/An_ShanChibi.png "Anshan") ![DD](https://azurlane.koumakan.jp/w/images/2/20/Chang_ChunChibi.png "Changchun") ![DD](https://azurlane.koumakan.jp/w/images/7/7f/Fu_ShunChibi.png "Fushun") ![DD](https://azurlane.koumakan.jp/w/images/f/f5/Tai_YuanChibi.png "Taiyuan") - [PRAN Anshan](https://azurlane.koumakan.jp/An_Shan), [PRAN Changchun](https://azurlane.koumakan.jp/Chang_Chun), [PRAN Fushun](https://azurlane.koumakan.jp/Fu_Shun) [PRAN Taiyuan](https://azurlane.koumakan.jp/Tai_Yuan) **(T1.5)**
 * Skill (Anshan): While in combat, Anshan-class (all PRAN) ships have increased Accuracy, Firepower by 25% and evasion by 10%
 * Skill (Changchun): Increases Firepower, Reload and Accuracy by 12% for all North Union and Eastern Radiance (ROC, PRAN) ships in fleet.
@@ -282,12 +283,13 @@ Use Fushun if you don't want to pony up for a full fleet: her DPS won't be as st
 Unusually for these sorts of teams, its members' statlines differ slightly: Crescent is shooty (high FP), Comet is torpy (high Torp), Cygnet is slippery (high Eva). Equip and wield them accordingly.
  
  
-### Honorable Mention:
+### Honourable Mentions:
+---
 #### ![DD](https://azurlane.koumakan.jp/w/images/7/7c/CassinChibi.png "USS Cassin") ![DD](https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png "USS Downes") [USS Cassin](https://azurlane.koumakan.jp/Cassin) & [USS Downes](https://azurlane.koumakan.jp/Downes)
 * Skill:
   * Once per fight, restore 25% max HP upon falling under 20% HP.
 
-* Desc: "Cheap and inexpensive bubblewrap".
+* Desc: Cheap and inexpensive bubblewrap.
 >While their Kai does augment their DPS somewhat, it's fair to say that the star of the show is still their self-rescue skill and their pretty good base HP; therefore, if all you want are some ablative wounds for a more valuable unit or just something to stall with while the backline does all the work, there are no better options than a 0LB Cassin and Downes.
 
 
@@ -457,7 +459,7 @@ More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
   * +35% Damage to the entire vanguard.
   * Has MGM+1 and Torpedoes.
 
-- Desc: "Союз нерушимый республик свободных~ ♪♫♬"
+- Desc: Союз нерушимый республик свободных~ ♪♫♬
 >The burden and glory of the true revolutionary is heavy indeed, and Avrora shows it through and through.  
 Her buff is the absolute best in the entire game, no exception allowed; she gets MGM+1 while keeping her torps, a rarity only six other ships have access to; and her Armour is Medium, letting her outlast a good number of her competitors.  
 As amazing as all this sounds, she is let down by one glaring flaw - her abysmal offensive statline, which even her impressive buff struggles to shore up, compounded with pre-WW1-era engines that grant her the questionable honour of being the slowest ship in the game (tied with Yat Sen).  
@@ -465,6 +467,7 @@ All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and a
 
  
 ### Pro Team Players:
+---
 #### ![CL](https://azurlane.koumakan.jp/w/images/6/60/Ping_HaiKaiChibi.png "Ping Hai Kai") ![CL](https://azurlane.koumakan.jp/w/images/d/d4/Ning_HaiKaiChibi.png "Ning Hai Kai") ![CL](https://azurlane.koumakan.jp/w/images/e/ed/Yat_SenChibi.png "Yat Sen") - [ROC Ping Hai Kai](https://azurlane.koumakan.jp/Ping_Hai#retrofit), [ROC Ning Hai Kai](https://azurlane.koumakan.jp/Ning_Hai#retrofit), [ROC Yat Sen](https://azurlane.koumakan.jp/Yat_Sen) **(T1)**
 * Skill (Ping Hai Kai): 
   * If the vanguard contains Ning Hai, +35% FP.
@@ -486,12 +489,13 @@ All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and a
 Nothing about these three looks usable, until you start deploying them together - at which point the sisters start evading better than basically anyone else in the game, even on the Single Line formation, achieveing unrivaled amounts of effective HP while dishing out respectable DPS besides.  
 Lots of investment needed and Yat Sen MUST be protected at all costs (hint, place her between Ping and Ning), but they're the ultimate stonewall - if that's what you're looking for, it's worth it.
  
-### Honorable Mention:
+### Honourable Mentions:
+---
 #### ![CL](https://azurlane.koumakan.jp/w/images/6/66/JuneauChibi.png "USS Juneau") [USS Juneau](https://azurlane.koumakan.jp/Juneau)
 * Skill: 
   * Upon sinking, heals the entire fleet by 25%.
 
-- Desc: "SHE DIES FOR YOUR SINS"
+- Desc: SHE DIES FOR YOUR SINS
 >Cursed to die over and over again in PvP due to her ludicrously powerful healing skill, which can on its own change the course of a fight, this poor girl has little to no place in PvE as you do NOT want your units to die there in the first place and her offensive power is lacklustre at best.  
 Her one job is being immensely irritating/powerful in the arena, and dying for you. You monster.
  
@@ -653,7 +657,8 @@ Also, she's slightly better at AA than her sisters (key word being "slightly", t
 - Desc: "HAAH?!"
 >Damage control is about lowering the incoming damage as much as it is about preventing it in the first place, and Hipper learns the right lesson from Prinz Eugen - despite her much lower HP, Hipper's superior offensive statline and slightly improved tanking skills let her fulfil her role better and for cheaper. 
 
-### Honourable Mentions
+### Honourable Mentions:
+---
 ![CA](https://azurlane.koumakan.jp/w/images/5/5d/Prinz_EugenChibi.png "KMS Prinz Eugen") - **[KMS Prinz Eugen](https://azurlane.koumakan.jp/Prinz_Eugen)**
 * Skill: 
   * 20s 70% chance to spawn 3 rotating shields (durability: 10 shots each).
@@ -849,7 +854,8 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
 * Desc: 
 >Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself properly.
 
-### Honorable Mention:
+### Honourable Mentions:
+---
 #### ![BM](https://azurlane.koumakan.jp/w/images/f/fe/TerrorChibi.png "HMS Terror") ![BM](https://azurlane.koumakan.jp/w/images/a/a3/ErebusChibi.png "HMS Erebus") [HMS Terror](https://azurlane.koumakan.jp/Terror) [HMS Erebus](https://azurlane.koumakan.jp/Erebus)
 * Skill: Every 20s, 60% chance to fire a special barrage.
 
@@ -1079,7 +1085,8 @@ Her niche is providing air superiority and protecting the frontline from harm th
 >An extra-tough carrier designed for prolonged fights, which basically means 'boss battles only'.  
 Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be.
 
-### Honorable Mention:
+### Honourable Mentions:
+---
 #### ![CVL](https://azurlane.koumakan.jp/w/images/1/16/BogueKaiChibi.png "USS Bogue Kai") - **[USS Bogue Kai](https://azurlane.koumakan.jp/Bogue)**
 * Skill: 
   * 15% activation when launching an airstrike, the next airstrike becomes available immediately
