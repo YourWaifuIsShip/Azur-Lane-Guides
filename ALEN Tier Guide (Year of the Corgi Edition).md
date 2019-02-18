@@ -139,6 +139,15 @@ As it is for Phoenix, they are best used in mobbing fleets.
  
 ### Tier 1.5:
 ---
+![DD](https://azurlane.koumakan.jp/w/images/3/37/MauryChibi.png "USS Maury") - **[USS Maury](https://azurlane.koumakan.jp/Maury)**
+* Skill:
+  * 40% chance every 10s to raise evasion by 60% for 8s
+  * Upon launching torpedoes, 30% chance to launch a second spread
+
+* Desc: 
+>Good double torpedoes and merely okay guns? On my USS DD? It's more likely than you think.  
+Maury does things differently from many of her colleagues, but she does them well - despite not quite reaching the torp heights of the IJN or the gunnery of the KMS, she strikes a comfortable balance between the two factions and proves a reliable, independent addition to most fleets.
+
 ![DD](https://azurlane.koumakan.jp/w/images/f/f3/JavelinKaiChibi.png "Javelin Kai") - **[HMS Javelin Kai](https://azurlane.koumakan.jp/Javelin#Retrofit)**
 * Skill:
   * 5% chance on firing main gun to boost Evasion by 60% for 8s
@@ -207,14 +216,6 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
 
 * Desc: 
 >Lynchpin of the Fletcher Trio, think of her as an USS Z1 with a greater focus on gunnery as opposed to torps, as befitting her nation's doctrine. Very solid and dependable, but obviously better with other Fletchers.
-
-![DD](https://azurlane.koumakan.jp/w/images/3/37/MauryChibi.png "USS Maury") - **[USS Maury](https://azurlane.koumakan.jp/Maury)**
-* Skill:
-  * 40% chance every 10s to raise evasion by 60% for 8s
-  * 30% chance to launch a second salvo on torpedo launch
-
-* Desc: 
->Another DD with double-launch skill, always useful to have. The quick-firing Evasion skill is also fairly welcome.
  
 ![DD](https://azurlane.koumakan.jp/w/images/6/64/NicholasChibi.png "USS Nicholas") - **[USS Nicholas](https://azurlane.koumakan.jp/Nicholas)** **(T1.5 w/ Fletcher)**
 * Skill:
