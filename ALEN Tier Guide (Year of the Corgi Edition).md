@@ -363,6 +363,13 @@ Still, there's very few finer, more reliable frontline tanks than she - and that
 
 * Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
 
+![CL](https://azurlane.koumakan.jp/w/images/e/e7/SheffieldChibi.png "Sheffield") - **[HMS Sheffield](https://azurlane.koumakan.jp/Sheffield)**
+* Skill:
+  *  Allied ships with lower current HP than Sheffield at the start of battle have a 30% chance to take -50% dmg upon taking damage.
+  * +12% CritRate and +30% CritDmg to self.
+
+* Desc: Amazing how some spit and polish can enhance decimetres thick armour, isn't it?
+>Rivaled by very few in the field of damage reduction buffs, Sheffield's defensive skill can greatly extend the survivability of almost any given vanguard, especially DD ones (provided she's placed in the middle and her HP has been raised above those she is meant to protect); and she'll do it while still being capable of packing a serious, if swingy, punch.
  
 ### Tier 1.5:
 ---
@@ -661,6 +668,14 @@ If you're looking that something that won't die anytime soon, look no further; i
 ## BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")
 ### Tier 0:
 ---
+
+![BB](https://azurlane.koumakan.jp/w/images/4/45/Duke_of_YorkChibi.png "Duke of York") - **[HMS Duke of York](https://azurlane.koumakan.jp/Duke_of_York)**
+* Skill: 
+  * Every 20s, fires an aimed Normal slowing (-40% Speed for 6s) barrage (4 356mm quad-like shots) at the farthest available target.
+  * Enemies hit by Duke of York's Main Gun fire take +12% damage from all sources for 8s; also, her first volley deals x1.5 damage.
+
+- Desc: 
+>With stats coming close to Warspite's stellar FP and Reload and a suite of skills aimed at softening the enemy up, not only she can lay on the hurt but she can also make sure her fellow warships do the same. A worthy inclusion in every fleet.
 
 ![BC](https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png "IJN Amagi") - **[IJN Amagi](https://azurlane.koumakan.jp/Amagi)**
 * Skill: 
@@ -990,16 +1005,6 @@ They don't launch fast, but when they do they really leave a mark - make sure to
 * Desc: 
 >A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen. Whether it's boss-busting or wave-clearing, give her the appropriate planes and she won't fail to impress - just don't expect much of anything from her terrible DBs.
 
-![CVL](https://azurlane.koumakan.jp/w/images/6/62/RyuujouChibi.png "Ryuujou") - **[IJN Ryuujou](https://azurlane.koumakan.jp/Ryuujou)**
-* Skill: 
-  * After ANY allied air strike, 70% chance for +15% Aviation (self) and +15% Reload (all CVL) and -15% damage received (all CV/L) for 8s
-  * 5 seconds after her first two airstrikes, launches 3 additional Suisei (dropping x1 1000lb bomb, x2 100lb bombs).
-  * Has a 3/0/3 loadout.
-
-* Desc: 
->A powerful little cheerleader for the rest of your carriers, armed with a limited complement of surplus Suisei to throw out.  
-Her ability to buff whenever an airstrike is called in is both interesting and effective, giving her a rather remarkable uptime that also happens to further cut down on her already great Reload, and the extra Suisei are a nice little addition.
-
 ![CV](https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** **(T0 w/ other KMS units)**
 * Skill: 
   * 30% increase in efficiency for equipped German planes
@@ -1054,6 +1059,15 @@ That said, she's still mostly an attack craft - her ASW capabilties, while a nic
 * Desc: 
 >A very defensive-focused CV with double fighter slots and a shield generator. Her poor DPS is the stuff of legend.
 Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo attack runs.
+
+#### ![CVL](https://azurlane.koumakan.jp/w/images/6/62/RyuujouChibi.png "Ryuujou") - **[IJN Ryuujou](https://azurlane.koumakan.jp/Ryuujou)**
+* Skill: 
+  * Upon airstrike launch, 70% chance for +15% Aviation (self) and +15% Reload (all CVL) and -15% damage received (all CV/L) for 8s
+  * 5 seconds after her first two airstrikes, launches 3 additional Suisei (dropping x1 1000lb bomb, x2 100lb bombs).
+  * Has a 3/0/3 loadout.
+
+* Desc: 
+>A decent little cheerleader for the rest of your carriers, armed with a limited complement of surplus Suisei to throw out and a solid statline to supplement the smattering of buffs she throws out. Ok.
 
 #### ![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(T0 w/ Shoukaku)**
 * Skill: 
