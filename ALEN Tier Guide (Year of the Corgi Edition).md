@@ -773,6 +773,14 @@ A steep price to pay, especially considering how weak the seaplanes are in compa
  
 ### Tier 1.5:
 ---
+![BB](https://azurlane.koumakan.jp/w/images/b/be/NevadaKaiChibi.png "Nevada Kai") ![BB](https://azurlane.koumakan.jp/w/images/0/0b/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
+* Skill: 
+  * 8% chance to reduce any damage taken by 50% on taking damage
+  * 30% chance to do double damage when firing main gun
+
+* Desc: 
+>Similar in form, statline and function to her bigger, blacker cousin - AA and backline-wide tank skill aside - these cowgirls operate at a fraction of Sodak's cost while providing similar results. Still RNG, yes, but still quite solid.
+
 ![BB](https://azurlane.koumakan.jp/w/images/8/80/South_DakotaChibi.png "USS South Dakota") - **[USS South Dakota](https://azurlane.koumakan.jp/South_Dakota)**
 * Skill: 
   * Every 30s, absorb 50% damage taken by main fleet for 8s, then heal for 50% of the damage taken during that time
