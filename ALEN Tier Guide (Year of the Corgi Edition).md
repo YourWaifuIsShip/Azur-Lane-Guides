@@ -40,7 +40,7 @@ Good reading, and godspeed cap'n!
 - DD                  : Laffey > Ayanami = Z23 > Cassin/Downes > Tanikaze > Javelin > Fortune
 - CL                  : Jintsuu > Leander > Ping Hai/Ning Hai > Abukuma > Ajax/Achilles
 - CA                  : Portland > Furutaka/Kako > Suffolk
-- BB/C                : Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) > Warspite*
+- BB/C                : Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) > Nevada/Oklahoma > Warspite*
 - CV/L                : Ranger = Shouhou > Langley
   
   
