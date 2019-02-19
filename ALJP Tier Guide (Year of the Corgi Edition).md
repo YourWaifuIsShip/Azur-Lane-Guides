@@ -40,7 +40,7 @@ Good reading, and godspeed cap'n!
 - DD                  : Laffey > Ayanami = Z23 > Cassin/Downes > Kagerou = Tanikaze > Nicholas > Javelin > Foxhound
 - CL                  : San Diego* > Jintsuu > Leander > Ping Hai/Ning Hai > Abukuma > Ajax/Achilles
 - CA                  : Mogami > Portland > Furutaka/Kako > Suffolk
-- BB/C                : Hyuuga > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) > Warspite* > Nevada/Oklahoma
+- BB/C                : Hyuuga > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) > F* > Nevada/Oklahoma
 - CV/L                : Ranger = Shouhou > Hiryu/Soryu > Saratoga > Langley
   
   
@@ -1056,6 +1056,7 @@ You're not taking her because she's good, but because she's a force multiplier.
 * Skill: 
   * +10s after the start of the battle and every 15s afterwards, fires two aimed AP auto-critting shells at the farthest available target AND places a marker upon it (increasing the chances other HMS backliners will fire upon it); also, the first barrage will deal +130% damage.
   * Gain -5 Dispersion to the Main Gun, +15% FP and +15% HitRate against DD.
+  * She may take 1 ASW plane as an auxiliary item. HISTORICAL REFERENCES HO!
 
 - Desc: The Queen's Royal Corgi.
 >Well, the Kai's come and gone, and Warspite's left in more or less the same position she once was - as far as PvE is concerned, at least.  
