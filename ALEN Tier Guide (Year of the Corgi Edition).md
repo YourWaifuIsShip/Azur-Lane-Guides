@@ -775,11 +775,12 @@ A steep price to pay, especially considering how weak the seaplanes are in compa
 ---
 ![BB](https://azurlane.koumakan.jp/w/images/b/be/NevadaKaiChibi.png "Nevada Kai") ![BB](https://azurlane.koumakan.jp/w/images/0/0b/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
 * Skill: 
-  * 8% chance to reduce any damage taken by 50% on taking damage
-  * 30% chance to do double damage when firing main gun
+  * Upon taking damage, 8% chance to halve that damage.
+  * Upon main gun fire, 30% chance to double the volley damage.
 
 * Desc: 
->Similar in form, statline and function to her bigger, blacker cousin - AA and backline-wide tank skill aside - these cowgirls operate at a fraction of Sodak's cost while providing similar results. Still RNG, yes, but still quite solid.
+>Similar in form, statline and function to their bigger, blacker cousin - AA and backline-wide tank skill aside - these cowgirls operate at a fraction of Sodak's cost while providing similar results.  
+Still RNG, yes, but still quite solid and there's nobody cheaper than them, at least in their class.
 
 ![BB](https://azurlane.koumakan.jp/w/images/8/80/South_DakotaChibi.png "USS South Dakota") - **[USS South Dakota](https://azurlane.koumakan.jp/South_Dakota)**
 * Skill: 
