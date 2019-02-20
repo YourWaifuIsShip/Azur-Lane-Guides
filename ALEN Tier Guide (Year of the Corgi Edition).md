@@ -376,7 +376,7 @@ Still, there's very few finer, more reliable frontline tanks than she - and that
  
 ![CL](https://azurlane.koumakan.jp/w/images/c/cf/SiriusChibi.png "Sirius") - **[HMS Sirius](https://azurlane.koumakan.jp/Sirius)** **(T0 w/ carriers)**
 * Skill:
-  * Grant +10% Aviation and +10% HitRate vs DD/CL/CA to CV/Ls in the fleet; also, +7% gain Firepower/Torpedo/Reload for every CV/L in the fleet.
+  * Grant +10% Aviation and +10% HitRate vs DD/CL/CA to CV/Ls in the fleet; also, gain +7% Firepower/Torpedo/Reload for every CV/L in the fleet.
   * Gain +20% FP.
   * Can use DD guns, and should.
   
