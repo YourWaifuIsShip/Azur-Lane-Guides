@@ -374,6 +374,17 @@ Still, there's very few finer, more reliable frontline tanks than she - and that
 * Desc: Amazing how some spit and polish can enhance decimetres thick armour, isn't it?
 >Rivaled by very few in the field of damage reduction buffs, Sheffield's defensive skill can greatly extend the survivability of almost any given vanguard, especially DD ones (provided she's placed in the middle and her HP has been raised above those she is meant to protect); and she'll do it while still being capable of packing a serious, if swingy, punch.
  
+![CL](https://azurlane.koumakan.jp/w/images/c/cf/SiriusChibi.png "Sirius") - **[HMS Sirius](https://azurlane.koumakan.jp/Sirius)** **(T0 w/ carriers)**
+* Skill:
+  * +10% Aviation and +10% HitRate vs DD/CL/CA; also, +7% Firepower/Torpedo/Reload for every CV/L in the fleet.
+  * +20% FP.
+  * Can use DD guns, and should.
+  
+* Desc: Not 2B taken lightly.
+>Similar in a few ways to Jintsuu, Sirius offers a spectacular buff to a specific subset of units while benefiting greatly from it herself - significant enough to offset her otherwise unimpressive statline and really get the most out of her DD guns.
+Gunnery is her main asset, and her barrage even more so - one of the absolute best as far as vanguards are concerned, very quick and hard-hitting despite the unassuming Normal shells, and unique in its narrowing pattern, which makes landing most of the shots from long range a rather simple task.  
+That said, you will need to deploy a few carriers to get the full experience and with her barrage making up a significant portion of her overall DPS, her auto performance will suffer - handle with care. 
+ 
 ### Tier 1.5:
 ---
 ![CL](https://azurlane.koumakan.jp/w/images/4/43/BrooklynChibi.png "USS Brooklyn") - **[USS Brooklyn](https://azurlane.koumakan.jp/Brooklyn)**
