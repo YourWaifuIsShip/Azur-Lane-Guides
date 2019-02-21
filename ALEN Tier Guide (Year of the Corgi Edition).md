@@ -387,7 +387,7 @@ Still, there's very few finer, more reliable frontline tanks than she - and that
   * Gain +20% FP.
   * Can use DD guns, and should.
   
-* Desc: Not 2B taken lightly.
+* Desc: Not [2B](https://i.imgur.com/jF188O7.jpg) taken lightly.
 >Similar in a few ways to Jintsuu, Sirius offers a spectacular buff to a specific subset of units while benefiting greatly from it herself - significant enough to offset her otherwise unimpressive statline and really get the most out of her DD guns.
 Gunnery is her main asset, and her barrage even more so - one of the absolute best as far as vanguards are concerned, very quick and hard-hitting despite the unassuming Normal shells, and unique in its narrowing pattern, which makes landing most of the shots from long range a rather simple task.  
 That said, you will need to deploy a few carriers to get the full experience and with her barrage making up a significant portion of her overall DPS, her auto performance will suffer - handle with care. 
