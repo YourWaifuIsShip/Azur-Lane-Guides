@@ -14,7 +14,8 @@ Good reading, and godspeed cap'n!
   
 ### Evaluation Criteria:
 - Ships are tiered by their PvE PERFORMANCE first and foremost, but notes on notable PvP usage will be made if suitable.
-- Ships are tiered according to their ability to act as a STAND-ALONE UNIT; if a unit is strictly meant to be a supporter (eg. Vestal), performs better in a specific composition or under specific circumstances, it will be noted with a second tier mark.
+- Ships are tiered according to their ability to act as a STAND-ALONE unit.
+- Ships unable to fulfil the above criterion (eg. carriers as a whole, Vestal) are rated according to their ability to act as a SUPPORT unit; buffs/debuffs/aa/heals garner higher ranks than sheer damage output, especially during boss fights. See assorted notes for reasoning.
 - Ships are compared to others in their OWN CLASS for tiering purposes; if two ships are have comparable stats and purpose, the least expensive one will be ranked higher.
 - Ships in a tier are listed alphabetically and in order of nationality (USS -> HMS -> IJN -> KMS).
 - All units are assumed to be MAXED (ie. lv100, BiS gear, SL10 across the board).
@@ -49,11 +50,17 @@ Good reading, and godspeed cap'n!
 - Read the VERY IMPORTANT OPENING NOTE at the top.
 - The 'loadout' listed under CV/L entries details the number of planes each unit gets; eg. Unicorn gets 3 Fighters / 0 Dive Bombers / 3 Torpedo Bombers.
 - The asterisk next to a name in the Priority List means the Kai is tied to some sort of event and may not be available right now; also, if you do not see a name in it, it's because it is not worth prioritizing.
+- If you're wondering why carriers are judged differently from the rest, consider the following - they have no self-defence capabilities against suicide boats and are inherently worse than big guns at handling hard targets due to ordnance scatter and unhelpful anti-Heavy modifiers, but their AoE damage dispatches waves better than big guns usually do and come stock with screen clears.
+tldr; BB/BC and CV/CVL do different things, holding them to the same standards makes little sense
+
+  
+  
+#### Credits:
 - This guide is far from a solo effort: while the writing is mine, the tierings are researched and approved collegially with Gurosebe#4054, Enbayft#2527, Cantarella#7963 and the #helpful fellows over at the Azur Lane English Community server, while the coding framework that makes this possible was provided by Enbayft#2527 and improved upon by Boz#5174.  
 Without these people, the Tier Guide would never be as comprehensive, accurate or good-looking as it is, and it is to them that I extend my sincere gratitude.
   
   
-  
+   
 ## Table of Contents 
 - ### [DD ![DD](https://azurlane.koumakan.jp/w/images/thumb/f/f6/DD_img.png/45px-DD_img.png "DD Icon")](#dd--1)
 - ### [CL ![CL](https://azurlane.koumakan.jp/w/images/2/20/CL_img.png "CL Icon")](#cl--1)
@@ -767,6 +774,7 @@ As expensive a price tag as 15 Oil is, Washington makes up for it with a slightl
 * Skill:
   * 50% chance on Main Gun fire to launch a special barrage (long range: tight 4-shot wave, tight 4-shot wave with 2 shots to the sides; short range: wide V-shaped spread of small bullets)
   * 10s after battle start and every 20s, afterwards, launches a torpedo barrage (2 lines of 2 aimed torps).
+  * Akagi counts her as Kaga, thus proccing her +Aviation buff.
 
 - Desc: A sidegrade to Washington.
 >Sturdier, more powerful, better armed and in possession of a much more useful synergy (Akagi still gets her +35% Aviation buff with her) in PvE, BB Kaga - affectionately called "Baga" - does however forfeit some reliability on her enhanced barrage and is stuck with an atrocious AA stat.  
@@ -913,41 +921,82 @@ Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in t
 ![CV](https://azurlane.koumakan.jp/w/images/d/dc/EnterpriseChibi.png "USS Enterprise") - [USS Enterprise](https://azurlane.koumakan.jp/Enterprise)
 * Skill: 
   * 70% chance on airstrike launch, airstrike deals x2 damage and Enterprise becomes invincible for 8s.
-
-* Loadout: 3/3/2
+  * Has a 3/3/2 loadout.
 
 * Desc: 
->The best solo CV in the game, her base stats outstrip those of all her competitors and her skill is as overpowered as it gets. Her only real downside is the chance that the proc may not go off and leave you with just an excellent statline.
- 
- 
- ### Tier 0.5:
- ---
- 
+>The best solo CV currently in the game, courtesy of her generally superior statline and a skill that can reliably lay the smackdown on waves and airwings alike - as well as provide some emergency damage absorption against incoming aircraft or shelling.  
+It's not all bombs and sunshine, though - while her proc rate is high, she is nevertheless very reliant on that proc to perform and her generalist Efficiencies tend to blunt her effectiveness somewhat.
+
+
+
 ![CV](https://azurlane.koumakan.jp/w/images/6/64/AkagiChibi.png "IJN Akagi") ![CV](https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)** **(T0 when together)**
 * Skill: 
   * First Airstrike launches 50% faster
   * When paired, increase Air Power by 35%
+  * Have a 3/2/3 loadout.
 
-* Loadout: 3/2/3
-
-- Desc: "The Foxes launched first."
->Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Airpower and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle (compared to other CVs).  
-As is customary for IJN sister ships, they only shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch is.
+- Desc: The Foxes launched first.
+>Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Airpower and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
+As is customary for IJN sister ships, they truly shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch (and extra screenclear) is.
 
 
-### Tier 1:
----
+![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)** **(T0.5 w/ other CV/L)**
+* Skill: 
+  * On launching an airstrike, heals the escort fleet by 8% of their HP.
+  * On launching an airstrike, +15% Aviation to all CV/L for 8s.
+  * Has a 0/3/3 loadout.
+
+* Desc: 
+>Trades Unicorn's passive frontline Reload buff for a temporary Aviation buff and a significantly superior statline, HP pool aside.  
+Can't match Unicorn in air superiority, lacking fighters, but decisively asserts her dominance in raw damage output - which is what tends to matter the most, most of the time.
+  
+  
+ ### Tier 0.5:
+ ---
 
 ![CVL](https://azurlane.koumakan.jp/w/images/e/e0/RangerKaiChibi.png "USS Ranger Kai") - **[USS Ranger Kai](https://azurlane.koumakan.jp/Ranger)**
 * Skill: 
   * 15% activation when launching an airstrike, the next airstrike becomes available immediately
   * 25% chance of inflicting double damage with airstrike
-
-* Loadout: 0/6/2
+  * Has a 0/6/2 loadout.
 
 * Desc: 
 >Also referred to as RNGer for obvious reasons, and infamous because of her potentially infinite damage, you need luck on your side to get the most out of her; even without the procs, though, very few carriers get close to the sheer damage output she can unleash thanks to her 8 sea-attacking planes and high Efficiencies, and none of them can manage it at her rock-bottom 9 Oil cost.  
 Beware her near-total lack of anti-air presence, though; without Fighters or AA guns to speak of, there's little she can do about enemy planes.
+
+![CVL](https://azurlane.koumakan.jp/w/images/e/e7/UnicornChibi.png "HMS Unicorn") - **[HMS Unicorn](https://azurlane.koumakan.jp/Unicorn)**
+* Skill: 
+  * On launching an airstrike, heals the escort fleet for 8% HP
+  * Increases Reload of escort fleet by 15%
+  * Has a 3/0/3 loadout.
+
+* Desc: 
+>Arguably the best pure support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.  
+Do not expect much from her in terms of DPS, though.
+
+![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0 w/ Zuikaku)**
+* Skill: 
+  * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
+  * When paired, increases Air Power by 30% and INCREASES damage taken by 10%
+
+* Loadout: 2/2/4
+
+* Desc: 
+>More support-based than her sister and frailer than she when her other half is around, but more than makes up for it thanks to the +30% Airpower she gets as well as the buffs she throws out (which incidentally also partially negate the debuff).  
+Her buffs and layout are good enough to warrant usage even solo.
+
+
+### Tier 1:
+---
+![CV](https://azurlane.koumakan.jp/w/images/3/33/LexingtonChibi.png "USS Lexington") ![CV](https://azurlane.koumakan.jp/w/images/f/fb/SaratogaChibi.png "USS Saratoga") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)** **[USS Saratoga](https://azurlane.koumakan.jp/Saratoga)**
+* Skill: 
+  * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Airpower).
+  * Upon airstrike launch, grant +15% damage output to the vanguard for 8s.
+  * Have a 2/6/0 loadout.
+
+* Desc: 
+>These two ships are identical in use (albeit not in popularity, only Saratoga has a Kai to this day), and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo.  
+They don't launch fast, but when they do they really leave a mark - make sure to stagger the launches as to not overwrite the Damage buff, though.
 
 ![CV](https://azurlane.koumakan.jp/w/images/3/3d/YorktownChibi.png "USS Yorktown") - **[USS Yorktown](https://azurlane.koumakan.jp/Yorktown)**
 * Skill: 
@@ -956,18 +1005,19 @@ Beware her near-total lack of anti-air presence, though; without Fighters or AA 
 
 * Loadout: 3/3/2
 
-- Desc: "Putting the 'fleet' in 'fleet carrier'".
+- Desc: Putting the 'fleet' in 'fleet carrier'.
 > One of the hardiest and most well-rounded carriers in the game, Yorktown can cover any role admirably well, courtesy of her balanced plane loadout, her frontline buff, her self-heal and her personal SBD squadron, ready to bust the heads of whoever thought she was easy pickings.
-
-![CVL](https://azurlane.koumakan.jp/w/images/e/e7/UnicornChibi.png "HMS Unicorn") - **[HMS Unicorn](https://azurlane.koumakan.jp/Unicorn)**
+ 
+![CV](https://azurlane.koumakan.jp/w/images/c/c4/Ark_RoyalChibi.png "HMS Ark Royal") - **[HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)**
 * Skill: 
-  * On launching an airstrike, heals the escort fleet for 8% HP
-  * Increases Reload of escort fleet by 15%
-
-* Loadout: 3/0/3
-
+  * Upon airstrike launch, reduce all on-screen enemies' speed by 60% and launch 3 biplanes armed with 1 aimed torpedo each.
+  * 25% chance to do double damage on Airstrike.
+  * Has a 0/2/6 loadout.
+  
 * Desc: 
->Arguably the best support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
+>A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen.   
+Whether it's boss-busting or wave-clearing, give her the appropriate planes and she won't fail to impress - just don't expect much of anything from her terrible DBs.
+
  
 ![CV](https://azurlane.koumakan.jp/w/images/a/a9/HiryuuChibi.png "IJN Hiryuu") - **[IJN Hiryuu](https://azurlane.koumakan.jp/Hiryuu)** **(T0.5 w/ Souryuu)**
 * Skill: 
@@ -989,57 +1039,26 @@ Beware her near-total lack of anti-air presence, though; without Fighters or AA 
 * Desc: 
 >A dive bomber focused Kaga, giving up her fast launch for a frontline buff. Skills aside, what was said about Hiryuu applies to Souryuu as well.
 
-![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)** **(T0.5 w/ other CV/L)**
-* Skill: 
-  * On launching an airstrike, heals the escort fleet by 8% of their HP.
-  * On launching an airstrike, +15% Aviation to all CV/L for 8s.
-
-* Loadout: 0/3/3
-
-* Desc: 
->Trades Unicorn's passive frontline Reload buff for a temporary Aviation buff and a significantly superior statline, HP pool aside. Can't match Unicorn in air superiority, lacking fighters, but decisively asserts her dominance in raw damage output.
-
-![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0 w/ Zuikaku)**
-* Skill: 
-  * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
-  * When paired, increases Air Power by 30% and INCREASES damage taken by 10%
-
-* Loadout: 2/2/4
-
-* Desc: 
->More support-based than her sister and frailer than she when her other half is around, but more than makes up for it thanks to the +30% Airpower she gets as well as the buffs she throws out (which incidentally also partially negate the debuff).  
-Her buffs and layout are good enough to warrant usage even solo.
-
 
 ### Tier 1.5:
 ---
 
-![CV](https://azurlane.koumakan.jp/w/images/3/33/LexingtonChibi.png "USS Lexington") ![CV](https://azurlane.koumakan.jp/w/images/f/fb/SaratogaChibi.png "USS Saratoga") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)** **[USS Saratoga](https://azurlane.koumakan.jp/Saratoga)**
-* Skill: Every 10s, fires a 3x2-bullet HE salvo; on launching an airstrike, increases escort fleet Damage by 15% for 8s
-
-* Loadout: 2/6/0
-
-* Desc: 
->These two ships are identical in use (albeit not in popularity, only Saratoga has a Kai to this day), and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo.  
-They don't launch fast, but when they do they really leave a mark - make sure to stagger the launches as to not overwrite the Damage buff, though.
- 
-![CV](https://azurlane.koumakan.jp/w/images/c/c4/Ark_RoyalChibi.png "HMS Ark Royal") - **[HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)**
+#### ![CVL](https://azurlane.koumakan.jp/w/images/6/62/RyuujouChibi.png "Ryuujou") - **[IJN Ryuujou](https://azurlane.koumakan.jp/Ryuujou)**
 * Skill: 
-  * Airstrikes deploy a round of Torpedoes from Swordfish planes and slow enemies by 60% for 8s
-  * 25% chance to do double damage on Airstrike.
-  * Has a 0/2/6 loadout.
-  
+  * Upon airstrike launch, 70% chance for +15% Aviation (self) and +15% Reload (all CVL) and -15% damage received (all CV/L) for 8s
+  * 5 seconds after her first two airstrikes, launches 3 additional Suisei (dropping x1 1000lb bomb, x2 100lb bombs).
+  * Has a 3/0/3 loadout.
+
 * Desc: 
->A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen. Whether it's boss-busting or wave-clearing, give her the appropriate planes and she won't fail to impress - just don't expect much of anything from her terrible DBs.
+>A decent little cheerleader for the rest of your carriers, armed with a limited complement of surplus Suisei to throw out and a solid statline to supplement the smattering of buffs she throws out. Ok.
 
 ![CV](https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** **(T0 w/ other KMS units)**
 * Skill: 
   * 30% increase in efficiency for equipped German planes
   * All KMS ships in fleet take 15% less damage.
+  * Has a 2/6/0 loadout.
 
-* Loadout: 2/6/0
-
-* Desc: 
+* Desc: IT'S NOT JUST A PHASE, MEIN KOMMANDANT!
 >The single toughest CV in the game, courtesy of her ludicrous HP pool (6.8k), the flat damage cut she extends to every KMS unit in the fleet (herself included) and the couple of 150% ME155s she can field to keep the skies clear; and as for the offence, she's no slouch either with her remarkable six 160% Efficiency Stukas.  
 Her only real flaw is her lacking Reload, a mere 100 compared to most other top-of-the-line carriers - and, of course, her lack of synergy with non-KMS units, so keep her in there and she'll do work.
 
@@ -1056,6 +1075,7 @@ Her only real flaw is her lacking Reload, a mere 100 compared to most other top-
 * Desc: 
 >Once a meme, now a force to be reckoned with. Think of her as a barrage boat in carrier form - her main job is blasting ships into smithereens, and she does that remarkably well with two powerful skills dedicated precisely to that and a solid statline.  
 Just don't expect much in the way of support, beyond the air coverage provided by her okay fighters.
+
 
 #### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
 * Skill: 
@@ -1086,15 +1106,6 @@ That said, she's still mostly an attack craft - her ASW capabilties, while a nic
 * Desc: 
 >A very defensive-focused CV with double fighter slots and a shield generator. Her poor DPS is the stuff of legend.
 Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo attack runs.
-
-#### ![CVL](https://azurlane.koumakan.jp/w/images/6/62/RyuujouChibi.png "Ryuujou") - **[IJN Ryuujou](https://azurlane.koumakan.jp/Ryuujou)**
-* Skill: 
-  * Upon airstrike launch, 70% chance for +15% Aviation (self) and +15% Reload (all CVL) and -15% damage received (all CV/L) for 8s
-  * 5 seconds after her first two airstrikes, launches 3 additional Suisei (dropping x1 1000lb bomb, x2 100lb bombs).
-  * Has a 3/0/3 loadout.
-
-* Desc: 
->A decent little cheerleader for the rest of your carriers, armed with a limited complement of surplus Suisei to throw out and a solid statline to supplement the smattering of buffs she throws out. Ok.
 
 #### ![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(T0 w/ Shoukaku)**
 * Skill: 
