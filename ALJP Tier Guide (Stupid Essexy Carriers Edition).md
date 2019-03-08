@@ -1262,6 +1262,19 @@ Whatever's getting you down, Centaur has the solution for it - and while she won
 >The best solo CV currently in the game, courtesy of her generally superior statline and a skill that can reliably lay the smackdown on waves and airwings alike - as well as provide some emergency damage absorption against incoming aircraft or shelling.  
 It's not all bombs and sunshine, though - while her proc rate is high, she is nevertheless very reliant on that proc to perform and her generalist Efficiencies tend to blunt her effectiveness somewhat.
  
+![CV](https://azurlane.koumakan.jp/w/images/4/48/Shangri-LaChibi.png "Shangri-la") - **[USS Shangri-La](https://azurlane.koumakan.jp/Shangri-La)**
+* Skill: 
+  * Upon airstrike launch, 80% chance to scramble a 'B-25' and drop 12 extra bombs.
+  * 10s after battle start, launch a F6F fighter and if it is shot down, scramble that same 'B-25'; also, every 8s after launching the fighter, gain a stack of +3% Accuracy and +7% Damage up to a maximum of 5 stacks.
+  * Has a 3/3/2 loadout.
+
+* Desc: Creepy Bomber Lady.
+>The Essex-class continues to impress, this time with a new-and-improved Hornet that manages to completely obsolete her predecessor while upstaging Enterprise in terms of reliability and overall performance (despite not quite hitting the same damage spikes a x2 dmg proc allows her).  
+The F6F-induced barrage won't see usage in PvE, but never fear - the stacking buffs will, and they'll be signficant.
+On a side-note, that's a B-17's shadow and not a B-25's. Irritating.
+
+
+ 
  ![CVL](https://azurlane.koumakan.jp/w/images/e/e7/UnicornChibi.png "HMS Unicorn") - **[HMS Unicorn](https://azurlane.koumakan.jp/Unicorn)**
 * Skill: 
   * On launching an airstrike, heals the escort fleet for 8% HP
@@ -1303,6 +1316,18 @@ Exceptional.
 
 ### Tier 1:
 ---
+
+![CVL](https://azurlane.koumakan.jp/w/images/6/69/IndependenceChibi.png "Independence") - **[USS Independence](https://azurlane.koumakan.jp/Independence)** (T0.5 w/ 1+ Cleveland-class around)
+* Skill: 
+  * Gains +15% Efficiency on a slot when using USS planes
+  * Upon airstrike launch, scramble a TBF Avenger torpedo bomber; also, if sortied with at least 1 Cleveland-class CL, grant them +8% FP and gain +15% Accuracy/Aviation and launch 2 TBF Avengers instead.
+  * Has a 3/0/3 loadout.
+
+* Desc: 
+>Very solid statline, extremely high efficiency planes and a plane barrage? That sounds too good to be true. Where's the catch?  
+Well, beyond her being a CVL (ie. less planes, inferior statline compared to CVs), there really isn't one - beyond 'having' to take a Cleveland-class CL along to get the most of out of her 'barrage' (which is just one/two planes), which is a mutually beneficial relationship anyway, and having to mount US planes for similar reasons, which still ends up working in her favour.  
+Tip - if you don't have the VT-8, resist the temptation to give her the regular TBF Avenger, as its cooldown is bad enough to make the usual Barracuda/Ryuusei still preferable, despite the Eff drop.
+
 
 ![CVL](https://azurlane.koumakan.jp/w/images/e/e0/RangerKaiChibi.png "USS Ranger Kai") - **[USS Ranger Kai](https://azurlane.koumakan.jp/Ranger)**
 * Skill: 
@@ -1481,7 +1506,7 @@ While definitely usable, her only real use case would be plugging Hard Mode enfo
 >The first carrier to ever sail the seas, and it shows. As THE early prototype for the ships that would later dominate the oceans, she's incredibly weak and brought further down by her mandatory CL gun - which can barely deal scratch damage, owing to her 0 Firepower statline.  
 Why is this even mentioned, then? Because her +XP skill stacks with Langley's, that's why, and having her around as a 0LB exp booster may be a good idea to hasten the leveling process.
 
-#### ![CV](https://azurlane.koumakan.jp/w/images/b/ba/FumiruiruChibi.png "Fumirul") - [Fumirul](https://azurlane.koumakan.jp/Houshou)
+#### ![CV](https://azurlane.koumakan.jp/w/images/b/ba/FumiruiruChibi.png "Fumirul") - [Fumirul](https://azurlane.koumakan.jp/Fumiruiru)
 * Skill: 
   * Upon airstrike launch, 60% chance to heal the unit with the lowest current HP by 10% of its max HP.
   * 10s after battle start and every 20s afterwards, fires a narrow beam-like barrage straight ahead.
