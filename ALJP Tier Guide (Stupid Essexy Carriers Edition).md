@@ -1253,7 +1253,7 @@ Whatever's getting you down, Centaur has the solution for it - and while she won
  ### Tier 0.5:
  ---
  
-![CV](https://azurlane.koumakan.jp/w/images/d/dc/EnterpriseChibi.png "USS Enterprise") - **[USS Enterprise]**(https://azurlane.koumakan.jp/Enterprise)
+![CV](https://azurlane.koumakan.jp/w/images/d/dc/EnterpriseChibi.png "USS Enterprise") - **[USS Enterprise](https://azurlane.koumakan.jp/Enterprise)**
 * Skill: 
   * 70% chance on airstrike launch, airstrike deals x2 damage and Enterprise becomes invincible for 8s.
   * Has a 3/3/2 loadout.
