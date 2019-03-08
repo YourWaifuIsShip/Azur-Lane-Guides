@@ -1214,7 +1214,7 @@ Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in t
 ### Tier 0:
 ---
 
- ![CV](https://azurlane.koumakan.jp/w/images/e/ed/EssexChibi.png "USS Essex") - **[USS Essex](https://azurlane.koumakan.jp/Essex)** **(T0 w/ USS CV/L)**
+ ![CV](https://azurlane.koumakan.jp/w/images/e/ed/EssexChibi.png "USS Essex") - **[USS Essex](https://azurlane.koumakan.jp/Essex)**
 * Skill: 
   * Upon airstrike launch, launches a tight horizontal line of eight additional TBDs armed with parallel, Flooding-inflicting torps; also, deal +10% damage vs BBs.
   * Increases her own AA and Airpower by 5% for every USS CV/L in the fleet, and increases her own Airpower by 3% whenever her planes shoot down an enemy aircraft (to a maximum of +15% Airpower).
