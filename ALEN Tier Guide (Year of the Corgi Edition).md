@@ -438,13 +438,14 @@ Her place is strictly PvP, as there's many other HMS CL who will do what she doe
 >Abukuma is the IJN's very own Leander, now with 30% more torpedoes: out go the FP buff and she smokescreen, in come the DD Torp buff and a decent chance to fire her rather excellent torpedo launchers twice.  
 Not too flashy, but sturdy enough and dependable.
 
-![CL](https://azurlane.koumakan.jp/w/images/7/74/NakaChibi.png "IJN Naka") - **[IJN Naka](https://azurlane.koumakan.jp/Naka)**
+![CL](https://azurlane.koumakan.jp/w/images/3/37/SendaiKaiChibi.png "Sendai Kai") - **[IJN Sendai Kai](https://azurlane.koumakan.jp/Sendai#retrofit)**
 * Skill: 
   * +15% Torp and Reload to all DD/CL in the fleet.
+  * 10s after battle start and on a 40% chance every 20s afterwards, deploys a flare (-25% Evasion Rate in the area) for 10s.
 
 * Desc: 
->As frail as she's a good torp booster for your typical IJN vanguard, and a placeholder for the yet-to-come Sendai.  
-Not particularly remarkable, beyond her rather stellar barrage and shockingly low HP pool, but definitely effective.
+>A slightly weaker Jintsuu who stole a few notes from Aurora's book.   
+Her statline is still damn good, though, and their buffs can stack - as do the -EvaRate debuffs, if you REALLY want to stick it to those DD in PvP.
 
 ### Tier 2:
 ---
@@ -580,6 +581,15 @@ As a result, her double damage uptime is considerably higher than the 30% may le
 ### Tier 1.5:
 ---
 
+![CA](https://azurlane.koumakan.jp/w/images/6/6b/AstoriaChibi.png "Astoria") - **[USS Astoria](https://azurlane.koumakan.jp/Astoria)**
+* Skill: 
+  * When sortied w/ at least 1 New Orleans-class CA (Quincy / Vincennes / Minneapolis), gain and grant them +10% Firepower, +20% Accuracy and AA.
+  * Take -20% damage from DD/CL gun attacks.
+
+* Desc: 
+>Leader of the New Orleans class, she emphasises their strengths and shares their reinforced armour plating.  
+Solid and dependable, if unremarkable. No reason not to take her if you're going to field them at all, but Minneapolis has better things to do than hang out with her sisters.
+
 ![CA](https://azurlane.koumakan.jp/w/images/5/58/HoustonChibi.png "USS Houston") - **[USS Houston](https://azurlane.koumakan.jp/Houston)**
 * Skill: 
   * 20% chance upon Main Gun fire to gain +100% Eva for 15s.
@@ -596,6 +606,15 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
 * Desc: 
 >The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
 Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
+
+![CA](https://azurlane.koumakan.jp/w/images/d/d2/QuincyChibi.png "Quincy") ![CA](https://azurlane.koumakan.jp/w/images/3/3f/VincennesChibi.png "Vincennes") - **[USS Quincy](https://azurlane.koumakan.jp/Quincy)** **[USS Vincennes](https://azurlane.koumakan.jp/Vincennes)**
+* Skill: 
+  * 60% chance every 20s, gain +40% Firepower for 10s.
+  * Take -20% damage from DD/CL gun attacks.
+
+* Desc: 
+>Sporting a matching set of Medium Armour, anti-DD/CL gunfire skills and considerable AA capabilities, the New Orleans-class CAs focus more on the defence than the offence, unlike almost every other CA in the USS.  
+A good fit for mob- as well as boss-hunting, considering how frequent are DD and CL bosses, but beware their weaker guns and the need to take Astoria to make the most out of them.
 
 ![CA](https://azurlane.koumakan.jp/w/images/b/bf/SuffolkKaiChibi.png "HMS Suffolk Kai") - **[HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk)** **(T1 when deployed with Queen Elizabeth)**
 * Skill: 
