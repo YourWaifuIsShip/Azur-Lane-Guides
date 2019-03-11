@@ -1009,6 +1009,18 @@ Whether you do actually need all that AA is another matter entirely, but rest as
 >An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.  
 As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
 
+ ![BB](https://i.imgur.com/y3gjZTq.jpg "HMS Warspite") - **[HMS Warspite Kai](https://azurlane.koumakan.jp/Warspite#retrofit)**
+* Skill: 
+  * +10s after the start of the battle and every 15s afterwards, fires two aimed AP auto-critting shells at the farthest available target AND places a marker upon it (increasing the chances other HMS backliners will fire upon it); also, the first barrage will deal +130% damage.
+  * Gain -5 Dispersion to the Main Gun, +15% FP and +15% HitRate against DD.
+  * She may take 1 ASW plane as an auxiliary item. HISTORICAL REFERENCES HO!
+
+- Desc: The Queen's Royal Corgi.
+>Well, the Kai's come and gone, and Warspite's left in more or less the same position she once was - as far as PvE is concerned, at least.  
+While her statline did enjoy a substantial offensive boost in the form of more stats, higher Efficiencies and a strong passive skill, her new-and-improved barrage suffers from the same unreliability that torpedoed her shot(s) at glory - as powerful as those AP shells now are, they're still all too likely to be fired at Light targets (or worse, at fireboats), while the marker part of barrage appears to be bafflingly ineffectual, as evidenced both by *HMS BB/C still opening fire on unmarked targets* and by the possibility of *multiple markers coexisting, negating the supposed benefits*.  
+On the bright side, Warspite's newfound strength lets her be competitive there once more in the PvP areans, where her intended targets are always armoured, immobile and valuable.  
+[Also, she's still a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
+
 ![BB](https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29Chibi.png "IJN Kaga BB") - **[IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))**
 * Skill:
   * 50% chance on Main Gun fire to launch a special barrage (long range: tight 4-shot wave, tight 4-shot wave with 2 shots to the sides; short range: wide V-shaped spread of small bullets)
@@ -1053,19 +1065,6 @@ A steep price to pay, especially considering how weak the seaplanes are in compa
 * Desc: The core of most HMS fleets. 
 > An unassuming figure and a merely okay statline belies one of the best buffs in the game - albeit faction-locked, and reliant on large fleets to make the most of it.  
 You're not taking her because she's good, but because she's a force multiplier.
- 
- ![BB](https://i.imgur.com/y3gjZTq.jpg "HMS Warspite") - **[HMS Warspite Kai](https://azurlane.koumakan.jp/Warspite#retrofit)**
-* Skill: 
-  * +10s after the start of the battle and every 15s afterwards, fires two aimed AP auto-critting shells at the farthest available target AND places a marker upon it (increasing the chances other HMS backliners will fire upon it); also, the first barrage will deal +130% damage.
-  * Gain -5 Dispersion to the Main Gun, +15% FP and +15% HitRate against DD.
-  * She may take 1 ASW plane as an auxiliary item. HISTORICAL REFERENCES HO!
-
-- Desc: The Queen's Royal Corgi.
->Well, the Kai's come and gone, and Warspite's left in more or less the same position she once was - as far as PvE is concerned, at least.  
-While her statline did enjoy a substantial offensive boost in the form of more stats, higher Efficiencies and a strong passive skill, her new-and-improved barrage suffers from the same unreliability that torpedoed her shot(s) at glory - as powerful as those AP shells now are, they're still all too likely to be fired at Light targets (or worse, at fireboats), while the marker part of barrage appears to be bafflingly ineffectual, as evidenced both by *HMS BB/C still opening fire on unmarked targets* and by the possibility of *multiple markers coexisting, negating the supposed benefits*.  
-On the bright side, Warspite's newfound strength lets her be competitive there once more in the PvP areans, where her intended targets are always armoured, immobile and valuable.  
-[Also, she's still a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
- 
  
  ![BB](https://azurlane.koumakan.jp/w/images/8/8a/KirishimaChibi.png "Kirishima") - **[IJN Kirishima](https://azurlane.koumakan.jp/Kirishima)**
 * Skill: 
