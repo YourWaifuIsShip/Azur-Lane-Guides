@@ -836,6 +836,14 @@ Still RNG, yes, but still quite solid and there's nobody cheaper than them, at l
 > An unassuming figure and a merely okay statline belies one of the best buffs in the game - albeit faction-locked, and reliant on large fleets to make the most of it.  
 You're not taking her because she's good, but because she's a force multiplier.
  
+  ![BB](https://azurlane.koumakan.jp/w/images/8/8a/KirishimaChibi.png "Kirishima") - **[IJN Kirishima](https://azurlane.koumakan.jp/Kirishima)**
+* Skill: 
+  * 60% chance upon Main Gun fire, launch a semi-aimed Sanshikidan barrage (8 shells in two waves of four, heading towards the nearest enemies); also, deal +15% damage to BB.
+
+* Desc: 
+>(PvE) Airstrike murderer extraordinaire thanks to her barrage, accomplished fireboat slayer owing to her CL guns on a BC frame, and even gets an edge against the most threatening enemies you can face later on.
+A very solid defensive pick, further helped by the fact her Sanshikidan barrage doesn't need her to be in the flagship slot to do work.
+ 
 ![BB](https://azurlane.koumakan.jp/w/images/c/c9/IseChibi.png "IJN Ise") - **[IJN Ise](https://azurlane.koumakan.jp/Ise)**
 * Skill: 
   * +20% FP to self.
