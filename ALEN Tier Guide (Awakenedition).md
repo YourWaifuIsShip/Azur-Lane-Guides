@@ -84,6 +84,14 @@ Without these people, the Tier Guide would never be as comprehensive, accurate o
 >While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant.  
 The DPS monster to AyaKai's DPH.
 
+![DD](https://azurlane.koumakan.jp/w/images/b/b4/YukikazeChibi.png "Yukikaze") - **[IJN Yukikaze](https://azurlane.koumakan.jp/Yukikaze)**
+* Skill:
+  * While alive in fleet, the backline takes -8% dmg and, once per battle, heals any backliner under 20% HP for 10% of the healed unit's max HP.
+  * 25% chance to activate when taking damage, decreases said damage to 1. 
+  * Her regular barrage includes 4 conventional torpedoes.
+
+* Desc: "She protecc, she attacc, but most importantly, she tsun catt".
+>Nowhere as devastating as her tier companions (or a good few other IJN DDs for that matter), she is nonetheless quite powerful and has incredible defensive skills for both herself and the backline. Also, her barrage gets a few torps thrown into it for good measure.
 
 ![DD](https://azurlane.koumakan.jp/w/images/4/47/Z23KaiChibi.png "Z23 Kai") - **[KMS Z23 Kai](https://azurlane.koumakan.jp/Z23#Retrofit)**
 * Skill:
@@ -542,6 +550,18 @@ Does all this redeem her, then? Not really, even in this fashion, you'd need to 
 
 - Desc: "Monster Hunter".
 > Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP/Rld buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
+
+![CA](https://azurlane.koumakan.jp/w/images/7/7b/MogamiKaiChibi.png "Mogami Kai") - **[IJN Mogami Kai](https://azurlane.koumakan.jp/Mogami#retrofit)**
+* Skill:
+  * 60% chance every 20s, +40% FP for 8s.
+  * Take -20% AP damage.
+  * Gain a stack of +8% Firepower for every 5 torpedoes launched by Mogami that hit a target. Max 3 stacks.
+  * Has MGM+1 and torpedoes.
+
+- Desc: Oni-chan~
+> Step aside Portland, there's a new best CA in the game - at least on the offense.
+While she is definitely less tanky, missing the extra 800 HP and 11 Evasion Port gets, she casts a massive shadow over her DPS thanks to higher Firepower, better Main Gun efficiency, better offensive skills, a much better barrage and, most importantly, still getting Main Gun +1 despite the torps as if she were a gunboat.
+
 
  
 ### Tier 0.5:
