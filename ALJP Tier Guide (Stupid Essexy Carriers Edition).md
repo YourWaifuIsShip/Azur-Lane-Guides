@@ -1258,7 +1258,7 @@ Whatever's getting you down, Centaur has the solution for it - and while she won
   * Has a 3/3/2 loadout.
 
 * Desc: 
->The best solo CV currently in the game, courtesy of her generally superior statline and a skill that can reliably lay the smackdown on waves and airwings alike - as well as provide some emergency damage absorption against incoming aircraft or shelling.  
+>One of the best solo CV currently in the game, courtesy of her generally superior statline and a skill that can reliably lay the smackdown on waves and airwings alike - as well as provide some emergency damage absorption against incoming aircraft or shelling.  
 It's not all bombs and sunshine, though - while her proc rate is high, she is nevertheless very reliant on that proc to perform and her generalist Efficiencies tend to blunt her effectiveness somewhat.
  
 ![CV](https://azurlane.koumakan.jp/w/images/4/48/Shangri-LaChibi.png "Shangri-la") - **[USS Shangri-La](https://azurlane.koumakan.jp/Shangri-La)**
