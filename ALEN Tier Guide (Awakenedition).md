@@ -347,6 +347,18 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
 >As far as torpedoes are concerned, this is what peak efficiency looks like. Sporting three different superb torpedo buffs for whoever has any business mounting them and stellar torpedo stats+efficiency, she's a powerhouse in her own right with access to a handy damage cut (which she needs, considering her abysmal HP pool) and an uncharacteristically good barrage.  
 With no real weakness to speak of, her one significant flaw is not being able to bolster CA torpedoes - you'll want to look elsewhere for that.
  
+ 
+### Tier 0.5:
+---
+![CL](https://azurlane.koumakan.jp/w/images/1/18/MontpelierChibi.png "Montpelier") - **[USS Montpelier](https://azurlane.koumakan.jp/Montpelier)**
+* Skill: 
+  * 60% chance every 20s, +25% Firepower and Accuracy to all CL/CA in the fleet.
+  * 25% chance upon firing AA guns, -20% own FP and +40% own AA for 3s.
+  
+- Desc:
+> Creme de la creme of the Cleveland class by virtue of a slightly superior statline (compared to her sisters'), an absolute bomb of a Cruiser buffing skill, and surprising amounts of Luck to make the most out of her already sturdy build.  
+Most, if not all, Cruiser compositions will benefit by her presence.
+
 
 ### Tier 1:
 ---
@@ -465,6 +477,14 @@ Her statline is still damn good, though, and their buffs can stack - as do the -
 
 ### Tier 2:
 ---
+![CL](https://azurlane.koumakan.jp/w/images/5/50/DenverChibi.png "Denver") - **[USS Denver](https://azurlane.koumakan.jp/Denver)**
+* Skill: 
+  * 60% chance every 20s, +40% FP for 8s.
+  * 25% upon firing AA guns, -20% FP and +40% own AA for 3s.
+
+*  Desc: 
+>The weakest of the Solomon Cavaliers, which means she's still pretty solid.  
+She'll only buff herself, but a +40% FP never really goes amiss.
 
 ![CL](https://azurlane.koumakan.jp/w/images/d/dc/HonoluluChibi.png "USS Honolulu") - **[USS Honolulu](https://azurlane.koumakan.jp/Honolulu)**
 * Skill: 
