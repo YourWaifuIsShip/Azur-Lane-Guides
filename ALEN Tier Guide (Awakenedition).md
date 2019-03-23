@@ -150,6 +150,14 @@ The general strat is to gear her with a super-fast DD gun to proc her skill+barr
 - Desc: "The bubblewrap fights back!"
 >Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous damage output of their IJN counterparts but they can and will outlast them many times over.  
 As it is for Phoenix, they are best used in mobbing fleets.
+
+![DD](https://azurlane.koumakan.jp/w/images/6/63/ShiranuiKaiChibi.png "Shiranui Kai") - **[IJN Shiranui Kai](https://azurlane.koumakan.jp/Shiranui#Retrofit)**
+* Skill:
+  * 30% chance upon torpedo launch to launch a second spread
+  * When alive in fleet, allied CV/L take -15% damage
+
+- Desc:
+>Ah, the wonders of Kai. Shiranui goes from an excellent 0LB DD meme to a supremely legit pick for normal play, owing to her much improved torp stat and efficiency. The CV/L protection skill is nice to have, too.
  
  
 ### Tier 1.5:
