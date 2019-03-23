@@ -422,7 +422,6 @@ With no real weakness to speak of, her one significant flaw is not being able to
 > Creme de la creme of the Cleveland class by virtue of a slightly superior statline (compared to her sisters'), an absolute bomb of a Cruiser buffing skill, and surprising amounts of Luck to make the most out of her already sturdy build.  
 Most, if not all, Cruiser compositions will benefit by her presence.
 
-### Tier 1:
 ---
 ![CL](https://azurlane.koumakan.jp/w/images/8/86/HelenaChibi.png "Helena") - **[USS Helena](https://azurlane.koumakan.jp/Helena)** **(T0 vs bosses)**
 * Skill:
@@ -1239,7 +1238,7 @@ Enemy ships are zipping around too much for your liking? Her Swordfishes inflict
 Subs? Don't let her stats fool you, she's still a CVL and that means she can bomb them with impunity (and great effect at that).  
 Whatever's getting you down, Centaur has the solution for it - and while she won't match the heights of more specalized units in their fields, her responses tend to be more than enough for most tasks at hand.  
  
- ![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)** **(T0.5 w/ other CV/L)**
+ ![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)**
 * Skill: 
   * On launching an airstrike, heals the escort fleet by 8% of their HP.
   * On launching an airstrike, +15% Aviation to all CV/L for 8s.
