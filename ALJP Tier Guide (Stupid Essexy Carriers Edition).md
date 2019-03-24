@@ -1380,7 +1380,6 @@ Her buffs and layout are good enough to warrant usage even solo.
 
 ### Tier 1.5:
 ---
-
 ![CV](https://azurlane.koumakan.jp/w/images/3/33/LexingtonChibi.png "USS Lexington") ![CV](https://azurlane.koumakan.jp/w/images/f/fb/SaratogaChibi.png "USS Saratoga") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)** **[USS Saratoga](https://azurlane.koumakan.jp/Saratoga)**
 * Skill: 
   * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Airpower).
@@ -1391,14 +1390,16 @@ Her buffs and layout are good enough to warrant usage even solo.
 >These two ships are identical in use (albeit not in popularity, only Saratoga has a Kai to this day), and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo.  
 They don't launch fast, but when they do they really leave a mark - make sure to stagger the launches as to not overwrite the Damage buff, though.
  
+
 ![CV](https://azurlane.koumakan.jp/w/images/c/c4/Ark_RoyalChibi.png "HMS Ark Royal") - **[HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)**
 * Skill: 
-  * Airstrikes deploy a round of Torpedoes from Swordfish planes and slow enemies by 60% for 8s
+  * Upon airstrike launch, reduce all on-screen enemies' speed by 60% and launch 3 biplanes armed with 1 aimed torpedo each.
   * 25% chance to do double damage on Airstrike.
   * Has a 0/2/6 loadout.
-
+  
 * Desc: 
->A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen. Whether it's boss-busting or wave-clearing, give her the appropriate planes and she won't fail to impress - just don't expect much of anything from her terrible DBs.
+>A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen.   
+Whether it's boss-busting or wave-clearing, give her the appropriate planes and she'll do a pretty good job - just don't expect much of anything from her terrible DBs, and definitely do not expect your carrier-based torp to magically all hit afterwards.
 
 ![CV](https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** **(T0 w/ other KMS units)**
 * Skill: 
