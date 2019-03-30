@@ -438,6 +438,15 @@ That said, you will need to deploy a few carriers to get the full experience and
 >Units for whom the excellence of their statline outweighs a poor selection of skills are rare and far between, but there's few better examples than this than Cleveland.  
 Sporting an impressive 3.8k HP, high Reload, slightly higher than usual Evasion and good guns, Cleve doesn't need skills to make her presence felt on the battlefield and excels as a tank; that said, while her AA skill is more of a detriment than a boon, her fleetwide boost is unreliable but potentially great.  
 All in all, strong and dependable, just like her.
+
+![CL](https://azurlane.koumakan.jp/w/images/a/a0/ColumbiaChibi.png "Columbia") - **[USS Columbia](https://azurlane.koumakan.jp/Columbia)**
+* Skill: 
+  * Lowers damage sustained by the Flagship by 25%.
+  * 25% upon firing AA guns, -20% own FP and +40% own AA for 3s.
+  
+- Desc:
+>Ever wanted to use Hammann but didn't want to deal with her terrible stats and weaponry? Well, now you can.  
+All the utility of her skills with the sturdiness and DPS of the Cleveland-class. Neat.
  
 ![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - **[HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax)**
 * Skill: 
@@ -502,6 +511,15 @@ A solid pick regardless, especially if you expect aircraft
 *  Desc: 
 >Excellent but niche DD/CL-busting skills paired with average CL stats, with the glaring exception of her sub-par HP.  
 More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
+
+![CL](https://azurlane.koumakan.jp/w/images/3/33/AganoChibi.png "Agano") - **[IJN Agano](https://azurlane.koumakan.jp/Agano)**
+* Skill: 
+  * +15% FP to DDs.
+  * While alive, CV/L in the fleet take -15% damage.
+
+* Desc: 
+>Agano is an interesting little beastie, proud owner of an unconventional kit (DD FP boost, CV/L defence boost) and... less proud owner of a somewhat unremarkable statline for IJN CL, especially when compared to Sendai and Jintsuu.  
+While she isn't a bad unit on her own by any stretch, her competitors are more powerful and their skills more wieldy and impactful than hers - which means her best use would be as a DD FP buffer, similarly to London.
 
 ![CL](https://azurlane.koumakan.jp/w/images/1/11/LeipzigChibi.png "KMS Leipzig") - **[KMS Leipzig](https://azurlane.koumakan.jp/Leipzig)**
 * Skill: 
