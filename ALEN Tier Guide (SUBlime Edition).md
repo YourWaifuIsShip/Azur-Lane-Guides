@@ -66,6 +66,7 @@ Without these people, the Tier Guide would never be as comprehensive, accurate o
 - ### [CL ![CL](https://azurlane.koumakan.jp/w/images/2/20/CL_img.png "CL Icon")](#cl--1)
 - ### [CA ![CA](https://azurlane.koumakan.jp/w/images/c/c3/CA_img.png "CA Icon")](#ca--1)
 - ### [BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")](#bbbc--1)
+- ### [BBV ![BBV](https://cdn.discordapp.com/attachments/518517758602903554/563429195179360289/BBV_img.png "BBV Icon")](#bbv--1)
 - ### [CV/CVL ![CV(L)](https://azurlane.koumakan.jp/w/images/d/d1/CV_img.png "CV/L Icon")](#cvcvl--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 <br/><br/>
@@ -1003,6 +1004,38 @@ Avoid.
 - Desc: "The pits."
 >You know what was just said about Nelson and Rodney? Well, they're even worse, courtesy of their weaker statlines and lack of CL guns; as for Maryland's +Dmg on low HP, it goes without saying that if you're taking damage, you're in an undesirable situation to begin with.  
 Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in the game.
+
+<br/><br/>
+---
+<br/><br/>
+
+## BBV ![BBV](https://azurlane.koumakan.jp/w/images/thumb/1/1a/BBV_img.png/45px-BBV_img.png "BBV Icon")
+### Tier 0:
+---
+
+ ![BBV](https://azurlane.koumakan.jp/w/images/b/b9/HyuugaKaiChibi.png "Hyuuga Kai") - **[IJN Hyuuga Kai](https://azurlane.koumakan.jp/Hyuuga#Retrofit)**
+* Skill: 
+  * Grant +15% FP to the backline.
+  * Gain +20% FP.
+  * 10s after battle start, 10s cooldown after each use and used only when an enemy gets too close, fire 4 converging CA shells.
+ 
+* Desc: 
+>The only aviation battleship to improve in every possible respect after her Kai, the new-and-improved Hyuuga doesn't only sport the customary brutal firepower and enough Main Gun Efficiency to thorougly brutalize what she hits despite the loss of one gun mount, but also retains good self-defence capabilities with her protective barrage.   
+The seaplanes are still middling at best, but you're paying no price for a BB with access to a screenclear - that's more than good enough.
+
+
+ ### Tier 0.5:
+--- 
+  
+   ![BBV](https://azurlane.koumakan.jp/w/images/2/26/IseKaiChibi.png "Ise Kai") - **[IJN Ise Kai](https://azurlane.koumakan.jp/Ise#Retrofit)**
+* Skill: 
+  * Gain +20% FP.
+  * Ise Kai's first two airstrikes have their cooldown reduced by 25% and launch 2 Suisei dive bombers; if a CV/L is present in the fleet, these bonuses remain active.
+
+* Desc: 
+>Still the more powerful yet less useful sibling, Ise Kai fully embraces her nature as an instrument of destruction by improving her airstrikes to the point of respectability.
+Damage's still not on par with proper carriers, sure, but it's leagues better than what other BBVs gets in terms of both damage and cooldown - and the only thing better than a screenclear is a screenclear that can take out some enemies alongside the bullets.
+
 
 <br/><br/>
 ---
