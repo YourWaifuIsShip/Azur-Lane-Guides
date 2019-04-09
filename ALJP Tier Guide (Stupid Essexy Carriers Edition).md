@@ -180,7 +180,6 @@ With no real weakness on display, beyond simply not being quite as good as more 
 
 - Desc:
 >Ah, the wonders of Kai. Shiranui goes from an excellent 0LB DD meme to a supremely legit pick for normal play, owing to her much improved torp stat and efficiency. The CV/L protection skill is nice to have, too.
-
  
 ### Tier 1.5:
 ---
@@ -225,6 +224,17 @@ Maury does things differently from many of her colleagues, but she does them wel
 * Desc:
 >Tinykaze sacrifices almost every part of her statline for exceptionally powerful torpedoes and a torpedo-boosting debuff.  
 Devastating if the stars align and the debuff procs on her first torp hit, but little more than a dead weight while she's stuck reloading. Handle with care.
+
+![DD](https://azurlane.koumakan.jp/w/images/2/20/Z2Chibi.png "Z2") - **[KMS Z2](https://azurlane.koumakan.jp/Z2)**
+* Skill:
+  * Deal +25% AP damage.
+  * Every time the main gun is fired 10 times, gain +5% Reload and +20% Barrage damage. Can be stacked 4 times. 
+
+* Desc: 
+>Z2 takes the concept of 'barrage boat' very literally.  
+Not entirely unlike a few other DDs, most of Z2's DPS comes straight from her barrage rather than anything else; unlike them, however, this is by design and both her skills reinforce that notion, meaning she's at her best when manually controlled and firing non-stop and on the backfoot when she's not.  
+Limited in scope but potentially very good at her job, given enough books.
+
 
 ![DD](https://azurlane.koumakan.jp/w/images/5/55/Z25Chibi.png "Z25") - **[KMS Z25](https://azurlane.koumakan.jp/Z25)**
 * Skill:
