@@ -335,6 +335,13 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
 * Desc: 
 >The first real DD to hit the seas, and boy does it show. Her barely combat-worthy statline and lack of any skill beyond the XP boost makes her a very poor candiate for Limit Breaks, and a very good candidate for 0LB shenanigans.
 
+#### ![DD](https://azurlane.koumakan.jp/w/images/9/9a/HarutsukiChibi.png "Harutsuki") ![DD](https://azurlane.koumakan.jp/w/images/5/57/YoizukiChibi.png "Yoizuki")- **[IJN Harutsuki](https://azurlane.koumakan.jp/Harutsuki)** **[IJN Yoizuki](https://azurlane.koumakan.jp/Yoizuki)**
+* Skill:
+  * When planes are shot down within the AA circle, +25% own AA and Firepower for 8s.
+
+- Desc:
+>New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly great at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down. Solid even when planes aren't around, better when there are.
+
 #### ![DD](https://azurlane.koumakan.jp/w/images/f/f3/ShiranuiChibi.png "IJN Shiranui") [IJN Shiranui](https://azurlane.koumakan.jp/Shiranui)
 * Skill:
   * 30% chance upon launching a torpedo spread to launch a second one.
