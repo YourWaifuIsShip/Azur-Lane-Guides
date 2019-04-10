@@ -830,6 +830,18 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 * Desc: 
 >Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
 
+![CA](https://azurlane.koumakan.jp/w/images/2/2d/SuzuyaChibi.png "Suzuya") - **[IJN Suzuya](https://azurlane.koumakan.jp/Suzuya)**
+* Skill:
+  * Each time Suzuya's Main Gun lands 8 hits (not consecutively, each shell counts as 1 hit), gain 1 stack of +5% Firepower and +25% Reload up to a maximum of 3 stacks; upon gaining max stacks, her barrage improves (gains two lines of 4 AP shots in a tight cone).
+  * Take -20% AP damage.
+  * Can take a CL gun, but shouldn't.
+
+* Desc: 
+>CAs aren't known for their barrages, but Suzuya isn't going to let that get her down.   
+Blessed with one of the best vanguard barrages currently available once upgraded, and bolstered by buffs that naturally improve both her ability to barrage and the barrage itself, she's uniquely positioned to take advantage of an otherwise ignored feature of this class without sacrificing actual gunnery in the process.  
+On the flipside, said barrage is also her *only* noteworthy feature - manual play is almost mandatory in order to play to her strength.   
+
+
 ![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "Deutschland") ![CA](https://azurlane.koumakan.jp/w/images/0/04/Admiral_Graf_SpeeChibi.png "Admiral Graf Spee") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)** & **[KMS Admiral Graf Spee](https://azurlane.koumakan.jp/Admiral_Graf_Spee)**
 * Skill: 
   * Deal +35% damage to DD/CL.
