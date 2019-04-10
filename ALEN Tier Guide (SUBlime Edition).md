@@ -125,14 +125,6 @@ Proud owner of a quick-firing, high-volume, AP conal barrage with four homing to
 >Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even exceed the tens of thousands.  
 On the flip side, Torpedoes are all she's got and once she's blown her load, she won't have much to do except waiting for them to come back online. The DPH monster to LafKai's DPS.
 
-![DD](https://azurlane.koumakan.jp/w/images/c/c3/YuudachiChibi.png "Yuudachi") - **[Poi (IJN Yuudachi)](https://azurlane.koumakan.jp/Yuudachi)**
-* Skill:
-  * 6% chance on Main Gun fire for +40% FP/Torp/Evasion/Reload to self.
-
-* Desc: 
->Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline.  
-The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.
-
 ![DD](https://azurlane.koumakan.jp/w/images/8/8e/KagerouChibi.png "IJN Kagerou") - **[IJN Kagerou](https://azurlane.koumakan.jp/Kagerou#Default)**
 * Skill:
   * 15% boost of torpedo stat to the frontline
@@ -140,6 +132,23 @@ The general strat is to gear her with a super-fast DD gun to proc her skill+barr
 
 * Desc: 
 >A relatively common ship that packs a LOT of punch. Combines high torpedo stat with double-torplaunch proc and a vanguard-wide torpedo boost.
+
+![DD](https://azurlane.koumakan.jp/w/images/4/49/KawakazeChibi.png "Kawakaze") - **[IJN Kawakaze](https://azurlane.koumakan.jp/Kawakaze)**
+* Skill:
+  * All IJN DD deal +15% damage to CL/CA.
+  * Her torpedoes always deal 115% damage against all targets, regardless of the normal torpedo modifiers (80/100/130)
+
+* Desc: Black Not Shooter.
+>A veritable turncoat of a DD, Kawakaze's main purpose is making Light Armoured units' lives hell by drilling right through it with her torps and her stellar torpedo-armed barrage - and she accomplishes it beautifully.  
+Terrifyingly effective against her intended targets, to the point of overtaking even Ayanami Kai - but she does still lose to her when faced with Heavy Armour, against which her skill puts her at a disadvantage.
+
+![DD](https://azurlane.koumakan.jp/w/images/c/c3/YuudachiChibi.png "Yuudachi") - **[Poi (IJN Yuudachi)](https://azurlane.koumakan.jp/Yuudachi)**
+* Skill:
+  * 6% chance on Main Gun fire for +40% FP/Torp/Evasion/Reload to self.
+
+* Desc: 
+>Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline.  
+The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.
 
 
 ### Tier 1: 
@@ -827,6 +836,15 @@ Remember to have her be the flagship to make the most out of her barrage, and th
 * Desc: 
 >THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
 
+![BB](https://azurlane.koumakan.jp/w/images/8/85/NagatoChibi.png "Nagato") - **[IJN Nagato](https://azurlane.koumakan.jp/Nagato)**
+* Skill: 
+  * When sortied as Flagship, grant all IJN units +10% Firepower, +20% Reload/Accuracy, and +20% damage output to all IJN carriers.
+  * 40% chance on Main Gun fire, launch a fixed linear HE barrage.
+
+* Desc: Mikasa for those who don't like or want more big guns.
+>A well-rounded warship on her own right compared to her dakka-centric senpai, her set of buffs is about as good as those provided by Mikasa but she needs the flagship slot even more due to her barrage.
+Place her there and she'll carry your IJN carrier division to glory and triumph; place her to the sides and she's merely okay.
+
 ### Tier 1:
 ---
 
@@ -977,6 +995,13 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
 
 * Desc: 
 >Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself properly.
+
+![BC](https://azurlane.koumakan.jp/w/images/9/96/MutsuChibi.png "Mutsu") - **[IJN Mutsu](https://azurlane.koumakan.jp/Mutsu)**
+* Skill: 
+  * 40% chance on Main Gun fire, launch a fixed linear HE barrage.
+
+* Desc: 
+>An oversized monitor like Rodney or Nelson, but with an actually good barrage and better stats.
 
 ### Honourable Mentions:
 ---
