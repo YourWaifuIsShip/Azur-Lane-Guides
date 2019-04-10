@@ -63,6 +63,7 @@ Without these people, the Tier Guide would never be as comprehensive, accurate o
 - ### [BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")](#bbbc--1)
 - ### [BBV ![BBV](https://cdn.discordapp.com/attachments/518517758602903554/563429195179360289/BBV_img.png "BBV Icon")](#bbv--1)
 - ### [CV/CVL ![CV(L)](https://azurlane.koumakan.jp/w/images/d/d1/CV_img.png "CV/L Icon")](#cvcvl--1)
+- ### [SS ![SS](https://cdn.discordapp.com/attachments/518517758602903554/563432311782113350/SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 <br/><br/>
 ---
@@ -1582,6 +1583,93 @@ Why is this even mentioned, then? Because her +XP skill stacks with Langley's, t
 >Despite her predictably awful statline - it's a collab ship, after all - Fumirul has some interesting tricks up her oversized sleeves that might, just might, justify taking her along.
 First is her heal, which unlike most other heals can somewhat reliably affect the backline too, which in turn makes her quite valuable in BB-heavy environments where the flagship is often exposed to enemy fire; second is her FREAKIN' LAZOR BEAM, which is both badass and nasty, though hampered by its strictly linear nature.
 Interesting and potentially useful, just don't expect to see her launch often.
+
+<br/><br/>
+---
+<br/><br/>
+## SS ![SS](https://cdn.discordapp.com/attachments/518517758602903554/563432311782113350/SS_img.png "Submarine Icon")
+### A few preliminary notes
+
+"Submarines" are powerful but specialized tools that behave rather differently from your ordinary fleets.
+Here's a quick rundown of how they work.
+
+1. You cannot control them directly; each sub has her own hunting pattern and different priorities when it comes to movement, and the fleet will stay within the boundaries of its lead sub's hunting range.
+2. Submarine fleets move up to 2 squares per turn to automatically attack enemy nodes within range, shaving off up to 20% max HP (more with submarine-boosting meowfficers) off of ALL enemies in the node, and may also be summoned in battle if your regular fleets are fighting within hunting range. Map strike damage depends on the sub fleet's overall Power Rating, in-battle damage depends on the usual mechanics.
+3. Submarine fleets in battle act as a sort of tactical nuke button; when summoned they will join the fight in person and unleash inordinate amounts of torpedoes via barrages to brutalize everything unfortunate enough to be on screen at the time, then stay for roughly 20s (exact amount depends on their Oxygen stat, with 10 Oxy equaling 1s) firing their 'regular' torpedoes until they run out of O2 and have to surface.
+4. Submarine statlines are generally very similar to one another, barring a few exceptions; as it is with BBs and BCs, skills are the main discriminant here.
+
+Given these premises, it quickly becomes apparent that **submarine fleets are meant to be fielded as a trio**; whether it be mauling nodes on the map or providing heavy torpedo support, they only reach peak efficiency as a full fleet, and in the case of map strikes such efficiency comes at no oil cost whatsoever.
+As such, this section *does not contain tiers* but specific recommendations and groupings - let's get to them.
+
+#### ![SS](https://azurlane.koumakan.jp/w/images/9/90/U-47Chibi.png "U-47") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/e/ed/U-557Chibi.png "U-557") - [KMS U-47](https://azurlane.koumakan.jp/U-47), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-557](https://azurlane.koumakan.jp/U-557) 
+* Skill (U-47): 
+  * If U-47 damages an enemy with a torpedo, her next torpedo within 5s will inflict +40% damage.
+  * If sortied solo, gain +20% Damage vs BBs, +2 Ammo and +1 Search Level.
+  
+* Skill (U-81): 
+  * Deal +20% Damage to CV; also, U-81's torps have a 15% chance to inflict Flooding (DoT similar to Ignition; 3s ticks, multiple procs do not stack but refresh duration) for 24s.
+  * Gain +40% Evasion; also, gain +7% Torp, Reload and Accuracy for every KMS sub in the fleet.
+
+* Skill (U-557): 
+  * Deal +15% Damage to CL.
+  * Gain +6% Torpedo and Reload for every KMS sub in the fleet.
+
+* Desc: Achtung - U-Boot!
+>Given real world Germany's history with submarines, it comes as no surprise that the Ironblood gets the apex specimens of their class.  
+Simple yet brutally effective, this KMS trio lacks the utility other compositions may offer but make up for it by having the best in-battle damage - partly because of their skills, and partly because of their homing barrages. Just make sure to give them snorkels to offset their low Oxygen stat.  
+While you may be tempted to use U-47 solo, don't - there's little to gain from it and much to lose.
+
+#### ![SS](https://azurlane.koumakan.jp/w/images/9/96/AlbacoreChibi.png "Albacore") ![SS](https://azurlane.koumakan.jp/w/images/0/0f/DaceChibi.png "Dace") ![SS](https://azurlane.koumakan.jp/w/images/c/c6/I-26Chibi.png "I-26") ![SS](https://azurlane.koumakan.jp/w/images/4/4b/I-58Chibi.png "I-58") - [USS Albacore](https://azurlane.koumakan.jp/Albacore), [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
+* Skill (Dace): 
+  * Deal +15% Damage to CA.
+  * Gain +40 Oxygen.
+  
+* Skill (Albacore): 
+  * Deal +10% Damage to DD, CL and CV.
+  * Launches a special torpedo barrage with 70% Ignition chance upon surfacing.
+
+* Skill (I-26): 
+  * Deal +15% Damage to CV.
+  * Gain +40 Oxygen.
+  
+* Skill (I-58): 
+  * Deal +15% Damage to CA; also, launches a special toepedo barrage upon surfacing.
+
+* Desc: O2 Jamming.
+>A rather diverse bunch of girls, these ones, but they all share a trait - their Oxygen tanks are ample enough to accommodate for two full Mark 16 torpedo volleys, which means they can safely be ran with dual Oxygen Torpedoes.  
+Albacore is the best of the bunch, courtesy of her wider selection of preferred enemies as well as barrage quality and availability, but that's not to say the others are bad.
+
+#### ![SS](https://azurlane.koumakan.jp/w/images/e/e8/SurcoufChibi.png "Surcouf") - [FFNF Surcouf](https://azurlane.koumakan.jp/Surcouf)
+* Skill: 
+  * Upon joining the battle, grant +20% Accuracy to the vanguard.
+  * Upon surfacing, fire her barrage and stay on the field for 12s longer.
+  * Mounts a unique CA gun instead of the regular DD guns. It's good.
+
+* Desc: On v ya!
+>Surcouf is unique among subs for several reasons, not least of which her ability to stand her ground while surfaced.
+Firstly, her guns are not only actually useful but also threatening; secondly, she bolsters the vanguard's fighting prowess with a hefty Accuracy buff; thirdly, she stays on the field for longer than anyone else while making full use of her entire armament throughout it all.
+Her one downside is a subpar hunting range, but she's not meant to stay front and centre anyway.
+
+#### ![SSV](https://azurlane.koumakan.jp/w/images/8/81/I-13Chibi.png "Seaslug") - [IJN I-13](https://azurlane.koumakan.jp/I-13)
+* Skill: 
+  * Upon joining the battle, launch a unarmed Saiun and grant +10% Damage to the backline.
+  * Gain +40 Oxygen.
+  * Mounts a pair of Seaplanes instead of the regular DD guns. Still better than DD guns, and actually good if said seaplanes are Seiran.
+
+* Desc: Say What? to Blue Alien.
+>Ah yes, submarine carriers - yet another of those wacky and not really effective IJN designs which to this day garner popularity, if only because of how unhinged they were.  
+I-13 is the first of her class to reach Azur Lane, and despite the very mixed historical results, she puts on an impressive showing here - the damage buff is extremely welcome, the extra Oxygen nixes the need for a snorkel, her hunting range is comfortably wide and her Seiran can make a real contribution to the fight.  
+On the flipside, her barrage is extremely linear and runs the very real risk of being entirely wasted if sortied as a sideliner.
+
+#### ![SS](https://azurlane.koumakan.jp/w/images/e/e8/SurcoufChibi.png "Surcouf") - [IJN I-19](https://azurlane.koumakan.jp/Surcouf)
+* Skill: 
+  * 8s after joining the battle, launches a wave of penetrating torpedoes (up to 2 pierces, similarly to AP shells).
+  * I-19's torpedoes lose 1 Speed and deal +12% Damage.
+  
+* Desc: 
+>An attack sub through and through, armed with a rather powerful penetrating barrage and stronger torpedoes stock.  
+Them being slower isn't as much of a hindrance as it sounds at first - given the long distances from which subs launch, a slow torpedo has a greater chance to catch the original target on its way back.
+
 
 <br/><br/>
 ---
