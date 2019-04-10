@@ -68,6 +68,7 @@ Without these people, the Tier Guide would never be as comprehensive, accurate o
 - ### [BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")](#bbbc--1)
 - ### [BBV ![BBV](https://cdn.discordapp.com/attachments/518517758602903554/563429195179360289/BBV_img.png "BBV Icon")](#bbv--1)
 - ### [CV/CVL ![CV(L)](https://azurlane.koumakan.jp/w/images/d/d1/CV_img.png "CV/L Icon")](#cvcvl--1)
+- ### [SS ![SS](https://cdn.discordapp.com/attachments/518517758602903554/563432311782113350/SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 <br/><br/>
 ---
@@ -1283,6 +1284,59 @@ While definitely usable, her only real use case would be plugging Hard Mode enfo
 * Desc: 
 >The first carrier to ever sail the seas, and it shows. As THE early prototype for the ships that would later dominate the oceans, she's incredibly weak and brought further down by her mandatory CL gun - which can barely deal scratch damage, owing to her 0 Firepower statline.  
 Why is this even mentioned, then? Because her +XP skill stacks with Langley's, that's why, and having her around as a 0LB exp booster may be a good idea to hasten the leveling process.
+
+<br/><br/>
+---
+<br/><br/>
+## SS ![SS](https://cdn.discordapp.com/attachments/518517758602903554/563432311782113350/SS_img.png "Submarine Icon")
+### A few preliminary notes
+
+"Submarines" are powerful but specialized tools that behave rather differently from your ordinary fleets.
+Here's a quick rundown of how they work.
+
+1. You cannot control them directly; each sub has her own hunting pattern and different priorities when it comes to movement, and the fleet will stay within the boundaries of its lead sub's hunting range.
+2. Submarine fleets move up to 2 squares per turn to automatically attack enemy nodes within range, shaving off up to 20% max HP (more with submarine-boosting meowfficers) off of ALL enemies in the node, and may also be summoned in battle if your regular fleets are fighting within hunting range. Map strike damage depends on the sub fleet's overall Power Rating, in-battle damage depends on the usual mechanics.
+3. Submarine fleets in battle act as a sort of tactical nuke button; when summoned they will join the fight in person and unleash inordinate amounts of torpedoes via barrages to brutalize everything unfortunate enough to be on screen at the time, then stay for roughly 20s (exact amount depends on their Oxygen stat, with 10 Oxy equaling 1s) firing their 'regular' torpedoes until they run out of O2 and have to surface.
+4. Submarine statlines are generally very similar to one another, barring a few exceptions; as it is with BBs and BCs, skills are the main discriminant here.
+
+Given these premises, it quickly becomes apparent that **submarine fleets are meant to be fielded as a trio**; whether it be mauling nodes on the map or providing heavy torpedo support, they only reach peak efficiency as a full fleet, and in the case of map strikes such efficiency comes at no oil cost whatsoever.
+As such, this section *does not contain tiers* but specific recommendations and groupings - let's get to them.
+
+#### ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81") [KMS U-81](https://azurlane.koumakan.jp/U-81)
+* Skill (U-81): 
+  * Deal +20% Damage to CV; also, U-81's torps have a 15% chance to inflict Flooding (DoT similar to Ignition; 3s ticks, multiple procs do not stack but refresh duration) for 24s.
+  * Gain +40% Evasion; also, gain +7% Torp, Reload and Accuracy for every KMS sub in the fleet.
+
+* Desc: Achtung - U-Boot!
+>Given real world Germany's history with submarines, it comes as no surprise that the Ironblood gets the apex specimens of their class.  
+Simple yet brutally effective, U-81 is the lynchpin of the upcoming KMS trio - but she's no less effective for it, giving you a good taste of how effective the full size strike force will be.
+
+#### ![SS](https://azurlane.koumakan.jp/w/images/9/96/AlbacoreChibi.png "Albacore") ![SS](https://azurlane.koumakan.jp/w/images/0/0f/DaceChibi.png "Dace") ![SS](https://azurlane.koumakan.jp/w/images/c/c6/I-26Chibi.png "I-26") ![SS](https://azurlane.koumakan.jp/w/images/4/4b/I-58Chibi.png "I-58") - [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
+* Skill (Dace): 
+  * Deal +15% Damage to CA.
+  * Gain +40 Oxygen.
+
+* Skill (I-26): 
+  * Deal +15% Damage to CV.
+  * Gain +40 Oxygen.
+  
+* Skill (I-58): 
+  * Deal +15% Damage to CA; also, launches a special toepedo barrage upon surfacing.
+
+* Desc: O2 Jamming.
+>A rather diverse bunch of girls, these ones, but they all share a trait - their Oxygen tanks are ample enough to accommodate for two full Mark 16 torpedo volleys, which means they can safely be ran with dual Oxygen Torpedoes.  
+I-58 currently is the best one of the bunch, as she gets a special barrage to go along the extra O2.
+
+#### ![SS](https://azurlane.koumakan.jp/w/images/b/bd/I-19Chibi.png "I-19") - [IJN I-19](https://azurlane.koumakan.jp/I-19)
+* Skill: 
+  * 8s after joining the battle, launches a wave of penetrating torpedoes (up to 2 pierces, similarly to AP shells).
+  * I-19's torpedoes lose 1 Speed and deal +12% Damage.
+  
+* Desc: 
+>An attack sub through and through, armed with a rather powerful penetrating barrage and stronger torpedoes stock.  
+Them being slower isn't as much of a hindrance as it sounds at first - given the long distances from which subs launch, a slow torpedo has a greater chance to catch the original target on its way back.
+
+
 
 <br/><br/>
 ---
