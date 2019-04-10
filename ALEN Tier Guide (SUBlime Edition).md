@@ -930,6 +930,12 @@ You're not taking her because she's good, but because she's a force multiplier.
 >(PvE) Airstrike murderer extraordinaire thanks to her barrage, accomplished fireboat slayer owing to her CL guns on a BC frame, and even gets an edge against the most threatening enemies you can face later on.
 A very solid defensive pick, further helped by the fact her Sanshikidan barrage doesn't need her to be in the flagship slot to do work.
  
+ ![BB](https://azurlane.koumakan.jp/w/images/2/23/KongouChibi.png "Kongou") - **[IJN Kongou](https://azurlane.koumakan.jp/Kongou)**
+* Skill: 
+  * While alive in fleet, +15% Firepower/Accuracy and +20% Evasion for all Kongou-class (Kongou, Kirishima, Haruna, Hiei). 
+
+* Desc: Kongou-class support craft. Not very flashy, but her buffs are anything but unremarkable - the extra Evasion in particular makes a Kongou-class backline powerful and extremely hard to shift.
+ 
 ![BB](https://azurlane.koumakan.jp/w/images/c/c9/IseChibi.png "IJN Ise") - **[IJN Ise](https://azurlane.koumakan.jp/Ise)**
 * Skill: 
   * +20% FP to self.
