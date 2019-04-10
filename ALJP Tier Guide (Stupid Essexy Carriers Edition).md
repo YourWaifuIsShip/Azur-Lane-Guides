@@ -1661,7 +1661,7 @@ Her one downside is a subpar hunting range, but she's not meant to stay front an
 I-13 is the first of her class to reach Azur Lane, and despite the very mixed historical results, she puts on an impressive showing here - the damage buff is extremely welcome, the extra Oxygen nixes the need for a snorkel, her hunting range is comfortably wide and her Seiran can make a real contribution to the fight.  
 On the flipside, her barrage is extremely linear and runs the very real risk of being entirely wasted if sortied as a sideliner.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/e/e8/SurcoufChibi.png "Surcouf") - [IJN I-19](https://azurlane.koumakan.jp/Surcouf)
+#### ![SS](https://azurlane.koumakan.jp/w/images/b/bd/I-19Chibi.png "I-19") - [IJN I-19](https://azurlane.koumakan.jp/I-19)
 * Skill: 
   * 8s after joining the battle, launches a wave of penetrating torpedoes (up to 2 pierces, similarly to AP shells).
   * I-19's torpedoes lose 1 Speed and deal +12% Damage.
