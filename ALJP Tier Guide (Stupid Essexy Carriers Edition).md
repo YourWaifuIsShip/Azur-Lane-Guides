@@ -1351,11 +1351,32 @@ As is customary for IJN sister ships, they only shine when used together - but e
 >Once criminally underrated and now outshining even the Foxes in terms of raw damage, Hiryuu focuses on Torpedo Bombers and stubbornly refusing to roll over and die (by becoming invincible for 15s and launching an airstrike); not the most useful skill under the majority of circumstances, though her sister makes up for it with the always handy vanguard buff, but the real deal is the +35% Aviation buff that is further bolstered by the slew of extra stats the Kai brought, as well as the neat timed barrage (which is, despite its inconsistency, still free damage).  
 Exceptional.
 
+![CV](https://azurlane.koumakan.jp/w/images/e/ea/TaihouChibi.png "Taihou") - **[IJN Taihou](https://azurlane.koumakan.jp/Taihou)**
+* Skill: 
+  * Upon completion of an airstrike cooldown, she has a 40% chance to launch a Saiun (increases own backline's Damage by 10% for 8s but deals no damage of its own), a 40% chance to launch a Suisei carpet bombing and a 40% chance to launch a Ryusei targeted torpedo strike.
+  * Take -20% HE and Aviation damage.
+  * Has a 2/3/3 loadout.
+
+* Desc: Lady Luck is a bitch.
+>Taihou is as fickle as she is horrifyingly powerful, equally suited to razing waves and demolishing single targets.
+As the proud owner of not one, not two, but three whole separate plane 'barrges' and a bombardment-oriented plane loadout, she is guaranteed to set the oceans ablaze multiple times over, if given the chance(s) to do so - and even if said chances weren't forthcoming, her Heavy Armour, massive HP pool and defensive skill allow her to weather the storms until the next die can be cast.  
+On a sidenote, she's also one of the carriers least affected by enemy AA boats due to the sheer volume of aircraft she can unleash. Nice.
 
 
 
 ### Tier 1:
 ---
+![CVL](https://azurlane.koumakan.jp/w/images/9/9f/Bunker_HillChibi.png "Bunker Hill") - **[USS Bunker Hill](https://azurlane.koumakan.jp/Bunker_Hill)** (T0.5 w/ USS BBs as flagship, T0.5 w/ CV/L)
+* Skill: 
+  * Gain +15% Aviation; if flagship, grant +15% Firepower to USS BBs; if not, grant +15% Firepower and AA to USS DDs.
+  * If there are no other CV/L in the backline, grant +12% AA to it; upon launching an airstrike, launch a plane barrage whose pattern differs according to the number of CV/Ls in the fleet.
+  * Has a 3/3/2 loadout.
+
+* Desc: USS, AUGmented.
+>A very peculiar beast, this first USS sort-of-national-booster, but a very effective one nonetheless.  
+While at first glance her skills may look like a schizophrenic mess, and to a certain extent they are, on closer inspection it's fairly easy to see what their intent is - boosting either dual battleship comps or full carrier ones as well as herself, in a remarkable display of versatility.  
+You may have to rethink your fleet to accommodate her eccentricities, but she'll make sure it'll be worth it.
+
 
 ![CVL](https://azurlane.koumakan.jp/w/images/6/69/IndependenceChibi.png "Independence") - **[USS Independence](https://azurlane.koumakan.jp/Independence)** (T0.5 w/ 1+ Cleveland-class around)
 * Skill: 
@@ -1410,18 +1431,19 @@ Her Kai skill, just like her gunfire skill, is best regarded as a bit of free ad
 >More support-based than her sister and frailer than she when her other half is around, but more than makes up for it thanks to the +30% Airpower she gets as well as the buffs she throws out (which incidentally also partially negate the debuff).  
 Her buffs and layout are good enough to warrant usage even solo.
 
-![CV](https://azurlane.koumakan.jp/w/images/e/ea/TaihouChibi.png "Taihou") - **[IJN Taihou](https://azurlane.koumakan.jp/Taihou)**
-* Skill: 
-  * Upon completion of an airstrike cooldown, she has a 40% chance to launch a Saiun (increases own backline's Damage by 10% for 8s but deals no damage of its own), a 40% chance to launch a Suisei carpet bombing and a 40% chance to launch a Ryusei targeted torpedo strike.
-  * Take -20% HE and Aviation damage.
-  * Has a 2/3/3 loadout.
-
-* Desc: Lady Luck is a bitch.
->Taihou is as fickle as she is horrifyingly powerful - the proud owner of not one, not two, but three whole separate plane 'barrges' and a bombardment-oriented plane loadout, she is guaranteed to set the oceans ablaze multiple times over, if given the chance to do so. And as a nice little bonus, she won't ever feel the heat herself thanks to her passive defence and Heavy Armour.
-
 
 ### Tier 1.5:
 ---
+#### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
+* Skill: 
+  * Increases experience gained by CV by 15%
+  * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
+  * Has a 6/2/0 loadout.
+
+* Desc:
+>Once considered a liability due to the much reviled F/F/B loadout and an exp boost as a primary skill, Langley Kai's fortunes changed drastically with the advent of Air Superiority mechanics; not only do those fighters contribute almost or over twice the amount other types of planes do, but they're also extraordinarily cost-effective as well as slightly more readily available than usual.
+If stacking AS is what you need but you'd rather not focus on carriers, look no further.
+
 ![CV](https://azurlane.koumakan.jp/w/images/3/33/LexingtonChibi.png "USS Lexington") ![CV](https://azurlane.koumakan.jp/w/images/f/fb/SaratogaChibi.png "USS Saratoga") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)** **[USS Saratoga](https://azurlane.koumakan.jp/Saratoga)**
 * Skill: 
   * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Airpower).
@@ -1432,8 +1454,7 @@ Her buffs and layout are good enough to warrant usage even solo.
 >These two ships are identical in use (albeit not in popularity, only Saratoga has a Kai to this day), and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo.  
 They don't launch fast, but when they do they really leave a mark - make sure to stagger the launches as to not overwrite the Damage buff, though.
  
-
-![CV](https://azurlane.koumakan.jp/w/images/c/c4/Ark_RoyalChibi.png "HMS Ark Royal") - **[HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)**
+ ![CV](https://azurlane.koumakan.jp/w/images/c/c4/Ark_RoyalChibi.png "HMS Ark Royal") - **[HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)**
 * Skill: 
   * Upon airstrike launch, reduce all on-screen enemies' speed by 60% and launch 3 biplanes armed with 1 aimed torpedo each.
   * 25% chance to do double damage on Airstrike.
@@ -1442,6 +1463,17 @@ They don't launch fast, but when they do they really leave a mark - make sure to
 * Desc: 
 >A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen.   
 Whether it's boss-busting or wave-clearing, give her the appropriate planes and she'll do a pretty good job - just don't expect much of anything from her terrible DBs, and definitely do not expect your carrier-based torp to magically all hit afterwards.
+ 
+![CV](https://azurlane.koumakan.jp/w/images/0/00/IllustriousChibi.png "HMS Illustrious") - **[HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)**
+* Skill: 
+  * Upon airstrike launch, grants every vanguard unit a shield for 10% of Illustrious' max HP, lasting 8s.
+  * Has a 6/0/2 loadout.
+
+* Desc: Zero to (AS) Hero.
+>A very defensive-focused CV with double fighter slots, a shield generator and staggering amounts of Air Superiority. Her low DPS is the stuff of legend.    
+Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo strikes.
+
+
 
 ![CV](https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** **(T0 w/ other KMS units)**
 * Skill: 
@@ -1465,16 +1497,6 @@ Her only real flaw is her lacking Reload, a mere 100 compared to most other top-
 
 ### Tier 2:
 ---
-#### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
-* Skill: 
-  * Increases experience gained by CV by 15%
-  * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
-  * Has a 6/2/0 loadout.
-
-* Desc: 
->Saddled with the much reviled F/F/B loadout and a useless (in combat) primary skill, it's hard to justify her use in most fleets - until you realise just how useful Reload is for CVL, and how cheap and effective a full CVL backline can be.  
-Manual only, but the results are guaranteed; and if you need the exp boost, keep one 0LB around specifically for that purpose.
- 
 ![CV](https://azurlane.koumakan.jp/w/images/d/db/HornetChibi.png "USS Hornet") - **[BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)**
 * Skill: 
   * 60% chance to drop 12 additional bombs with her airstrike upon launch
@@ -1495,15 +1517,6 @@ Just don't expect much in the way of support, beyond the air coverage provided b
 >Chaser had a look at Ranger before leaving for the Royals and realised she was up to something good.  
 With functionally 9 planes at her back and call without giving up her AA guns or high Reload, she can handily rival most other CVL in DPS while keeping some support capabilites to her credit - as well as a decent chance to throw out torrents of planes.  
 That said, she's still mostly an attack craft - her ASW capabilties, while a nice touch, are entirely useless on non-ASW maps and unnecessary there, given how easily dealt with subs are.
-
-![CV](https://azurlane.koumakan.jp/w/images/0/00/IllustriousChibi.png "HMS Illustrious") - **[HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)**
-* Skill: 
-  * Upon airstrike launch, grants every vanguard unit a shield for 10% of Illustrious' max HP, lasting 8s.
-  * Has a 6/0/2 loadout.
-
-* Desc: 
->A very defensive-focused CV with double fighter slots and a shield generator. Her low DPS is the stuff of legend.    
-Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo strikes.
 
 ![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(T0 w/ Shoukaku)**
 * Skill: 
