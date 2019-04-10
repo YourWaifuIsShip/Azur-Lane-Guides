@@ -843,7 +843,7 @@ Remember to have her be the flagship to make the most out of her barrage, and th
 * Desc: 
 >THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
 
-![BB](https://azurlane.koumakan.jp/w/images/8/85/NagatoChibi.png "Nagato") - **[IJN Nagato](https://azurlane.koumakan.jp/Nagato)**
+![BB](https://azurlane.koumakan.jp/w/images/8/85/NagatoChibi.png "Nagato") - **[IJN Nagato](https://azurlane.koumakan.jp/Nagato)** **(T0 w/ IJN CV/L)**
 * Skill: 
   * When sortied as Flagship, grant all IJN units +10% Firepower, +20% Reload/Accuracy, and +20% damage output to all IJN carriers.
   * 40% chance on Main Gun fire, launch a fixed linear HE barrage.
