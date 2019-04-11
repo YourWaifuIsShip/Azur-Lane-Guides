@@ -286,6 +286,13 @@ Her torp game is still legit, if nothing else, and she'll be a decent placeholde
 >An oddity among DDs and especially IJN ones, Niizuki focuses on AA and guns over torps - and does so with a decent measure of success, too.   
 Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Efficiency let her deal constant, solid damage regardless; she's no KMS or USS Gun-DD, but she puts up a good showing and still retains serviceable torps, as well as an unreliable but decent fleetwide buff.
 
+#### ![DD](https://azurlane.koumakan.jp/w/images/9/9a/HarutsukiChibi.png "Harutsuki") ![DD](https://azurlane.koumakan.jp/w/images/5/57/YoizukiChibi.png "Yoizuki")- **[IJN Harutsuki](https://azurlane.koumakan.jp/Harutsuki)** **[IJN Yoizuki](https://azurlane.koumakan.jp/Yoizuki)**
+* Skill:
+  * When planes are shot down within the AA circle, +25% own AA and Firepower for 8s.
+
+- Desc:
+>New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly great at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down. Solid even when planes aren't around, better when there are.
+
 ![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - **[KMS Z1](https://azurlane.koumakan.jp/Z1)** **(T0 if running full Z-series setup)**
 * Skill:
   * +40% FP and Eva to all KMS DD.
@@ -334,13 +341,6 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
 
 * Desc: 
 >The first real DD to hit the seas, and boy does it show. Her barely combat-worthy statline and lack of any skill beyond the XP boost makes her a very poor candiate for Limit Breaks, and a very good candidate for 0LB shenanigans.
-
-#### ![DD](https://azurlane.koumakan.jp/w/images/9/9a/HarutsukiChibi.png "Harutsuki") ![DD](https://azurlane.koumakan.jp/w/images/5/57/YoizukiChibi.png "Yoizuki")- **[IJN Harutsuki](https://azurlane.koumakan.jp/Harutsuki)** **[IJN Yoizuki](https://azurlane.koumakan.jp/Yoizuki)**
-* Skill:
-  * When planes are shot down within the AA circle, +25% own AA and Firepower for 8s.
-
-- Desc:
->New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly great at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down. Solid even when planes aren't around, better when there are.
 
 #### ![DD](https://azurlane.koumakan.jp/w/images/f/f3/ShiranuiChibi.png "IJN Shiranui") [IJN Shiranui](https://azurlane.koumakan.jp/Shiranui)
 * Skill:
