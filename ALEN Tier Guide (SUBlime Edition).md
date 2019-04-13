@@ -356,6 +356,16 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
 ### Tier 0:
 ---
 
+![CL](https://azurlane.koumakan.jp/w/images/a/a4/HMS_NeptuneChibi.png "Neptune") - **[HMS Neptune](https://azurlane.koumakan.jp/HMS_Neptune)**
+* Skill: 
+  * +35% own AP damage.
+  * Once per fight and upon falling below 20% HP, heals herself for 25% of her max HP and gains +30% Reload.
+  * +15% damage to Sirens.
+  
+- Desc: "Insistent termaidology."
+>Unlike Hood and Monarch's case, there is no real ambiguity here - Neptune does do Phoenix's job better, although at a considerably higher cost.  
+Armed with an excellent AP barrage and a very powerful AP boosting passive, and protected by the largest HP pool in her class and a better version of Phoenix's self-rescue skill, Neptune is perfectly capable of carrying on the fight for much longer while simultaneously making it much shorter than her USS counterpart could do.
+
 ![CL](https://azurlane.koumakan.jp/w/images/b/b7/JintsuuKaiChibi.png "IJN Jintsuu Kai") - **[IJN Jintsuu Kai](https://azurlane.koumakan.jp/Jintsuu#Retrofit)**
 * Skill: 
   * -20% Damage taken to self, +10% Torpedo Critical chance and +30% Torpedo Critical Damage to all DD/CL in Fleet
@@ -606,7 +616,7 @@ Does all this redeem her, then? Not really, even in this fashion, you'd need to 
 ## CA ![CA](https://azurlane.koumakan.jp/w/images/c/c3/CA_img.png "CA Icon")
 ### Tier 0:
 ---
- 
+
 ![CA](https://azurlane.koumakan.jp/w/images/7/74/MinneapolisChibi.png "USS Minneapolis") - **[USS Minneapolis](https://azurlane.koumakan.jp/Minneapolis)**
 * Skill:
   * +15% Firepower and +30% Reload for 12s after killing an enemy vessel, if skill is already active it will refresh the duration 
@@ -626,12 +636,32 @@ Does all this redeem her, then? Not really, even in this fashion, you'd need to 
 > Step aside Portland, there's a new best CA in the game - at least on the offense.
 While she is definitely less tanky, missing the extra 800 HP and 11 Evasion Port gets, she casts a massive shadow over her DPS thanks to higher Firepower, better Main Gun efficiency, better offensive skills, a much better barrage and, most importantly, still getting Main Gun +1 despite the torps as if she were a gunboat.
 
+![CA](https://azurlane.koumakan.jp/w/images/8/87/RoonChibi.png "Roon") - **[KMS Roon](https://azurlane.koumakan.jp/Roon)**
+* Skill:
+  * Main Gun cycles between HE and AP every 2 salvo, then gains a +3.5% Reload stack for every Main Gun salvo fired. Max 12 stacks.
+  * Every 30s, generates 4 orbiting shields (two on a very narrow orbit, one on a medium orbit, one on a wide orbit) lasting 8 shots or 15s.
+  * +15% damage vs Sirens.
+  * Has MGM+1 and torpedoes.
+
+- Desc: ROON FOR YOUR LIVES!
+> In many ways, Saint Louis and Roon stand at opposite ends.  
+Whereas the former starts out strong and loses some of her lustre as the battle drags on, the latter only gets stronger; where the former's barrage is uncomfortably wide, the latter's is very concentrated and devastating; where the former relies on high speed and evasion to stay out of harm's way, the latter simply adds layers of HP and shields to power through the barrages; and as the former gradually mellows out of her cold templar persona, the latter grows ever more violent and unhinged.  
+As a result, Roon is best served on boss battles - where she has time to rev up her guns and let the concentrated barrage tear single hard targets apart.
+
+![CA](https://azurlane.koumakan.jp/w/images/b/ba/Saint_LouisChibi.png "Saint Louis") - **[FFNF Saint Louis](https://azurlane.koumakan.jp/Saint_Louis)**
+* Skill:
+  * +35% HE damage and -3% Ignition chance
+  * Upon battle start, gain +8 Speed (permanent) and +30% Evasion (for 40s)
+  * +15% damage vs Sirens.
+
+- Desc: DESU VULT!
+> Historically praised by multiple navies as one of the absolute best heavy cruiser designs but robbed of its chance to shine due to the fall of France in WW2, Azur Lane's Saint Louis has come to set the record straight - and does she ever.  
+Mightiest of all CA by weight of stats and skills, there is no area where she doesn't excel - her guns absolutely melt opposing Light Armour and punch through Heavy Armour better than any other frontliners' in the game, her Speed is slightly superior to that of CLs and enjoys a hefty boost to her already high Evasion for more than half a minute after the battle starts, her AA is uncharacteristically high for her class and she enjoys all the perks of her Spe-CA peers (Medium Armour, MGM+1 and Torpedoes).  
+The only fault one can find in her would be her barrage - its wide linear pattern helps dispatching multiple weak foes, yes, but also neuters its impact against single targets.
 
  
 ### Tier 0.5:
 ---
-
-
 ![CA](https://azurlane.koumakan.jp/w/images/4/44/PortlandKaiChibi.png "Portland Kai") - **[USS Portland Kai](https://azurlane.koumakan.jp/Portland#retrofit)**
 * Skill: 
   * When sortied w/ Indianapolis, gain +15% Firepower, AA and Evasion
@@ -660,6 +690,17 @@ While her HP is rather lacklustre, it's an easily solved issue and dead enemies 
 >What was said about Wichita applies to Chicago as well. Slightly frailer than she is and more selfish, she will nonetheless punch hard and harder than anyone else when she does proc, which she often will - a proc on the first salvo lasts throughout the second, and the second salvo may still proc if the first one didn't.  
 As a result, her double damage uptime is considerably higher than the 30% may lead you to believe. Bring out the big guns.
 
+![CA](https://azurlane.koumakan.jp/w/images/0/02/IbukiChibi.png "Ibui") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)**
+* Skill:
+  * Gain +40% Torpedo CritRate and +65% Torpedo CritDmg (permanent).
+  * Upon launching torpedoes, 30% chance to launch a special torpedo barrage.
+  * +15% damage vs Sirens.
+  * Has TWO preloaded torpedo spreads.
+
+- Desc: What do you mean "she's not a DD"?
+> Someone at the design bureau must've missed a memo when they designed Ibuki.  
+Sporting an IJN DD's skillset and an IJN CA's statline, her entire being is at odds with her purpose as a dedicated torpedo delivery system. While she starts with TWO preloaded torp spreads and her said spreads can be exceedinhgly powerful, her torpedo stat is low and bolstering is hard, as she lacks access to the Sendai-class' buffs and OxyTorp auxiliaries come at the expense of survivability; at the same time, while her guns pack a respectable punch for a Torp-CA, they are completely neglected by her skillset and tend to fulfil the same purpose a DD's guns would (give her something to do while reloading).  
+As a result, Ibuki's performance more closely resembles that of a high-end DD than a CA's - rush in, unload torps, sit down and wait to be useful again as torps reload - despite (mostly) enjoying the benefits of her CA statline.
 
  
 ### Tier 1.5:
@@ -803,6 +844,16 @@ If you're looking that something that won't die anytime soon, look no further; i
 
 - Desc: 
 >With stats coming close to Warspite's stellar FP and Reload and a suite of skills aimed at softening the enemy up, not only she can lay on the hurt but she can also make sure her fellow warships do the same. A worthy inclusion in every fleet.
+
+![BB](https://azurlane.koumakan.jp/w/images/a/ae/MonarchChibi.png "Monarch") - **[HMS Monarch](https://azurlane.koumakan.jp/Monarch)**
+* Skill:
+  * 70% chance on Main Gun fire, fire a fixed AP slowing (-40% Speed for 6s) barrage (Hood-like)
+  * Once per battle and upon falling below 20% HP, restore 3% HP every 2s for 8s; also, for every 1% HP lost during the fight, her Reload increases by 1.
+
+- Desc: 
+>It'd be easy to regard Monarch as a straight upgrade to Hood. She mounts CL guns, Her FP is much higher, her Efficiencies are better, her barrage is AP and she can even heal herself... what more could one possibly want from a battleship?
+The truth isn't quite so simple, though. While Monarch's statline is indeed superior (with the glaring exception of AA) and the self-heal greatly extends her operational time even beyond Hood's already impressive one, Monarch's barrage will neither quicken the backline's pace nor can it be used with the same reckless abandon due to the AP modifiers; while she won't fall flat against Light Armour, courtesy of her excellent regular shelling, she doesn't quite match Hood's supportive capabilities and weight of fire.
+As a result, it would be wise to pick your sovereign of choice with an eye to battlefield conditions - if enemy BB/C are out for blood or Medium/Heavy Armour is getting you down, Monarch will weather their storm and put them in their place with staggering ease.
 
 ![BC](https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png "IJN Amagi") - **[IJN Amagi](https://azurlane.koumakan.jp/Amagi)**
 * Skill: 
@@ -1008,6 +1059,18 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
 
 * Desc: 
 >Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself properly.
+
+![BC](https://azurlane.koumakan.jp/w/images/1/12/IzumoChibi.png "Izumo") - **[IJN Izumo](https://azurlane.koumakan.jp/Izumo)**
+* Skill: 
+  * 70% chance on Main Gun fire, launch a fixed linear AP barrage.
+  * Take -35% AP damage, but take +6% Ignition damage and extends Ignition duration by 3s.
+  * Deal +15% damage vs Sirens.
+
+* Desc: Consistently bad.
+>One really has to wonder what has Izumo ever done to developers to warrant such a treatment.
+As awful in AL as she is in WoWS, Izumo is bad by any standard - her barrage barely scratches Light Armour while being unable to bypass it due to the parallel shots, her 'defensive' skill harms her much more than it does protect her due to the complete absence of enemy BB AP (and prevalence of BB HE), and worse still, as a barrage boat she needs flagship slot... while sharing Mikasa, Nagato and Kirishima's nation.
+Her sole saving grace is her exceptional statline, and even then it is marred by high Oil costs, comparatively low Efficiencies and is far from making any significant difference.
+Bad not just by PR standards but as a whole, there is little to no reason to ever use her over any other barrage boat.
 
 ![BC](https://azurlane.koumakan.jp/w/images/9/96/MutsuChibi.png "Mutsu") - **[IJN Mutsu](https://azurlane.koumakan.jp/Mutsu)**
 * Skill: 
