@@ -1138,6 +1138,20 @@ The seaplanes are still middling at best, but you're paying no price for a BB wi
 >Still the more powerful yet less useful sibling, Ise Kai fully embraces her nature as an instrument of destruction by improving her airstrikes to the point of respectability.
 Damage's still not on par with proper carriers, sure, but it's leagues better than what other BBVs gets in terms of both damage and cooldown - and the only thing better than a screenclear is a screenclear that can take out some enemies alongside the bullets.
 
+ ### (Dis)honourable Mentions:
+--- 
+  
+![BB](https://azurlane.koumakan.jp/w/images/9/9a/YamashiroKaiChibi.png "Yamashiro Kai") ![BB](https://azurlane.koumakan.jp/w/images/0/05/FusouKaiChibi.png "Fusou Kai") - **[IJN Yamashiro Kai](https://azurlane.koumakan.jp/Yamashiro#retrofit)** **[IJN Fusou Kai](https://azurlane.koumakan.jp/Fusou#retrofit)**
+* Skill: 
+  * +20% FP to self.
+  * On first airstrike, launch additional Zuiun.
+
+* Desc: 
+>So this was already mentioned in the BB section, but to reiterate - Yamashiro and Fusou really get the short end of the stick here.  
+Their gains in term of Firepower and Efficiency are not only insufficient to properly compensate for the MGM-1 (loss of 1/3 salvo), they're vastly outgunned by their superior BBV brethren; and their special BBV skill is a Zuiun airstrike that falls well short of even weak CVL airstrikes.  
+In short, they're by all accounts a downgrade over their BB forms. Avoid like the plague.
+
+
 
 <br/><br/>
 ---
