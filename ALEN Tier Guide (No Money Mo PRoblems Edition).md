@@ -1,4 +1,5 @@
-# Your Waifu is SHIP's opinionated & extra-biased EN tier guide (based on Kopfjäger's work)
+# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide  
+# NO MONEY MO TROUBLE EDITION
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -57,6 +58,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
   
 #### Credits:
 - This guide is far from a solo effort: while the writing is mine, the tierings are researched and approved collegially with Gurosebe#4054, Enbayft#2527, Cantarella#7963 and the #helpful fellows over at the Azur Lane English Community server, while the coding framework that makes this possible was provided by Enbayft#2527 and improved upon by Boz#5174.  
+Credit also goes to the original creator of the list, Ko
 Without these people, the Tier Guide would never be as comprehensive, accurate or good-looking as it is, and it is to them that I extend my sincere gratitude.
   
   
