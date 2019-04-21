@@ -18,7 +18,7 @@ Good reading, and godspeed cap'n!
 - Ships unable to fulfil the above criterion (eg. carriers as a whole, Vestal) are rated according to their ability to act as a SUPPORT unit; buffs/debuffs/aa/heals garner higher ranks than sheer damage output, especially during boss fights. See assorted notes for reasoning.
 - Ships are compared to others in their OWN CLASS for tiering purposes; if two ships are have comparable stats and purpose, the least expensive one will be ranked higher.
 - Ships in a tier are listed alphabetically and in order of nationality (USS -> HMS -> IJN -> KMS).
-- All units are assumed to be MAXED (ie. lv100, BiS gear, SL10 across the board).
+- All units are assumed to be MAXED (ie. lv110, BiS gear, SL10 across the board).
 - Auto or Manual performance is not taken into consideration, unless it is specifically relevant to the unit.
 - Submarines will NOT be tiered until more data on their live, peak performance is collected. This will take a while, folks.
 - The Retrofit Priority List orderings are decided on the basis of how effective is the retrofitted unit, not how much does it need the retrofit; in other words, the better (more powerful/more useful) the retrofit, the higher it is.
