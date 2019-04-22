@@ -469,8 +469,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
   * +8 Speed and +25% Evasion.
   * Upon battle start, heals the fleet by 3.5% of her max HP.
   
-* Desc: ### Tier 1: 
----
+* Desc: 
 >The cutest Belfast you'll ever see, and with a brand new support-focused skillset to boot.  
 Not entirely as powerful as her older self, but she's up there without being forced to take a subpar gun, is considerably more Evasive and that full fleet healing is a nice addition.
 
