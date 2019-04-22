@@ -464,7 +464,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
 * Desc: "It's not luck, it's all skill".
 >Lewdis' rather impressive statline goes exceedingly well with a solid set of self-buffs to all relevant stats for a Gun-CL like herself, letting her withstand amounts of punishment that would fell a lesser CL or fire harder and faster than much of her competition.
 
-![CL](https://azurlane.koumakan.jp/w/images/3/3d/BelchanChibi.png "Belchan") - **[HMS Belchan](https://azurlane.koumakan.jp/Belchan)**
+![CL](https://azurlane.koumakan.jp/w/images/e/e4/Little_BelChibi.png "Belchan") - **[HMS Belchan](https://azurlane.koumakan.jp/Little_Bel)**
 * Skill:
   * +8 Speed and +25% Evasion.
   * Upon battle start, heals the fleet by 3.5% of her max HP.
