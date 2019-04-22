@@ -1338,7 +1338,7 @@ Just don't expect much in the way of support, beyond the air coverage provided b
 >Saddled with the much reviled F/F/B loadout and a useless (in combat) primary skill, it's hard to justify her use in most fleets - until you realise just how useful Reload is for CVL, and how cheap and effective a full CVL backline can be.  
 Manual only, but the results are guaranteed; and if you need the exp boost, keep one 0LB around specifically for that purpose.
 
- #### ![CVL](https://i.imgur.com/te8TrVP.png "Chaser") - [HMS Chaser](https://azurlane.koumakan.jp/Chaser)
+ #### ![CVL](https://azurlane.koumakan.jp/w/images/9/9a/ChaserChibi.png "Chaser") - [HMS Chaser](https://azurlane.koumakan.jp/Chaser)
 * Skill: 
   * Upon airstrike launch, 15% chance to immediately reload it.
   * Upon airstrike launch, reveal all submarines on the screen for 10s and launch three biplanes armed with depth charges and two parallel torpedoes each.
