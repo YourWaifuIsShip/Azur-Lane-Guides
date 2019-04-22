@@ -439,6 +439,7 @@ With no real weakness to speak of, her one significant flaw is not being able to
 > Creme de la creme of the Cleveland class by virtue of a slightly superior statline (compared to her sisters'), an absolute bomb of a Cruiser buffing skill, and surprising amounts of Luck to make the most out of her already sturdy build.  
 Most, if not all, Cruiser compositions will benefit by her presence.
 
+### Tier 1: 
 ---
 ![CL](https://azurlane.koumakan.jp/w/images/8/86/HelenaChibi.png "Helena") - **[USS Helena](https://azurlane.koumakan.jp/Helena)** **(T0 vs bosses)**
 * Skill:
@@ -468,7 +469,8 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
   * +8 Speed and +25% Evasion.
   * Upon battle start, heals the fleet by 3.5% of her max HP.
   
-* Desc: 
+* Desc: ### Tier 1: 
+---
 >The cutest Belfast you'll ever see, and with a brand new support-focused skillset to boot.  
 Not entirely as powerful as her older self, but she's up there without being forced to take a subpar gun, is considerably more Evasive and that full fleet healing is a nice addition.
 
@@ -1037,7 +1039,7 @@ Whether you do actually need all that AA is another matter entirely, but rest as
 >An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.  
 As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
 
- ![BB](https://i.imgur.com/y3gjZTq.jpg "HMS Warspite") - **[HMS Warspite Kai](https://azurlane.koumakan.jp/Warspite#retrofit)**
+ ![BB](https://azurlane.koumakan.jp/w/images/1/15/WarspiteKaiChibi.png "HMS Warspite") - **[HMS Warspite Kai](https://azurlane.koumakan.jp/Warspite#retrofit)**
 * Skill: 
   * +10s after the start of the battle and every 15s afterwards, fires two aimed AP auto-critting shells at the farthest available target AND places a marker upon it (increasing the chances other HMS backliners will fire upon it); also, the first barrage will deal +130% damage.
   * Gain -5 Dispersion to the Main Gun, +15% FP and +15% HitRate against DD.
@@ -1539,7 +1541,7 @@ Her only real flaw is her lacking Reload, a mere 100 compared to most other top-
 >Once a meme, now a force to be reckoned with. Think of her as a barrage boat in carrier form - her main job is blasting ships into smithereens, and she does that remarkably well with two powerful skills dedicated precisely to that and a solid statline.  
 Just don't expect much in the way of support, beyond the air coverage provided by her okay fighters.
 
- #### ![CVL](https://i.imgur.com/te8TrVP.png "Chaser") - [HMS Chaser](https://azurlane.koumakan.jp/Chaser)
+ #### ![CVL](https://azurlane.koumakan.jp/w/images/9/9a/ChaserChibi.png "Chaser") - [HMS Chaser](https://azurlane.koumakan.jp/Chaser)
 * Skill: 
   * Upon airstrike launch, 15% chance to immediately reload it.
   * Upon airstrike launch, reveal all submarines on the screen for 10s and launch three biplanes armed with depth charges and two parallel torpedoes each.
