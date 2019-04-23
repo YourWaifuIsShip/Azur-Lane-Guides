@@ -121,9 +121,10 @@ Proud owner of a quick-firing, high-volume, AP conal barrage with four homing to
   * 5% chance on firing main gun to boost Torpedo by 60% for 8s
   * 70% chance every 20s to fire a special barrage and boost Evasion stat by 30% for 5s
 
-* Desc: "Nuclear Launch Detected".
->Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even exceed the tens of thousands.  
-On the flip side, Torpedoes are all she's got and once she's blown her load, she won't have much to do except waiting for them to come back online. The DPH monster to LafKai's DPS.
+* Desc: Nuclear Launch Detected.
+>Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even reach the tens of thousands.
+On the flip side, Torpedoes are all she's got and once she's blown her load, she won't have much to do except waiting for them to come back online; and given how massively overkill her torpedoes tend to be, it would be advisable to deploy her in boss fights first, foremost and only.
+The DPH monster to LafKai's DPS.
 
 ![DD](https://azurlane.koumakan.jp/w/images/8/8e/KagerouChibi.png "IJN Kagerou") - **[IJN Kagerou](https://azurlane.koumakan.jp/Kagerou#Default)**
 * Skill:
