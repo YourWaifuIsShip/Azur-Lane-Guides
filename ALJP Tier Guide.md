@@ -146,7 +146,7 @@ Terrifyingly effective against her intended targets, to the point of overtaking 
 >Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline.  
 The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.
 
-![DD](https://azurlane.koumakan.jp/w/images/8/8e/KagerouChibi.png "Kagerou") - **[IJN Kagerou](https://azurlane.koumakan.jp/Kagerou#Default)**
+![DD](https://azurlane.koumakan.jp/w/images/8/84/KagerouKaiChibi.png "Kagerou Kai") - **[IJN Kagerou Kai](https://azurlane.koumakan.jp/Kagerou#Retrofit)**
 * Skill:
   * 15% boost of torpedo stat to the frontline
   * 30% chance to launch a second salvo on torpedo launch
