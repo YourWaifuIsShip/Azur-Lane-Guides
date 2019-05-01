@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (No Money Mo PRoblems EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (FAKKYU EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -300,7 +300,7 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
 
 * Desc: 
 >Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
- 
+
  
 ### Pro Team Players:
 ---
@@ -349,6 +349,14 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
 
 * Desc: 
 >One of the top DD choices for a 0LB min-cost farm fleet due to her high torpedo stat, low fuel usage, and chain torpedo skill.
+
+![DD](https://azurlane.koumakan.jp/w/images/0/0f/Kizuna_AIChibi.png "DDakyu") - **[Kizuna AI](https://azurlane.koumakan.jp/Kizuna_AI)**
+* Skill:
+  * Every 20s, initiate RNG fiesta. (35% chance for -8% FP/Torp/Aviation to all enemies; 35% chance for -6%; 18% chance for -4%; 12% chance for +4% instead).
+  * Upon taking damage, 12% chance to launch a torpedo barrage, become invincible for 3s and gain +40% Eva for 3s afterwards. This skill may only activate thrice per battle.
+
+* Desc: AI-TAN BIIIIIMO!
+>Also known as "Nowaki but not completely awful", DD AI is overall surprisingly okay - a decent statline, a reliable debuff and a nice-if-short lived defensive/offensive skill aren't enough to let her outshine the vast majority of proper DD (and the lack of a real barrage doesn't help), but she's still an interesting and fairly competent addition.
 
 <br/><br/>
 ---
@@ -777,6 +785,15 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 Capable of mounting a unique underchambered BB gun, they sport massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than they (DD and CL) - but are let down by that same gun's AP element (which underperforms against DD and CL), their lower-than-average Speed and Evasion, and the weak torpedoes they're stuck with.  
 A wrecking ball against small craft, to be sure, but watch out for when they pick a fight with people her size - and place Spee at the front, as she is slightly tankier than her sister.
 
+ ![CA](https://azurlane.koumakan.jp/w/images/6/69/Elegant_Kizuna_AIChibi.png "CAkyu") - **[Elegant Kizuna AI](https://azurlane.koumakan.jp/Elegant_Kizuna_AI)**
+* Skill:
+  * Gain +6% FP for every other Kizuna unit in the fleet, up to +24%; if no other Kizuna unit is present, take -30% dmg for 30s after the start of the battle. (Pyoko-Pyoko aux lets a "normal" unit count as Kizuna)
+  * Ignitions sustained last for -3s and reduces incoming HE damage by 15%.
+
+* Desc: 
+>A sturdy gunboat with remarkable firepower. Sounds familiar? 
+Her direct competitor would be Portland Kai, and while she comes out of that comparison looking pretty weak (lower eHP, the extra FP comes at the expense of higher Oil costs, the lack of a barrage and the need to take at least 2+ Kizunas to outgun her), she is nonetheless a tough nut to crack and she can pack a good punch.
+ 
  
 ### Tier 2:
 ---
@@ -930,7 +947,7 @@ Whether you do actually need all that AA is another matter entirely, but rest as
   * 70% chance every 20s to fire a strong barrage (mid-ranged conal machinegun sweep, long range focused bombardment)
   * When South Dakota's HP falls to/below 30%, South Dakota gains Protection (avoid lethal damage for 5s) while Washington deals +20% damage and absorbs 30% of the damage sustained by South Dakota.
 
-- Desc: "Smile for the FCR!"
+- Desc: Smile for the FCR!
 >An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.  
 As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
 
@@ -953,6 +970,16 @@ She also has a few torps to throw out every now and then, but they're fairly lac
 >The second most cost-effective BBs in the game, owing to their remarkable statline, Kai nodes and comparatively low Oil costs.  
 Their Kai is unique in that it is a sidegrade rather than an upgrade: when turned into BBV, they trade their CL guns and 1/3 of their BB salvo for seaplanes, letting them launch airstrikes as if they were carriers.  
 A steep price to pay, especially considering how weak the seaplanes are in comparison to 'proper' bombers, how slow the launches are in comparison to 'proper' carriers and how much better are Ise and Hyuuga as BBVs.
+
+![BB](https://azurlane.koumakan.jp/w/images/d/d0/Super_Gamer_Kizuna_AIChibi.png "BBakyu") - **[Super Gamer Kizuna AI](https://azurlane.koumakan.jp/Super_Gamer_Kizuna_AI)**
+* Skill:
+  * Gain +30% Main Gun CritRate and increase her Main Gun Scatter by +1; also, 70% chance every 16s to fire a special barrage (very scattershot single large AP shots and torpedoes).
+  * Gain +25% Evasion and Accuracy.
+
+- Desc: An upgrade to Washington.
+>Though she may not look much like the part, BB AI does live up to her title; between the very significant crit boost (for which the +1 scatter may as well not be there, insubstantial as it is), the hilariously scattershot but poweful barrage clearing the field for the Main Guns and access to CL defensive guns, there's very little not to like here.  
+The Accuracy and Evasion boosts are nice to have, too, but not exactly worthy of prime time - especially as the +Acc ends up compensating for her lower-than-usual base stat.
+
  
 ### Tier 1.5:
 ---
@@ -1391,6 +1418,16 @@ Still, high plane efficiency coupled with a neat AA buff for the backline allows
 Her staline is somewhat lacklustre, her skill doesn't add much to her DPS and pushes you into using HMS backliners.  
 While definitely usable, her only real use case would be plugging Hard Mode enforced ship requirements.
 
+#### ![CV](https://azurlane.koumakan.jp/w/images/5/59/Akagi-chanChibi.png "Akagi-chan") - [IJN Akagi-chan](https://azurlane.koumakan.jp/Akagi-chan)
+* Skill: 
+  * If in a fleet with 3+ IJN units, 12s after the start of the battle launches a special plane barrage (3 Type 99 w/ x1 500lb, x2 100lb bombs; 80% Aviation)
+  * Upon airstriking, the vanguard ship with the lowest HP becomes invincible for 5s.
+  * Has a 3/2/3 loadout.
+
+* Desc: 
+>Smol Akagi is an interesting little thing, with those invincibility-granting airstrikes of hers - but lacking a real purpose in an environment crowded with excellent IJN DPS carriers, not least of which Akagi proper (against which her barrage really can't stack up), and a better vanguard protection in the form of Illustrious' bubble.
+However, invincibility *can* go where no bubble has gone before in EX maps...
+
 #### ![CVL](https://azurlane.koumakan.jp/w/images/f/ff/HoushouChibi.png "IJN Houshou") - [IJN Houshou](https://azurlane.koumakan.jp/Houshou)
 * Skill: 
   * Increases experience gained by CV/L by 15%
@@ -1399,7 +1436,20 @@ While definitely usable, her only real use case would be plugging Hard Mode enfo
 
 * Desc: 
 >The first carrier to ever sail the seas, and it shows. As THE early prototype for the ships that would later dominate the oceans, she's incredibly weak and brought further down by her mandatory CL gun - which can barely deal scratch damage, owing to her 0 Firepower statline.  
-Why is this even mentioned, then? Because her +XP skill stacks with Langley's, that's why, and having her around as a 0LB exp booster may be a good idea to hasten the leveling process.
+Why is she even mentioned, then? Because her +XP skill stacks with Langley's, that's why, and having her around as a 0LB exp booster may be a good idea to hasten the leveling process.
+
+
+#### ![CV](https://azurlane.koumakan.jp/w/images/a/a3/ZeppyChibi.png "Zeppy") - [KMS Zeppy](https://azurlane.koumakan.jp/Zeppy)
+* Skill: 
+  * Every 8s, gain a stack of +80FP; when 3 stacks are reached, fires a special barrage (large V of AP shots with minor diagonal lines of AP shots) with increased damage if mounting a CL gun.
+  * Gain +5% AA, Aviation and Reload for every KMS unit in the fleet.
+  * Has a 3/3*/0 loadout; her 3rd slot may be filled with a Dive Bomber (launches two planes) or a CL gun (fires twice).
+
+* Desc: 
+>The one and only carrier fully capable of defending herself, and actually contributing somewhat to the fight through her barrage.  
+A remarkable claim to fame for her class, but somewhat let down by her poor efficiencies and poor offensive statline; fielding her in a KMS fleet is all but necessary to have her compete in battle effectiveness with light carriers.  
+She *does* keep Tirpitz happy, though.
+
 
 <br/><br/>
 ---
