@@ -1068,7 +1068,7 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
 
 ![BB](https://azurlane.koumakan.jp/w/images/0/03/Queen_ElizabethChibi.png "HMS Queen Elizabeth")- **[HMS Queen Elizabeth](https://azurlane.koumakan.jp/Queen_Elizabeth)** **(T1 w/ FULL HMS fleet, the less HMS units the lower the tier)**
 * Skill: 
-  * +15% FP/Torp/AA/Evasion/Reload to all HMS ships.
+  * +15% FP/Torp/AA/Aviation/Evasion/Reload to all HMS ships.
 
 * Desc: The core of most HMS fleets. 
 > An unassuming figure and a merely okay statline belies one of the best buffs in the game - albeit faction-locked, and reliant on large fleets to make the most of it.  
