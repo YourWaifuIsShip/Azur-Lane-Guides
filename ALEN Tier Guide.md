@@ -1000,15 +1000,7 @@ Still RNG, yes, but still quite solid and there's nobody cheaper than them, at l
 >An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.  
 As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
 
-![BB](https://azurlane.koumakan.jp/w/images/0/03/Queen_ElizabethChibi.png "HMS Queen Elizabeth")- **[HMS Queen Elizabeth](https://azurlane.koumakan.jp/Queen_Elizabeth)** **(T0 w/ FULL HMS fleet, the less HMS units the lower the tier)**
-* Skill: 
-  * +15% FP/Torp/AA/Evasion/Reload to all HMS ships.
-
-* Desc: The core of most HMS fleets. 
-> An unassuming figure and a merely okay statline belies one of the best buffs in the game - albeit faction-locked, and reliant on large fleets to make the most of it.  
-You're not taking her because she's good, but because she's a force multiplier.
- 
-  ![BB](https://azurlane.koumakan.jp/w/images/8/8a/KirishimaChibi.png "Kirishima") - **[IJN Kirishima](https://azurlane.koumakan.jp/Kirishima)**
+ ![BB](https://azurlane.koumakan.jp/w/images/8/8a/KirishimaChibi.png "Kirishima") - **[IJN Kirishima](https://azurlane.koumakan.jp/Kirishima)**
 * Skill: 
   * 60% chance upon Main Gun fire, launch a semi-aimed Sanshikidan barrage (8 shells in two waves of four, heading towards the nearest enemies); also, deal +15% damage to BB.
 
@@ -1074,13 +1066,14 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
 * Desc: 
 >Demands a specific fleet composition to outshine her competition, but is it sweet when she does - +25% FP, AA, Reload and Evasion are nothing to laugh at, but it cannot be understated how much she limits your composition.
 
-![BB](https://azurlane.koumakan.jp/w/images/8/87/WarspiteChibi.png "HMS Warspite") - **[HMS Warspite](https://azurlane.koumakan.jp/Warspite)** **(T1.5 if deployed w/ Queen Elizabeth)**
-* Skill: Every 15s, fires a 2-bullet AP salvo at the furthermost target. This salvo will automatically crit.
+![BB](https://azurlane.koumakan.jp/w/images/0/03/Queen_ElizabethChibi.png "HMS Queen Elizabeth")- **[HMS Queen Elizabeth](https://azurlane.koumakan.jp/Queen_Elizabeth)** **(T1 w/ FULL HMS fleet, the less HMS units the lower the tier)**
+* Skill: 
+  * +15% FP/Torp/AA/Evasion/Reload to all HMS ships.
 
-- Desc: "The Queen's Royal Corgi".
->Warspite's historical achievements may be impressive, but AL does little justice to them beyond giving her the highest base FP of all BB (PR notwithstanding) and an okay statline elsewhere. What brings her down is partly her effective FP being lower than many others', but mostly her useless skill: an automated, autocritting barrage sounds great, until you realise it struggles immensely hitting anything that's not a stationary target and that the AP modifier makes it useless against the very common Light Armour in the game.  
-[Also, she's a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
- 
+* Desc: The core of most HMS fleets. 
+> An unassuming figure and a merely okay statline belies one of the best buffs in the game - albeit faction-locked, and reliant on large fleets to make the most of it.  
+You're not taking her because she's good, but because she's a force multiplier.
+
 ![BC](https://azurlane.koumakan.jp/w/images/c/c1/RenownChibi.png "HMS Renown") - **[HMS Renown](https://azurlane.koumakan.jp/Renown)** **(T1.5 if deployed w/ Queen Elizabeth)**
 * Skill: 
   * Upon first Main Gun fire, +15% Damage to all subsequent salvo (does not stack nor reset).
@@ -1088,6 +1081,13 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
 * Desc: 
 >Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself properly.
 
+![BB](https://azurlane.koumakan.jp/w/images/8/87/WarspiteChibi.png "HMS Warspite") - **[HMS Warspite](https://azurlane.koumakan.jp/Warspite)** **(T1.5 if deployed w/ Queen Elizabeth)**
+* Skill: Every 15s, fires a 2-bullet AP salvo at the furthermost target. This salvo will automatically crit.
+
+- Desc: "The Queen's Royal Corgi".
+>Warspite's historical achievements may be impressive, but AL does little justice to them beyond giving her the highest base FP of all BB (PR notwithstanding) and an okay statline elsewhere. What brings her down is partly her effective FP being lower than many others', but mostly her useless skill: an automated, autocritting barrage sounds great, until you realise it struggles immensely hitting anything that's not a stationary target and that the AP modifier makes it useless against the very common Light Armour in the game.  
+[Also, she's a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
+ 
 ![BC](https://azurlane.koumakan.jp/w/images/1/12/IzumoChibi.png "Izumo") - **[IJN Izumo](https://azurlane.koumakan.jp/Izumo)**
 * Skill: 
   * 70% chance on Main Gun fire, launch a fixed linear AP barrage.
