@@ -1086,6 +1086,16 @@ The Accuracy and Evasion boosts are nice to have, too, but not exactly worthy of
  
 ### Tier 1.5:
 ---
+![BB](https://azurlane.koumakan.jp/w/images/4/46/MassachusettsChibi.png "USS Massachusetts") - **[USS Massachusetts](https://azurlane.koumakan.jp/Massachusetts)**
+* Skill: 
+  * Gain +5% FP/AA/Evasion for every OTHER USS BB/CA in the fleet, up to +15%.
+  * Main Gun ammo is overrideen to SHS (60/135/115, shells fire at extremely high angles and fall from the sky) and salvo damage increases the farther the shots land, up to +30% dmg.
+
+* Desc: 
+>Massachusetts shoots for the stars, but the aim isn't quite there.  
+On paper she'd easily be T1 material, as the self-buffs are both significant and easily achieved while the enhanced AP modifiers allow her to damage Light Armour... but firing into the stratosphere lengthens the shots' travel time to the point where she struggles hitting at all, making the gains pretty much moot.  
+If you can guarantee your target won't be moving around much at all and is bigger than a CL, a very solid pick; if you can't, best look elsewhere.
+
 ![BB](https://azurlane.koumakan.jp/w/images/b/be/NevadaKaiChibi.png "Nevada Kai") ![BB](https://azurlane.koumakan.jp/w/images/0/0b/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
 * Skill: 
   * 8% chance to reduce any damage taken by 50% on taking damage
