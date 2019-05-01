@@ -942,15 +942,6 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
 North Carolina goes harder than anyone else on the AA front, as far as backliners are concerned - not only does she prevent plane damage with her skill, she also grows stronger the more AA she acquires (and she's plenty strong to begin with, sporting a very high base FP thanks to said skill).  
 Whether you do actually need all that AA is another matter entirely, but rest assured that she will lay on the hurt even if you don't - and if you do, that's just gravy.
 
-![BB](https://azurlane.koumakan.jp/w/images/9/95/WashingtonChibi.png "USS Washington") - **[USS Washington](https://azurlane.koumakan.jp/Washington)**
-* Skill: 
-  * 70% chance every 20s to fire a strong barrage (mid-ranged conal machinegun sweep, long range focused bombardment)
-  * When South Dakota's HP falls to/below 30%, South Dakota gains Protection (avoid lethal damage for 5s) while Washington deals +20% damage and absorbs 30% of the damage sustained by South Dakota.
-
-- Desc: Smile for the FCR!
->An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.  
-As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
-
 ![BB](https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29Chibi.png "IJN Kaga BB") - **[IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))**
 * Skill:
   * 50% chance on Main Gun fire to launch a special barrage (long range: tight 4-shot wave, tight 4-shot wave with 2 shots to the sides; short range: wide V-shaped spread of small bullets)
@@ -999,6 +990,15 @@ Still RNG, yes, but still quite solid and there's nobody cheaper than them, at l
 
 * Desc: 
 >While her tanking skill isn't good enough to make her the tank she's meant to be, she is undeniably hard to kill thanks to her large HP pool and all-around excellent stats, AA included (a rarity among BB/Cs); her double damage proc needs RNG to work, but when it does it will annihilate whatever she aimed at.
+
+![BB](https://azurlane.koumakan.jp/w/images/9/95/WashingtonChibi.png "USS Washington") - **[USS Washington](https://azurlane.koumakan.jp/Washington)** **(T1 in Plane Hells)**
+* Skill: 
+  * 70% chance every 20s to fire a strong barrage (mid-ranged conal machinegun sweep, long range focused bombardment)
+  * When South Dakota's HP falls to/below 30%, South Dakota gains Protection (avoid lethal damage for 5s) while Washington deals +20% damage and absorbs 30% of the damage sustained by South Dakota.
+
+- Desc: Smile for the FCR!
+>An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.  
+As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
 
 ![BB](https://azurlane.koumakan.jp/w/images/0/03/Queen_ElizabethChibi.png "HMS Queen Elizabeth")- **[HMS Queen Elizabeth](https://azurlane.koumakan.jp/Queen_Elizabeth)** **(T0 w/ FULL HMS fleet, the less HMS units the lower the tier)**
 * Skill: 
