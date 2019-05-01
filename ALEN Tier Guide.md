@@ -355,7 +355,7 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
   * Every 20s, initiate RNG fiesta. (35% chance for -8% FP/Torp/Aviation to all enemies; 35% chance for -6%; 18% chance for -4%; 12% chance for +4% instead).
   * Upon taking damage, 12% chance to launch a torpedo barrage, become invincible for 3s and gain +40% Eva for 3s afterwards. This skill may only activate thrice per battle.
 
-* Desc: AI-TAN BIIIIIMO!
+* Desc: AI-TAN BIIIIIMU!
 >Also known as "Nowaki but not completely awful", DD AI is overall surprisingly okay - a decent statline, a reliable debuff and a nice-if-short lived defensive/offensive skill aren't enough to let her outshine the vast majority of proper DD (and the lack of a real barrage doesn't help), but she's still an interesting and fairly competent addition.
 
 <br/><br/>
@@ -787,7 +787,7 @@ A wrecking ball against small craft, to be sure, but watch out for when they pic
 
  ![CA](https://azurlane.koumakan.jp/w/images/6/69/Elegant_Kizuna_AIChibi.png "CAkyu") - **[Elegant Kizuna AI](https://azurlane.koumakan.jp/Elegant_Kizuna_AI)**
 * Skill:
-  * Gain +6% FP for every other Kizuna unit in the fleet, up to +24%; if no other Kizuna unit is present, take -30% dmg for 30s after the start of the battle. (Pyoko-Pyoko aux lets a "normal" unit count as Kizuna)
+  * Gain +6% FP for every other Kizuna unit in the fleet, up to +24%; if no other Kizuna unit is present, take -15% dmg for 30s after the start of the battle. (Pyoko-Pyoko aux lets a "normal" unit count as Kizuna)
   * Ignitions sustained last for -3s and reduces incoming HE damage by 15%.
 
 * Desc: 
