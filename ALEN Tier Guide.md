@@ -438,6 +438,15 @@ Still, there's very few finer, more reliable frontline tanks than she - and that
 
 * Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
 
+![CL](https://azurlane.koumakan.jp/w/images/e/e4/Little_BelChibi.png "Belchan") - **[HMS Little Bel](https://azurlane.koumakan.jp/Little_Bel)**
+* Skill:
+  * +8 Speed and +25% Evasion.
+  * Upon battle start, heals the fleet by 3.5% of her max HP.
+  
+* Desc: 
+>The cutest Belfast you'll ever see, and with a brand new support-focused skillset to boot.  
+Not entirely as powerful as her older self, but she's up there without being forced to take a subpar gun, is considerably more Evasive and that full fleet healing is a nice addition.
+
 ![CL](https://azurlane.koumakan.jp/w/images/e/e7/SheffieldChibi.png "Sheffield") - **[HMS Sheffield](https://azurlane.koumakan.jp/Sheffield)**
 * Skill:
   *  Allied ships with lower current HP than Sheffield at the start of battle have a 30% chance to take -50% dmg upon taking damage.
