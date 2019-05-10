@@ -823,14 +823,16 @@ She will be phased out eventually, alas, but she's good while she's there and yo
 >HMS CA get a bad reputation for being frail and either undergunned or undertorped, despite possessing rather valuable skills.   
 London is one such example, but she rescues herself from the mediocrity of her statline by virtue of being one of the only two frontliners that can buff DD FP - a small niche, admittedly, but a useful one if you plan on fielding multiple DD with good guns.
 
-![CA](https://azurlane.koumakan.jp/w/images/3/33/AtagoChibi.png "IJN Atago") - **[IJN Atago](https://azurlane.koumakan.jp/Atago)**
+
+![CA](https://azurlane.koumakan.jp/w/images/b/bf/YorkKaiChibi.png "HMS York Kai") - **[HMS York Kai](https://azurlane.koumakan.jp/York#retrofit)**
 * Skill: 
-  * Increases HE Damage by 15%, HE burn chance by 12% and burn damage by 50%
-  * 30% chance to launch a second salvo on torpedo launch
+  * Upon performing ANY attack (autoguns, main guns, torpedoes; AA does not count), 40% chance to gain +40% FP for 8s.
+  * Take -40% damage from suicide boats and -15% damage from HE; additionally, her autoguns gain +70% CritRate and ignore armour modifiers.
 
 * Desc: 
->Atago is hot as hell in more ways than one.  
-The second most gun-focused of the Takao-class, she provides the most stable output and a decent amount of it as well - though nowhere near as much as a Gun-CA would, or even Takao for that matter.
+>It speaks volumes about HMS non-CL vanguards that the best they can aspire to is not be irredeemable wrecks.  
+York Kai is one of the lucky few worthy of such lofty praise, managing to scrape by virtue of an exceptional self-buff and a Kai that gives her the sorely needed FP to make some actual use out of said skill; the second skill is an alright boost, pushing her autoguns into the realm of "kinda sorta decent" and slightly bolstering her defences, but don't be deceived by her Medium Armour and high Evasion, a tank she ain't and her abysmal luck makes sure she can't play the part for long.  
+All that said, though - she's alright.
 
 ![CA](https://azurlane.koumakan.jp/w/images/8/84/MayaChibi.png "IJN Maya") - **[IJN Maya](https://azurlane.koumakan.jp/Maya)**
 * Skill: Increases Reload by 35% and 30% chance to launch a second salvo on torpedo launch
