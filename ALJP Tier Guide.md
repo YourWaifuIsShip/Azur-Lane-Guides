@@ -619,6 +619,16 @@ More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
 >Agano is an interesting little beastie, proud owner of an unconventional kit (DD FP boost, CV/L defence boost) and... less proud owner of a somewhat unremarkable statline for IJN CL, especially when compared to Sendai and Jintsuu.  
 While she isn't a bad unit on her own by any stretch, her competitors are more powerful and their skills more wieldy and impactful than hers - which means her best use would be as a DD FP buffer, similarly to London.
 
+![CL](https://azurlane.koumakan.jp/w/images/5/57/YuubariKaiChibi.png "Yuubari Kai") - **[IJN Yuubari Kai](https://azurlane.koumakan.jp/Yuubari#retrofit)**
+* Skill: 
+  * All Cruisers (CL/CA/CB) gain +15% Experience.
+  * Every 20s, 60% chance to gain +40% FP.
+  * Every 12s, commence RNG FIESTA! (17% chance for gun barrage; 17% chance for torpedo barrage; 14% chance for a sprinkler-shot grenade; 14% chance to erect a 60-shots-tough shield for 18s; 14% chance to erect a 99-shots-tough shield for 6s; 14% chance to heal the entire fleet for 2.4% of Yuubari's max HP; 10% chance to heal the entire fleet for 9HP).
+
+* Desc: 
+>Yuubari, ever the tinkerer, has an impressive array of tools at her disposal - shame she's an indecisive bastard and has to roll a die to decide which to crack out.
+Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outcomes are desirable (namely the two heals, one intentionally meant to be bad and one that is bad merely because Yuubari has barely more HP than the average DD without their Evasion), but the complete inability to control the results makes her a tough sell for anyone but the most compulsive gamblers - or the most squeamish about oil costs (8 Oil at MLB).
+
 ![CL](https://azurlane.koumakan.jp/w/images/1/11/LeipzigChibi.png "Leipzig") - **[KMS Leipzig](https://azurlane.koumakan.jp/Leipzig)**
 * Skill: 
   * 10% FP/Eva/Reload to all CL/CA in the fleet.
