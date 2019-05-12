@@ -554,14 +554,16 @@ All the utility of her skills with the sturdiness and DPS of the Cleveland-class
 Powerful for their class and rather inexpensive, but beware the severely subpar HP.
 
 
-![CL](https://azurlane.koumakan.jp/w/images/8/84/BelfastChibi.png "Belfast") - **[HMS Belfast](https://azurlane.koumakan.jp/Belfast)**
+![CL](https://azurlane.koumakan.jp/w/images/8/84/BelfastChibi.png "Belfast") - **[HMS Belfast](https://azurlane.koumakan.jp/Belfast)** **(T1 w/ Seattle Gun)**
 * Skill: 
   * Increase HE damage by 25% and chance to Ignite by 3%.
   * 10s after battle starts and on a 20% chance every 20s aftewards, create a special smokescreen (+35% Evasion Rate and-35% damage from planes while inside) that lasts 10s.
 
 * Desc: Hot maid, in more ways than one.
->Dealing more damage than usual with HE guns and packing better torps than every other HMS cruiser, she tends to have a good answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate and planes not attacking you.  
-Her place is strictly PvP, as there are many other CL who will do what she does - be it DPS or tanking - better for less.
+>Dealing more damage than usual with HE guns and packing better torps than every other HMS cruiser, she tends to have a decent answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate, lower defence compared to the 'regular' screen and planes not attacking you.  
+That said, the recent introduction of a CL HE gun that deigns itself to fire *straight* singlehandedly makes her considerably more combat-effective, if still lacking in support power.  
+Her place is mostly PvP, as there are many other CL who will do what she does - be it DPS or tanking - better for less.
+
 
 ![CL](https://azurlane.koumakan.jp/w/images/7/7a/AbukumaKaiChibi.png "Abukuma Kai") - **[IJN Abukuma Kai](https://azurlane.koumakan.jp/Abukuma)**
 * Skill: 
@@ -697,6 +699,17 @@ Her one job is being immensely irritating/powerful in the arena, and dying for y
 >San Diego has had, for the longest time, a terrible reputation - hailed as the prime example of rarity not being an indication of quality, her reputation is somewhat deserved, considering her main claim to glory is tons of AA (to the detriment of the rest of her offensive stats) when AA is only really needed in W12, a steep Oil price tag and a tendency to appear in crafting whenever you don't want her to... but that's not all there is to it.  
 The usual claim is that San Diego can't do anything to surface enemies; if you were to use her as a normal CL this would be correct, as her FP is low and her Gun Efficiency is worse. However, her barrage can dish out surprising amounts of damage and she can mount DD guns, which means she can spam said powerful barrage; moreover, while her Torpedo stat is abysmal, her Torpedo Efficiency is good enough, meaning she can benefit a lot from auxiliary torpedoes.  
 Does all this redeem her, then? Not really, even in this fashion, you'd need to manually control her and you'd need lots of high-end gear to get her to perform properly. If you're not expecting planes and you don't care about her, feel free to scrap her as you always did; if you do, then Sandy might just be what you need.
+
+![CL](https://azurlane.koumakan.jp/w/images/5/55/IsuzuChibi.png "Isuzu") - **[IJN Isuzu](https://azurlane.koumakan.jp/Isuzu)**
+* Skill: 
+  * Upon firing her AA guns, 25% chance to gain +40% AA and lose -20% FP for 3s.
+  * Can take DD guns (and should), and has AAGM+1.
+  
+- Desc:
+>Second only to San Diego in terms of sheer AA prowess, she is rather similar in many regards to her pre-Kai iteration.  
+Weak gunnery with access to DD guns, weak torpedoes, an AA-focused skill - the differences start with the *two* very high-efficiency AA guns she carries (deftly pushing her over Sandy base as a flyswatter), the way the AA-focused skill works (being more somewhat more reliable but also a lot more selfish) and the much weaker barrage.  
+In short, she isn't tough and she isn't powerful - in fact she's really *really* wimpy - but she's an exceptionally accomplished and cheap sky clearer. Worth having around if enemy planes got you down.
+  
 
 
 <br/><br/>
