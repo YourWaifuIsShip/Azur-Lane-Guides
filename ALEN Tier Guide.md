@@ -628,6 +628,16 @@ Her one job is being immensely irritating/powerful in the arena, and dying for y
 The usual claim is that San Diego can't do anything to surface enemies; if you were to use her as a normal CL this would be correct, as her FP is low and her Gun Efficiency is worse. However, her barrage can dish out surprising amounts of damage and she can mount DD guns, which means she can spam said powerful barrage; moreover, while her Torpedo stat is abysmal, her Torpedo Efficiency is good enough, meaning she can benefit a lot from auxiliary torpedoes.  
 Does all this redeem her, then? Not really, even in this fashion, you'd need to manually control her and you'd need lots of high-end gear to get her to perform properly. If you're not expecting planes and you don't care about her, feel free to scrap her as you always did; if you do, then Sandy might just be what you need.
 
+![CL](https://azurlane.koumakan.jp/w/images/5/55/IsuzuChibi.png "Isuzu") - **[IJN Isuzu](https://azurlane.koumakan.jp/Isuzu)**
+* Skill: 
+  * Upon firing her AA guns, 25% chance to gain +40% AA and lose -20% FP for 3s.
+  * Can take DD guns (and should), and has AAGM+1.
+  
+- Desc:
+>Second only to San Diego in terms of sheer AA prowess, she is rather similar in many regards to her pre-Kai iteration.  
+Weak gunnery with access to DD guns, weak torpedoes, an AA-focused skill - the differences start with the *two* very high-efficiency AA guns she carries (deftly pushing her over Sandy base as a flyswatter), the way the AA-focused skill works (being more somewhat more reliable but also a lot more selfish) and the much weaker barrage.  
+In short, she isn't tough and she isn't powerful - in fact she's really *really* wimpy - but she's an exceptionally accomplished and cheap sky clearer. Worth having around if enemy planes got you down.
+
 <br/><br/>
 ---
 <br/><br/>
