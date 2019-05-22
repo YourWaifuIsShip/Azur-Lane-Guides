@@ -1117,7 +1117,7 @@ You're not taking her because she's good, but because she's a force multiplier.
 
 * Desc: Consistently bad.
 >One really has to wonder what has Izumo ever done to developers to warrant such a treatment.
-As awful in AL as she is in WoWS, Izumo is bad by any standard - her barrage barely scratches Light Armour while being unable to bypass it due to the parallel shots, her 'defensive' skill harms her much more than it does protect her due to the complete absence of enemy BB AP (and prevalence of BB HE), and worse still, as a barrage boat she needs flagship slot... while sharing Mikasa, Nagato and Kirishima's nation.
+As awful in AL as she is in WoWS, Izumo is bad by any standard - her barrage barely scratches Light Armour while being unable to bypass it due to the parallel shots, her 'defensive' skill harms her much more than it does protect her due to the complete absence of enemy BB AP (and prevalence of BB HE), and worse still, as a barrage boat she needs flagship slot... while sharing Mikasa and Nagato's nation.
 Her sole saving grace is her exceptional statline, and even then it is marred by high Oil costs, comparatively low Efficiencies and is far from making any significant difference.
 Bad not just by PR standards but as a whole, there is little to no reason to ever use her over any other barrage boat.
 
