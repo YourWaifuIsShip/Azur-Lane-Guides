@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (FAKKYU EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (WEHRABOO EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
