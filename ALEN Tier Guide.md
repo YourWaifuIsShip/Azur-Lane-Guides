@@ -1523,14 +1523,14 @@ As such, this section *does not contain tiers* but specific recommendations and 
   * Deal +20% Damage to CV; also, U-81's torps have a 15% chance to inflict Flooding (DoT similar to Ignition; 3s ticks, multiple procs do not stack but refresh duration) for 24s.
   * Gain +40% Evasion; also, gain +7% Torp, Reload and Accuracy for every KMS sub in the fleet.
   
-  * Skill (U-556)
+* Skill (U-556)
   * Whenever an allied unit falls below 20% HP, launches a torpedo barrage; if Bismarck is in the fleet, the barrage improves.
   * Gain +6% Torp/Reload per KMS submarine in the fleet.
 
 * Desc: Achtung - U-Boot!
 >Given real world Germany's history with submarines, it comes as no surprise that the Ironblood gets the apex specimens of their class.  
 Simple yet brutally effective, U-81 is the lynchpin of the upcoming KMS trio - but she's no less effective for it, giving you a good taste of how effective the full size strike force will be.  
-As for U-556, yes, having someone reach critical HP is a terrible condition, but she's also your only way to field a full Wofpack, so suck it up.
+About U-556... yes, having someone reach critical HP is a terrible condition, but she's also your only way to field a full Wofpack, so suck it up.
 
 #### ![SS](https://azurlane.koumakan.jp/w/images/0/0f/DaceChibi.png "Dace") ![SS](https://azurlane.koumakan.jp/w/images/c/c6/I-26Chibi.png "I-26") ![SS](https://azurlane.koumakan.jp/w/images/4/4b/I-58Chibi.png "I-58") - [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
 * Skill (Dace): 
