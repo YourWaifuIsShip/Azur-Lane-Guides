@@ -260,6 +260,13 @@ That said, if you have no need for such a skill you should probably look for ano
 >Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrekcing them in the process for a few seconds).  
 Very similar in behaviour to her USS counterpart, but whereas she can run a one-bunny show thanks to her Kai statline and skills, Z35 needs Z1's presence to really compare; and while she won't be matching her anytime soon, she'll still be giving many other DDs a run for their money.
 
+![DD](https://azurlane.koumakan.jp/File:Z36Chibi.png "Z36") - **[KMS Z36](https://azurlane.koumakan.jp/Z36)**
+* Skill:
+  * At the start of battle and every 20s afterwards, launch a special barrage (a few HE shots in a cone, two waves of 5 and 4 torpedoes respectively) and gain +24% FP/Torp; the buff loses potency and expires over the next 20s.
+
+- Desc:
+>Through the sheer power of chuunibyou, Z36 gets to carry extra ordnance and lob it at her enemies every 20s while buffing herself in the process.
+The tempo she forces upon you is fairly demanding, as the average DD torpedo set reloads in 21-22s and that leaves you precious little time to position yourself for an attack run at full power, but if you can keep up the DPS is fairly remarkable; if you can't, however, you'll be stuck with middling efficiencies and no buff to rescue them.
 
 ![DD](https://azurlane.koumakan.jp/w/images/5/53/Le_TriomphantChibi.png "Le Triomphant") - **[FFNF Le Triomphant](https://azurlane.koumakan.jp/Le_Triomphant)**
 * Skill:
@@ -1030,6 +1037,18 @@ Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow 
 >Second only to Tirpitz in terms of pure staying power and armed with a quickly-proccable, backline-buffing, devastating barrage, she is exceptionally good under almost all circumstances; whether it is tearing apart mob nodes, showering enemy battleships in heavy firepower or providing support, Hood gets it done.  
 Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
 
+ ![BB](https://azurlane.koumakan.jp/w/images/1/15/WarspiteKaiChibi.png "HMS Warspite") - **[HMS Warspite Kai](https://azurlane.koumakan.jp/Warspite#retrofit)**
+* Skill: 
+  * +10s after the start of the battle and every 15s afterwards, fires two aimed AP auto-critting shells at the farthest available target AND places a marker upon it (increasing the chances other HMS backliners will fire upon it); also, the first barrage will deal +130% damage.
+  * Gain -5 Dispersion to the Main Gun, +15% FP and +15% HitRate against DD.
+  * She may take 1 ASW plane as an auxiliary item. HISTORICAL REFERENCES HO!
+
+- Desc: The Queen's Royal Corgi.
+>Well, the Kai's come and gone, and Warspite's left in a slightly better position than she originally was - as far as PvE is concerned, at least.  
+While her statline did enjoy a substantial offensive boost in the form of more stats, chief among which her truly absurd 125 Accuracy (roughly twice that of most BBs), higher Efficiencies and a strong passive skill, her new-and-improved barrage suffers from the same unreliability that torpedoed her shot(s) at glory - as powerful as those AP shells now are, they're still all too likely to be fired at Light targets (or worse, at fireboats), while the marker part of barrage appears to be bafflingly ineffectual, as evidenced both by *HMS BB/C still opening fire on unmarked targets* and by the possibility of *multiple markers coexisting, negating the supposed benefits*.  
+On the bright side, Warspite's newfound strength lets her be competitive there once more in the PvP areans, where her intended targets are always armoured, immobile and valuable.  
+[Also, she's still a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
+
 ![BB](https://azurlane.koumakan.jp/w/images/8/85/NagatoChibi.png "Nagato") - **[IJN Nagato](https://azurlane.koumakan.jp/Nagato)**
 * Skill: 
   * When sortied as Flagship, grant all IJN units +10% Firepower, +20% Reload/Accuracy, and +20% damage output to all IJN carriers.
@@ -1046,6 +1065,18 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
 
 * Desc: 
 >THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
+
+![BB](https://azurlane.koumakan.jp/File:BismarckChibi.png "Bismarck") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)** **(T0 w/ KMS units around)**
+* Skill: 
+  * The first salvo of her every volley always crits; also extends the range of any CL gun equipped to 90 units, but reduces their damage by 35%.
+  * If flagship, 70% chance to fire a weak barrage (4 shots to the centre of the screen, 2 shots to each side, some mid-ranged DD pellets in the middle); also, passively raise KMS carrier damage by 20%.
+  * Grant +20% CritRate to the guns/torpedoes/planes used by KMS units, grant +12% Reload to all KMS units, grant Tirpitz +40% Damage.
+
+* Desc: Here comes Tutorial Girl!
+>At long last the wehraboos can rejoice - Bismarck has arrived, and she's every bit as good as they'd hoped.  
+Positively brimming in buffs for herself as well as her countrywomen, her sole presence is enough to kick all their weaponry into overdrive, having them shoot harder and slightly faster, while their carriers (all one/two of them) enjoy a massive Nagato-like damage injection and Tirpitz finally overcomes her social anxiety with oneesan around.
+Her own guns are no strangers to buffs either, with guaranteed crits on every first salvo of every volley and massively extended CL secondary ranges (at the cost of 1/3 less damage); the former buff easily steals the spotlight, but the range extension allows her to lend a hand to a vanguard that's in over its head (or take potshots at vanguards in PvP).  
+Last and least, she has a barrage too. It's not particularly good, but it's there and no other KMS backliner has a better one, so have her be the flag.  
 
 
 ### Tier 1:
@@ -1068,18 +1099,6 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
 >Anti-air for backliners is a bit of a meme, but that doesn't mean it can't be a good one.  
 North Carolina goes harder than anyone else on the AA front, as far as backliners are concerned - not only does she prevent plane damage with her skill, she also grows stronger the more AA she acquires (and she's plenty strong to begin with, sporting a very high base FP thanks to said skill).  
 Whether you do actually need all that AA is another matter entirely, but rest assured that she will lay on the hurt even if you don't - and if you do, that's just gravy.
-
- ![BB](https://azurlane.koumakan.jp/w/images/1/15/WarspiteKaiChibi.png "HMS Warspite") - **[HMS Warspite Kai](https://azurlane.koumakan.jp/Warspite#retrofit)**
-* Skill: 
-  * +10s after the start of the battle and every 15s afterwards, fires two aimed AP auto-critting shells at the farthest available target AND places a marker upon it (increasing the chances other HMS backliners will fire upon it); also, the first barrage will deal +130% damage.
-  * Gain -5 Dispersion to the Main Gun, +15% FP and +15% HitRate against DD.
-  * She may take 1 ASW plane as an auxiliary item. HISTORICAL REFERENCES HO!
-
-- Desc: The Queen's Royal Corgi.
->Well, the Kai's come and gone, and Warspite's left in more or less the same position she once was - as far as PvE is concerned, at least.  
-While her statline did enjoy a substantial offensive boost in the form of more stats, higher Efficiencies and a strong passive skill, her new-and-improved barrage suffers from the same unreliability that torpedoed her shot(s) at glory - as powerful as those AP shells now are, they're still all too likely to be fired at Light targets (or worse, at fireboats), while the marker part of barrage appears to be bafflingly ineffectual, as evidenced both by *HMS BB/C still opening fire on unmarked targets* and by the possibility of *multiple markers coexisting, negating the supposed benefits*.  
-On the bright side, Warspite's newfound strength lets her be competitive there once more in the PvP areans, where her intended targets are always armoured, immobile and valuable.  
-[Also, she's still a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
 
 ![BB](https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29Chibi.png "IJN Kaga BB") - **[IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))**
 * Skill:
@@ -1204,12 +1223,16 @@ Still hits damn hard, though, and harder still when she's on a good roll.
 While this means you can equip whichever BB gun you'd like to stick on her, it also means that she may proc when you don't need her to and waste the barrage.  
 A bit fiddly, but arguably more flexible than most and just as powerful.
 
-![BB](https://azurlane.koumakan.jp/w/images/d/d4/Prince_of_WalesChibi.png "HMS Prince of Wales") - **[HMS Prince of Wales](https://azurlane.koumakan.jp/Prince_of_Wales)** **(T1.5 if deployed w/ USS fleet)**
+![BB](https://azurlane.koumakan.jp/w/images/5/5f/King_George_VChibi.png "King George V") - **[HMS King George V](https://azurlane.koumakan.jp/King_George_V)** **(T1 if deployed w/ 3 OTHER HMS units)**
 * Skill: 
-  * For every USS ship in the fleet, +5% to own FP/AA/Evasion/Reload.
-
-* Desc: 
->Demands a specific fleet composition to outshine her competition, but is it sweet when she does - +25% FP, AA, Reload and Evasion are nothing to laugh at, but it cannot be understated how much she limits your composition.
+  * Every 24s, 70% chance to fire a mediocre barrage (6/8 spread out shots + thin V-shaped wave of parallel needles); if KGV mounts a 356mm Quad, reduce the cooldown of her first volley by 75%, gain +20% CritChance on main gun shots, reduce its scatter by 2 and enhance the barrage (slightly better damage, 8 large shots instead of 6).
+  * Deal +10% Damage to IJN/KMS/RM/Siren units; if sortied with 3 other HMS units, gain +20% FP/AA/Reload/Evasion.
+  
+* Desc: Takes a King to put an upstart Prince in its place.
+>Heh, typical nobles. Profiting from their underlings and giving next to nothing in return.  
+While KGV is yet another sovereign that doesn't buff back her fellow countrywomen, there's no denying the buff she receives from them is both quite simple to attain (the HMS is spoiled for good backline choices) and substantial; not only that, her damage buff is hardly ever out of a job considering 99% of the enemies in PvE are IJN.  
+As for the 356mm, long story short - it only overtakes the good ol' 406MK6 if her first volley lands most of its shots and hits something valuable, otherwise the long cooldown and the subpar damage eventually catch up to her; it won't cripple her but she won't benefit a whole lot from it either, and her barrage is fairly anaemic anyway so buffing it isn't too desirable a prospect.  
+In short, she's a big burly beatstick that'll benefit from having some HMS cheerleaders around. Only let her be the flag if nobody else has a better barrage.
 
 ![BB](https://azurlane.koumakan.jp/w/images/0/03/Queen_ElizabethChibi.png "HMS Queen Elizabeth")- **[HMS Queen Elizabeth](https://azurlane.koumakan.jp/Queen_Elizabeth)** **(T1 w/ FULL HMS fleet, the less HMS units the lower the tier)**
 * Skill: 
@@ -1699,14 +1722,23 @@ Here's a quick rundown of how they work.
 Given these premises, it quickly becomes apparent that **submarine fleets are meant to be fielded as a trio**; whether it be mauling nodes on the map or providing heavy torpedo support, they only reach peak efficiency as a full fleet, and in the case of map strikes such efficiency comes at no oil cost whatsoever.
 As such, this section *does not contain tiers* but specific recommendations and groupings - let's get to them.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/9/90/U-47Chibi.png "U-47") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/e/ed/U-557Chibi.png "U-557") - [KMS U-47](https://azurlane.koumakan.jp/U-47), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-557](https://azurlane.koumakan.jp/U-557) 
+#### ![SS](https://azurlane.koumakan.jp/w/images/9/90/U-47Chibi.png "U-47") ![SS](https://azurlane.koumakan.jp/w/images/thumb/8/81/U-73Chibi.png/139px-U-73Chibi.png "U-73") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81")  ![SS](https://azurlane.koumakan.jp/w/images/thumb/4/41/U-556Chibi.png/132px-U-556Chibi.png "U-556") ![SS](https://azurlane.koumakan.jp/w/images/e/ed/U-557Chibi.png "U-557") - [KMS U-47](https://azurlane.koumakan.jp/U-47), [KMS U-73](https://azurlane.koumakan.jp/U-73) [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-556](https://azurlane.koumakan.jp/U-556), [KMS U-557](https://azurlane.koumakan.jp/U-557) 
+
 * Skill (U-47): 
   * If U-47 damages an enemy with a torpedo, her next torpedo within 5s will inflict +40% damage.
   * If sortied solo, gain +20% Damage vs BBs, +2 Ammo and +1 Search Level.
   
+* Skill (U-73): 
+  * Deal +15% Damage to CV/L.
+  * Gain +6% Torp/Reload per KMS submarine in the fleet
+  
 * Skill (U-81): 
   * Deal +20% Damage to CV; also, U-81's torps have a 15% chance to inflict Flooding (DoT similar to Ignition; 3s ticks, multiple procs do not stack but refresh duration) for 24s.
   * Gain +40% Evasion; also, gain +7% Torp, Reload and Accuracy for every KMS sub in the fleet.
+
+* Skill (U-556)
+  * Whenever an allied unit falls below 20% HP, launches a torpedo barrage; if Bismarck is in the fleet, the barrage improves.
+  * Gain +6% Torp/Reload per KMS submarine in the fleet.
 
 * Skill (U-557): 
   * Deal +15% Damage to CL.
@@ -1715,7 +1747,8 @@ As such, this section *does not contain tiers* but specific recommendations and 
 * Desc: Achtung - U-Boot!
 >Given real world Germany's history with submarines, it comes as no surprise that the Ironblood gets the apex specimens of their class.  
 Simple yet brutally effective, this KMS trio lacks the utility other compositions may offer but make up for it by having the best in-battle damage - partly because of their skills, and partly because of their homing barrages. Just make sure to give them snorkels to offset their low Oxygen stat.  
-While you may be tempted to use U-47 solo, don't - there's little to gain from it and much to lose.
+About U-47... While you may be tempted to use her solo, don't - there's little to gain from it and much to lose.
+About U-556... Are you really sure you want to have one of your skills tied to one of your units knocking at death's door?
 
 #### ![SS](https://azurlane.koumakan.jp/w/images/9/96/AlbacoreChibi.png "Albacore") ![SS](https://azurlane.koumakan.jp/w/images/0/0f/DaceChibi.png "Dace") ![SS](https://azurlane.koumakan.jp/w/images/c/c6/I-26Chibi.png "I-26") ![SS](https://azurlane.koumakan.jp/w/images/4/4b/I-58Chibi.png "I-58") - [USS Albacore](https://azurlane.koumakan.jp/Albacore), [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
 * Skill (Dace): 
