@@ -951,7 +951,7 @@ Remember to have her be the flagship to make the most out of her barrage, and th
 >A well-rounded warship on her own right compared to her dakka-centric senpai, her set of buffs is about as good as those provided by Mikasa but she needs the flagship slot even more due to her barrage.
 Place her there and she'll carry your IJN carrier division to glory and triumph; place her to the sides and she's merely okay.
 
-![BB](https://azurlane.koumakan.jp/File:BismarckChibi.png "Bismarck") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)** **(T0 w/ KMS units around)**
+![BB](https://azurlane.koumakan.jp/w/images/2/2c/BismarckChibi.png "Bismarck") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)** **(T0 w/ KMS units around)**
 * Skill: 
   * The first salvo of her every volley always crits; also extends the range of any CL gun equipped to 90 units, but reduces their damage by 35%.
   * If flagship, 70% chance to fire a weak barrage (4 shots to the centre of the screen, 2 shots to each side, some mid-ranged DD pellets in the middle); also, passively raise KMS carrier damage by 20%.
