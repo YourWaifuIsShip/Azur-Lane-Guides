@@ -1068,7 +1068,7 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
 
 ![BB](https://azurlane.koumakan.jp/File:BismarckChibi.png "Bismarck") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)** **(T0 w/ KMS units around)**
 * Skill: 
-  * The first salvo of her every volley always crits; also extends the range of any CL gun equipped to 90 units, but reduces their damage by 35%.
+  * The first salvo of her every volley always crits; also extends the range of any CL gun equipped to 90 units (= white line that pushes you back when approached), but reduces their damage by 35%.
   * If flagship, 70% chance to fire a weak barrage (4 shots to the centre of the screen, 2 shots to each side, some mid-ranged DD pellets in the middle); also, passively raise KMS carrier damage by 20%.
   * Grant +20% CritRate to the guns/torpedoes/planes used by KMS units, grant +12% Reload to all KMS units, grant Tirpitz +40% Damage.
 
