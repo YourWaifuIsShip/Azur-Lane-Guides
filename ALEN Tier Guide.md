@@ -225,7 +225,7 @@ That said, if you have no need for such a skill you should probably look for ano
 >Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrekcing them in the process for a few seconds).  
 Very similar in behaviour to her USS counterpart, but whereas she can run a one-bunny show thanks to her Kai statline and skills, Z35 needs Z1's presence to really compare; and while she won't be matching her anytime soon, she'll still be giving many other DDs a run for their money.
 
-![DD](https://azurlane.koumakan.jp/File:Z36Chibi.png "Z36") - **[KMS Z36](https://azurlane.koumakan.jp/Z36)**
+![DD](https://azurlane.koumakan.jp/w/images/9/9e/Z36Chibi.png "Z36") - **[KMS Z36](https://azurlane.koumakan.jp/Z36)**
 * Skill:
   * At the start of battle and every 20s afterwards, launch a special barrage (a few HE shots in a cone, two waves of 5 and 4 torpedoes respectively) and gain +24% FP/Torp; the buff loses potency and expires over the next 20s.
 
