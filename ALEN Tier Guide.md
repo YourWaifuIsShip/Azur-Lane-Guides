@@ -1295,7 +1295,7 @@ Do not expect much from her in terms of DPS, though.
 ![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0 w/ Zuikaku)**
 * Skill: 
   * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
-  * When paired, increases Air Power by 30% and INCREASES damage taken by 10%
+  * When paired, increases Air Power by 30% and INCREASES damage taken by 5%
 
 * Loadout: 2/2/4
 
