@@ -20,7 +20,6 @@ Good reading, and godspeed cap'n!
 - Ships in a tier are listed alphabetically and in order of nationality (USS -> HMS -> IJN -> KMS).
 - All units are assumed to be MAXED (ie. lv110, BiS gear, SL10 across the board).
 - Auto or Manual performance is not taken into consideration, unless it is specifically relevant to the unit.
-- Submarines will NOT be tiered until more data on their live, peak performance is collected. This will take a while, folks.
 - The Retrofit Priority List orderings are decided on the basis of how effective is the retrofitted unit, not how much does it need the retrofit; in other words, the better (more powerful/more useful) the retrofit, the higher it is.
   
   
