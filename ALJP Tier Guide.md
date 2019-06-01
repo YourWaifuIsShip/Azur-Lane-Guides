@@ -1238,9 +1238,10 @@ In short, she's a big burly beatstick that'll benefit from having some HMS cheer
 * Skill: 
   * +15% FP/Torp/AA/Aviation/Evasion/Reload to all HMS ships.
 
-* Desc: The core of most HMS fleets. 
-> An unassuming figure and a merely okay statline belies one of the best buffs in the game - albeit faction-locked, and reliant on large fleets to make the most of it.  
-You're not taking her because she's good, but because she's a force multiplier.
+* Desc: Monkey business.
+>The ex-core of every HMS fleet, the simian queen has fallen quite roughly to the wayside in favour of much stronger shellers (eg. Monarch/Hood), supporters (eg. Duke of York) or both (eg. Hyuuga), buff notwithstanding.   
+Fielding her in a full HMS fleet is one of her few last semi-practical applications, if you can stomach the rather poor quality of the average HMS vanguard.  
+[Also, her age is starting to show...](https://cdn.discordapp.com/attachments/466250908682944522/526742291193266186/DnCZSPHVAAAQywe.jpg)
 
 ![BC](https://azurlane.koumakan.jp/w/images/c/c1/RenownChibi.png "HMS Renown") - **[HMS Renown](https://azurlane.koumakan.jp/Renown)** **(T1.5 if deployed w/ Queen Elizabeth)**
 * Skill: 
