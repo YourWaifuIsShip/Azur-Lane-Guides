@@ -1116,16 +1116,19 @@ In short, she's a big burly beatstick that'll benefit from having some HMS cheer
 * Skill: 
   * +15% FP/Torp/AA/Aviation/Evasion/Reload to all HMS ships.
 
-* Desc: The ex-core of every HMS fleet.
->An unassuming figure and a merely okay statline belies one of the best buffs in the game - albeit faction-locked, and reliant on large fleets to make the most of it.  
-You're not taking her because she's good, but because she is a force multipler... at least until you acquire better buffers or damage dealers.
+* Desc: Monkey business.
+>The ex-core of every HMS fleet, the simian queen has fallen quite roughly to the wayside in favour of much stronger shellers (eg. Monarch/Hood), supporters (eg. Duke of York) or both (eg. Hyuuga), buff notwithstanding.   
+Fielding her in a full HMS fleet is one of her few last semi-practical applications, if you can stomach the rather poor quality of the average HMS vanguard.  
+[Also, her age is starting to show...](https://cdn.discordapp.com/attachments/466250908682944522/526742291193266186/DnCZSPHVAAAQywe.jpg)
+
+
 
 ![BC](https://azurlane.koumakan.jp/w/images/c/c1/RenownChibi.png "HMS Renown") - **[HMS Renown](https://azurlane.koumakan.jp/Renown)** **(T1.5 if deployed w/ Queen Elizabeth)**
 * Skill: 
   * Upon first Main Gun fire, +15% Damage to all subsequent salvo (does not stack nor reset).
 
 * Desc: 
->Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself properly.
+>Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself properly.  
 
 ![BB](https://azurlane.koumakan.jp/w/images/8/87/WarspiteChibi.png "HMS Warspite") - **[HMS Warspite](https://azurlane.koumakan.jp/Warspite)** **(T1.5 if deployed w/ Queen Elizabeth)**
 * Skill: Every 15s, fires a 2-bullet AP salvo at the furthermost target. This salvo will automatically crit.
