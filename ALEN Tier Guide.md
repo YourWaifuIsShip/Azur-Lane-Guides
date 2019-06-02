@@ -65,9 +65,9 @@ Without these people, the Tier Guide would never be as comprehensive, accurate o
 - ### [CL ![CL](https://azurlane.koumakan.jp/w/images/2/20/CL_img.png "CL Icon")](#cl--1)
 - ### [CA ![CA](https://azurlane.koumakan.jp/w/images/c/c3/CA_img.png "CA Icon")](#ca--1)
 - ### [BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")](#bbbc--1)
-- ### [BBV ![BBV](https://cdn.discordapp.com/attachments/518517758602903554/563429195179360289/BBV_img.png "BBV Icon")](#bbv--1)
+- ### [BBV ![BBV](https://azurlane.koumakan.jp/w/images/thumb/1/1a/BBV_img.png/45px-BBV_img.png "BBV Icon")](#bbv--1)
 - ### [CV/CVL ![CV(L)](https://azurlane.koumakan.jp/w/images/d/d1/CV_img.png "CV/L Icon")](#cvcvl--1)
-- ### [SS ![SS](https://cdn.discordapp.com/attachments/518517758602903554/563432311782113350/SS_img.png "Submarine Icon")](#ss--1)
+- ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 <br/><br/>
 ---
