@@ -61,13 +61,13 @@ Without these people, the Tier Guide would never be as comprehensive, accurate o
   
   
 ## Table of Contents 
-- ### [DD ![DD](https://cdn.discordapp.com/attachments/518517758602903554/563429609539108864/DD_img.png "DD Icon")](#dd--1)
+- ### [DD ![DD](https://azurlane.koumakan.jp/w/images/thumb/f/f6/DD_img.png/45px-DD_img.png "DD Icon")](#dd--1)
 - ### [CL ![CL](https://azurlane.koumakan.jp/w/images/2/20/CL_img.png "CL Icon")](#cl--1)
 - ### [CA ![CA](https://azurlane.koumakan.jp/w/images/c/c3/CA_img.png "CA Icon")](#ca--1)
 - ### [BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")](#bbbc--1)
-- ### [BBV ![BBV](https://cdn.discordapp.com/attachments/518517758602903554/563429195179360289/BBV_img.png "BBV Icon")](#bbv--1)
+- ### [BBV ![BBV](https://azurlane.koumakan.jp/w/images/thumb/1/1a/BBV_img.png/45px-BBV_img.png "BBV Icon")](#bbv--1)
 - ### [CV/CVL ![CV(L)](https://azurlane.koumakan.jp/w/images/d/d1/CV_img.png "CV/L Icon")](#cvcvl--1)
-- ### [SS ![SS](https://cdn.discordapp.com/attachments/518517758602903554/563432311782113350/SS_img.png "Submarine Icon")](#ss--1)
+- ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 <br/><br/>
 ---
@@ -1066,7 +1066,7 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
 * Desc: 
 >THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
 
-![BB](https://azurlane.koumakan.jp/File:BismarckChibi.png "Bismarck") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)** **(T0 w/ KMS units around)**
+![BB](https://azurlane.koumakan.jp/w/images/2/2c/BismarckChibi.png "Bismarck") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)** **(T0 w/ KMS units around)**
 * Skill: 
   * The first salvo of her every volley always crits; also extends the range of any CL gun equipped to 90 units (= white line that pushes you back when approached), but reduces their damage by 35%.
   * If flagship, 70% chance to fire a weak barrage (4 shots to the centre of the screen, 2 shots to each side, some mid-ranged DD pellets in the middle); also, passively raise KMS carrier damage by 20%.
