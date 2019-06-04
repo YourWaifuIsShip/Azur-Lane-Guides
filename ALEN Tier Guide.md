@@ -48,9 +48,10 @@ Good reading, and godspeed cap'n!
 #### Assorted notes:
 - Read the VERY IMPORTANT OPENING NOTE at the top.
 - The 'loadout' listed under CV/L entries details the number of planes each unit gets; eg. Unicorn gets 3 Fighters / 0 Dive Bombers / 3 Torpedo Bombers.
+- The 'bdmg' listed under barrage entries means "base damage", while 'coefficient' is basically a damage multiplier.
 - The asterisk next to a name in the Priority List means the Kai is tied to some sort of event and may not be available right now; also, if you do not see a name in it, it's because it is not worth prioritizing.
 - If you're wondering why carriers are judged differently from the rest, consider the following - they have no self-defence capabilities against suicide boats and are inherently worse than big guns at handling hard targets due to ordnance scatter and unhelpful anti-Heavy modifiers, but their AoE damage dispatches waves better than big guns usually do and come stock with screen clears.
-tldr; BB/BC and CV/CVL do different things, holding them to the same standards makes little sense
+tldr; BB/BC and CV/CVL do different things, holding them to the same standards makes little sense.
 
   
   
@@ -897,7 +898,7 @@ If you're looking that something that won't die anytime soon, look no further; i
 ![BB](https://azurlane.koumakan.jp/w/images/a/ae/MonarchChibi.png "Monarch") - **[HMS Monarch](https://azurlane.koumakan.jp/Monarch)**
 * Skill:
   * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p6.qhimg.com/t0118a6eeb421e638c2.gif); if it hits, the targets are slowed by 40% for 6s.
-    * The 13 SHELLS deal 158 bmg with 40/125/120 mods. Their damage is modified by 100% of the unit's FP.
+    * The 13 SHELLS deal 158 bdmg with 40/125/120 mods. Their damage is modified by 100% of the unit's FP.
   * Once per battle and upon falling below 20% HP, restore 3% HP every 2s for 8s; also, for every 1% HP lost during the fight, her Reload increases by 1.
 
 - Desc: Hail to the Monarch, baby.
