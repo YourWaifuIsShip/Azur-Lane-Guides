@@ -1103,8 +1103,9 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
 
 ![BB](https://azurlane.koumakan.jp/w/images/5/5f/King_George_VChibi.png "King George V") - **[HMS King George V](https://azurlane.koumakan.jp/King_George_V)** **(T1 if deployed w/ 3 OTHER HMS units)**
 * Skill: 
-  * Every 24s, 70% chance to fire a mediocre barrage (6/8 spread out shots + thin V-shaped wave of parallel needles); if KGV mounts a 356mm Quad, reduce the cooldown of her first volley by 75%, gain +20% CritChance on main gun shots, reduce its scatter by 2 and enhance the barrage (slightly better damage, 8 large shots instead of 6).
+  * Every 24s, 70% chance to fire a mediocre barrage; if KGV mounts a 356mm Quad, reduce the cooldown of her first volley by 75%, gain +20% CritChance on main gun shots, reduce its scatter by 2 and enhance the barrage (slightly better damage, 8 large shots instead of 6).
   * Deal +10% Damage to IJN/KMS/RM/Siren units; if sortied with 3 other HMS units, gain +20% FP/AA/Reload/Evasion.
+  * [The barrage](http://wiki.joyme.com/blhx/%E8%8B%B1%E7%8E%8B%E4%B9%94%E6%B2%BB%E4%BA%94%E4%B8%96); the SHELLS deal 121/138 base dmg ith 80/100/130 modifiers, the NEEDLES deal 20 base dmg with 80/100/130 modifiers.
   
 * Desc: Takes a King to put an upstart Prince in its place.
 >Heh, typical nobles. Profiting from their underlings and giving next to nothing in return.  
