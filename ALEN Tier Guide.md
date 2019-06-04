@@ -887,7 +887,8 @@ If you're looking that something that won't die anytime soon, look no further; i
 
 ![BB](https://azurlane.koumakan.jp/w/images/4/45/Duke_of_YorkChibi.png "Duke of York") - **[HMS Duke of York](https://azurlane.koumakan.jp/Duke_of_York)**
 * Skill: 
-  * Every 20s, fires an aimed Normal slowing (-40% Speed for 6s) barrage (4 356mm quad-like shots) at the farthest available target.
+  * Every 20s, launch a [barrage](http://p2.qhimg.com/t01ede24848b466745c.gif) aimed at the farthest available target; if it hits, the targets are slowed by 40% for 6s.
+    * The 4 SHELLS deal 108 bdmg with 70/100/90 mods. Their damage is modified by 100% of the unit's FP and a 110% Coefficient.
   * Enemies hit by Duke of York's Main Gun fire take +12% damage from all sources for 8s; also, her first volley deals x1.5 damage.
 
 - Desc: 
@@ -895,8 +896,8 @@ If you're looking that something that won't die anytime soon, look no further; i
 
 ![BB](https://azurlane.koumakan.jp/w/images/a/ae/MonarchChibi.png "Monarch") - **[HMS Monarch](https://azurlane.koumakan.jp/Monarch)**
 * Skill:
-  * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p6.qhimg.com/t0118a6eeb421e638c2.gif).
-    * The 13 SHELLS have their damage modified by 120% of Monarch's FP and deal 158 bmg with 40/125/120 mods; they also slow the targets hit by 40% for 8s.
+  * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p6.qhimg.com/t0118a6eeb421e638c2.gif); if it hits, the targets are slowed by 40% for 6s.
+    * The 13 SHELLS deal 158 bmg with 40/125/120 mods. Their damage is modified by 100% of the unit's FP.
   * Once per battle and upon falling below 20% HP, restore 3% HP every 2s for 8s; also, for every 1% HP lost during the fight, her Reload increases by 1.
 
 - Desc: Hail to the Monarch, baby.
@@ -908,7 +909,8 @@ As a result, it would be wise to pick your sovereign of choice with an eye to ba
 * Skill: 
   * -9% FP/Torp/Aviation to all enemies as long as she's alive
   * -15% Ignition dmg and +10% Evasion Rate for backline as long as she's alive
-  * 70% chance on Main Gun fire, launches a frontal barrage (damage based on skill level), also if the fleet contains 4 or more Sakura Empire ships she gains -45% cooldown on first Main Gun volley.
+  * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p6.qhimg.com/t01b63d0e2830b10cb0.gif); also, if the fleet contains 4 or more Sakura Empire ships she gains -45% cooldown on first Main Gun volley.
+    * The 4 AIMED SHELLS deal 226 bdmg with 90/120/70 mods; the 6 SHELLS deal 156 bdmg with 90/120/70 mods; the 16 DD PELLETS deal 25 bdmg with 90/70/40 mods; the 4 TORPEDOES deal 124 bdmg with 80/100/130 mods. All of these's damage is modified by 100% of their relevant stats, but only the torps have a 110% Coefficient.
 
 - Desc: If you can't decide what to pick, pick it all.
 >Packing offence debuffs for her enemies, defence buffs for her backline, a barrage that includes normal arcing shells alongside linear AP shells and even aimed torpedoes, Amagi has quite literally a bit of everything in herself; and it all comes together as one sleek and effective whole, only marginally hampered by her IJN-standard terrible AA.
@@ -917,7 +919,7 @@ As a result, it would be wise to pick your sovereign of choice with an eye to ba
 * Skill: 
   * +30% Damage to self, as long as she is the only BB/BC in the fleet.
   * Every 15s, launches a [torpedo barrage](http://p1.qhimg.com/t01c6cc7b9a0663a9c1.gif).
-    * The 4 TORPEDOES have their damage modified by 150% of Tirpitz's Torpedo stat and deal 137bdmg with 80/100/130 mods.
+    * The 4 TORPEDOES deal 137 bdmg with 80/100/130 mods. Their damage is modified by 150% of the unit's Torp stat.
 
 - Desc: "Slow and steady torps the race."
 >One of the most consistent and hardest hitting BBs in the game, provided you cater to her social anxiety.  
@@ -930,7 +932,8 @@ However, all this becomes quickly irrelevant as soon as she loses her +30% damag
 
 ![BC](https://azurlane.koumakan.jp/w/images/5/5f/HoodChibi.png "HMS Hood") - **[HMS Hood](https://azurlane.koumakan.jp/Hood)**
 * Skill: 
-  * 70% chance upon Main Gun fire to launch a special barrage and grant +40% Reload to the backline for 8s.
+  * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p8.qhimg.com/t01c83095ed25b82e28.gif) and grant +40% Reload to the entire backline.
+    * The 13 SHELLS deal 174 bdmg with 70/100/90 mods. Their damage is modified by 100% of the unit's FP.
 
 - Desc: More than just a sub.
 >Second only to Tirpitz in terms of pure staying power and armed with a quickly-proccable, backline-buffing, devastating barrage, she is exceptionally good under almost all circumstances; whether it is tearing apart mob nodes, showering enemy battleships in heavy firepower or providing support, Hood gets it done.  
@@ -938,8 +941,8 @@ Remember to have her be the flagship to make the most out of her barrage, and th
 
 ![BB](https://azurlane.koumakan.jp/w/images/e/e0/HyuugaChibi.png "IJN Hyuuga") - **[IJN Hyuuga](https://azurlane.koumakan.jp/Hyuuga)**
 * Skill: 
-  * +20% FP to self.
-  * +15% FP to the entire backline.
+  * Gain +20% FP.
+  * Grant +15% FP to the entire backline.
 
 * Desc: 
 >THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
@@ -948,7 +951,7 @@ Remember to have her be the flagship to make the most out of her barrage, and th
 * Skill: 
   * When sortied as Flagship, grant all IJN units +10% Firepower, +20% Reload/Accuracy, and +20% damage output to all IJN carriers.
   * Upon firing the Main Gun, 40% chance to launch a [barrage](http://p4.qhimg.com/t012fd5d78db44ba7d1.gif).
-    * The 44 SHELLS deal 125bdmg with 120/100/80 mods; the 16 NEEDLES deal 125bdmg with 90/120/70 mods. Both are modified by 100% of Nagato's FP.
+    * The 44 SHELLS deal 125bdmg with 120/100/80 mods; the 16 NEEDLES deal 125bdmg with 90/120/70 mods. The damage of both is modified by 100% of the unit's FP.
 
 * Desc: Mikasa for those who don't like or want more big guns.
 >A well-rounded warship on her own right compared to her dakka-centric senpai, her set of buffs is about as good as those provided by Mikasa but she needs the flagship slot even more due to her barrage.
@@ -958,7 +961,7 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
 * Skill: 
   * The first salvo of her every volley always crits; also extends the range of any CL gun equipped to 90 units (= white line that pushes you back when approached), but reduces their damage by 35%.
   * If flagship, 70% chance to fire a weak barrage (4 shots to the centre of the screen, 2 shots to each side, some mid-ranged DD pellets in the middle); also, passively raise KMS carrier damage by 20%.
-    * The 8 SHELLS deal 110 bdmg with 70/100/90 mods; the 14 DD PELLETS deal 20 bdmg with 120/60/60 mods. Both are modified by 100% of Bismarck's FP.
+    * The 8 SHELLS deal 110 bdmg with 70/100/90 mods; the 14 DD PELLETS deal 20 bdmg with 120/60/60 mods. The damage of both is modified by 100% of the unit's FP.
   * Grant +20% CritRate to the guns/torpedoes/planes used by KMS units, grant +12% Reload to all KMS units, grant Tirpitz +40% Damage.
 
 * Desc: Here comes Tutorial Girl!
@@ -991,7 +994,7 @@ Whether you do actually need all that AA is another matter entirely, but rest as
 ![BB](https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29Chibi.png "IJN Kaga BB") - **[IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))**
 * Skill:
   * Upon firing the Main Gun, 50% chance to launch a [barrage](http://p8.qhimg.com/t01d5fb2bae251530e2.gif).
-     * The 10 SHELLS deal 195bdmg with 70/100/90 mods; the 20 DD PELLETS deal 35bdmg with 120/60/60 mods; the 8 TORPEDOES deal 96bdmg with 80/100/130 mods. All of these are modified by 100% of their respective stats.
+     * The 10 SHELLS deal 195bdmg with 70/100/90 mods; the 20 DD PELLETS deal 35bdmg with 120/60/60 mods; the 8 TORPEDOES deal 96bdmg with 80/100/130 mods. All of these's damage is modified by 100% of their respective stats and a 110% Coefficient.
   * 10s after battle start and every 20s, afterwards, launches a torpedo barrage (2 lines of 2 aimed torps).
   * Akagi counts her as Kaga, thus proccing her +Aviation buff.
 
@@ -1002,7 +1005,8 @@ She also has a few torps to throw out every now and then, but they're fairly lac
 ![BB](https://azurlane.koumakan.jp/w/images/e/e1/YamashiroChibi.png "IJN Yamashiro") ![BB](https://azurlane.koumakan.jp/w/images/a/a8/FusouChibi.png "IJN Fusou") - **[IJN Yamashiro](https://azurlane.koumakan.jp/Yamashiro)** **[IJN Fusou](https://azurlane.koumakan.jp/Fusou)** **(Kai)**
 * Skill: 
   * Gain +20% FP.
-  * Upon launching their FIRST airstrike, launch a [Zuiun barrage](http://p5.qhimg.com/t01d9233a15fc747253.gif) whose 15 BOMBS deal 173bdmg with 80/85/110 mods.
+  * Upon launching their FIRST airstrike, launch a [Zuiun barrage](http://p5.qhimg.com/t01d9233a15fc747253.gif)
+    * The 15 BOMBS deal 173bdmg with 80/85/110 mods. Their damage is modified by 100% of their Aviation stat.
 
 * Desc: 
 >The second most cost-effective BBs in the game, owing to their remarkable statline, Kai nodes and comparatively low Oil costs.  
@@ -1012,7 +1016,7 @@ A steep price to pay, especially considering how weak the seaplanes are in compa
 ![BB](https://azurlane.koumakan.jp/w/images/d/d0/Super_Gamer_Kizuna_AIChibi.png "BBakyu") - **[Super Gamer Kizuna AI](https://azurlane.koumakan.jp/Super_Gamer_Kizuna_AI)**
 * Skill:
   * Gain +30% Main Gun CritRate and increase her Main Gun Scatter by +1; also, 70% chance every 16s to fire a special [barrage](http://p7.qhimg.com/t01493e3bb4e0ed2864.gif).
-    * The 20 SHELLS deal 62bdmg with 110/90/70 mods; the 6 TORPS deal 114bdmg with 80/100/130 mods. Both are modified by 100% of BB AI's FP.
+    * The 20 SHELLS deal 62bdmg with 110/90/70 mods; the 6 TORPS deal 114bdmg with 80/100/130 mods. Their damages are modified by 100% of the relevant stats.
   * Gain +25% Evasion and Accuracy.
 
 - Desc: An upgrade to Washington.
@@ -1042,7 +1046,7 @@ Still RNG, yes, but still quite solid and there's nobody cheaper than them, at l
 ![BB](https://azurlane.koumakan.jp/w/images/9/95/WashingtonChibi.png "USS Washington") - **[USS Washington](https://azurlane.koumakan.jp/Washington)** **(T1 in Plane Hells)**
 * Skill: 
   * Every 20s, 70% chance to launch a [barrage](http://p6.qhimg.com/t01b58d23b744088eac.gif).
-    * The 9 SHELLS deal 174 bdmg with 70/100/90 mods; the 30 DD PELLETS deal 20bdmg with 120/60/60 mods. Both are modified by 100% of Washington's FP.
+    * The 9 SHELLS deal 174 bdmg with 70/100/90 mods; the 30 DD PELLETS deal 20bdmg with 120/60/60 mods. The damage of both is modified by 100% of the unit's FP.
   * When South Dakota's HP falls to/below 30%, South Dakota gains Protection (avoid lethal damage for 5s) while Washington deals +20% damage and absorbs 30% of the damage sustained by South Dakota.
 
 - Desc: Smile for the FCR!
@@ -1052,6 +1056,7 @@ As expensive a price tag as 15 Oil is, Washington makes up for it with a slightl
  ![BB](https://azurlane.koumakan.jp/w/images/8/8a/KirishimaChibi.png "Kirishima") - **[IJN Kirishima](https://azurlane.koumakan.jp/Kirishima)**
 * Skill: 
   * 60% chance upon Main Gun fire, launch a semi-aimed Sanshikidan barrage (8 shells in two waves of four, heading towards the nearest enemies); also, deal +15% damage to BB.
+    * The 128 SANSHIKIDAN FRAGMENTS deal 20 bdmg with 125/110/90 mods. Their damage is modified by 150% of the unit's FP and a 110% Efficiency.
 
 * Desc: 
 >(PvE) Airstrike murderer extraordinaire thanks to her barrage, accomplished fireboat slayer owing to her CL guns on a BC frame, and even gets an edge against the most threatening enemies you can face later on.
@@ -1080,7 +1085,8 @@ A force to be reckoned with, especially considering her cost, but don't count on
  
 ![BC](https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png "KMS Scharnhorst") - **[KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst)** **(T1 if deployed with Bismarck)**
 * Skill:
-  * Every 15s, fires a 3-bullet (Normal, upgrades to AP after SL6) auto-critting salvo at a random target.
+  * Every 15s, fires a [barrage] at a random target.
+    * The 3 SHELLS deal 103 bdmg with 30/130/110 mods. Their damage is modified by 100% of the unit's FP and a 110% Coefficient.
   * Every 20s, launch 3 unguided torpedoes in a cone.
 
 * Desc: 
@@ -1102,7 +1108,7 @@ Still hits damn hard, though, and harder still when she's on a good roll.
 ![BB](https://azurlane.koumakan.jp/w/images/6/61/PennsylvaniaChibi.png "USS Pennsylvania") - **[USS Pennsylvania](https://azurlane.koumakan.jp/Pennsylvania)**
 * Skill: 
   * Every 20s, 60% chance to launch a [barrage](http://p0.qhimg.com/t014b861d5b4b972e2f.gif) 
-    * The 12 SHELLS are modified by 100% of Pennsylvania's FP and deal 120 bdmg with 70/100/90 modifiers.
+    * The 12 SHELLS deal 120 bdmg with 70/100/90 modifiers. Their damage is modified by 100% of the unit's FP.
 
 * Desc: 
 >Often overlooked in favour of other barrage ships (eg. Hood, Washington), Pennsylvania plays it different from many others by having a timed proc instead of a main-gun-fire-based one.  
@@ -1112,7 +1118,7 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
 ![BB](https://azurlane.koumakan.jp/w/images/5/5f/King_George_VChibi.png "King George V") - **[HMS King George V](https://azurlane.koumakan.jp/King_George_V)** **(T1 if deployed w/ 3 OTHER HMS units)**
 * Skill: 
   * Every 24s, 70% chance to fire a mediocre [barrage](http://p1.qhimg.com/t01b1c830d8be9d5c65.gif); if KGV mounts a 356mm Quad, reduce the cooldown of her first volley by 75%, gain +20% CritChance on main gun shots, reduce its scatter by 2 and enhance the barrage (slightly better damage, 8 large shots instead of 6).
-     * The 6/8 SHELLS deal 121/138 bdmg with 80/100/130 mods; the 20 NEEDLES deal 20 bdmg with 80/100/130 mods. Both are modified by 100% of KGV's FP.
+     * The 6/8 SHELLS deal 121/138 bdmg with 80/100/130 mods; the 20 NEEDLES deal 20 bdmg with 80/100/130 mods.  The damage of both is modified by 100% of the unit's FP.
   * Deal +10% Damage to IJN/KMS/RM/Siren units; if sortied with 3 other HMS units, gain +20% FP/AA/Reload/Evasion.
   
 * Desc: Takes a King to put an upstart Prince in its place.
@@ -1142,7 +1148,7 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
 ![BB](https://azurlane.koumakan.jp/w/images/8/87/WarspiteChibi.png "HMS Warspite") - **[HMS Warspite](https://azurlane.koumakan.jp/Warspite)** **(T1.5 if deployed w/ Queen Elizabeth)**
 * Skill: 
   * Every 15s and *aimed at the farthest available target*, launch a [barrage](http://p3.qhimg.com/t017ab6c9c3280c635e.gif).
-    * The 2 SHELLS are modified by 100% of Warspite's FP (80% in PvP), always crit and deal 154 bdmg with 30/130/110 mods.
+    * The 2 SHELLS always crit and deal 154 bdmg with 30/130/110 mods. Their damage is modified by 80/100% of the unit's FP (PvP/PvE) and a 110% Coefficient.
 
 - Desc: "The Queen's Royal Corgi".
 >Warspite's historical achievements may be impressive, but AL does little justice to them beyond giving her the highest base FP of all BB (PR notwithstanding) and an okay statline elsewhere. What brings her down is partly her effective FP being lower than many others', but mostly her useless skill: an automated, autocritting barrage sounds great, until you realise it struggles immensely hitting anything that's not a stationary target and that the AP modifier makes it useless against the very common Light Armour in the game.  
@@ -1151,7 +1157,7 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
 ![BC](https://azurlane.koumakan.jp/w/images/1/12/IzumoChibi.png "Izumo") - **[IJN Izumo](https://azurlane.koumakan.jp/Izumo)**
 * Skill: 
   * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p4.qhimg.com/t0127a2b079a4ccebab.gif)
-    * The 36 NEEDLES are modified by 120% of Izumo's FP and deal 104 base damage with 50/135/120 modifiers.
+    * The 36 NEEDLES deal 104 base damage with 50/135/120 modifiers. Their damage is modified by 120% of the unit's FP.
   * Take -35% AP damage, but take +6% Ignition damage and extends Ignition duration by 3s.
   * Deal +15% damage vs Sirens.
 
@@ -1172,7 +1178,9 @@ Bad not just by PR standards but as a whole, there is little to no reason to eve
 ### Honourable Mentions:
 ---
 #### ![BM](https://azurlane.koumakan.jp/w/images/f/fe/TerrorChibi.png "HMS Terror") ![BM](https://azurlane.koumakan.jp/w/images/a/a3/ErebusChibi.png "HMS Erebus") [HMS Terror](https://azurlane.koumakan.jp/Terror) [HMS Erebus](https://azurlane.koumakan.jp/Erebus)
-* Skill: Every 20s, 60% chance to fire a special barrage.
+* Skill:
+  * Every 20s, 60% chance to launch a [barrage](http://p5.qhimg.com/t01087d40f3485a9c90.gif).
+    * The 30 SHELLS deal 108 bdmg with 100/80/60 mods; the 22 NEEDLES deal 108 bdmg with 100/80/70 mods. The damage of both is modified by 100% of the unit's FP.
 
 - Desc: "The poor man's Barrage Boat."
 >A description partly in jest, and partly absolutely accurate - compared to a normal BB, they are incredibly frail (barely 3k HP with Light Armour) and considerably weaker (low FP, slightly lower Efficiency, one less salvo per volley), but they also cost a fraction than what they do and still get truly impressive barrages.  
@@ -1180,7 +1188,9 @@ How does this come together? As pint-sized discount-costed powerhouses for early
 Monitors can be expected to auto their way up to W8 or 9 with little resistance. Any further, though, and auto becomes almost impossible as enemies get more accurate, tougher and more powerful: the moment a BB opens up on them, they're already dead.
  
 #### ![BM](https://azurlane.koumakan.jp/w/images/b/bc/NelsonChibi.png "HMS Nelson") ![BM](https://azurlane.koumakan.jp/w/images/c/ca/RodneyChibi.png "HMS Erebus") - [HMS Nelson](https://azurlane.koumakan.jp/Nelson) [HMS Rodney](https://azurlane.koumakan.jp/Rodney)
-* Skill: 40% chance to fire a special barrage when firing main gun.
+* Skill: 
+  * Upon firing the Main Gun, 40% chance to launch a [barrage](http://p7.qhimg.com/t01f60ecc8d39dd90a8.gif).
+    * The 44 NEEDLES deal 156 bdmg with 100/80/70 mods. Their damage is modified by 100% of the unit's FP.
 
 - Desc: "Newbie traps."
 >So you just started playing and found these two BBs. Their barrages fire lasers everywhere and melt mobs and they look pretty tough, so they've gotta be good, right?  
@@ -1190,7 +1200,7 @@ Avoid.
 
 #### ![BB](https://azurlane.koumakan.jp/w/images/b/b3/ColoradoChibi.png "USS Colorado") ![BB](https://azurlane.koumakan.jp/w/images/c/c1/West_VirginiaChibi.png "USS West Virginia") ![BB](https://azurlane.koumakan.jp/w/images/a/a9/MarylandChibi.png "USS Maryland") - [USS Colorado](https://azurlane.koumakan.jp/Colorado) [USS West Virginia](https://azurlane.koumakan.jp/West_Virginia) [USS Maryland](https://azurlane.koumakan.jp/Maryland)
 * Skill: 
-  * 40% chance to fire a special barrage when firing main gun
+  * Upon firing the Main Gun, 40% chance to launch the same barrage Rodney/Nelson get.
   * (Maryland) When her HP drops below 70% increase her damage dealt based on how low her HP is, up to +35%.
 
 - Desc: "The pits."
