@@ -952,7 +952,7 @@ Remember to have her be the flagship to make the most out of her barrage, and th
 * Skill: 
   * When sortied as Flagship, grant all IJN units +10% Firepower, +20% Reload/Accuracy, and +20% damage output to all IJN carriers.
   * Upon firing the Main Gun, 40% chance to launch a [barrage](http://p4.qhimg.com/t012fd5d78db44ba7d1.gif).
-    * The 44 SHELLS deal 125bdmg with 120/100/80 mods; the 16 NEEDLES deal 125bdmg with 90/120/70 mods. The damage of both is modified by 100% of the unit's FP.
+    * The 16 SHELLS deal 125bdmg with 120/100/80 mods; the 44 NEEDLES deal 125bdmg with 90/120/70 mods. The damage of both is modified by 100% of the unit's FP.
 
 * Desc: Mikasa for those who don't like or want more big guns.
 >A well-rounded warship on her own right compared to her dakka-centric senpai, her set of buffs is about as good as those provided by Mikasa but she needs the flagship slot even more due to her barrage.
