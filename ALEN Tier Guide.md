@@ -1344,8 +1344,9 @@ Her Kai skill, just like her gunfire skill, is best regarded as a bit of free ad
 
 ![CV](https://azurlane.koumakan.jp/w/images/3/3d/YorktownChibi.png "USS Yorktown") - **[USS Yorktown](https://azurlane.koumakan.jp/Yorktown)**
 * Skill: 
-  * Once per battle, if Yorktown's HP falls below 20% she heals herself by 25%
-  * Upon receiving damage and on a 20s cooldown, launches three special SBD dive bombers (x1 2000lb, x2 100lb); Upon airstrike launch, increases frontline Damage by 15% for 8s.
+  * Once per battle, if Yorktown's HP falls below 20% she heals herself by 25%.
+  * Upon receiving damage and on a 20s cooldown, launches a [retaliatory 3-plane barrage](http://p1.qhimg.com/t01d7f3768a5aa7248c.gif).
+    * The 3 DIVE BOMBERS each carry 1 2000lb bomb (291 bdmg with 70/105/125 mods) and 2 100lb bombs (111 bdmg with 80/85/100 mods). Their damage is modified by 80% of the unit's Aviation.
 
 * Loadout: 3/3/2
 
@@ -1406,7 +1407,7 @@ Whether it's boss-busting or wave-clearing, give her the appropriate planes and 
 
 ![CV](https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** **(T0 w/ other KMS units)**
 * Skill: 
-  * 30% increase in efficiency for equipped German planes
+  * 30% increase in efficiency for equipped German planes.
   * All KMS ships in fleet take 15% less damage.
   * Has a 2/6/0 loadout.
 
@@ -1420,7 +1421,8 @@ Her only real flaw is her lacking Reload, a mere 100 compared to most other top-
  
 #### ![CV](https://azurlane.koumakan.jp/w/images/d/db/HornetChibi.png "USS Hornet") - **[BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)**
 * Skill: 
-  * 60% chance to drop 12 additional bombs with her airstrike upon launch;\
+  * Upon airstriking, 60% chance to launch a [barrage](http://p8.qhimg.com/t01f5e40a0d4aa5e59e.gif).
+    * The 12 BOMBS deal 222 bdmg with 80/90/110 mods. Their damage is modified by 100% of the unit's Aviation.
   * 25% chance to inflict double damage with her airstrike.
   * Has a 3/3/2 loadout.
 
@@ -1449,6 +1451,19 @@ Manual only, but the results are guaranteed; and if you need the exp boost, keep
 >Chaser had a look at Ranger before leaving for the Royals and realised she was up to something good.  
 With functionally 9 planes at her back and call without giving up her AA guns or high Reload, she can handily rival most other CVL in DPS while keeping some support capabilites to her credit - as well as a decent chance to throw out torrents of planes.  
 That said, she's still mostly an attack craft - her ASW capabilties, while a nice touch, are entirely useless on non-ASW maps and unnecessary there, given how easily dealt with subs are.
+
+ #### ![CVL](https://azurlane.koumakan.jp/w/images/f/fb/HermesKaiChibi.png "Hermes Kai") - [HMS Hermes Kai](https://azurlane.koumakan.jp/Hermes#retrofit)
+* Skill: 
+  * Upon airstriking, 25% chance to deal x2 damage for 10s.
+  * Every 20s, launch one of three [barrages](http://p9.qhimg.com/t01a72c2315e7c4be51.gif); 33% chance for 1 HE nuke, 33% chance for 3 AP bombs; 34% chance for 24 Normal bomblets.
+    * The 1 NUKE deals 294 bdmg with ?/?/? mods AND a 50% chance to inflict Flooding; the 3 BOMBS deal 248 bdmg with ?/?/? mods; the 24 BOMBLETS deal 72 bdmg with ?/?/? mods. Their damage is modified by ???% of the unit's Aviation. FURTHER DETAILS PENDING.
+  * Has a 0/0/6 loadout.
+
+* Desc: Airstrikes on motorcycles!
+>Hellbent on dealing surface damage and dealing it (relatively) quickly, Hermes Kai boasts staggering amounts of Reload that allow her to airstrike in just about 19s with high-efficiency BiS torpedo bombers - and little to no support capabilities, which mostly come in screenclear form.  
+Her skills further semi-reliably let her stack her hand, either by dealing more damage on both her airstrike and the subsequent barrage or just by barraging and potentially cracking single hard targets or dispatching a cluster of adds.  
+All things considered - pretty okay, and very cheap to boot.
+
 
 #### ![CV](https://azurlane.koumakan.jp/w/images/0/00/IllustriousChibi.png "HMS Illustrious") - **[HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)**
 * Skill: 
