@@ -453,7 +453,8 @@ Still, there's very few finer, more reliable frontline tanks than she - and that
   
 * Desc: 
 >The cutest Belfast you'll ever see, and with a brand new support-focused skillset to boot.  
-Not entirely as powerful as her older self, but she's up there without being forced to take a subpar gun, is considerably more Evasive and that full fleet healing is a nice addition.
+Not entirely as powerful as her older self, but she's up there without being forced to take a subpar gun, is considerably more Evasive and that full fleet healing is a nice addition.  
+It shouldn't need mentioning, but since she does not have a HE buffing skill, she doesn't want the Belgun (same as everyone else).
 
 ![CL](https://azurlane.koumakan.jp/w/images/e/e7/SheffieldChibi.png "Sheffield") - **[HMS Sheffield](https://azurlane.koumakan.jp/Sheffield)**
 * Skill:
@@ -517,7 +518,7 @@ Powerful for her class and rather inexpensive, but beware the severely subpar HP
   * 10s after battle starts and 20% chance at every 20s thereafter, create a smokescreen that lasts 10s. Smokescreen provides 35% evasion and 35% reduced damage taken from airstrikes
 
 * Desc: Hot maid, in more ways than one.
->Dealing more damage than usual with HE guns and packing better torps than every other HMS cruiser, she tends to have a good answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate and planes not attacking you.  
+>The only one who can actually get some mileage out of the terrible Belgun and packing better torps than every other HMS cruiser, she tends to have a good answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate and planes not attacking you.  
 Her place is strictly PvP, as there's many other HMS CL who will do what she does - be it DPS or tanking - better for less.
 
 ![CL](https://azurlane.koumakan.jp/w/images/7/7a/AbukumaKaiChibi.png "IJN Abukuma Kai") - **[IJN Abukuma Kai](https://azurlane.koumakan.jp/Abukuma)**
