@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (WEHRABOO EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (PLANE HELL EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -57,7 +57,14 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
   
 #### Credits:
 - This guide is far from a solo effort: while the writing is mine, the tierings are researched and approved collegially with Gurosebe#4054, Enbayft#2527, Cantarella#7963 and the #helpful fellows over at the Azur Lane English Community server, while the coding framework that makes this possible was provided by Enbayft#2527 and improved upon by Boz#5174; lastly, kudos to Kopfjäger for providing the original framework for the guide you're now reading.  
-Without these people, the Tier Guide would never be as comprehensive, accurate or good-looking as it is, and it is to them that I extend my sincere gratitude.
+Without these people, the Tier Guide would never be as comprehensive, accurate or good-looking as it is, and it is to them that I extend my sincere gratitude.  
+Oh, and one more thing...
+
+
+
+#### Want to buy me a coffee?
+Curating, maintaining and researching for this Guide is something I've been doing for over a year now, ever since a few months after the first CN servers were opened to the public. It's a time-consuming endeavour, to be sure, but one I gladly do.
+If you find what I do here and/or on the Discords #helpful and would like to show me your gratitude in a slightly more tangible way, feel free to click here and buy me a coffee - thanks! (https://ko-fi.com/J3J6WRI2)
   
   
    
@@ -716,6 +723,14 @@ The only fault one can find in her would be her barrage - its wide linear patter
 * Desc: Can you say 24 shots in a row? She certainly can.   
 >Wichita brings to bear one of the absolute highest vanguard DPS in the game, owing to her Chain Cannon skill and the passive +15% FP.  
 While her HP is rather lacklustre, it's an easily solved issue and dead enemies can't hurt you anyway.
+
+![CA](https://azurlane.koumakan.jp/w/images/c/cb/ChoukaiChibi.png "Choukai") - **[IJN Choukai](https://azurlane.koumakan.jp/Choukai)**
+* Skill: 
+  * Gain +10% Firepower (permanent); 60% chance every 20s, +20% Firepower and Torpedo to all allied CL/CA for 10s
+  * Upon Main Gun fire, 30% chance to double its damage
+
+* Desc: 
+>The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
  
  ### Tier 1:
 ---
@@ -1376,6 +1391,15 @@ Her Kai skill, just like her gunfire skill, is best regarded as a bit of free ad
 
 ### Tier 1.5:
 ---
+#### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
+* Skill: 
+  * Increases experience gained by CV by 15%
+  * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
+  * Has a 6/2/0 loadout.
+
+* Desc:
+>Once considered a liability due to the much reviled F/F/B loadout and an exp boost as a primary skill, Langley Kai's fortunes changed drastically with the advent of Air Superiority mechanics; not only do those fighters contribute almost or over twice the amount other types of planes do, but they're also extraordinarily cost-effective as well as slightly more readily available than usual.
+
 ![CV](https://azurlane.koumakan.jp/w/images/3/33/LexingtonChibi.png "USS Lexington") ![CV](https://azurlane.koumakan.jp/w/images/f/fb/SaratogaChibi.png "USS Saratoga") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)** **[USS Saratoga](https://azurlane.koumakan.jp/Saratoga)**
 * Skill: 
   * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Airpower).
@@ -1395,6 +1419,15 @@ They don't launch fast, but when they do they really leave a mark - make sure to
 * Desc: 
 >A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen.   
 Whether it's boss-busting or wave-clearing, give her the appropriate planes and she'll do a pretty good job - just don't expect much of anything from her terrible DBs, and definitely do not expect your carrier-based torp to magically all hit afterwards.
+
+![CV](https://azurlane.koumakan.jp/w/images/0/00/IllustriousChibi.png "HMS Illustrious") - **[HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)**
+* Skill: 
+  * Upon airstrike launch, grants every vanguard unit a shield for 10% of Illustrious' max HP, lasting 8s.
+  * Has a 6/0/2 loadout.
+
+* Desc: Zero to (AS) Hero.
+>A very defensive-focused CV with double fighter slots, a shield generator and staggering amounts of Air Superiority. Her low DPS is the stuff of legend.    
+Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo strikes.
 
 #### ![CVL](https://azurlane.koumakan.jp/w/images/6/62/RyuujouChibi.png "Ryuujou") - **[IJN Ryuujou](https://azurlane.koumakan.jp/Ryuujou)**
 * Skill: 
@@ -1431,15 +1464,7 @@ Her only real flaw is her lacking Reload, a mere 100 compared to most other top-
 Just don't expect much in the way of support, beyond the air coverage provided by her okay fighters.
 
 
-#### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
-* Skill: 
-  * Increases experience gained by CV by 15%
-  * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect.
-  * Has a 6/2/0 loadout.
 
-* Desc: 
->Saddled with the much reviled F/F/B loadout and a useless (in combat) primary skill, it's hard to justify her use in most fleets - until you realise just how useful Reload is for CVL, and how cheap and effective a full CVL backline can be.  
-Manual only, but the results are guaranteed; and if you need the exp boost, keep one 0LB around specifically for that purpose.
 
  #### ![CVL](https://azurlane.koumakan.jp/w/images/9/9a/ChaserChibi.png "Chaser") - [HMS Chaser](https://azurlane.koumakan.jp/Chaser)
 * Skill: 
