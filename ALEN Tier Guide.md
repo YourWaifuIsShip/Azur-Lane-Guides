@@ -568,7 +568,7 @@ A solid pick regardless, especially if you expect aircraft
 
 ![CL](https://azurlane.koumakan.jp/w/images/4/45/LenaChibi.png "Lolena") - **[USS Lena](https://azurlane.koumakan.jp/Lena)**
 * Skill: 
-  * Every 20s, 60% chance to the FP/Torp/Aviation of all enemies on the screen by 12% for 10s.
+  * Every 20s, 60% chance to reduce the FP/Torp/Aviation of all enemies on the screen by 12% for 10s.
   * Upon firing AA guns, gain +25% AA for 5s; once per battle, if sortied with Lil Sandy or Cleveland and either falls under 40% HP, gain +25% FP/Acc.
 
 *  Desc: The lolifying beam spares nobody!
