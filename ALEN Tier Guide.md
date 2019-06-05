@@ -566,6 +566,15 @@ She'll only buff herself, but a +40% FP never really goes amiss.
 >More Firepower and better Efficiency than what Denver gets and doesn't need to worry about planes mugging her precious FP, but at the cost of a much flimsier hull.  
 A solid pick regardless, especially if you expect aircraft
 
+![CL](https://azurlane.koumakan.jp/w/images/d/dc/HonoluluChibi.png "Lolena") - **[USS Lena](https://azurlane.koumakan.jp/Lena)**
+* Skill: 
+  * Every 20s, 60% chance to the FP/Torp/Aviation of all enemies on the screen by 12% for 10s.
+  * Upon firing AA guns, gain +25% AA for 5s; once per battle, if sortied with Lil Sandy or Cleveland and either falls under 40% HP, gain +25% FP/Acc.
+
+*  Desc: The lolifying beam spares nobody!
+> So poor Helena got shrunk too. Unfortunate, but at least she gets a better deal than the other two loli of the batch - her statline hasn't dropped at all beyond a -400ish HP compared to the real version, and while there's no doubt a stat debuff is a lot worse than *just dealing more damage* to all enemies, it is nevertheless nice to have.  
+The AA buff is also okay, as it helps her withstand aerial punishment without into her FP as the Cleveland-class buff does; the lolibote buff isn't, as neither other loli is worth taking along and it only procs when they're around.  
+
 ![CL](https://azurlane.koumakan.jp/w/images/4/44/AuroraChibi.png "HMS Aurora") - **[HMS Aurora](https://azurlane.koumakan.jp/Aurora)**
 * Skill: 
   * Increases own damage against destroyers, transport vessels, torpedo boats, and suicide boats by 20% 
