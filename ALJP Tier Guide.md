@@ -50,13 +50,13 @@ Good reading, and godspeed cap'n!
 - The 'loadout' listed under CV/L entries details the number of planes each unit gets; eg. Unicorn gets 3 Fighters / 0 Dive Bombers / 3 Torpedo Bombers.
 - The asterisk next to a name in the Priority List means the Kai is tied to some sort of event and may not be available right now; also, if you do not see a name in it, it's because it is not worth prioritizing.
 - If you're wondering why carriers are judged differently from the rest, consider the following - they have no self-defence capabilities against suicide boats and are inherently worse than big guns at handling hard targets due to ordnance scatter and unhelpful anti-Heavy modifiers, but their AoE damage dispatches waves better than big guns usually do and come stock with screen clears.
-tldr; BB/BC and CV/CVL do different things, holding them to the same standards makes little sense
+tldr; BB/BC and CV/CVL do different things, holding them to the same standards makes little sense.
 
   
   
 #### Credits:
 - This guide is far from a solo effort: while the writing is mine, the tierings are researched and approved collegially with Gurosebe#4054, Enbayft#2527, Cantarella#7963 and the #helpful fellows over at the Azur Lane English Community server, while the coding framework that makes this possible was provided by Enbayft#2527 and improved upon by Boz#5174; lastly, kudos to Kopfjäger for providing the original framework for the guide you're now reading.  
-Without these people, the Tier Guide would never be as comprehensive, accurate or good-looking as it is, and it is to them that I extend my sincere gratitude.
+Without these people, the Tier Guide would never be as comprehensive, accurate or good-looking as it is, and it is to them that I extend my sincere gratitude; and if you, dear commanders, want to show your gratitude for this guide and/or the #help provided, feel free to buy me a coffee here! (https://ko-fi.com/J3J6WRI2)
   
   
   
