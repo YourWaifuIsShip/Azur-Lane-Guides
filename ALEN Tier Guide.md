@@ -63,7 +63,7 @@ Oh, and one more thing...
 
 
 #### Want to buy me a coffee?
-Curating, maintaining and researching for this Guide is something I've been doing for over a year now, ever since a few months after the first CN servers were opened to the public. It's a time-consuming endeavour, to be sure, but one I gladly do.
+- Curating, maintaining and researching for this Guide is something I've been doing for over a year now, ever since a few months after the first CN servers were opened to the public. It's a time-consuming endeavour, to be sure, but one I gladly do.  
 If you find what I do here and/or on the Discords #helpful and would like to show me your gratitude in a slightly more tangible way, feel free to click here and buy me a coffee - thanks! (https://ko-fi.com/J3J6WRI2)
   
   
