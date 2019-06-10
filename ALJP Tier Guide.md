@@ -1641,7 +1641,7 @@ That said, she's still mostly an attack craft - her ASW capabilties, while a nic
 * Skill: 
   * Upon airstriking, 25% chance to deal x2 damage for 10s.
   * Every 20s, launch one of three [barrages](http://p9.qhimg.com/t01a72c2315e7c4be51.gif); 33% chance for 1 HE nuke, 33% chance for 3 AP bombs; 34% chance for 24 Normal bomblets.
-    * The 1 NUKE deals 294 bdmg with ?/?/? mods AND a 50% chance to inflict Flooding; the 3 BOMBS deal 248 bdmg with ?/?/? mods; the 24 BOMBLETS deal 72 bdmg with ?/?/? mods. Their damage is modified by ???% of the unit's Aviation. FURTHER DETAILS PENDING.
+    * The 1 NUKE deals 294 bdmg AND a 50% chance to inflict Flooding; the 3 BOMBS deal 248 bdmg; the 24 BOMBLETS deal 72 bdmg. Their damage is modified by 100% of the unit's Aviation and all have the same 100/100/100 mods.
   * Has a 0/0/6 loadout.
 
 * Desc: Airstrikes on motorcycles!
