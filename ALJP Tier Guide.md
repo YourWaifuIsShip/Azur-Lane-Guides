@@ -191,6 +191,16 @@ With no real weakness on display, beyond simply not being quite as good as more 
 - Desc:
 >Ah, the wonders of Kai. Shiranui goes from an excellent 0LB DD meme to a supremely legit pick for normal play, owing to her much improved torp stat and efficiency. The CV/L protection skill is nice to have, too.
  
+ ![DD](https://azurlane.koumakan.jp/w/images/9/91/Z1KaiChibi.png "Z1 Kai") - **[KMS Z1 Kai](https://azurlane.koumakan.jp/Z1#retrofit)** **(T0 if running full Z-series setup)**
+* Skill:
+  * Grant +40% FP/Evasion to all KMS DD.
+  * Every 20s, 80% chance to launch a barrage while gaining +50% CritDmg and reducing the damage taken from planes by the vanguard by -30% for 10s.
+     * The 30 SHOTS deal 36 bdmg with 120/90/60 modifiers, and can pierce through 1 target.
+
+* Desc: 
+>Still the lynchpin of the Z-Klasse Trio and still a somewhat regular DD in function, her Kai managed to up the ante on both her support power and her damage output.  
+Providing her with a solid and reliable timed barrage, a strong Crit Damage buff (that goes perfectly well with Bismarck's Crit Chance buff) and a nice anti-air vanguard defence for those lategame Plane Hells the KMS is woefully unprepared for, Z1 improved as a standalone unit and become even more essential to The Zees.
+ 
 ### Tier 1.5:
 ---
 ![DD](https://azurlane.koumakan.jp/w/images/3/37/MauryChibi.png "USS Maury") - **[USS Maury](https://azurlane.koumakan.jp/Maury)**
@@ -340,16 +350,9 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
   * When planes are shot down within the AA circle, +25% own AA and Firepower for 8s.
 
 - Desc:
->New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly great at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down. Solid even when planes aren't around, better when there are.
+>New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly great at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down.  
+Solid even when planes aren't around, better when there are.
 
-
-![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - **[KMS Z1](https://azurlane.koumakan.jp/Z1)** **(T0 if running full Z-series setup)**
-* Skill:
-  * +40% FP and Eva to all KMS DD.
-
-* Desc: 
->Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
- 
  
 ### Pro Team Players:
 ---
@@ -527,6 +530,17 @@ That said, you will need to deploy a few carriers to get the full experience and
 * Desc: Amazing how some spit and polish can enhance decimetres thick armour, isn't it?
 >Rivaled by very few in the field of damage reduction buffs, Sheffield's defensive skill can greatly extend the survivability of almost any given vanguard, especially DD ones (provided she's placed in the middle and her HP has been raised above those she is meant to protect); and she'll do it while still being capable of packing a serious, if swingy, punch.
 
+![CL](https://azurlane.koumakan.jp/w/images/d/d6/LeipzigKaiChibi.png "Leipzig Kai") - **[KMS Leipzig Kai](https://azurlane.koumakan.jp/Leipzig#retrofit)**
+* Skill: 
+  * Grant 10% FP/Torpedo/Reload to all CL/CA in the fleet. (It stacks with Command skills, too.)
+  * Grant +3 Speed to all units in the vanguard and reduce the ramming damage they sustain by -25%; once per battle and when below 30% HP, become Intangible (100% EvaRate) for 5s and gain +15% Damage for the rest of the battle.
+
+* Desc: Not Fishy at all!
+> More of the same good, old, flexible cruiser buffing action - but on a much more capable platform.  
+Ziggy's Kai gave her the statline she needed to compete favourably with the other big-name CL supporters, even if the second skill is kinda lacklustre. Her torps in particular have shot up a fair few notches, going from an afterthought to her main source of damage, while also making adequate gains in staying power.  
+Nice.  
+
+
  
 ### Tier 1.5:
 ---
@@ -642,13 +656,6 @@ While she isn't a bad unit on her own by any stretch, her competitors are more p
 * Desc: 
 >Yuubari, ever the tinkerer, has an impressive array of tools at her disposal - shame she's an indecisive bastard and has to roll a die to decide which to crack out.
 Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outcomes are desirable (namely the two heals, one intentionally meant to be bad and one that is bad merely because Yuubari has barely more HP than the average DD without their Evasion), but the complete inability to control the results makes her a tough sell for anyone but the most compulsive gamblers - or the most squeamish about oil costs (8 Oil at MLB).
-
-![CL](https://azurlane.koumakan.jp/w/images/1/11/LeipzigChibi.png "Leipzig") - **[KMS Leipzig](https://azurlane.koumakan.jp/Leipzig)**
-* Skill: 
-  * 10% FP/Eva/Reload to all CL/CA in the fleet.
-
-* Desc: 
->Leipzig is a solid buff-provider, but is put down by her own somewhat lacking stats. Best used in an all-KMS lineup for maximum impact, as well as Torp-CA fronts, but she has a place in any frontline.
 
 ![CL](https://azurlane.koumakan.jp/w/images/4/4c/Emile_BertinChibi.png "Emile Bertin") - **[FFNF Emile Bertin](https://azurlane.koumakan.jp/Emile_Bertin)**
 * Skill: 
