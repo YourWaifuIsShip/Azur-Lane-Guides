@@ -740,6 +740,20 @@ While her HP is rather lacklustre, it's an easily solved issue and dead enemies 
 
 * Desc: 
 >The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
+
+![CA](https://azurlane.koumakan.jp/w/images/0/02/IbukiChibi.png "Ibui") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)** **(TO vs Sirens/Bosses)**
+* Skill:
+  * Gain +40% Torpedo CritRate and +65% Torpedo CritDmg.
+  * Upon launching torpedoes, 30% chance to launch a special torpedo barrage.
+  * +15% damage vs Sirens.
+  * Has TWO preloaded torpedo spreads.
+
+- Desc: What do you mean "she's not a DD"?
+> Someone at the design bureau must've missed a memo when they designed Ibuki.  
+Sporting an IJN DD's skillset and an IJN CA's statline, by all rights she should be a failure on both accounts - but against all odds, she ends up taking both's best attributes and only few of the flaws.  
+Her IJN DD side shines through her double preloaded torpedo spreads, the ludicrous 185% Torpedo Efficiency and entirely Torpedo-focused skills (including, if Fated, a neat +Eva buff on torpedo launch); her IJN CA side comes to the fore during the lulls inbetween torpedo strikes, as she falls back on her remarkable Torp-CA gunnery and sturdy frame to keep up the offensive.  
+That said, however, she's much more of a DD than a CA - to perform at her best she needs Oxygen Torpedoes, which limit her survivability (in comparison to other CAs at least, she's still considerably tougher than most IJN DDs), as well as suitable targets, which restricts her use cases to Sirens and bosses or alternatively particularly menacing mobs.
+Still, as long as you employ her for the surgical strikes she's made for, she has little to no rivals in her field.
  
  ### Tier 1:
 ---
@@ -752,19 +766,6 @@ While her HP is rather lacklustre, it's an easily solved issue and dead enemies 
 >What was said about Wichita applies to Chicago as well. Slightly frailer than she is and more selfish, she will nonetheless punch hard and harder than anyone else when she does proc, which she often will - a proc on the first salvo lasts throughout the second, and the second salvo may still proc if the first one didn't.  
 As a result, her double damage uptime is considerably higher than the 30% may lead you to believe. Bring out the big guns.
 
-![CA](https://azurlane.koumakan.jp/w/images/0/02/IbukiChibi.png "Ibui") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)**
-* Skill:
-  * Gain +40% Torpedo CritRate and +65% Torpedo CritDmg (permanent).
-  * Upon launching torpedoes, 30% chance to launch a special torpedo barrage.
-  * +15% damage vs Sirens.
-  * Has TWO preloaded torpedo spreads.
-
-- Desc: What do you mean "she's not a DD"?
-> Someone at the design bureau must've missed a memo when they designed Ibuki.  
-Sporting an IJN DD's skillset and an IJN CA's statline, her entire being is at odds with her purpose as a dedicated torpedo delivery system. While she starts with TWO preloaded torp spreads and her said spreads can be exceedinhgly powerful, her torpedo stat is low and bolstering is hard, as she lacks access to the Sendai-class' buffs and OxyTorp auxiliaries come at the expense of survivability; at the same time, while her guns pack a respectable punch for a Torp-CA, they are completely neglected by her skillset and tend to fulfil the same purpose a DD's guns would (give her something to do while reloading).  
-As a result, Ibuki's performance more closely resembles that of a high-end DD than a CA's - rush in, unload torps, sit down and wait to be useful again as torps reload - despite (mostly) enjoying the benefits of her CA statline.
-
- 
 ### Tier 1.5:
 ---
 
