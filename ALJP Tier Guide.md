@@ -1549,6 +1549,7 @@ Her Kai skill, just like her gunfire skill, is best regarded as a bit of free ad
 
 - Desc: "Putting the 'fleet' in 'fleet carrier'".
 > One of the hardiest and most well-rounded carriers in the game, Yorktown can cover any role admirably well, courtesy of her balanced plane loadout, her frontline buff, her self-heal and her personal SBD squadron, ready to bust the heads of whoever thought she was easy pickings.
+Do NOT think she can solo backline past W6, though. Carriers aren't made for that and she's no exception.
 
 ![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0 w/ Zuikaku)**
 * Skill: 
