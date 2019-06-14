@@ -18,7 +18,7 @@ Good reading, and godspeed cap'n!
 - Ships unable to fulfil the above criterion (eg. carriers as a whole, Vestal) are rated according to their ability to act as a SUPPORT unit; buffs/debuffs/aa/heals garner higher ranks than sheer damage output, especially during boss fights. See assorted notes for reasoning.
 - Ships are compared to others in their OWN CLASS for tiering purposes; if two ships are have comparable stats and purpose, the least expensive one will be ranked higher.
 - Ships in a tier are listed alphabetically and in order of nationality (USS -> HMS -> IJN -> KMS).
-- All units are assumed to be MAXED (ie. lv110, BiS gear, SL10 across the board).
+- All units are assumed to be MAXED (ie. lv120, BiS gear, SL10 across the board).
 - Auto or Manual performance is not taken into consideration, unless it is specifically relevant to the unit.
 - The Retrofit Priority List orderings are decided on the basis of how effective is the retrofitted unit, not how much does it need the retrofit; in other words, the better (more powerful/more useful) the retrofit, the higher it is.
   
@@ -766,6 +766,14 @@ Still, as long as you employ her for the surgical strikes she's made for, she ha
 >What was said about Wichita applies to Chicago as well. Slightly frailer than she is and more selfish, she will nonetheless punch hard and harder than anyone else when she does proc, which she often will - a proc on the first salvo lasts throughout the second, and the second salvo may still proc if the first one didn't.  
 As a result, her double damage uptime is considerably higher than the 30% may lead you to believe. Bring out the big guns.
 
+![CA](https://azurlane.koumakan.jp/w/images/5/58/HoustonChibi.png "USS Houston") - **[USS Houston](https://azurlane.koumakan.jp/Houston)**
+* Skill: 
+  * 20% chance upon Main Gun fire to gain +100% Eva for 15s.
+
+- Desc: "Problem? What problem?"
+>While an Evasion-focused CA sounds ludicrous, and it is under most circumstances, Houston actually makes it work given enough Evasion-boosting auxiliaries: CAs live and die by their Evasion (or lack thereof), so stacking it actually lets her survive under heavy fire for much longer than you'd expect.  
+What issues she does have are fairly minor: she needs to proc to get tough, obviously, but her uptime is high and she has two chances to proc per firing cycle; and her damage output isn't as high as it could be, since her only skill is that Evasion buff, but it's still higher than most non-CA (and many Torp-CA) frontliners manage.
+
 ### Tier 1.5:
 ---
 
@@ -777,14 +785,6 @@ As a result, her double damage uptime is considerably higher than the 30% may le
 * Desc: 
 >Leader of the New Orleans class, she emphasises their strengths and shares their reinforced armour plating.  
 Solid and dependable, if unremarkable. No reason not to take her if you're going to field them at all, but Minneapolis has better things to do than hang out with her sisters.
-
-![CA](https://azurlane.koumakan.jp/w/images/5/58/HoustonChibi.png "USS Houston") - **[USS Houston](https://azurlane.koumakan.jp/Houston)**
-* Skill: 
-  * 20% chance upon Main Gun fire to gain +100% Eva for 15s.
-
-- Desc: "Problem? What problem?"
->While an Evasion-focused CA sounds ludicrous, and it is under most circumstances, Houston actually makes it work given enough Evasion-boosting auxiliaries: CAs live and die by their Evasion (or lack thereof), so stacking it actually lets her survive under heavy fire for much longer than you'd expect.  
-What issues she does have are fairly minor: she needs to proc to get tough, obviously, but her uptime is high and she has two chances to proc per firing cycle; and her damage output isn't as high as it could be, since her only skill is that Evasion buff, but it's still higher than most non-CA (and many Torp-CA) frontliners manage.
 
 ![CA](https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png "USS Indianapolis") - **[USS Indianapolis](https://azurlane.koumakan.jp/Indianapolis)**
 * Skill: 
