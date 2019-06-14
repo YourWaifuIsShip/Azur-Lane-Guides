@@ -511,6 +511,8 @@ Still, there's very few finer, more reliable frontline tanks than she - and that
 
 * Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
 
+
+
 ![CL](https://azurlane.koumakan.jp/w/images/c/cf/SiriusChibi.png "Sirius") - **[HMS Sirius](https://azurlane.koumakan.jp/Sirius)** **(T0 w/ carriers)**
 * Skill:
   * Grant +10% Aviation and +10% HitRate vs DD/CL/CA to CV/Ls in the fleet; also, gain +7% Firepower/Torpedo/Reload for every CV/L in the fleet.
@@ -529,6 +531,15 @@ That said, you will need to deploy a few carriers to get the full experience and
 
 * Desc: Amazing how some spit and polish can enhance decimetres thick armour, isn't it?
 >Rivaled by very few in the field of damage reduction buffs, Sheffield's defensive skill can greatly extend the survivability of almost any given vanguard, especially DD ones (provided she's placed in the middle and her HP has been raised above those she is meant to protect); and she'll do it while still being capable of packing a serious, if swingy, punch.
+
+![CL](https://azurlane.koumakan.jp/w/images/9/9a/SwiftsureChibi.png "Swiftsure") - **[HMS Swiftsure](https://azurlane.koumakan.jp/Swiftsure)**
+* Skill:
+  * Upon firing AA guns, 30% chance to grant +30% AA to the entire vanguard for 10s; also, for every 5 planes shot down inside the AA circle, gain up to 10 stacks of +1% Firepower and -1% Damage taken by planes by the backline.
+  * Gain +30% CritRate and +10% Accuracy vs DD/CL; also, enemies hit by her Main Gun fire have a 10% chance to have their EvaRate by 10% for 6s.
+
+* Desc:
+> A jack-of-all-tradeish unit whose skillset betrays her obvious Plane Hell oriented design, but who still packs a significant enough punch and remarkably useful enough support to put up a good showing for herself even outside the boundaries of W12 and W13.  
+Your big guns in particular will thank her for her support.
 
 ![CL](https://azurlane.koumakan.jp/w/images/d/d6/LeipzigKaiChibi.png "Leipzig Kai") - **[KMS Leipzig Kai](https://azurlane.koumakan.jp/Leipzig#retrofit)**
 * Skill: 
@@ -570,26 +581,23 @@ All in all, strong and dependable, just like her.
 >Ever wanted to use Hammann but didn't want to deal with her terrible stats and weaponry? Well, now you can.  
 All the utility of her skills with the sturdiness and DPS of the Cleveland-class. Neat.
  
-![CL](https://azurlane.koumakan.jp/w/images/7/71/AchillesKaiChibi.png "Achilles Kai") ![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "Ajax Kai") - **[HMS Achilles Kai](https://azurlane.koumakan.jp/Achilles#retrofit)** **[HMS Ajax Kai](https://azurlane.koumakan.jp/ajax#retrofit)**
-* Skill: 
-  * 60% chance every 20s, +40% own Firepower for 10s.
-  * Increases damage dealt to CAs by 25%
-
-*  Desc: 
->Ajax and Achilles go all in on the offensive, sporting a stellar FP/Torp stat bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff.  
-Powerful for their class and rather inexpensive, but beware the severely subpar HP.
-
-
-![CL](https://azurlane.koumakan.jp/w/images/8/84/BelfastChibi.png "Belfast") - **[HMS Belfast](https://azurlane.koumakan.jp/Belfast)** **(T1 w/ Seattle Gun)**
+![CL](https://azurlane.koumakan.jp/w/images/8/84/BelfastChibi.png "Belfast") - **[HMS Belfast](https://azurlane.koumakan.jp/Belfast)**
 * Skill: 
   * Increase HE damage by 25% and chance to Ignite by 3%.
   * 10s after battle starts and on a 20% chance every 20s aftewards, create a special smokescreen (+35% Evasion Rate and-35% damage from planes while inside) that lasts 10s.
 
-* Desc: Hot maid, in more ways than one.
->Dealing more damage than usual with HE guns and packing better torps than every other HMS cruiser, she tends to have a decent answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate, lower defence compared to the 'regular' screen and planes not attacking you.  
+* Desc: Hot honeytrap maid.
+>Dealing more damage than usual with HE guns and packing better torps than every other HMS cruiser, she tends to have a decent answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate plus lower defence compared to the 'regular' screen and planes not attacking you.  
 That said, the recent introduction of a CL HE gun that deigns itself to fire *straight* singlehandedly makes her considerably more combat-effective, if still lacking in support power.  
 Her place is mostly PvP, as there are many other CL who will do what she does - be it DPS or tanking - better for less.
 
+![CL](https://azurlane.koumakan.jp/w/images/b/bb/NewcastleKaiChibi.png "Newcastle Kai") - **[HMS Newcastle Kai](https://azurlane.koumakan.jp/Newcastle#retrofit)** **(T1 in Plane Hells)**
+* Skill: 
+  * Upon firing AA guns, 25% chance to gain +40% AA and lose -20% FP for 3s.
+  * Every 20s, 25% chance to grant +25% Reload to the entire fleet for 8s.
+  * Grant +15% FP to the entire vanguard.
+
+* Desc: The advent of Plane Hells earned this previously inferior version of Leander a spot on the Tier Guide, as she patches the glaring AA-shaped hole in the HMS vanguard lineup. Her skillset isn't particularly remarkable and focusing on gunnery as a Torp-CL is somewhat questionable, but she does the job legitimately well - especially with planes to shoot at.
 
 ![CL](https://azurlane.koumakan.jp/w/images/7/7a/AbukumaKaiChibi.png "Abukuma Kai") - **[IJN Abukuma Kai](https://azurlane.koumakan.jp/Abukuma)**
 * Skill: 
@@ -629,6 +637,15 @@ She'll only buff herself, but a +40% FP never really goes amiss.
 >More Firepower and better Efficiency than what Denver gets and doesn't need to worry about planes mugging her precious FP, but at the cost of a much flimsier hull.  
 A solid pick regardless, especially if you expect aircraft.
 
+![CL](https://azurlane.koumakan.jp/w/images/7/71/AchillesKaiChibi.png "Achilles Kai") ![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "Ajax Kai") - **[HMS Achilles Kai](https://azurlane.koumakan.jp/Achilles#retrofit)** **[HMS Ajax Kai](https://azurlane.koumakan.jp/ajax#retrofit)**
+* Skill: 
+  * 60% chance every 20s, +40% own Firepower for 10s.
+  * Increases damage dealt to CAs by 25%
+
+*  Desc: 
+>Ajax and Achilles go all in on the offensive, sporting a stellar FP stat and solid torpedoes bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff.  
+While powerful for their class, they are also dangerously frail and lacking in support capabilities.
+
 ![CL](https://azurlane.koumakan.jp/w/images/4/44/AuroraChibi.png "Aurora") - **[HMS Aurora](https://azurlane.koumakan.jp/Aurora)**
 * Skill: 
   * +20% own Damage vs cargo ships, torpedo boats, suicide boats and DDs. 
@@ -637,6 +654,16 @@ A solid pick regardless, especially if you expect aircraft.
 *  Desc: 
 >Excellent but niche DD/CL-busting skills paired with average CL stats, with the glaring exception of her sub-par HP.  
 More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
+
+![CL](https://azurlane.koumakan.jp/w/images/2/29/CurlewKaiChibi.png "Curlew Kai") - **[HMS Curlew Kai](https://azurlane.koumakan.jp/Curlew#retrofit)**
+* Skill: 
+  * When planes are shot down within the AA circle, gain +25% FP/AA for 8s. 
+  * Grant +15% damage to CV/L.
+  * Can use DD guns, and should; has MGM+1; the torpedo slot is replaced by a second AA gun.
+
+*  Desc: 
+>Rescued from the brink of ignonimity by a timely Kai, Curlew got the injection of stats and efficienicies she desperately needed to be even a little relevant - as well as a useful little carrier buff.  
+Nevertheless, she and her less fortunate sisters have always been the HMS answer to Isuzu and by and large, they still are - her DPS stays low and isn't helped much by the lack of torpedoes, but the amount of AA she packs is spectacular and further enhanced by her skill.
 
 ![CL](https://azurlane.koumakan.jp/w/images/3/33/AganoChibi.png "Agano") - **[IJN Agano](https://azurlane.koumakan.jp/Agano)**
 * Skill: 
@@ -709,15 +736,16 @@ Lots of investment needed and Yat Sen MUST be protected at all costs (hint, plac
 - Desc: "SHE DIES FOR YOUR SINS"
 >Cursed to die over and over again in PvP due to her ludicrously powerful healing skill, which can on its own change the course of a fight, this poor girl has little to no place in PvE as you do NOT want your units to die there in the first place and her offensive power is lacklustre at best.  
 Her one job is being immensely irritating/powerful in the arena, and dying for you. You monster.
- 
-![CL](https://azurlane.koumakan.jp/w/images/9/9f/San_DiegoChibi.png "USS San Diego") - **[USS San Diego](https://azurlane.koumakan.jp/San_Diego)**
-* Skill: 
-  * 15% chance upon firing AA guns, +50% AA to the entire fleet.
 
-- Desc: "The undisputed, unwanted AA queen".
->San Diego has had, for the longest time, a terrible reputation - hailed as the prime example of rarity not being an indication of quality, her reputation is somewhat deserved, considering her main claim to glory is tons of AA (to the detriment of the rest of her offensive stats) when AA is only really needed in W12, a steep Oil price tag and a tendency to appear in crafting whenever you don't want her to... but that's not all there is to it.  
-The usual claim is that San Diego can't do anything to surface enemies; if you were to use her as a normal CL this would be correct, as her FP is low and her Gun Efficiency is worse. However, her barrage can dish out surprising amounts of damage and she can mount DD guns, which means she can spam said powerful barrage; moreover, while her Torpedo stat is abysmal, her Torpedo Efficiency is good enough, meaning she can benefit a lot from auxiliary torpedoes.  
-Does all this redeem her, then? Not really, even in this fashion, you'd need to manually control her and you'd need lots of high-end gear to get her to perform properly. If you're not expecting planes and you don't care about her, feel free to scrap her as you always did; if you do, then Sandy might just be what you need.
+![CL](https://azurlane.koumakan.jp/w/images/e/e5/CuracoaKaiChibi.png "Curacoa Kai") - **[HMS Curacoa Kai](https://azurlane.koumakan.jp/Curacoa#retrofit)**
+* Skill: 
+  * When planes are shot down within the AA circle, gain +25% FP/AA for 8s. 
+  * Grant +15% AA to the vanguard.
+  * Can use DD guns, and should; has MGM+1; the torpedo slot is replaced by a second AA gun.
+
+*  Desc: 
+>Somewhat less rescued from ignonimity by a timely Kai, Curacoa may be a little more powerful than Curlew in terms of gunnery and AA - but she does forfeit the quite significant carrier buff her sister comes packed with, very much welcome in the Plane Hells they're designed to tackle.  
+Still, she's alright and what goes for Curlew, goes for her.
 
 ![CL](https://azurlane.koumakan.jp/w/images/5/55/IsuzuChibi.png "Isuzu") - **[IJN Isuzu](https://azurlane.koumakan.jp/Isuzu)**
 * Skill: 
