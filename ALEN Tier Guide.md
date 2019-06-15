@@ -956,7 +956,7 @@ However, all this becomes quickly irrelevant as soon as she loses her +30% damag
 ### Tier 0.5:
 ---
 
-![BC](https://azurlane.koumakan.jp/w/images/5/5f/HoodChibi.png "HMS Hood") - **[HMS Hood](https://azurlane.koumakan.jp/Hood)**
+![BC](https://azurlane.koumakan.jp/w/images/5/5f/HoodChibi.png "HMS Hood") - **[HMS Hood](https://azurlane.koumakan.jp/Hood)** **(T0 in Plane Hells)**
 * Skill: 
   * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p8.qhimg.com/t01c83095ed25b82e28.gif) and grant +40% Reload to the entire backline.
     * The 13 SHELLS deal 174 bdmg with 70/100/90 mods. Their damage is modified by 100% of the unit's FP.
