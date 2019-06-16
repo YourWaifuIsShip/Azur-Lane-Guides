@@ -454,7 +454,7 @@ With no real weakness to speak of, her one significant flaw is not being able to
 
 ![CL](https://azurlane.koumakan.jp/w/images/1/18/MontpelierChibi.png "Montpelier") - **[USS Montpelier](https://azurlane.koumakan.jp/Montpelier)**
 * Skill: 
-  * 60% chance every 20s, +25% Firepower and Accuracy to all CL/CA/CB in the fleet.
+  * 60% chance every 20s, +25% Firepower and Accuracy to all CL/CA/CB in the fleet and decrease the damage they take by -25% for 8s.
   * 25% chance upon firing AA guns, -20% own FP and +40% own AA for 3s.
   
 - Desc:
