@@ -662,7 +662,7 @@ More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
   * Can use DD guns, and should; has MGM+1; the torpedo slot is replaced by a second AA gun.
 
 *  Desc: 
->Rescued from the brink of ignonimity by a timely Kai, Curlew got the injection of stats and efficienicies she desperately needed to be even a little relevant - as well as a useful little carrier buff.  
+>Rescued from the brink of ignonimy by a timely Kai, Curlew got the injection of stats and efficienicies she desperately needed to be even a little relevant - as well as a useful little carrier buff.  
 Nevertheless, she and her less fortunate sisters have always been the HMS answer to Isuzu and by and large, they still are - her DPS stays low and isn't helped much by the lack of torpedoes, but the amount of AA she packs is spectacular and further enhanced by her skill.
 
 ![CL](https://azurlane.koumakan.jp/w/images/3/33/AganoChibi.png "Agano") - **[IJN Agano](https://azurlane.koumakan.jp/Agano)**
@@ -744,7 +744,7 @@ Her one job is being immensely irritating/powerful in the arena, and dying for y
   * Can use DD guns, and should; has MGM+1; the torpedo slot is replaced by a second AA gun.
 
 *  Desc: 
->Somewhat less rescued from ignonimity by a timely Kai, Curacoa may be a little more powerful than Curlew in terms of gunnery and AA - but she does forfeit the quite significant carrier buff her sister comes packed with, very much welcome in the Plane Hells they're designed to tackle.  
+>Somewhat less rescued from ignonimy by a timely Kai, Curacoa may be a little more powerful than Curlew in terms of gunnery and AA - but she does forfeit the quite significant carrier buff her sister comes packed with, very much welcome in the Plane Hells they're designed to tackle.  
 Still, she's alright and what goes for Curlew, goes for her.
 
 ![CL](https://azurlane.koumakan.jp/w/images/5/55/IsuzuChibi.png "Isuzu") - **[IJN Isuzu](https://azurlane.koumakan.jp/Isuzu)**
