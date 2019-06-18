@@ -278,6 +278,16 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
 Good gunnery with a skill that supports it, good Evasion with a proc-on-fire skill for maximum uptime, comparatively high HP, okay torps, okay AA; solid all around, but easily outshone in any of these areas by more dedicated units.  
 Make sure to bring a Fletcher along to capitalise on her strenghts.
 
+ ![DD](https://azurlane.koumakan.jp/w/images/5/5a/ArdentKaiChibi.png "HMS Ardent Kai")- **[HMS Ardent Kai](https://azurlane.koumakan.jp/Ardent#Retrofit)**
+* Skill: 
+  * When alive in fleet, allied CV/L take -15% damage.
+  * Every 20s, 25% chance to lower an enemy's Reload and Damage for 10s (targets humanoid ships first; debuff strength unknown).
+  * When alive in fleet, allied CV/L deal +15% damage.
+
+* Desc: 
+>Carrier mascotte adequate. While the buffs she provides are undeniably good, they also come packaged with a typically HMS DD statline (ie. poor HP, middling gunnery and torpedoes, high Evasion) that makes her almost worthless in an actual fight.  
+A hard sell, but perhaps your carriers may appreciate the buffs while someone picks up the slack?
+
 ![DD](https://azurlane.koumakan.jp/w/images/a/a2/MakinamiChibi.png "IJN Makinami") - **[IJN Makinami](https://azurlane.koumakan.jp/Makinami)**
 * Skill: 
   * 30% chance to launch a second salvo on Torpedo launch
