@@ -1679,6 +1679,17 @@ I-58 currently is the best one of the bunch, as she gets a special barrage to go
 >An attack sub through and through, armed with a rather powerful penetrating barrage and stronger torpedoes stock.  
 Them being slower isn't as much of a hindrance as it sounds at first - given the long distances from which subs launch, a slow torpedo has a greater chance to catch the original target on its way back.
 
+#### ![SS](https://azurlane.koumakan.jp/w/images/e/e8/SurcoufChibi.png "Surcouf") - [FFNF Surcouf](https://azurlane.koumakan.jp/Surcouf)
+* Skill: 
+  * Upon joining the battle, grant +20% Accuracy to the vanguard.
+  * Upon surfacing, fire her barrage and stay on the field for 12s longer.
+  * Mounts a unique CA gun instead of the regular DD guns. It's good.
+
+* Desc: On v ya!
+>Surcouf is unique among subs for several reasons, not least of which her ability to stand her ground while surfaced.
+Firstly, her guns are not only actually useful but also threatening; secondly, she bolsters the vanguard's fighting prowess with a hefty Accuracy buff; thirdly, she stays on the field for longer than anyone else while making full use of her entire armament throughout it all.
+Her one downside is a subpar hunting range, but she's not meant to stay front and centre anyway.
+
 
 
 <br/><br/>
