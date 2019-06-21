@@ -240,7 +240,13 @@ Very similar in behaviour to her USS counterpart, but whereas she can run a one-
 >Through the sheer power of chuunibyou, Z36 gets to carry extra ordnance and lob it at her enemies every 20s while buffing herself in the process.
 The tempo she forces upon you is fairly demanding, as the average DD torpedo set reloads in 21-22s and that leaves you precious little time to position yourself for an attack run at full power, but if you can keep up the DPS is fairly remarkable; if you can't, however, you'll be stuck with middling efficiencies and no buff to rescue them.
 
-
+![DD](https://azurlane.koumakan.jp/w/images/5/53/Le_TriomphantChibi.png "Le Triomphant") - **[FFNF Le Triomphant](https://azurlane.koumakan.jp/Le_Triomphant)**
+* Skill:
+  * Each time the Main Gun damages an enemy, gain a +40% Reload stack up to a maximum of 4 stacks (can only gain one per second, stacks lost upon damaging a different target).
+  * When sortied as the Lead Ship, +20% Main Gun Efficiency and -30% AA Gun Efficiency.
+- Desc:
+>A gun-focused DD blessed with a great statline where it counts the most and a remarkable Efficiency to go along with it, Letri is rather unwieldy but pretty powerful, if allowed to stack up and lead the charge. Handle with care, and the guns of the revolution will never fall silent.  
+Similarly to Laffey, her torps are awful but come out quick; consider patching up this weakness with an Oxygen Torpedo.
 
 ### Tier 2:
 ---
@@ -326,7 +332,6 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
 
 * Desc: 
 >Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
-
  
 ### Pro Team Players:
 ---
@@ -337,7 +342,6 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
 * Skill (Taiyuan): While in combat with 6 ships in the fleet, increase own Firepower and Reload by 25%, and evasion by 10%.
 
 - Description:
->This pack of cleverly disguised Gunboat CL possesses a staggering amount of Firepower and Reload for its class as well as somewhat higher HP, but it does so at the expense of their now almost worthless torpedoes.
 Use Fushun if you don't want to pony up for a full fleet: her DPS won't be as stable as Taiyuan's, but she won't be far off and you'll be burning a lot less Oil.
 
 #### ![DD](https://azurlane.koumakan.jp/w/images/6/61/CrescentKaiChibi.png "Crescent Kai") ![DD](https://azurlane.koumakan.jp/w/images/6/6e/CometKaiChibi.png "Comet Kai") ![DD](https://azurlane.koumakan.jp/w/images/5/5f/CygnetKaiChibi.png "Cygnet Kai") [HMS Crescent Kai](https://azurlane.koumakan.jp/Crescent), [Comet Kai](https://azurlane.koumakan.jp/Comet), [Cygnet Kai](https://azurlane.koumakan.jp/Cygnet#) **(T2)**
@@ -351,6 +355,18 @@ Use Fushun if you don't want to pony up for a full fleet: her DPS won't be as st
 >This group of HMS DD is mostly remarkable for their low Oil cost, high Evasion, and being the cheapest delivery vehicle in the game for mass smokescreens.  
 Unusually for these sorts of teams, its members' statlines differ slightly: Crescent is shooty (high FP), Comet is torpy (high Torp), Cygnet is slippery (high Eva). Equip and wield them accordingly.
  
+#### ![DD](https://azurlane.koumakan.jp/w/images/3/3a/ForbinKaiChibi.png "Forbin Kai") ![DD](https://azurlane.koumakan.jp/w/images/6/69/Le_MarsKaiChibi.png "Crescent Kai")- **[FFNF Forbin Kai](https://azurlane.koumakan.jp/Forbin#retrofit)** **[MNF Le Mars Kai](https://azurlane.koumakan.jp/Le_Mars#retrofit)**
+* Skill (Forbin):
+  * If the vanguard only fields FFNF/MNF units and every 20s, 50% chance to grant the entire fleet -30% damage taken for 8s.
+  * Every 20s, 30% chance to avoid all incoming damage for 6s.
+
+* Skill (Le Mars):
+  * If the vanguard only fields FFNF/MNF units and every 20s, 50% chance to grant the entire fleet +25% Damage for 8s.
+  * Every 20s, 30% chance to avoid all incoming damage for 6s.
+
+* Desc: 
+>Vaguely reminiscent of HMS DDs in both defence, offence and skillset quality, Le Mars and Forbin are a cut slightly above them - but not quite enough to make them worth taking in their own right.  
+Still, if you're willing to field a full french vanguard (and you do have good options for that, namely Saint Louis and Emile Bertin), the buffs they provide are quite substantial. 
  
 ### Honourable Mentions:
 ---
@@ -556,6 +572,15 @@ Not too flashy, but sturdy enough and dependable.
 * Desc: 
 >A slightly weaker Jintsuu who stole a few notes from Aurora's book.   
 Her statline is still damn good, though, and their buffs can stack - as do the -EvaRate debuffs, if you REALLY want to stick it to those DD in PvP.
+
+![CL](https://azurlane.koumakan.jp/w/images/4/4c/Emile_BertinChibi.png "Emile Bertin") - **[FFNF Emile Bertin](https://azurlane.koumakan.jp/Emile_Bertin)**
+* Skill: 
+  * +15% FP/Eva/Acc to French (FFNF and MNF) DDs in the fleet.
+  * If the vanguard is composed of Emile Bertin and DDs, +4 Speed and +20% Damage vs DD/CL for herself.
+
+* Desc: 
+>An ideal escort for French DDs, and not entirely without merit when deployed with other nations' destroyers.   
+Her buffs are pretty decent, her barrage is good and her statline is alright, if somewhat low on the HP side; all in all, a solid entry in the CL roster.
 
 ### Tier 2:
 ---
@@ -962,6 +987,18 @@ As a result, it would be wise to pick your sovereign of choice with an eye to ba
 Unlike many of her other similarly ranked competitors, Tirpitz isn't flashy in the slightest - no 'real' barrages to speak of, no gamechanging synergies, no ability to take other BB/BC with her - but she doesn't need to be, when hitting hard as a truck with no conditions or strings attached is something none of her rivals can claim.  
 Tirpitz is, in a way, the "safe" choice - her abilities can't misfire, her HP+Armour make her tougher than anyone else, her damage buff extends to both her CL guns and torpedo spread, ensuring that even at 0 Ammo she will still be able to strike and defend herself at nigh-peak efficiency regardless.  
 However, all this becomes quickly irrelevant as soon as she loses her +30% damage buff as it the main reason behind her power; without it she has very little reason to be used and will be easily outshone by pretty much everyone.   
+
+ ![BB](https://azurlane.koumakan.jp/w/images/0/0f/Jean_BartChibi.png "Jean Bart") - **[MNF Jean Bart](https://azurlane.koumakan.jp/Jean_Bart)**
+* Skill: 
+  * All first Main Gun salvo deal +60% damage, and all manually aimed Main Gun salvo damage deal a further +60% damage.
+  * When equipped with the 380Mle quadruple BB gun, gain +30% CritChance and +50% CritDmg on her Main Gun.
+  * Starts the battle with a preloaded volley, but has MGM-1.
+  
+- Desc: The terror of the Seven Seas.
+>As befitting of a pirate queen, Jean Bart doesn't play by the rules: while lacking a third salvo would be a net loss on a dreadnought's effectiveness on the field, Jean makes up for it in spades by showing up to the fight with her horrifically overcharged guns already loaded, resulting in damage spikes that would make Ayanami blush.
+Volume of fire is ultimately maintained by her gun, firing a respectable 8 shots in total, and cooldowns aren't a concern either thanks to her higher-than-normal Reload; whatever she's facing, it's heading straight to Davy Jones' locker.
+Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow dreadnoughts. The Jolliest Roger of them all.
+
  
 ### Tier 0.5:
 ---
@@ -1210,6 +1247,16 @@ Bad not just by PR standards but as a whole, there is little to no reason to eve
 
 * Desc: 
 >An oversized monitor like Rodney or Nelson, but with an actually good barrage and better stats.
+
+![BC](https://azurlane.koumakan.jp/w/images/8/81/DunkerqueChibi.png "Dunkerque") - **[MNF Dunkerque](https://azurlane.koumakan.jp/Dunkerque)**
+* Skill: 
+  * Upon Main Gun fire, 50% chance to launch a [barrage](http://p0.qhimg.com/t01a7ded0224e734f00.gif).
+    * The 8 FIREBALLS deal 140 bdmg with 135/95/70; the 16 NEEDLES deal 30 bdmg with 100/80/70. Their damage is modified by 100% of the unit's FP.
+  * Starts the battle with a preloaded volley, but has MGM-1.
+
+* Desc: The predecessor to Jean Bart, and it does show.
+>Like Jean, she lacks her third salvo and can launch her bombardment immediately; unlike Jean, said bombardment operates just like any other and is considerably weaker as a result, while her barrage fires on a coin toss.  
+All that said, she'll always get to fire one more volley per round than 99% of the other dreadnoughts and her gun efficiency is very high.   Decent, all things considered.
 
 ### Honourable Mentions:
 ---
