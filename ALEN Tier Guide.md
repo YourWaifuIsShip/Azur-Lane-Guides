@@ -573,14 +573,16 @@ Not too flashy, but sturdy enough and dependable.
 >A slightly weaker Jintsuu who stole a few notes from Aurora's book.   
 Her statline is still damn good, though, and their buffs can stack - as do the -EvaRate debuffs, if you REALLY want to stick it to those DD in PvP.
 
-![CL](https://azurlane.koumakan.jp/w/images/4/4c/Emile_BertinChibi.png "Emile Bertin") - **[FFNF Emile Bertin](https://azurlane.koumakan.jp/Emile_Bertin)**
+![CL](https://azurlane.koumakan.jp/w/images/5/5e/Emile_BertinKaiChibi.png "Emile Bertin Kai") - **[FFNF Emile Bertin Kai](https://azurlane.koumakan.jp/Emile_Bertin#retrofit)** **(T1 w/ DDs, T0.5 w/ FFNF or MNF DDs)**
 * Skill: 
   * +15% FP/Eva/Acc to French (FFNF and MNF) DDs in the fleet.
   * If the vanguard is composed of Emile Bertin and DDs, +4 Speed and +20% Damage vs DD/CL for herself.
+  * If sortied with 1 or more DD, gain +15% FP/AA/Accuracy; once per battle, if a DD falls below 50% HP, launch a barrage.
+    * The 12 SHOTS deal 62 bdmg with 100/80/60 mods; the 12 TORPEDOES deal 72 bdmg with 80/100/130 mods. Their damage is modified by 100% of their relevant stat.
 
-* Desc: 
->An ideal escort for French DDs, and not entirely without merit when deployed with other nations' destroyers.   
-Her buffs are pretty decent, her barrage is good and her statline is alright, if somewhat low on the HP side; all in all, a solid entry in the CL roster.
+* Desc: La merveilleuse DDanseuse!
+>With the retrofit patching up her average statline and further bolstering it when she's doing her job (ie. escorting DDs), Emile Bertin proves herself as a strong DD flotilla leader and an invaluable asset for French DDs specifically.  
+Her retaliatory barrage is pretty strong, but you should try *not* to proc it; les torpeilleures can't patch themselves back up!
 
 ### Tier 2:
 ---
