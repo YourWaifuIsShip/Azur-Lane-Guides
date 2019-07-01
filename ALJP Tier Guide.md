@@ -200,6 +200,15 @@ With no real weakness on display, beyond simply not being quite as good as more 
 * Desc: 
 >Still the lynchpin of the Z-Klasse Trio and still a somewhat regular DD in function, her Kai managed to up the ante on both her support power and her damage output.  
 Providing her with a solid and reliable timed barrage, a strong Crit Damage buff (that goes perfectly well with Bismarck's Crit Chance buff) and a nice anti-air vanguard defence for those lategame Plane Hells the KMS is woefully unprepared for, Z1 improved as a standalone unit and become even more essential to The Zees.
+
+![DD](https://azurlane.koumakan.jp/w/images/5/57/Le_MalinChibi.png "Le Malin") - **[MNF Le Malin](https://azurlane.koumakan.jp/Le_Malin)**
+* Skill:
+  * If her Main Gun shots hit an enemy 10 times, that enemy takes +12% dmg from Le Malin; also, upon destroying an enemy, Le Malin gains a +2% FP stack, up to 10 stacks.
+  * Upon battle start, gain +20% Torp/Eva for 30s; over the next 20s, the buff potency lowers to 0%.
+
+- Desc:
+>Le Malin shares both Le Triomphant's statline and the "hit the same target" gimmick, but makes it a lot more lenient and considerably more effective besides.  
+Strong guns and barrage, okay AA and defences, weak torpedoes - all in all, a very solid gunnery DD.
  
 ### Tier 1.5:
 ---
@@ -617,6 +626,17 @@ Not too flashy, but sturdy enough and dependable.
 >A slightly weaker Jintsuu who stole a few notes from Aurora's book.   
 Her statline is still damn good, though, and their buffs can stack - as do the -EvaRate debuffs, if you REALLY want to stick it to those DD in PvP.
 
+![CL](https://azurlane.koumakan.jp/w/images/5/5e/Emile_BertinKaiChibi.png "Emile Bertin Kai") - **[FFNF Emile Bertin Kai](https://azurlane.koumakan.jp/Emile_Bertin#retrofit)** **(T1 w/ DDs, T0.5 w/ FFNF or MNF DDs)**
+* Skill: 
+  * +15% FP/Eva/Acc to French (FFNF and MNF) DDs in the fleet.
+  * If the vanguard is composed of Emile Bertin and DDs, +4 Speed and +20% Damage vs DD/CL for herself.
+  * If sortied with 1 or more DD, gain +15% FP/AA/Accuracy; once per battle, if a DD falls below 50% HP, launch a barrage.
+    * The 12 SHOTS deal 62 bdmg with 100/80/60 mods; the 12 TORPEDOES deal 72 bdmg with 80/100/130 mods. Their damage is modified by 100% of their relevant stat.
+
+* Desc: La merveilleuse DDanseuse!
+>With the retrofit patching up her average statline and further bolstering it when she's doing her job (ie. escorting DDs), Emile Bertin proves herself as a strong DD flotilla leader and an invaluable asset for French DDs specifically.  
+Her retaliatory barrage is pretty strong, but you should try *not* to proc it; les torpeilleures can't patch themselves back up!
+
 ### Tier 2:
 ---
 
@@ -683,15 +703,6 @@ While she isn't a bad unit on her own by any stretch, her competitors are more p
 * Desc: 
 >Yuubari, ever the tinkerer, has an impressive array of tools at her disposal - shame she's an indecisive bastard and has to roll a die to decide which to crack out.
 Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outcomes are desirable (namely the two heals, one intentionally meant to be bad and one that is bad merely because Yuubari has barely more HP than the average DD without their Evasion), but the complete inability to control the results makes her a tough sell for anyone but the most compulsive gamblers - or the most squeamish about oil costs (8 Oil at MLB).
-
-![CL](https://azurlane.koumakan.jp/w/images/4/4c/Emile_BertinChibi.png "Emile Bertin") - **[FFNF Emile Bertin](https://azurlane.koumakan.jp/Emile_Bertin)**
-* Skill: 
-  * +15% FP/Eva/Acc to French (FFNF and MNF) DDs in the fleet.
-  * If the vanguard is composed of Emile Bertin and DDs, +4 Speed and +20% Damage vs DD/CL for herself.
-
-* Desc: 
->An ideal escort for French DDs, and not entirely without merit when deployed with other nations' destroyers.   
-Her buffs are pretty decent, her barrage is good and her statline is alright, if somewhat low on the HP side; all in all, a solid entry in the CL roster.
 
 ![CL](https://azurlane.koumakan.jp/w/images/5/5c/AvroraChibi.png "Avrora") - **[SN Avrora](https://azurlane.koumakan.jp/Avrora)**
 * Skill: 
