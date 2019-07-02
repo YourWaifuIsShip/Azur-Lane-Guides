@@ -170,6 +170,17 @@ The general strat is to gear her with a super-fast DD gun to proc her skill+barr
 >Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous damage output of their IJN counterparts but they can and will outlast them many times over.  
 As it is for Phoenix, they are best used in mobbing fleets.
 
+![DD](https://azurlane.koumakan.jp/w/images/3/3c/NicholasKaiChibi.png "Nicholas Kai") - **[USS Nicholas Kai](https://azurlane.koumakan.jp/Nicholas#Retrofit)** **(T0.5 w/ Fletcher)**
+* Skill:
+  * 5% chance upon firing to +40% her own Evasion and -40% damage received from planes for 8s
+  * 60% e/ 20s to +40% her own Firepower for 8s
+  * 70% e/ 20s to +40% her own Firepower/Torpedo/Reload for 10s and, once per battle, if an escort ship's Health falls below 20%, decrease the damage it takes by 15%. If the ship is Helena, additionally heal 8% of Helena's max Health
+
+- Desc:
+>Nicholas is a rarity among destroyers, in that she boasts both enough Firepower to face off with the best in her class and very solid defensive capabilities; a true generalist, even more so than Laffey considering her actually good torpedoes.  
+With no real weakness on display, beyond simply not being quite as good as more specialised units, Nicholas is a worthy addition in pretty much any escort fleet - especially one with Helena or Fletcher.
+
+
 ![DD](https://azurlane.koumakan.jp/w/images/6/63/ShiranuiKaiChibi.png "Shiranui Kai") - **[IJN Shiranui Kai](https://azurlane.koumakan.jp/Shiranui#Retrofit)**
 * Skill:
   * 30% chance upon torpedo launch to launch a second spread
@@ -273,16 +284,6 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
 
 * Desc: 
 >Lynchpin of the Fletcher Trio, think of her as an USS Z1 with a greater focus on gunnery as opposed to torps, as befitting her nation's doctrine. Very solid and dependable, but obviously better with other Fletchers.
- 
-![DD](https://azurlane.koumakan.jp/w/images/6/64/NicholasChibi.png "USS Nicholas") - **[USS Nicholas](https://azurlane.koumakan.jp/Nicholas)** **(T1.5 w/ Fletcher)**
-* Skill:
-  * 5% chance on main gun fire for +40% Evasion and -40% plane damage to self for 8 seconds
-  * 60% chance every 20s for +40% Firepower to self.
-
-* Desc: 
->The Nick is a true generalist, competent in everything and excelling in nothing.  
-Good gunnery with a skill that supports it, good Evasion with a proc-on-fire skill for maximum uptime, comparatively high HP, okay torps, okay AA; solid all around, but easily outshone in any of these areas by more dedicated units.  
-Make sure to bring a Fletcher along to capitalise on her strenghts.
 
  ![DD](https://azurlane.koumakan.jp/w/images/5/5a/ArdentKaiChibi.png "HMS Ardent Kai")- **[HMS Ardent Kai](https://azurlane.koumakan.jp/Ardent#Retrofit)**
 * Skill: 
