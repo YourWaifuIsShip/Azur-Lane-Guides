@@ -172,7 +172,7 @@ The general strat is to gear her with a super-fast DD gun to proc her skill+barr
 As it is for Phoenix, they are best used in mobbing fleets.
 
 
-![DD](https://azurlane.koumakan.jp/w/images/3/3c/NicholasKaiChibi.png "Nicholas Kai") - **[USS Nicholas Kai](https://azurlane.koumakan.jp/Nicholas#Retrofit)**
+![DD](https://azurlane.koumakan.jp/w/images/3/3c/NicholasKaiChibi.png "Nicholas Kai") - **[USS Nicholas Kai](https://azurlane.koumakan.jp/Nicholas#Retrofit)** **(T0.5 w/ Fletcher)**
 * Skill:
   * 5% chance upon firing to +40% her own Evasion and -40% damage received from planes for 8s
   * 60% e/ 20s to +40% her own Firepower for 8s
