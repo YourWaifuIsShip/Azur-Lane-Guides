@@ -135,8 +135,8 @@ The DPH monster to LafKai's DPS.
 
 ![DD](https://azurlane.koumakan.jp/w/images/8/84/KagerouKaiChibi.png "Kagerou Kai") - **[IJN Kagerou Kai](https://azurlane.koumakan.jp/Kagerou#Retrofit)**
 * Skill:
-  * 15% boost of torpedo stat to the frontline
-  * 30% chance to launch a second salvo on torpedo launch
+  * Grant +15% Torpedo to the entire vanguard.
+  * Upon launching a torpedo spread, 30% chance to launch a second one.
   * Every 20s, 30% chance to lower an enemy's Reload by -30% and Damage by -15% for 10s (targets humanoid ships first).
 
 * Desc: 
