@@ -1632,10 +1632,11 @@ She *does* keep Tirpitz happy, though.
 "Submarines" are powerful but specialized tools that behave rather differently from your ordinary fleets.
 Here's a quick rundown of how they work.
 
-1. You cannot control them directly; each sub has her own hunting pattern and different priorities when it comes to movement, and the fleet will stay within the boundaries of its lead sub's hunting range.
-2. Submarine fleets move up to 2 squares per turn to automatically attack enemy nodes within range, shaving off up to 20% max HP (more with submarine-boosting meowfficers) off of ALL enemies in the node, and may also be summoned in battle if your regular fleets are fighting within hunting range. Map strike damage depends on the sub fleet's overall Power Rating, in-battle damage depends on the usual mechanics.
+1. You cannot control them directly; they will spawn in one of several fixed locations on every map and will stay there until you give them the command to relocate elsewhere (which costs a tiny amount of oil, roughly 1 + sub amount + tiles to move).
+2. Submarine fleets teleport to enemy units within their hunting range and shaveeoff up to 20% max HP (more with submarine-boosting meowfficers) off of ALL enemies in the node, and may also be summoned in battle if your regular fleets are fighting within said range. Map strike damage depends on the sub fleet's overall Power Rating, in-battle damage depends on the usual mechanics.
 3. Submarine fleets in battle act as a sort of tactical nuke button; when summoned they will join the fight in person and unleash inordinate amounts of torpedoes via barrages to brutalize everything unfortunate enough to be on screen at the time, then stay for roughly 20s (exact amount depends on their Oxygen stat, with 10 Oxy equaling 1s) firing their 'regular' torpedoes until they run out of O2 and have to surface.
-4. Submarine statlines are generally very similar to one another, barring a few exceptions; as it is with BBs and BCs, skills are the main discriminant here.
+4. Unless in possession of skills saying otherwise, every sub carries 2 Ammo with her; this ammo is expended for Map Strikes and Call-Ins, and unlike normal fleets, once they're out of ammo they're completely out of the fight.
+5. Submarine statlines are generally very similar to one another, barring a few exceptions; as it is with BBs and BCs, skills are the main discriminant here.
 
 Given these premises, it quickly becomes apparent that **submarine fleets are meant to be fielded as a trio**; whether it be mauling nodes on the map or providing heavy torpedo support, they only reach peak efficiency as a full fleet, and in the case of map strikes such efficiency comes at no oil cost whatsoever.
 As such, this section *does not contain tiers* but specific recommendations and groupings - let's get to them.
