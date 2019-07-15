@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (SOGGY BAGUETTES EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (SUB-LIMINAL MESSAGES EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -1641,7 +1641,7 @@ Here's a quick rundown of how they work.
 Given these premises, it quickly becomes apparent that **submarine fleets are meant to be fielded as a trio**; whether it be mauling nodes on the map or providing heavy torpedo support, they only reach peak efficiency as a full fleet, and in the case of map strikes such efficiency comes at no oil cost whatsoever.
 As such, this section *does not contain tiers* but specific recommendations and groupings - let's get to them.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/thumb/8/81/U-73Chibi.png/139px-U-73Chibi.png "U-73") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/5/5d/U-101Chibi.png "U-101") ![SS](https://azurlane.koumakan.jp/w/images/2/22/U-522Chibi.png "U-522") ![SS](https://azurlane.koumakan.jp/w/images/thumb/4/41/U-556Chibi.png/132px-U-556Chibi.png "U-556") - [KMS U-73](https://azurlane.koumakan.jp/U-73) [KMS U-81](https://azurlane.koumakan.jp/U-81) [KMS U-101](https://azurlane.koumakan.jp/U-101)  [KMS U-522](https://azurlane.koumakan.jp/U-522) [KMS U-556](https://azurlane.koumakan.jp/U-556)
+#### ![SS](https://azurlane.koumakan.jp/w/images/thumb/8/81/U-73Chibi.png/139px-U-73Chibi.png "U-73") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/5/5d/U-101Chibi.png "U-101") ![SS](https://azurlane.koumakan.jp/w/images/2/22/U-522Chibi.png "U-522") ![SS](https://azurlane.koumakan.jp/w/images/thumb/4/41/U-556Chibi.png/132px-U-556Chibi.png "U-556") - [KMS U-73](https://azurlane.koumakan.jp/U-73), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-101](https://azurlane.koumakan.jp/U-101), [KMS U-522](https://azurlane.koumakan.jp/U-522), [KMS U-556](https://azurlane.koumakan.jp/U-556)
 * Skill (U-73): 
   * Deal +15% Damage to CV/L.
   * Gain +6% Torp/Reload per KMS submarine in the fleet.
@@ -1668,10 +1668,10 @@ Highly synergistic, they all benefit from hanging out with each other but are fr
 About U-81... she torpedoes harder and gains more than the others from having fellow countrychildren around.  
 About U-101... being able to close the distance with the enemy drastically lowers the chance to physically miss the target, but it is also somewhat suicidal if she's not equipped with a Snorkel. What's that? Not in EN? How unfortunate.  
 About U-522... the call-in from across the map is a bit of a meme since you can move your fleet around anyway, but the extra O2 is just enough to let her skip Snorkels in favour of another Oxytorp.  
-About U-556... yes, having someone reach critical HP is a terrible condition, and now she's not the only option for a full KMS fleet anymore she's the worst sub in the game. Sorry.
-About all of them... their barrages are semi-homing, just like regular acoustic torps. Have fun.
+About U-556... yes, having someone reach critical HP is a terrible condition, and now she's not the only option for a full KMS fleet anymore she's the worst sub in the game. Sorry.  
+About all of them... their barrages are semi-homing, just like regular acoustic torps. Have fun.  
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/b/bd/I-19Chibi.png "I-19") ![SS](https://azurlane.koumakan.jp/w/images/5/58/I-56Chibi.png "I-56") ![SS](https://azurlane.koumakan.jp/w/images/6/67/I-168Chibi.png "I-168") - [IJN I-19](https://azurlane.koumakan.jp/I-19) [IJN I-56](https://azurlane.koumakan.jp/I-56) [IJN I-168](https://azurlane.koumakan.jp/I-168) 
+#### ![SS](https://azurlane.koumakan.jp/w/images/b/bd/I-19Chibi.png "I-19") ![SS](https://azurlane.koumakan.jp/w/images/5/58/I-56Chibi.png "I-56") ![SS](https://azurlane.koumakan.jp/w/images/6/67/I-168Chibi.png "I-168") - [IJN I-19](https://azurlane.koumakan.jp/I-19), [IJN I-56](https://azurlane.koumakan.jp/I-56), [IJN I-168](https://azurlane.koumakan.jp/I-168) 
 * Skill (I-19): 
   * 8s after joining the battle, launches a wave of penetrating torpedoes (up to 2 pierces, similarly to AP shells).
   * I-19's torpedoes lose 1 Speed and deal +12% Damage.
