@@ -1824,12 +1824,12 @@ As such, this section *does not contain tiers* but specific recommendations and 
 * Desc: Achtung - U-Boot!
 >Given real world Germany's history with submarines, it comes as no surprise that the Ironblood gets the apex specimens of their class.  
 Highly synergistic, they all benefit from hanging out with each other but are frail and somewhat lacking in support options otherwise - murdering stuff in call-ins is what they do best and that's all they do, but they better not take casualties.  
-About U-47... While you may be tempted to use her solo, don't. There's little to gain from it and much to lose.  
-About U-81... she torpedoes harder and gains more than the others from having fellow countrychildren around.  
-About U-101... being able to close the distance with the enemy drastically lowers the chance to physically miss the target, but it is also somewhat suicidal if she's not equipped with a Snorkel. What's that? Not in EN? How unfortunate.  
-About U-522... the call-in from across the map is a bit of a meme since you can move your fleet around anyway, but the extra O2 is just enough to let her skip Snorkels in favour of another Oxytorp.  
-About U-556... yes, having someone reach critical HP is a terrible condition, and now she's not the only option for a full KMS fleet anymore she's the worst sub in the game. Sorry.  
-About all of them... their barrages are semi-homing, just like regular acoustic torps. Have fun.  
+*About U-47...* while you may be tempted to use her solo, don't. There's little to gain from it and much to lose.  
+*About U-81...* she torpedoes harder and gains more than the others from having fellow countrychildren around.  
+*About U-101...* being able to close the distance with the enemy drastically lowers the chance to physically miss the target, but it is also somewhat suicidal if she's not equipped with a Snorkel. What's that? Not in EN? How unfortunate.  
+*About U-522...* the call-in from across the map is a bit of a meme since you can move your fleet around anyway, but the extra O2 is just enough to let her skip Snorkels in favour of another Oxytorp.  
+*About U-556...* yes, having someone reach critical HP is a terrible condition, and now she's not the only option for a full KMS fleet anymore she's the worst sub in the game. Sorry.  
+*About all of them...* their barrages are semi-homing, just like regular acoustic torps. Have fun.  
 
 #### ![SS](https://azurlane.koumakan.jp/w/images/b/bd/I-19Chibi.png "I-19") ![SS](https://azurlane.koumakan.jp/w/images/5/58/I-56Chibi.png "I-56") ![SS](https://azurlane.koumakan.jp/w/images/6/67/I-168Chibi.png "I-168") - [IJN I-19](https://azurlane.koumakan.jp/I-19), [IJN I-56](https://azurlane.koumakan.jp/I-56), [IJN I-168](https://azurlane.koumakan.jp/I-168) 
 * Skill (I-19): 
