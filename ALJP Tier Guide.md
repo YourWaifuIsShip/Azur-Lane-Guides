@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (SOGGIER BAGUETTES EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (SUB-LIMINAL MESSAGES EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -1782,15 +1782,16 @@ Interesting and potentially useful, just don't expect to see her launch often.
 "Submarines" are powerful but specialized tools that behave rather differently from your ordinary fleets.
 Here's a quick rundown of how they work.
 
-1. You cannot control them directly; each sub has her own hunting pattern and different priorities when it comes to movement, and the fleet will stay within the boundaries of its lead sub's hunting range.
-2. Submarine fleets move up to 2 squares per turn to automatically attack enemy nodes within range, shaving off up to 20% max HP (more with submarine-boosting meowfficers) off of ALL enemies in the node, and may also be summoned in battle if your regular fleets are fighting within hunting range. Map strike damage depends on the sub fleet's overall Power Rating, in-battle damage depends on the usual mechanics.
+1. You cannot control them directly; they will spawn in one of several fixed locations on every map and will stay there until you give them the command to relocate elsewhere (which costs a tiny amount of oil, roughly 1 + sub amount + tiles to move).
+2. Submarine fleets move 2 tiles per turn, ignoring geography, and shave off up to 20% max HP (more with submarine-boosting meowfficers) off of ALL enemies in the node, and may also be summoned in battle if your regular fleets are fighting within said range. Map strike damage depends on the sub fleet's overall Power Rating, in-battle damage depends on the usual mechanics.
 3. Submarine fleets in battle act as a sort of tactical nuke button; when summoned they will join the fight in person and unleash inordinate amounts of torpedoes via barrages to brutalize everything unfortunate enough to be on screen at the time, then stay for roughly 20s (exact amount depends on their Oxygen stat, with 10 Oxy equaling 1s) firing their 'regular' torpedoes until they run out of O2 and have to surface.
-4. Submarine statlines are generally very similar to one another, barring a few exceptions; as it is with BBs and BCs, skills are the main discriminant here.
+4. Unless in possession of skills saying otherwise, every sub carries 2 Ammo with her; this ammo is expended for Map Strikes and Call-Ins, and unlike normal fleets, once they're out of ammo they're completely out of the fight.
+5. Submarine statlines are generally very similar to one another, barring a few exceptions; as it is with BBs and BCs, skills are the main discriminant here.
 
 Given these premises, it quickly becomes apparent that **submarine fleets are meant to be fielded as a trio**; whether it be mauling nodes on the map or providing heavy torpedo support, they only reach peak efficiency as a full fleet, and in the case of map strikes such efficiency comes at no oil cost whatsoever.
 As such, this section *does not contain tiers* but specific recommendations and groupings - let's get to them.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/9/90/U-47Chibi.png "U-47") ![SS](https://azurlane.koumakan.jp/w/images/thumb/8/81/U-73Chibi.png/139px-U-73Chibi.png "U-73") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81")  ![SS](https://azurlane.koumakan.jp/w/images/thumb/4/41/U-556Chibi.png/132px-U-556Chibi.png "U-556") ![SS](https://azurlane.koumakan.jp/w/images/e/ed/U-557Chibi.png "U-557") - [KMS U-47](https://azurlane.koumakan.jp/U-47), [KMS U-73](https://azurlane.koumakan.jp/U-73) [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-556](https://azurlane.koumakan.jp/U-556), [KMS U-557](https://azurlane.koumakan.jp/U-557) 
+#### ![SS](https://azurlane.koumakan.jp/w/images/9/90/U-47Chibi.png "U-47") ![SS](https://azurlane.koumakan.jp/w/images/thumb/8/81/U-73Chibi.png/139px-U-73Chibi.png "U-73") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/5/5d/U-101Chibi.png "U-101") ![SS](https://azurlane.koumakan.jp/w/images/2/22/U-522Chibi.png "U-522") ![SS](https://azurlane.koumakan.jp/w/images/thumb/4/41/U-556Chibi.png/132px-U-556Chibi.png "U-556") ![SS](https://azurlane.koumakan.jp/w/images/e/ed/U-557Chibi.png "U-557") - [KMS U-47](https://azurlane.koumakan.jp/U-47), [KMS U-73](https://azurlane.koumakan.jp/U-73), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-101](https://azurlane.koumakan.jp/U-101), [KMS U-522](https://azurlane.koumakan.jp/U-522), [KMS U-556](https://azurlane.koumakan.jp/U-556), [KMS U-557](https://azurlane.koumakan.jp/U-557) 
 
 * Skill (U-47): 
   * If U-47 damages an enemy with a torpedo, her next torpedo within 5s will inflict +40% damage.
@@ -1804,6 +1805,14 @@ As such, this section *does not contain tiers* but specific recommendations and 
   * Deal +20% Damage to CV; also, U-81's torps have a 15% chance to inflict Flooding (DoT similar to Ignition; 3s ticks, multiple procs do not stack but refresh duration) for 24s.
   * Gain +40% Evasion; also, gain +7% Torp, Reload and Accuracy for every KMS sub in the fleet.
 
+* Skill (U-101):
+  * Gain +15% Accuracy; if *not* sortied as flagship U-101 moves roughly into facetorp range and hovers around there for 18s, falling back afterwards.
+  * Grant +7% EvaRate and +7% Damage vs DD/CL to all KMS submarines in the fleet; gain +6% Torp/Reload for every KMS submarine in the fleet.
+  
+* Skill (U-522)
+  * Gain +20 O2; also, once per sortie, the sub fleet can be called in regardless of its position on the map.
+  * Gain +6% Torp/Reload per KMS submarine in the fleet.
+
 * Skill (U-556)
   * Whenever an allied unit falls below 20% HP, launches a torpedo barrage; if Bismarck is in the fleet, the barrage improves.
   * Gain +6% Torp/Reload per KMS submarine in the fleet.
@@ -1814,9 +1823,31 @@ As such, this section *does not contain tiers* but specific recommendations and 
 
 * Desc: Achtung - U-Boot!
 >Given real world Germany's history with submarines, it comes as no surprise that the Ironblood gets the apex specimens of their class.  
-Simple yet brutally effective, this KMS trio lacks the utility other compositions may offer but make up for it by having the best in-battle damage - partly because of their skills, and partly because of their homing barrages. Just make sure to give them snorkels to offset their low Oxygen stat.  
-About U-47... While you may be tempted to use her solo, don't - there's little to gain from it and much to lose.
-About U-556... Are you really sure you want to have one of your skills tied to one of your units knocking at death's door?
+Highly synergistic, they all benefit from hanging out with each other but are frail and somewhat lacking in support options otherwise - murdering stuff in call-ins is what they do best and that's all they do, but they better not take casualties.  
+About U-47... While you may be tempted to use her solo, don't. There's little to gain from it and much to lose.  
+About U-81... she torpedoes harder and gains more than the others from having fellow countrychildren around.  
+About U-101... being able to close the distance with the enemy drastically lowers the chance to physically miss the target, but it is also somewhat suicidal if she's not equipped with a Snorkel. What's that? Not in EN? How unfortunate.  
+About U-522... the call-in from across the map is a bit of a meme since you can move your fleet around anyway, but the extra O2 is just enough to let her skip Snorkels in favour of another Oxytorp.  
+About U-556... yes, having someone reach critical HP is a terrible condition, and now she's not the only option for a full KMS fleet anymore she's the worst sub in the game. Sorry.  
+About all of them... their barrages are semi-homing, just like regular acoustic torps. Have fun.  
+
+#### ![SS](https://azurlane.koumakan.jp/w/images/b/bd/I-19Chibi.png "I-19") ![SS](https://azurlane.koumakan.jp/w/images/5/58/I-56Chibi.png "I-56") ![SS](https://azurlane.koumakan.jp/w/images/6/67/I-168Chibi.png "I-168") - [IJN I-19](https://azurlane.koumakan.jp/I-19), [IJN I-56](https://azurlane.koumakan.jp/I-56), [IJN I-168](https://azurlane.koumakan.jp/I-168) 
+* Skill (I-19): 
+  * 8s after joining the battle, launches a wave of penetrating torpedoes (up to 2 pierces, similarly to AP shells).
+  * I-19's torpedoes lose 1 Speed and deal +12% Damage.
+  
+* Skill (I-56): 
+  * If the Airspace Control status isn't Air Denial or Air Incapability, gain +15% FP/Torp/Reload.
+  * I-56's torpedoes lose 1 Speed and deal +12% Damage.
+  
+* Skill (I-168): 
+  * Deal +20% Damage to CV; also, launch a special torpedo barrage with 100% CritRate upon surfacing.
+  * I-168's torpedoes lose 1 Speed and deal +12% Damage.
+  
+* Desc: Large and Discharge.
+>Much larger and better supplied than their KMS counterparts, this line of IJN attack submarines trade synergy for heavy duty torpedoes, torpedo barrages and somewhat thicker hulls.  
+About I-56... notice how it only says "AC Denial/Incapability"? Yes, this does mean she still procs in EN, where there is no Airspace Control at all.
+About all of them... don't mind the slower torpedoes, it's actually a benefit rather than a detriment! Fast torpedoes may well zip past the intended target if it moved, but slow ones have a good chance to strike that target on the way back.
 
 #### ![SS](https://azurlane.koumakan.jp/w/images/9/96/AlbacoreChibi.png "Albacore") ![SS](https://azurlane.koumakan.jp/w/images/0/0f/DaceChibi.png "Dace") ![SS](https://azurlane.koumakan.jp/w/images/c/c6/I-26Chibi.png "I-26") ![SS](https://azurlane.koumakan.jp/w/images/4/4b/I-58Chibi.png "I-58") - [USS Albacore](https://azurlane.koumakan.jp/Albacore), [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
 * Skill (Dace): 
@@ -1860,14 +1891,15 @@ Her one downside is a subpar hunting range, but she's not meant to stay front an
 I-13 is the first of her class to reach Azur Lane, and despite the very mixed historical results, she puts on an impressive showing here - the damage buff is extremely welcome, the extra Oxygen nixes the need for a snorkel, her hunting range is comfortably wide and her Seiran can make a real contribution to the fight.  
 On the flipside, her barrage is extremely linear and runs the very real risk of being entirely wasted if sortied as a sideliner.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/b/bd/I-19Chibi.png "I-19") - [IJN I-19](https://azurlane.koumakan.jp/I-19)
+#### ![SS](https://azurlane.koumakan.jp/w/images/6/61/I-25Chibi.png "I-25") - [IJN I-25](https://azurlane.koumakan.jp/I-25)
 * Skill: 
-  * 8s after joining the battle, launches a wave of penetrating torpedoes (up to 2 pierces, similarly to AP shells).
-  * I-19's torpedoes lose 1 Speed and deal +12% Damage.
-  
-* Desc: 
->An attack sub through and through, armed with a rather powerful penetrating barrage and stronger torpedoes stock.  
-Them being slower isn't as much of a hindrance as it sounds at first - given the long distances from which subs launch, a slow torpedo has a greater chance to catch the original target on its way back.
+  * Upon joining the battle, launch a Type 0 Seaplane armed with a single bomb and grant +10% Accuracy to all subs in the fleet.
+  * Upon surfacing, launch a torpedo barrage; also, her gunfire and barrage torpedoes have a 70% chance to lower the Reload/Acc of the enemies struck by 10%.
+
+* Desc:
+>A heavy-duty support submarine, I-25 forgoes the damage boosts many others have in favour of buffs and debuffs.  
+While you shouldn't expect anything much out of the seaplane bomb, the +Acc buff is both permanent and rather substantial; the debuff, less so, but it is still welcome.  
+
 
 
 <br/><br/>
