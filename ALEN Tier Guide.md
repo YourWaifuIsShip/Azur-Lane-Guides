@@ -104,11 +104,12 @@ The DPS monster to AyaKai's DPH.
   * Her regular barrage includes 4 conventional torpedoes.
 
 * Recommended Loadouts:
-  * [Optimal] 76mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Optimal] 76mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 76mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
-* Desc: "She protecc, she attacc, but most importantly, she tsun catt".
->Nowhere as devastating as her tier companions (or a good few other IJN DDs for that matter), she is nonetheless quite powerful and has incredible defensive skills for both herself and the backline. Also, her barrage gets a few torps thrown into it for good measure.
+* Desc: She protecc, she attacc, but most importantly, she tsun catt.
+>Nowhere as devastating as her tier companions (or a good few other IJN DDs for that matter), she is nonetheless quite powerful and has incredible defensive skills for both herself and the backline.  
+Also, her barrage gets a few torps thrown into it for good measure.
 
 ![DD](https://azurlane.koumakan.jp/w/images/4/47/Z23KaiChibi.png "Z23 Kai") - **[KMS Z23 Kai](https://azurlane.koumakan.jp/Z23#Retrofit)**
 * Skill:
