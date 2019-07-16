@@ -89,7 +89,11 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
   * 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s.
   * Every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
   
-- Desc: "Vorpal Bunny".
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 127mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
+- Desc: Vorpal Bunny.
 >While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant.  
 The DPS monster to AyaKai's DPH.
 
@@ -98,6 +102,10 @@ The DPS monster to AyaKai's DPH.
   * While alive in fleet, the backline takes -8% dmg and, once per battle, heals any backliner under 20% HP for 10% of the healed unit's max HP.
   * 25% chance to activate when taking damage, decreases said damage to 1. 
   * Her regular barrage includes 4 conventional torpedoes.
+
+* Recommended Loadouts:
+  * [Optimal] 76mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 76mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: "She protecc, she attacc, but most importantly, she tsun catt".
 >Nowhere as devastating as her tier companions (or a good few other IJN DDs for that matter), she is nonetheless quite powerful and has incredible defensive skills for both herself and the backline. Also, her barrage gets a few torps thrown into it for good measure.
@@ -108,7 +116,11 @@ The DPS monster to AyaKai's DPH.
   * Every 20 seconds, has a 40% (70%) chance to active Destruction Mode, releasing a powerful barrage and spawning 2 rotating shields that can block 5 enemy shells each, and for 10 seconds own main gun critical rate becomes 100%.
   * Can equip CL guns, but shouldn't.
 
-* Desc: "Gun Fuhrer".
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 127mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
+* Desc: Gun Fuhrer.
 >Z23 takes the opposite approach to Ayanami, in that she goes all in on guns - her base FP is unmatched among DDs and her skills further ehnance her gun DPS to obscene degrees, while also having great uptime.  
 Torps are even more of an afterthought than they are on Laffey, however, and unlike Laffey she can't make up for it by simply spamming them; she will punch ship-sized holes in Light and Medium Armour, but she'll find herself a little stumped against Heavy.
 
@@ -117,7 +129,12 @@ Torps are even more of an afterthought than they are on Laffey, however, and unl
   * Whenever enemy planes are shot down within own AA range, increase FP by 15% of own total AA stat (Only base stat and gear is counted) and if skill procs again during its duration, it refreshes the buff
   * Increases AP damage by 25%
   
-* Desc: "KMSan Diego".
+* Recommended Loadouts:
+  * [Full AA] 100mm twin; 533mm quintuple conventional torpedoes; 113mm dual AA; Research AA Radar; Research AA Radar
+  * [Optimal] 100mm twin; 533mm quintuple conventional torpedoes; 113mm dual AA; Toolbox; Oxytorp
+  * [Poverty] 100mm twin; 533mm quintuple conventional torpedoes; 113mm dual AA; Toolbox; AA Radar
+  
+* Desc: KMSan Diego.
 >The last word in terms of DD AA and well capable of going toe-to-toe with most CL on their own field of expertise, while being vastly superior in terms of damage output, survivability, ASW prowess and - most importantly - barrage quality.  
 Proud owner of a quick-firing, high-volume, AP conal barrage with four homing torpedoes to the side that is boosted both by her own +APdmg skill (do not take AP DD guns unless you hate her) and her high torp stat, she puts every other standard DD barrage in the game to shame and is the main reason for her astounding effectiveness; the AA proficiency is a nice cherry on top, but not her main draw.
 
@@ -127,6 +144,10 @@ Proud owner of a quick-firing, high-volume, AP conal barrage with four homing to
 * Skill:
   * 5% chance on firing main gun to boost Torpedo by 60% for 8s
   * 70% chance every 20s to fire a special barrage and boost Evasion stat by 30% for 5s
+
+* Recommended Loadouts:
+  * [Optimal] 76mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] 76mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: Nuclear Launch Detected.
 >Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even reach the tens of thousands.  
@@ -139,6 +160,10 @@ The DPH monster to LafKai's DPS.
   * Upon launching a torpedo spread, 30% chance to launch a second one.
   * Every 20s, 30% chance to lower an enemy's Reload by -30% and Damage by -15% for 10s (targets humanoid ships first).
 
+* Recommended Loadouts:
+  * [Optimal] 76mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] 76mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
 * Desc: 
 >Widely available early on and blessed with both excellent skills and a very solid statline, Kagerou has a place in every torp-heavy frontline (torp-CA in particular, as they typically do not have access to torpedo buffs). Her Kai is more of a slight upgrade than a massive change, with her skill being middling at best, but the extra stats are appreciated nonetheless.
 
@@ -147,6 +172,10 @@ The DPH monster to LafKai's DPS.
   * All IJN DD deal +15% damage to CL/CA.
   * Her torpedoes always deal 115% damage against all targets, regardless of the normal torpedo modifiers (80/100/130)
 
+* Recommended Loadouts:
+  * [Optimal] 76mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] 76mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
 * Desc: Black Not Shooter.
 >A veritable turncoat of a DD, Kawakaze's main purpose is making Light Armoured units' lives hell by drilling right through it with her torps and her stellar torpedo-armed barrage - and she accomplishes it beautifully.  
 Terrifyingly effective against her intended targets, to the point of overtaking even Ayanami Kai - but she does still lose to her when faced with Heavy Armour, against which her skill puts her at a disadvantage.
@@ -154,6 +183,10 @@ Terrifyingly effective against her intended targets, to the point of overtaking 
 ![DD](https://azurlane.koumakan.jp/w/images/c/c3/YuudachiChibi.png "Yuudachi") - **[Poi (IJN Yuudachi)](https://azurlane.koumakan.jp/Yuudachi)**
 * Skill:
   * 6% chance on Main Gun fire for +40% FP/Torp/Evasion/Reload to self.
+
+* Recommended Loadouts:
+  * [Optimal] 76mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] 76mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
 >Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline.  
@@ -167,7 +200,11 @@ The general strat is to gear her with a super-fast DD gun to proc her skill+barr
   * When HP falls under 20%, heals 25% of max HP once per battle
   * 60% chance to activate every 20 seconds, increase own Reload by 40% for 10 seconds
 
-- Desc: "The bubblewrap fights back!"
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
+- Desc: The bubblewrap fights back!
 >Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous damage output of their IJN counterparts but they can and will outlast them many times over.  
 As it is for Phoenix, they are best used in mobbing fleets.
 
@@ -176,6 +213,10 @@ As it is for Phoenix, they are best used in mobbing fleets.
   * 5% chance upon firing to +40% her own Evasion and -40% damage received from planes for 8s
   * 60% e/ 20s to +40% her own Firepower for 8s
   * 70% e/ 20s to +40% her own Firepower/Torpedo/Reload for 10s and, once per battle, if an escort ship's Health falls below 20%, decrease the damage it takes by 15%. If the ship is Helena, additionally heal 8% of Helena's max Health
+
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc:
 >Nicholas is a rarity among destroyers, in that she boasts both enough Firepower to face off with the best in her class and very solid defensive capabilities; a true generalist, even more so than Laffey considering her actually good torpedoes.  
@@ -186,6 +227,11 @@ With no real weakness on display, beyond simply not being quite as good as more 
 * Skill:
   * 30% chance upon torpedo launch to launch a second spread
   * When alive in fleet, allied CV/L take -15% damage
+
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
 
 - Desc:
 >Ah, the wonders of Kai. Shiranui goes from an excellent 0LB DD meme to a supremely legit pick for normal play, owing to her much improved torp stat and efficiency. The CV/L protection skill is nice to have, too.
@@ -198,6 +244,10 @@ With no real weakness on display, beyond simply not being quite as good as more 
   * 40% chance every 10s to raise evasion by 60% for 8s
   * Upon launching torpedoes, 30% chance to launch a second spread
 
+* Recommended Loadouts:
+  * [Optimal] 136.8mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
 * Desc: 
 >Good double torpedoes and merely okay guns? On my USS DD? It's more likely than you think.  
 Maury does things differently from many of her colleagues, but she does them well - despite not quite reaching the torp heights of the IJN or the gunnery of the KMS, she strikes a comfortable balance between the two factions and proves a reliable, independent addition to most fleets.
@@ -207,11 +257,19 @@ Maury does things differently from many of her colleagues, but she does them wel
   * 5% chance on firing main gun to boost Evasion by 60% for 8s
   * 70% chance every 20s to fire a special barrage and boost torpedo stat by 30% for 5s
 
+* Recommended Loadouts:
+  * [Optimal] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [Poverty] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
 * Desc: 
 >While her starter version is pretty much undeniably the worst out of the three, the Kai does her some justice. Still nowhere as powerful as Ayanami or Laffey, but the EX barrage helps to close the gap while her Evasion is and remains the absolute best in the game.
 
 ![DD](https://azurlane.koumakan.jp/w/images/6/6b/FubukiChibi.png "IJN Fubuki") - **[Bucky (IJN Fubuki)](https://azurlane.koumakan.jp/Fubuki)**
 * Skill: In battle, increases evasion by 30% and torpedo stat by 10% of all Tokugata (herself, Ayanami, Akatsuki, Ikazuchi, Inazuma) destroyers in same fleet.
+
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
 >The best buddy Ayanami will ever have, and she's damn good on her own too owing to her very high Evasion and Torpedo stat.
@@ -220,6 +278,10 @@ Maury does things differently from many of her colleagues, but she does them wel
 * Skill:
   * When only escort ship alive, increase own evasion by 10% and reduce damage taken from airstrike to self by 50%
   * When her torpedo hits an enemy, 17% chance to make said enemy take 40% more damage from all torpedoes for 8s.
+
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Oxytorp; Oxytorp
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc:
 >Tinykaze sacrifices almost every part of her statline for exceptionally powerful torpedoes and a torpedo-boosting debuff.  
@@ -231,6 +293,10 @@ Devastating if the stars align and the debuff procs on her first torp hit, but l
   * Reduces the damage taken by the Flagship by 25%; can equip CL guns.
   * Can equip CL guns (but shouldn't).
 
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
 * Desc: 
 >Best of the three ships with the Flagship Protection skill, not only does she have powerful guns and high HP for her class but she also synergises beautifully with her intended protégé, Graf Zeppelin - who can protect her in turn.  
 That said, if you have no need for such a skill you should probably look for another ship.
@@ -240,13 +306,21 @@ That said, if you have no need for such a skill you should probably look for ano
   * 70% activation every 20s, increase firepower by 50% and Reload by 200% for 10s
   * Upon expiration, decrease reload by 100% for 3s.
 
-- Desc: Vorpal Häschen
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
+- Desc: Vorpal Häschen.
 >Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrekcing them in the process for a few seconds).  
 Very similar in behaviour to her USS counterpart, but whereas she can run a one-bunny show thanks to her Kai statline and skills, Z35 needs Z1's presence to really compare; and while she won't be matching her anytime soon, she'll still be giving many other DDs a run for their money.
 
 ![DD](https://azurlane.koumakan.jp/w/images/9/9e/Z36Chibi.png "Z36") - **[KMS Z36](https://azurlane.koumakan.jp/Z36)**
 * Skill:
   * At the start of battle and every 20s afterwards, launch a special barrage (a few HE shots in a cone, two waves of 5 and 4 torpedoes respectively) and gain +24% FP/Torp; the buff loses potency and expires over the next 20s.
+
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 - Desc:
 >Through the sheer power of chuunibyou, Z36 gets to carry extra ordnance and lob it at her enemies every 20s while buffing herself in the process.
@@ -256,6 +330,11 @@ The tempo she forces upon you is fairly demanding, as the average DD torpedo set
 * Skill:
   * Each time the Main Gun damages an enemy, gain a +40% Reload stack up to a maximum of 4 stacks (can only gain one per second, stacks lost upon damaging a different target).
   * When sortied as the Lead Ship, +20% Main Gun Efficiency and -30% AA Gun Efficiency.
+
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
 - Desc:
 >A gun-focused DD blessed with a great statline where it counts the most and a remarkable Efficiency to go along with it, Letri is rather unwieldy but pretty powerful, if allowed to stack up and lead the charge. Handle with care, and the guns of the revolution will never fall silent.  
 Similarly to Laffey, her torps are awful but come out quick; consider patching up this weakness with an Oxygen Torpedo.
@@ -267,6 +346,10 @@ Similarly to Laffey, her torps are awful but come out quick; consider patching u
   * 4% activation upon firing, increases Fleet movement speed, and Escort evasion by 40% for 8s
   * 60% activation every 20s, increases own FP by 40% for 10s.
 
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
 * Desc: 
 >Another slippery little bastard, obsessed with justice and GOING FAST.  
 Her torps are fairly worthless, but her guns are decent and her skill is absolutely amazing - not only does she increase your whole frontline's survivability, she also fixes whatever movement issues you might have at hand. The best DD friend your CAs could ever have.
@@ -275,6 +358,10 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
 * Skill:
   * Upon taking damage, 15% chance to make entire escort fleet to evade all attacks for 10s. DoT and Ramming damage still apply. CAN'T PROC BEFORE 20s HAVE PASSED (skill starts on cooldown).
 
+* Recommended Loadouts:
+  * [Optimal] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
 * Desc: 
 >Slippery little bastard, despite her CA-like movement speed. Her offensive stats are somewhat lacklustre, but she makes up for it with her skill - it might be RNG and her high Evasion works against it, but 10s of invulnerability is nothing to scoff at. Make sure to have her eat weak shots to minimise exposure to danger.
 
@@ -282,6 +369,10 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
 * Skill:
   * Increases Firepower and Evasion of all Fletcher-Class in fleet by 30%
   * Increases Firepower, Torpedo, and Reload of DDs in the fleet by 10%
+
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >Lynchpin of the Fletcher Trio, think of her as an USS Z1 with a greater focus on gunnery as opposed to torps, as befitting her nation's doctrine. Very solid and dependable, but obviously better with other Fletchers.
@@ -292,6 +383,10 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
   * Every 20s, 25% chance to lower an enemy's Reload and Damage for 10s (targets humanoid ships first; debuff strength unknown).
   * When alive in fleet, allied CV/L deal +15% damage.
 
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
 * Desc: 
 >Carrier mascotte adequate. While the buffs she provides are undeniably good, they also come packaged with a typically HMS DD statline (ie. poor HP, middling gunnery and torpedoes, high Evasion) that makes her almost worthless in an actual fight.  
 A hard sell, but perhaps your carriers may appreciate the buffs while someone picks up the slack?
@@ -300,6 +395,10 @@ A hard sell, but perhaps your carriers may appreciate the buffs while someone pi
 * Skill: 
   * 30% chance to launch a second salvo on Torpedo launch
   * Every 20s, 60% chance to boost Firepower by 40%
+
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Oxytorp; Oxytorp
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
   
 * Desc:  
 >Aww, how adorable, she thinks she can actually deal damage what that IJN DD(tm) peashooter she's got!  
@@ -309,6 +408,10 @@ Her torp game is still legit, if nothing else, and she'll be a decent placeholde
 * Skill: 
   * 5% chance on firing main gun to boost Evasion by 60% for 8s
 
+* Recommended Loadouts:
+  * [Optimal] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [Poverty] 76mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
 * Desc: 
 >Think Javelin before her Kai, except not terrible. Excellent stats, good skill, pretty good to use overall.
  
@@ -316,6 +419,10 @@ Her torp game is still legit, if nothing else, and she'll be a decent placeholde
 * Skill:
   * 25% chance every 20s, Increase entire fleet's Reload by 25% for 8s (does not stack with multiple instances of the same skill)
   * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s. Has MGM+1.
+
+* Recommended Loadouts:
+  * [Optimal] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >An oddity among DDs and especially IJN ones, Niizuki focuses on AA and guns over torps - and does so with a decent measure of success, too.   
@@ -325,12 +432,20 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
 * Skill:
   * When planes are shot down within the AA circle, +25% own AA and Firepower for 8s.
 
+* Recommended Loadouts:
+  * [Optimal] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
 - Desc:
 >New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly great at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down. Solid even when planes aren't around, better when there are.
 
 ![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - **[KMS Z1](https://azurlane.koumakan.jp/Z1)** **(T0 if running full Z-series setup)**
 * Skill:
   * +40% FP and Eva to all KMS DD.
+
+* Recommended Loadouts:
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
