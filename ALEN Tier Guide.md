@@ -531,7 +531,12 @@ Still, if you're willing to field a full french vanguard (and you do have good o
   * Once per fight and upon falling below 20% HP, heals herself for 25% of her max HP and gains +30% Reload.
   * +15% damage to Sirens.
   
-- Desc: "Insistent termaidology."
+  
+* Recommended Loadouts:
+  * [Optimal] 150SKC single (Manual only) or Neptune Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+  
+- Desc: Insistent termaidology.
 >Unlike Hood and Monarch's case, there is no real ambiguity here - Neptune does do Phoenix's job better, although at a considerably higher cost.  
 Armed with an excellent AP barrage and a very powerful AP boosting passive, and protected by the largest HP pool in her class and a better version of Phoenix's self-rescue skill, Neptune is perfectly capable of carrying on the fight for much longer while simultaneously making it much shorter than her USS counterpart could do.
 
@@ -540,7 +545,11 @@ Armed with an excellent AP barrage and a very powerful AP boosting passive, and 
   * -20% Damage taken to self, +10% Torpedo Critical chance and +30% Torpedo Critical Damage to all DD/CL in Fleet
   * +20% Reload and Torpedo to all DD/CL in Fleet
   
-- Desc: "The fox says 'torp'."
+* Recommended Loadouts:
+  * [Optimal] 150SKC single (Manual only) or Neptune Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+  
+- Desc: The fox says 'torp'.
 >As far as torpedoes are concerned, this is what peak efficiency looks like. Sporting three different superb torpedo buffs for whoever has any business mounting them and stellar torpedo stats+efficiency, she's a powerhouse in her own right with access to a handy damage cut (which she needs, considering her abysmal HP pool) and an uncharacteristically good barrage.  
 With no real weakness to speak of, her one significant flaw is not being able to bolster CA torpedoes - you'll want to look elsewhere for that.
  
@@ -551,7 +560,11 @@ With no real weakness to speak of, her one significant flaw is not being able to
 * Skill: 
   * 60% chance every 20s, +25% Firepower and Accuracy to all CL/CA in the fleet and decrease the damage they take by -25% for 8s.
   * 25% chance upon firing AA guns, -20% own FP and +40% own AA for 3s.
-  
+
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
+  * [Poverty] Tbtsk; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
+
 - Desc:
 > Creme de la creme of the Cleveland class by virtue of a slightly superior statline (compared to her sisters'), an absolute bomb of a Cruiser buffing skill, and surprising amounts of Luck to make the most out of her already sturdy build.  
 Most, if not all, Cruiser compositions will benefit by her presence.
@@ -563,6 +576,10 @@ Most, if not all, Cruiser compositions will benefit by her presence.
 * Skill:
   * 20s 60% chance to inflict a -40% damage resistance debuff on all enemies currently on the screen.
 
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Tbtsk; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
+
 * Desc: 
 >Helena is exceedingly good against bosses and merely alright everywhere else.  
 While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
@@ -570,6 +587,10 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
 ![CL](https://azurlane.koumakan.jp/w/images/f/fc/PhoenixChibi.png "USS Phoenix") - **[USS Phoenix](https://azurlane.koumakan.jp/Phoenix)**
 * Skill:
   * Once per fight and upon falling below 20% HP, restore 25% HP and +30% FP for 15s.
+
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Tbtsk; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
@@ -579,12 +600,22 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
   * 60% chance every 20s to boost her own Firepower, Reload, and Evasion by 30% for 10s
   * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
 
-* Desc: "It's not luck, it's all skill".
+* Recommended Loadouts:
+  * [Full Atk] Neptune Gun; 138.6mm; 40mm Quad Bofors; Autoloader; Autoloader
+  * [Full Def] Neptune Gun; 100mm twin; 40mm Quad Bofors; PR Hydraulic Gear; Gold SG Radar
+  * [Optimal] Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
+  * [Poverty] Tbtsk; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: It's not luck, it's all skill.
 >Lewdis' rather impressive statline goes exceedingly well with a solid set of self-buffs to all relevant stats for a Gun-CL like herself, letting her withstand amounts of punishment that would fell a lesser CL or fire harder and faster than much of her competition.
 
 ![CL](https://azurlane.koumakan.jp/w/images/d/d8/EdinburghChibi.png "HMS Edinburgh") - **[HMS Edinburgh](https://azurlane.koumakan.jp/Edinburgh)**
 * Skill:
   * +25% AP dmg.
+
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc: "Worth her weight in gold."
 >Edinburgh is in a similar situation as Cleveland: both have merely 'okay' skills, both have impressive statlines, both will stay in front and tank for days while the rest of the team gets the job done.  
@@ -596,12 +627,20 @@ Still, there's very few finer, more reliable frontline tanks than she - and that
   * Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
   * At battle start and 20% chance at every 20s thereafter, create a smokescreen that lasts 5s. Smokescreen provides 40% evasion
 
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
 * Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
 
 ![CL](https://azurlane.koumakan.jp/w/images/e/e4/Little_BelChibi.png "Belchan") - **[HMS Little Bel](https://azurlane.koumakan.jp/Little_Bel)**
 * Skill:
   * +8 Speed and +25% Evasion.
   * Upon battle start, heals the fleet by 3.5% of her max HP.
+  
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
   
 * Desc: 
 >The cutest Belfast you'll ever see, and with a brand new support-focused skillset to boot.  
@@ -613,6 +652,10 @@ It shouldn't need mentioning, but since she does not have a HE buffing skill, sh
   *  Allied ships with lower current HP than Sheffield at the start of battle have a 30% chance to take -50% dmg upon taking damage.
   * +12% CritRate and +30% CritDmg to self.
 
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
 * Desc: Amazing how some spit and polish can enhance decimetres thick armour, isn't it?
 >Rivaled by very few in the field of damage reduction buffs, Sheffield's defensive skill can greatly extend the survivability of almost any given vanguard, especially DD ones (provided she's placed in the middle and her HP has been raised above those she is meant to protect); and she'll do it while still being capable of packing a serious, if swingy, punch.
  
@@ -621,6 +664,10 @@ It shouldn't need mentioning, but since she does not have a HE buffing skill, sh
   * Grant +10% Aviation and +10% HitRate vs DD/CL/CA to CV/Ls in the fleet; also, gain +7% Firepower/Torpedo/Reload for every CV/L in the fleet.
   * Gain +20% FP.
   * Can use DD guns, and should.
+  
+* Recommended Loadouts:
+  * [Optimal] 100mm twin; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 100mm twin; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   
 * Desc: Not [2B](https://i.imgur.com/jF188O7.jpg) taken lightly.
 >Similar in a few ways to Jintsuu, Sirius offers a spectacular buff to a specific subset of units while benefiting greatly from it herself - significant enough to offset her otherwise unimpressive statline and really get the most out of her DD guns.
@@ -633,6 +680,10 @@ That said, you will need to deploy a few carriers to get the full experience and
 * Skill:
   * +15% FP to all Cruisers.
 
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Tbtsk; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
+
 * Desc: 
 >A full-gun alternative to Leander, somewhat sturdier than she is and in possession of a better barrage. Solid and a vital step on the road to Wichita.
  
@@ -641,7 +692,11 @@ That said, you will need to deploy a few carriers to get the full experience and
   * 25% chance every 20s to boost Damage fleetwide by 25%
   * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
 
-- Desc: "The Original Dadster". 
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [Poverty] Tbtsk; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
+
+- Desc: Original Dadster.
 >Units for whom the excellence of their statline outweighs a poor selection of skills are rare and far between, but there's few better examples than this than Cleveland.  
 Sporting an impressive 3.8k HP, high Reload, slightly higher than usual Evasion and good guns, Cleve doesn't need skills to make her presence felt on the battlefield and excels as a tank; that said, while her AA skill is more of a detriment than a boon, her fleetwide boost is unreliable but potentially great.  
 All in all, strong and dependable, just like her.
@@ -651,6 +706,10 @@ All in all, strong and dependable, just like her.
   * Lowers damage sustained by the Flagship by 25%.
   * 25% upon firing AA guns, -20% own FP and +40% own AA for 3s.
   
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [Poverty] Tbtsk; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
+
 - Desc:
 >Ever wanted to use Hammann but didn't want to deal with her terrible stats and weaponry? Well, now you can.  
 All the utility of her skills with the sturdiness and DPS of the Cleveland-class. Neat.
@@ -659,6 +718,11 @@ All the utility of her skills with the sturdiness and DPS of the Cleveland-class
 * Skill: 
   * 60% chance every 20s to boost Firepower by 40% for 10s
   * Increases damage dealt to CAs by 25%
+
+* Recommended Loadouts:
+  * [Full Atk] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Optimal] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
 >Ajax goes all in on the offensive, sporting a stellar FP/Torp stat bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff.  
@@ -669,6 +733,10 @@ Powerful for her class and rather inexpensive, but beware the severely subpar HP
   * Increase HE damage by 25% and chance to ignite fire by 3% 
   * 10s after battle starts and 20% chance at every 20s thereafter, create a smokescreen that lasts 10s. Smokescreen provides 35% evasion and 35% reduced damage taken from airstrikes
 
+* Recommended Loadouts:
+  * [Optimal] Belgun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Belgun; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
 * Desc: Hot maid, in more ways than one.
 >The only one who can actually get some mileage out of the terrible Belgun (because of her buff to HE guns) and packing better torps than every other HMS cruiser, she tends to have a good answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate and planes not attacking you.  
 Her place is strictly PvP, as there's many other HMS CL who will do what she does - be it DPS or tanking - better for less.
@@ -678,6 +746,10 @@ Her place is strictly PvP, as there's many other HMS CL who will do what she doe
   * 15% boost of torpedo stat to every DD in the fleet
   * 30% chance to launch a second salvo on torpedo launch
 
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
 * Desc: 
 >Abukuma is the IJN's very own Leander, now with 30% more torpedoes: out go the FP buff and she smokescreen, in come the DD Torp buff and a decent chance to fire her rather excellent torpedo launchers twice.  
 Not too flashy, but sturdy enough and dependable.
@@ -686,6 +758,10 @@ Not too flashy, but sturdy enough and dependable.
 * Skill: 
   * +15% Torp and Reload to all DD/CL in the fleet.
   * 10s after battle start and on a 40% chance every 20s afterwards, deploys a flare (-25% Evasion Rate in the area) for 10s.
+
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >A slightly weaker Jintsuu who stole a few notes from Aurora's book.   
@@ -698,6 +774,10 @@ Her statline is still damn good, though, and their buffs can stack - as do the -
   * If sortied with 1 or more DD, gain +15% FP/AA/Accuracy; once per battle, if a DD falls below 50% HP, launch a barrage.
     * The 12 SHOTS deal 62 bdmg with 100/80/60 mods; the 12 TORPEDOES deal 72 bdmg with 80/100/130 mods. Their damage is modified by 100% of their relevant stat.
 
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
 * Desc: La merveilleuse DDanseuse!
 >With the retrofit patching up her average statline and further bolstering it when she's doing her job (ie. escorting DDs), Emile Bertin proves herself as a strong DD flotilla leader and an invaluable asset for French DDs specifically.  
 Her retaliatory barrage is pretty strong, but you should try *not* to proc it; les torpeilleures can't patch themselves back up!
@@ -709,6 +789,10 @@ Her retaliatory barrage is pretty strong, but you should try *not* to proc it; l
   * 60% chance every 20s, +40% FP for 8s.
   * 25% upon firing AA guns, -20% FP and +40% own AA for 3s.
 
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [Poverty] Tbtsk; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
+
 *  Desc: 
 >The weakest of the Solomon Cavaliers, which means she's still pretty solid.  
 She'll only buff herself, but a +40% FP never really goes amiss.
@@ -716,6 +800,10 @@ She'll only buff herself, but a +40% FP never really goes amiss.
 ![CL](https://azurlane.koumakan.jp/w/images/d/dc/HonoluluChibi.png "USS Honolulu") - **[USS Honolulu](https://azurlane.koumakan.jp/Honolulu)**
 * Skill: 
   * 20s 60% chance for +40% FP for 8s.
+
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Tbtsk; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
 >More Firepower and better Efficiency than what Denver gets and doesn't need to worry about planes mugging her precious FP, but at the cost of a much flimsier hull.  
@@ -726,6 +814,10 @@ A solid pick regardless, especially if you expect aircraft
   * Every 20s, 60% chance to reduce the FP/Torp/Aviation of all enemies on the screen by 12% for 10s.
   * Upon firing AA guns, gain +25% AA for 5s; once per battle, if sortied with Lil Sandy or Cleveland and either falls under 40% HP, gain +25% FP/Acc.
 
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Tbtsk; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
+
 *  Desc: The lolifying beam spares nobody!
 > So poor Helena got shrunk too. Unfortunate, but at least she gets a better deal than the other two loli of the batch - her statline hasn't dropped at all beyond a -400ish HP compared to the real version, and while there's no doubt a stat debuff is a lot worse than *just dealing more damage* to all enemies, it is nevertheless nice to have.  
 The AA buff is also okay, as it helps her withstand aerial punishment without into her FP as the Cleveland-class buff does; the lolibote buff isn't, as neither other loli is worth taking along and it only procs when they're around.  
@@ -735,14 +827,22 @@ The AA buff is also okay, as it helps her withstand aerial punishment without in
   * Increases own damage against destroyers, transport vessels, torpedo boats, and suicide boats by 20% 
   * Decreases the evasion rate of all enemy destroyers and light cruisers by 20%.
 
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
 *  Desc: 
 >Excellent but niche DD/CL-busting skills paired with average CL stats, with the glaring exception of her sub-par HP.  
 More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
 
 ![CL](https://azurlane.koumakan.jp/w/images/3/33/AganoChibi.png "Agano") - **[IJN Agano](https://azurlane.koumakan.jp/Agano)**
 * Skill: 
-  * +15% FP to DDs.
+  * Grant +15% FP to DDs.
   * While alive, CV/L in the fleet take -15% damage.
+
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >Agano is an interesting little beastie, proud owner of an unconventional kit (DD FP boost, CV/L defence boost) and... less proud owner of a somewhat unremarkable statline for IJN CL, especially when compared to Sendai and Jintsuu.  
@@ -752,6 +852,10 @@ While she isn't a bad unit on her own by any stretch, her competitors are more p
 * Skill: 
   * 10% FP/Eva/Reload to all CL/CA in the fleet.
 
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
 * Desc: 
 >Leipzig is a solid buff-provider, but is put down by her own somewhat lacking stats. Best used in an all-KMS lineup for maximum impact, as well as Torp-CA fronts, but she has a place in any frontline.
 
@@ -759,6 +863,10 @@ While she isn't a bad unit on her own by any stretch, her competitors are more p
 * Skill: 
   * +35% Damage to the entire vanguard.
   * Has MGM+1 and Torpedoes.
+  
+* Recommended Loadouts:
+  * [Optimal] Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Boiler
+  * [Poverty] Tbtsk; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Boiler
 
 - Desc: Союз нерушимый республик свободных~ ♪♫♬
 >The burden and glory of the true revolutionary is heavy indeed, and Avrora shows it through and through.  
