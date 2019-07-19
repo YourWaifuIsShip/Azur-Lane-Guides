@@ -1589,7 +1589,19 @@ In short, they're by all accounts a downgrade over their BB forms. Avoid like th
 >The best solo CV currently in the game, courtesy of her generally superior statline and a skill that can reliably lay the smackdown on waves and airwings alike - as well as provide some emergency damage absorption against incoming aircraft or shelling.  
 It's not all bombs and sunshine, though - while her proc rate is high, she is nevertheless very reliant on that proc to perform and her generalist Efficiencies tend to blunt her effectiveness somewhat.
 
+ ![CVL](https://azurlane.koumakan.jp/w/images/f/f7/CentaurChibi.png "Centaur") - **[HMS Centaur](https://azurlane.koumakan.jp/Centaur)**
+* Skill: 
+  * Deal +10% damage vs BB; also, upon airstrike launch, deploy a volley of highly damaging, slowing (-40% speed for 6s), criss-crossing torpedoes from Swordfish planes.
+  * Upon airstrike launch, grant +15% Aviation and +10% Firepower to the backline for 8s.
+  * Has a 4/0/4 loadout.
 
+* Desc: Centaur is the best generalist the game has to offer among its backliners.
+>Aircraft got you down? Here's 4 Figthers, backed up by high Airpower and good efficiencies.  
+Need to squeeze out some more damage? Her Swordfishes and 'conventional' torp bombers are pretty brutal.  
+Backline could use some buffs or packing BBV? Whether it's carriers or battleships OR BOTH, she's got them (and herself) covered.  
+Enemy ships are zipping around too much for your liking? Her Swordfishes inflict Slow and throw out two walls of crisscrossing torps, so they can have fun with that.  
+Subs? Don't let her stats fool you, she's still a CVL and that means she can bomb them with impunity (and great effect at that).  
+Whatever's getting you down, Centaur has the solution for it - and while she won't match the heights of more specalized units in their fields, her responses tend to be more than enough for most tasks at hand. 
 
 ![CV](https://azurlane.koumakan.jp/w/images/6/64/AkagiChibi.png "IJN Akagi") ![CV](https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)**
 * Skill: 
