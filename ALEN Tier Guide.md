@@ -996,10 +996,21 @@ The only fault one can find in her would be her barrage - its wide linear patter
 >Wichita brings to bear one of the absolute highest vanguard DPS in the game, owing to her Chain Cannon skill and the passive +15% FP.  
 While her HP is rather lacklustre, it's an easily solved issue and dead enemies can't hurt you anyway.
 
+![CA](https://azurlane.koumakan.jp/w/images/6/64/LondonKaiChibi.png "London Kai") - **[HMS London Kai](https://azurlane.koumakan.jp/London#retrofit)**
+* Skill: 
+  * Increases Firepower of the entire vanguard by 15%.
+  * Upon Main Gun fire, 30% chance to deal +100% damage; upon destroying an enemy unit, gain 1 stack of +1.5% Acc up to a total of 8 stacks.
+  * Once retrofitted, can mount DD guns instead of torpedoes. Efficiency stays 160%. DO THIS.
+
+* Desc: London callin'. 
+>London's retrofit is on a one-town-mission to clear the bad rap HMS CA for the most part deservedly get, and good Lord does she put in the effort.  
+While her base form has never been bad, performing as well as a Leander Kai at the end of the day, her comparatively high costs and mostly irrelevant niche (buffing DD FP as well as the rest) meant she wouldn't see much use; the Kai does not change this, but it does put her DPS in the big leagues thanks to her new obscenely powerful DD mount and chance for double damage, while the stat gains make her considerably tougher beside; the +Acc stacks are nice but not particularly important as vanguards don't really struggle landing hits but more crits are appreciated nonetheless.  
+Given all this, London Kai proudly joins Wichita and Choukai in their exclusive "best and most useful CA club" and does so with finesse.
+
 ![CA](https://azurlane.koumakan.jp/w/images/c/cb/ChoukaiChibi.png "Choukai") - **[IJN Choukai](https://azurlane.koumakan.jp/Choukai)**
 * Skill: 
-  * Gain +10% Firepower (permanent); 60% chance every 20s, +20% Firepower and Torpedo to all allied CL/CA for 10s
-  * Upon Main Gun fire, 30% chance to double its damage
+  * Gain +10% Firepower (permanent); 60% chance every 20s, +20% Firepower and Torpedo to all allied CL/CA for 10s.
+  * Upon Main Gun fire, 30% chance to double its damage.
 
 * Desc: 
 >The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
