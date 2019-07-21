@@ -1002,7 +1002,7 @@ While her HP is rather lacklustre, it's an easily solved issue and dead enemies 
   * Upon Main Gun fire, 30% chance to deal +100% damage; upon destroying an enemy unit, gain 1 stack of +1.5% Acc up to a total of 8 stacks.
   * Once retrofitted, can mount DD guns instead of torpedoes. Efficiency stays 160%. DO THIS.
 
-* Desc: London callin'. 
+* Desc: London cullin'.
 >London's retrofit is on a one-town-mission to clear the bad rap HMS CA for the most part deservedly get, and good Lord does she put in the effort.  
 While her base form has never been bad, performing as well as a Leander Kai at the end of the day, her comparatively high costs and mostly irrelevant niche (buffing DD FP as well as the rest) meant she wouldn't see much use; the Kai does not change this, but it does put her DPS in the big leagues thanks to her new obscenely powerful DD mount and chance for double damage, while the stat gains make her considerably tougher beside; the +Acc stacks are nice but not particularly important as vanguards don't really struggle landing hits but more crits are appreciated nonetheless.  
 Given all this, London Kai proudly joins Wichita and Choukai in their exclusive "best and most useful CA club" and does so with finesse.
