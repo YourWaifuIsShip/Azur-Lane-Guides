@@ -939,6 +939,11 @@ In short, she isn't tough and she isn't powerful - in fact she's really *really*
   * +15% Firepower and +30% Reload for 12s after killing an enemy vessel, if skill is already active it will refresh the duration 
   * When Minneapolis' HP falls under 30%, lose 2 Speed but gain -10% damage sustained and heal 4% HP every 3s for 16s (can only proc once per fight).
 
+* Recommended Loadouts:
+  * [DPS] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; FCR
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 - Desc: "Monster Hunter".
 > Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP/Rld buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
 
@@ -948,6 +953,10 @@ In short, she isn't tough and she isn't powerful - in fact she's really *really*
   * Take -20% AP damage.
   * Gain a stack of +8% Firepower for every 5 torpedoes launched by Mogami that hit a target. Max 3 stacks.
   * Has MGM+1 and torpedoes.
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: Oni-chan~
 > Step aside Portland, there's a new best CA in the game - at least on the offense.
@@ -960,6 +969,10 @@ While she is definitely less tanky, missing the extra 800 HP and 11 Evasion Port
   * +15% damage vs Sirens.
   * Has MGM+1 and torpedoes.
 
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Autoloader
+  * [Poverty] 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 - Desc: ROON FOR YOUR LIVES!
 > In many ways, Saint Louis and Roon stand at opposite ends.  
 Whereas the former starts out strong and loses some of her lustre as the battle drags on, the latter only gets stronger; where the former's barrage is uncomfortably wide, the latter's is very concentrated and devastating; where the former relies on high speed and evasion to stay out of harm's way, the latter simply adds layers of HP and shields to power through the barrages; and as the former gradually mellows out of her cold templar persona, the latter grows ever more violent and unhinged.  
@@ -970,6 +983,10 @@ As a result, Roon is best served on boss battles - where she has time to rev up 
   * +35% HE damage and -3% Ignition chance
   * Upon battle start, gain +8 Speed (permanent) and +30% Evasion (for 40s)
   * +15% damage vs Sirens.
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: DESU VULT!
 > Historically praised by multiple navies as one of the absolute best heavy cruiser designs but robbed of its chance to shine due to the fall of France in WW2, Azur Lane's Saint Louis has come to set the record straight - and does she ever.  
@@ -984,6 +1001,10 @@ The only fault one can find in her would be her barrage - its wide linear patter
   * When sortied w/ Indianapolis, gain +15% Firepower, AA and Evasion
   * 25% chance every 20s, +15% damage resistance to the entire fleet for 8s
 
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >Exceptional HP, twice the base Evasion other CAs get, high Firepower and high AA - in a similar fashion to Cleveland, her stats alone justify her rating and the skills are just icing on the cake. She won't hit as often as Wichita or as hard as Chicago, but she's more consistent and much harder to kill.
 
@@ -991,6 +1012,10 @@ The only fault one can find in her would be her barrage - its wide linear patter
 * Skill: 
   * Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
   * 25% chance when firing main guns to fire another salvo
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: Can you say 24 shots in a row? She certainly can.   
 >Wichita brings to bear one of the absolute highest vanguard DPS in the game, owing to her Chain Cannon skill and the passive +15% FP.  
@@ -1002,6 +1027,10 @@ While her HP is rather lacklustre, it's an easily solved issue and dead enemies 
   * Upon Main Gun fire, 30% chance to deal +100% damage; upon destroying an enemy unit, gain 1 stack of +1.5% Acc up to a total of 8 stacks.
   * Once retrofitted, can mount DD guns instead of torpedoes. Efficiency stays 160%. DO THIS.
 
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: London cullin'.
 >London's retrofit is on a one-town-mission to clear the bad rap HMS CA for the most part deservedly get, and good Lord does she put in the effort.  
 While her base form has never been bad, performing as well as a Leander Kai at the end of the day, her comparatively high costs and mostly irrelevant niche (buffing DD FP as well as the rest) meant she wouldn't see much use; the Kai does not change this, but it does put her DPS in the big leagues thanks to her new obscenely powerful DD mount and chance for double damage, while the stat gains make her considerably tougher beside; the +Acc stacks are nice but not particularly important as vanguards don't really struggle landing hits but more crits are appreciated nonetheless.  
@@ -1012,8 +1041,12 @@ Given all this, London Kai proudly joins Wichita and Choukai in their exclusive 
   * Gain +10% Firepower (permanent); 60% chance every 20s, +20% Firepower and Torpedo to all allied CL/CA for 10s.
   * Upon Main Gun fire, 30% chance to double its damage.
 
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Toolbox
+
 * Desc: 
->The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
+>Pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-C
 
 ![CA](https://azurlane.koumakan.jp/w/images/0/02/IbukiChibi.png "Ibui") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)** **(T0 vs Sirens/Bosses)**
 * Skill:
@@ -1021,6 +1054,10 @@ Given all this, London Kai proudly joins Wichita and Choukai in their exclusive 
   * Upon launching torpedoes, 30% chance to launch a special torpedo barrage.
   * +15% damage vs Sirens.
   * Has TWO preloaded torpedo spreads.
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Toolbox
 
 - Desc: What do you mean "she's not a DD"?
 > Someone at the design bureau must've missed a memo when they designed Ibuki.  
@@ -1036,6 +1073,10 @@ Still, as long as you employ her for the surgical strikes she's made for, she ha
 * Skill: 
   * 30% chance upon Main Gun fire to double its shots' damage.
 
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >What was said about Wichita applies to Chicago as well. Slightly frailer than she is and more selfish, she will nonetheless punch hard and harder than anyone else when she does proc, which she often will - a proc on the first salvo lasts throughout the second, and the second salvo may still proc if the first one didn't.  
 As a result, her double damage uptime is considerably higher than the 30% may lead you to believe. Bring out the big guns.
@@ -1043,6 +1084,10 @@ As a result, her double damage uptime is considerably higher than the 30% may le
 ![CA](https://azurlane.koumakan.jp/w/images/5/58/HoustonChibi.png "USS Houston") - **[USS Houston](https://azurlane.koumakan.jp/Houston)**
 * Skill: 
   * 20% chance upon Main Gun fire to gain +100% Eva for 15s.
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Gold SG Radar; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Hydraulic Gear or Naval Camo
 
 - Desc: "Problem? What problem?"
 >While an Evasion-focused CA sounds ludicrous, and it is under most circumstances, Houston actually makes it work given enough Evasion-boosting auxiliaries: CAs live and die by their Evasion (or lack thereof), so stacking it actually lets her survive under heavy fire for much longer than you'd expect.  
@@ -1056,6 +1101,10 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
   * When sortied w/ at least 1 New Orleans-class CA (Quincy / Vincennes / Minneapolis), gain and grant them +10% Firepower, +20% Accuracy and AA.
   * Take -20% damage from DD/CL gun attacks.
 
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >Leader of the New Orleans class, she emphasises their strengths and shares their reinforced armour plating.  
 Solid and dependable, if unremarkable. No reason not to take her if you're going to field them at all, but Minneapolis has better things to do than hang out with her sisters.
@@ -1064,6 +1113,10 @@ Solid and dependable, if unremarkable. No reason not to take her if you're going
 * Skill: 
   * Every 30s, spawns 2 shields that blocks 8 shots
   * 8% chance to reduce any damage taken by 50% on taking damage
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
@@ -1074,6 +1127,10 @@ Her poor damage output brings her down in the long run, though, and is usually d
   * 60% chance every 20s, gain +40% Firepower for 10s.
   * Take -20% damage from DD/CL gun attacks.
 
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >Sporting a matching set of Medium Armour, anti-DD/CL gunfire skills and considerable AA capabilities, the New Orleans-class CAs focus more on the defence than the offence, unlike almost every other CA in the USS.  
 A good fit for mob- as well as boss-hunting, considering how frequent are DD and CL bosses, but beware their weaker guns and the need to take Astoria to make the most out of them.
@@ -1083,6 +1140,10 @@ A good fit for mob- as well as boss-hunting, considering how frequent are DD and
   * 25% chance when firing main guns to fire another salvo
   * 60% chance every 20s to increase Firepower by 40% for 10s
 
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >Boasting the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above every other Torp-CA and has access to QE's buffs to boot.  
 Just as frail as Wichita, though, and she's still a Torp-CA at heart.
@@ -1091,6 +1152,10 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 * Skill:
   * 30% chance to do double damage when firing main gun
   * 30% chance to launch a second salvo on torpedo launch
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Takao is a tad on the RNG side, but sports high HP and a remarkable statline. Her skills are what makes her as good as she is, but they're not exactly the most reliable. Still, they are powerful and thus worth respect.
@@ -1108,6 +1173,10 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
   * Deal +35% damage to DD/CL.
   * May equip the 283mm SKC28, but shouldn't.
 
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 - Desc: 
 >Too large for mere CA and too small for proper BCs, these Pocket Battleships are odd creatures.  
 Capable of mounting a unique underchambered BB gun, they sport massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than they (DD and CL) - but are let down by that same gun's AP element (which underperforms against DD and CL), their lower-than-average Speed and Evasion, and the weak torpedoes they're stuck with.  
@@ -1118,6 +1187,10 @@ A wrecking ball against small craft, to be sure, but watch out for when they pic
   * Gain +6% FP for every other Kizuna unit in the fleet, up to +24%; if no other Kizuna unit is present, take -15% dmg for 30s after the start of the battle. (Pyoko-Pyoko aux lets a "normal" unit count as Kizuna)
   * Ignitions sustained last for -3s and reduces incoming HE damage by 15%.
 
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  
 * Desc: 
 >A sturdy gunboat with remarkable firepower. Sounds familiar? 
 Her direct competitor would be Portland Kai, and while she comes out of that comparison looking pretty weak (lower eHP, the extra FP comes at the expense of higher Oil costs, the lack of a barrage and the need to take at least 2+ Kizunas to outgun her), she is nonetheless a tough nut to crack and she can pack a good punch.
@@ -1130,23 +1203,22 @@ Her direct competitor would be Portland Kai, and while she comes out of that com
 * Skill: 
   * +15% FP to all CL/CA in the fleet.
 
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >What you use when you don't have Wichita but still want a powerful, buff-capable CA.  
 She will be phased out eventually, alas, but she's good while she's there and you can still use her to augment a second fleet.
-
-![CA](https://azurlane.koumakan.jp/w/images/7/7f/LondonChibi.png "HMS London") - **[HMS London](https://azurlane.koumakan.jp/London)**
-* Skill: 
-  * +15% FP to the entire vanguard.
-
-* Desc: 
->HMS CA get a bad reputation for being frail and either undergunned or undertorped, despite possessing rather valuable skills.   
-London is one such example, but she rescues herself from the mediocrity of her statline by virtue of being one of the only two frontliners that can buff DD FP - a small niche, admittedly, but a useful one if you plan on fielding multiple DD with good guns.
-
 
 ![CA](https://azurlane.koumakan.jp/w/images/b/bf/YorkKaiChibi.png "HMS York Kai") - **[HMS York Kai](https://azurlane.koumakan.jp/York#retrofit)**
 * Skill: 
   * Upon performing ANY attack (autoguns, main guns, torpedoes; AA does not count), 40% chance to gain +40% FP for 8s.
   * Take -40% damage from suicide boats and -15% damage from HE; additionally, her autoguns gain +70% CritRate and ignore armour modifiers.
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >It speaks volumes about HMS non-CL vanguards that the best they can aspire to is not be irredeemable wrecks.  
@@ -1155,6 +1227,10 @@ All that said, though - she's alright.
 
 ![CA](https://azurlane.koumakan.jp/w/images/8/84/MayaChibi.png "IJN Maya") - **[IJN Maya](https://azurlane.koumakan.jp/Maya)**
 * Skill: Increases Reload by 35% and 30% chance to launch a second salvo on torpedo launch
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Maya trades Takao's double damage chance for a permanent passive reload boost. An interesting concept, and paired with double Autoloaders lets her fire her guns and torps faster than any other CA, which is remarkable on its own right... but is a rather poor trade nonetheless.
@@ -1165,7 +1241,11 @@ Also, she's slightly better at AA than her sisters (key word being "slightly", t
   * Every 30s, spawns 2 shields that last 15s and blocks 10 shots
   * 8% chance to reduce any damage taken by 50% on taking damage
 
-- Desc: "HAAH?!"
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+- Desc: HAAH?!
 >Damage control is about lowering the incoming damage as much as it is about preventing it in the first place, and Hipper learns the right lesson from Prinz Eugen - despite her much lower HP, Hipper's superior offensive statline and slightly improved tanking skills let her fulfil her role better and for cheaper. 
 
 ### Honourable Mentions:
@@ -1173,6 +1253,10 @@ Also, she's slightly better at AA than her sisters (key word being "slightly", t
 ![CA](https://azurlane.koumakan.jp/w/images/5/5d/Prinz_EugenChibi.png "KMS Prinz Eugen") - **[KMS Prinz Eugen](https://azurlane.koumakan.jp/Prinz_Eugen)**
 * Skill: 
   * 20s 70% chance to spawn 3 rotating shields (durability: 10 shots each).
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >It's exceedingly rare for a frontliner to have more HP than carriers and battlecruisers, but Prinz Eugen makes it happen. Proud owner of a HP pool larger than 90% of the ships in the game, she pays for this priviledge by being saddled with a semi-useless skill and poor offensive stats.  
