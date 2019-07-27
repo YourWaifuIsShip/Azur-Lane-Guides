@@ -955,7 +955,7 @@ In short, she isn't tough and she isn't powerful - in fact she's really *really*
   * Has MGM+1 and torpedoes.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: Oni-chan~
@@ -1042,7 +1042,7 @@ Given all this, London Kai proudly joins Wichita and Choukai in their exclusive 
   * Upon Main Gun fire, 30% chance to double its damage.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Toolbox
 
 * Desc: 
@@ -1056,7 +1056,7 @@ Given all this, London Kai proudly joins Wichita and Choukai in their exclusive 
   * Has TWO preloaded torpedo spreads.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Toolbox
 
 - Desc: What do you mean "she's not a DD"?
@@ -1141,7 +1141,7 @@ A good fit for mob- as well as boss-hunting, considering how frequent are DD and
   * 60% chance every 20s to increase Firepower by 40% for 10s
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1154,7 +1154,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
   * 30% chance to launch a second salvo on torpedo launch
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1174,7 +1174,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
   * May equip the 283mm SKC28, but shouldn't.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: 
@@ -1217,7 +1217,7 @@ She will be phased out eventually, alas, but she's good while she's there and yo
   * Take -40% damage from suicide boats and -15% damage from HE; additionally, her autoguns gain +70% CritRate and ignore armour modifiers.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1229,7 +1229,7 @@ All that said, though - she's alright.
 * Skill: Increases Reload by 35% and 30% chance to launch a second salvo on torpedo launch
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truiple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1242,7 +1242,7 @@ Also, she's slightly better at AA than her sisters (key word being "slightly", t
   * 8% chance to reduce any damage taken by 50% on taking damage
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: HAAH?!
@@ -1255,7 +1255,7 @@ Also, she's slightly better at AA than her sisters (key word being "slightly", t
   * 20s 70% chance to spawn 3 rotating shields (durability: 10 shots each).
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
