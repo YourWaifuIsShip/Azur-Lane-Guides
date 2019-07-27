@@ -1909,6 +1909,7 @@ As is customary for IJN sister ships, they truly shine when used together - but 
   * Has a 2/2/4 Loadout.
 
 * Recommended Loadouts:
+  * [Guaranteed Sync] A6M5 Zero; D4Y Suisei; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
