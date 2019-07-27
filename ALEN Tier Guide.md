@@ -1765,6 +1765,10 @@ Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in t
   * Gain +20% FP.
   * 10s after battle start, 10s cooldown after each use and used only when an enemy gets too close, fire 4 converging CA shells.
  
+* Recommended Loadouts:
+  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Zuiun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; Zuiun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
+ 
 * Desc: 
 >The only aviation battleship to improve in every possible respect after her Kai, the new-and-improved Hyuuga doesn't only sport the customary brutal firepower and enough Main Gun Efficiency to thorougly brutalize what she hits despite the loss of one gun mount, but also retains good self-defence capabilities with her protective barrage.   
 The seaplanes are still middling at best, but you're paying no price for a BB with access to a screenclear - that's more than good enough.
@@ -1777,6 +1781,10 @@ The seaplanes are still middling at best, but you're paying no price for a BB wi
 * Skill: 
   * Gain +20% FP.
   * Ise Kai's first two airstrikes have their cooldown reduced by 25% and launch 2 Suisei dive bombers; if a CV/L is present in the fleet, these bonuses remain active.
+
+* Recommended Loadouts:
+  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Zuiun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; Zuiun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >Still the more powerful yet less useful sibling, Ise Kai fully embraces her nature as an instrument of destruction by improving her airstrikes to the point of respectability.
@@ -1804,20 +1812,15 @@ In short, they're by all accounts a downgrade over their BB forms. Avoid like th
 ### Tier 0:
 ---
 
-![CV](https://azurlane.koumakan.jp/w/images/d/dc/EnterpriseChibi.png "USS Enterprise") - [USS Enterprise](https://azurlane.koumakan.jp/Enterprise)
-* Skill: 
-  * 70% chance on airstrike launch, airstrike deals x2 damage and Enterprise becomes invincible for 8s.
-  * Has a 3/3/2 loadout.
-
-* Desc: 
->The best solo CV currently in the game, courtesy of her generally superior statline and a skill that can reliably lay the smackdown on waves and airwings alike - as well as provide some emergency damage absorption against incoming aircraft or shelling.  
-It's not all bombs and sunshine, though - while her proc rate is high, she is nevertheless very reliant on that proc to perform and her generalist Efficiencies tend to blunt her effectiveness somewhat.
-
  ![CVL](https://azurlane.koumakan.jp/w/images/f/f7/CentaurChibi.png "Centaur") - **[HMS Centaur](https://azurlane.koumakan.jp/Centaur)**
 * Skill: 
   * Deal +10% damage vs BB; also, upon airstrike launch, deploy a volley of highly damaging, slowing (-40% speed for 6s), criss-crossing torpedoes from Swordfish planes.
   * Upon airstrike launch, grant +15% Aviation and +10% Firepower to the backline for 8s.
   * Has a 4/0/4 loadout.
+
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; F6F Hellcat; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; F4U Corsair; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: Centaur is the best generalist the game has to offer among its backliners.
 >Aircraft got you down? Here's 4 Figthers, backed up by high Airpower and good efficiencies.  
@@ -1827,22 +1830,15 @@ Enemy ships are zipping around too much for your liking? Her Swordfishes inflict
 Subs? Don't let her stats fool you, she's still a CVL and that means she can bomb them with impunity (and great effect at that).  
 Whatever's getting you down, Centaur has the solution for it - and while she won't match the heights of more specalized units in their fields, her responses tend to be more than enough for most tasks at hand. 
 
-![CV](https://azurlane.koumakan.jp/w/images/6/64/AkagiChibi.png "IJN Akagi") ![CV](https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)**
-* Skill: 
-  * First Airstrike launches 50% faster
-  * When paired, increase Air Power by 35%
-  * Have a 3/2/3 loadout.
-
-- Desc: The Foxes launched first.
->Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Airpower and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
-As is customary for IJN sister ships, they truly shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch (and extra screenclear) is.
-
-
 ![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)**
 * Skill: 
   * On launching an airstrike, heals the escort fleet by 8% of their HP.
   * On launching an airstrike, +15% Aviation to all CV/L for 8s.
   * Has a 0/3/3 loadout.
+
+* Recommended Loadouts:
+  * [Optimal] SB2C Helldiver; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] SB2C Helldiver or JU87 Stuka; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
 >Trades Unicorn's passive frontline Reload buff for a temporary Aviation buff and a significantly superior statline, HP pool aside.  
@@ -1851,12 +1847,28 @@ Can't match Unicorn in air superiority, lacking fighters, but decisively asserts
   
  ### Tier 0.5:
  ---
+![CV](https://azurlane.koumakan.jp/w/images/d/dc/EnterpriseChibi.png "USS Enterprise") - [USS Enterprise](https://azurlane.koumakan.jp/Enterprise)
+* Skill: 
+  * 70% chance on airstrike launch, airstrike deals x2 damage and Enterprise becomes invincible for 8s.
+  * Has a 3/3/2 loadout.
+
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>The best solo CV currently in the game, courtesy of her generally superior statline and a skill that can reliably lay the smackdown on waves and airwings alike - as well as provide some emergency damage absorption against incoming aircraft or shelling.  
+It's not all bombs and sunshine, though - while her proc rate is high, she is nevertheless very reliant on that proc to perform and her generalist Efficiencies tend to blunt her effectiveness somewhat.
 
 ![CVL](https://azurlane.koumakan.jp/w/images/e/e0/RangerKaiChibi.png "USS Ranger Kai") - **[USS Ranger Kai](https://azurlane.koumakan.jp/Ranger)**
 * Skill: 
   * 15% activation when launching an airstrike, the next airstrike becomes available immediately
   * 25% chance of inflicting double damage with airstrike
   * Has a 0/6/2 loadout.
+
+* Recommended Loadouts:
+  * [Optimal] Barracuda or Ryusei; SB2C Helldiver; SB2C Helldiver; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] Tenzan; SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
 >Also referred to as RNGer for obvious reasons, and infamous because of her potentially infinite damage, you need luck on your side to get the most out of her; even without the procs, though, very few carriers get close to the sheer damage output she can unleash thanks to her 8 sea-attacking planes and high Efficiencies, and none of them can manage it at her rock-bottom 9 Oil cost.  
@@ -1868,16 +1880,37 @@ Beware her near-total lack of anti-air presence, though; without Fighters or AA 
   * Increases Reload of escort fleet by 15%
   * Has a 3/0/3 loadout.
 
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
+
 * Desc: 
 >Arguably the best pure support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.  
 Do not expect much from her in terms of DPS, though.
+
+![CV](https://azurlane.koumakan.jp/w/images/6/64/AkagiChibi.png "IJN Akagi") ![CV](https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)**
+* Skill: 
+  * First Airstrike launches 50% faster
+  * When paired, increase Air Power by 35%
+  * Have a 3/2/3 loadout.
+
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
+
+- Desc: The Foxes launched first.
+>Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Airpower and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
+As is customary for IJN sister ships, they truly shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch (and extra screenclear) is.
 
 ![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0 w/ Zuikaku)**
 * Skill: 
   * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
   * When paired, increases Air Power by 30% and INCREASES damage taken by 5%
+  * Has a 2/2/4 Loadout.
 
-* Loadout: 2/2/4
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
 >More support-based than her sister and frailer than she when her other half is around, but more than makes up for it thanks to the +30% Airpower she gets as well as the buffs she throws out (which incidentally also partially negate the debuff).  
@@ -1893,6 +1926,10 @@ Her buffs and layout are good enough to warrant usage even solo.
   * Upon airstrike launch, 70% chance to deploy 3 aimed torps inflicting Ignition and Flooding from three planes.
   * Has a 2/6/0 loadout.
   
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; SB2C Helldiver; SB2C Helldiver; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
+
 * Desc: Puella Magi Toga Magica.
 >Saratoga's Kai doesn't significantly change her playstyle: she's still the powerful DB-focused CV she's always been, but with a considerably improved statline that further emphasises her strengths. Extremely solid, even from a HP standpoint.  
 Her Kai skill, just like her gunfire skill, is best regarded as a bit of free additional damage than a reliable contribution to the fight - the extra planes have aimed torpedoes and the DoTs they inflict are fairly weak, but it's still better than most CV do in their downtime.
@@ -1902,8 +1939,11 @@ Her Kai skill, just like her gunfire skill, is best regarded as a bit of free ad
   * Once per battle, if Yorktown's HP falls below 20% she heals herself by 25%.
   * Upon receiving damage and on a 20s cooldown, launches a [retaliatory 3-plane barrage](http://p1.qhimg.com/t01d7f3768a5aa7248c.gif).
     * The 3 DIVE BOMBERS each carry 1 2000lb bomb (291 bdmg with 70/105/125 mods) and 2 100lb bombs (111 bdmg with 80/85/100 mods). Their damage is modified by 80% of the unit's Aviation.
+  * Has a 3/3/2 Loadout.
 
-* Loadout: 3/3/2
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 - Desc: Putting the 'fleet' in 'fleet carrier'.
 > One of the hardiest and most well-rounded carriers in the game, Yorktown can cover any role admirably well, courtesy of her balanced plane loadout, her frontline buff, her self-heal and her personal SBD squadron, ready to bust the heads of whoever thought she was easy pickings.  
@@ -1913,8 +1953,11 @@ Do NOT think she can solo backline past W6, though. Carriers aren't made for tha
 * Skill: 
   * Once a battle, upon taking lethal damage, will not sink and will evade all attacks for 15s, simultaneously launching an additional airstrike
   * When paired with Soryu, increases Air Power by 35%
-
-* Loadout: 3/2/3
+  * Has a 3/2/3 Loadout.
+  
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
 >The stubbornest Kaga ever. Very comparable to the white kitsune in statline and efficiencies, though slightly inferior; what sets her apart from the fox is her skill, allowing her to narrowly avoid death and strike out for one last hail mary. Could win you battles both in PvE and PvP, but don't build on it.
@@ -1923,8 +1966,11 @@ Do NOT think she can solo backline past W6, though. Carriers aren't made for tha
 * Skill: 
   * On launching an airstrike, increases escort fleet Damage by 15% for 8s
   * When paired, increases Air Power by 35%
-  
-* Loadout: 3/3/2
+  * Has a 3/3/2 Loadout.
+
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
 >A dive bomber focused Kaga, giving up her fast launch for a frontline buff. Skills aside, what was said about Hiryuu applies to Souryuu as well.
@@ -1938,6 +1984,10 @@ Do NOT think she can solo backline past W6, though. Carriers aren't made for tha
   * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
   * Has a 6/2/0 loadout.
 
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; F6F Hellcat; Fairey Firefly; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; F4U Corsair; Fairey Fulmar; Hydraulic Catapult; Hydraulic Catapult
+
 * Desc:
 >Once considered a liability due to the much reviled F/F/B loadout and an exp boost as a primary skill, Langley Kai's fortunes changed drastically with the advent of Air Superiority mechanics; not only do those fighters contribute almost or over twice the amount other types of planes do, but they're also extraordinarily cost-effective as well as slightly more readily available than usual.
 
@@ -1946,6 +1996,10 @@ Do NOT think she can solo backline past W6, though. Carriers aren't made for tha
   * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Airpower).
   * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
   * Have a 2/6/0 loadout.
+
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
 >These two ships are identical in use (albeit not in popularity, only Saratoga has a Kai to this day), and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo.  
@@ -1957,6 +2011,10 @@ They don't launch fast, but when they do they really leave a mark - make sure to
   * 25% chance to do double damage on Airstrike.
   * Has a 0/2/6 loadout.
   
+* Recommended Loadouts:
+  * [Optimal] Fairey Firefly; Ryusei; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] Fairey Fulmar; Tenzan; Tenzan; Hydraulic Catapult; Hydraulic Catapult
+  
 * Desc: 
 >A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen.   
 Whether it's boss-busting or wave-clearing, give her the appropriate planes and she'll do a pretty good job - just don't expect much of anything from her terrible DBs, and definitely do not expect your carrier-based torp to magically all hit afterwards.
@@ -1965,6 +2023,10 @@ Whether it's boss-busting or wave-clearing, give her the appropriate planes and 
 * Skill: 
   * Upon airstrike launch, grants every vanguard unit a shield for 10% of Illustrious' max HP, lasting 8s.
   * Has a 6/0/2 loadout.
+
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; F6F Hellcat; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; F4U Corsair; Barracuda or Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: Zero to (AS) Hero.
 >A very defensive-focused CV with double fighter slots, a shield generator and staggering amounts of Air Superiority. Her low DPS is the stuff of legend.    
@@ -1976,6 +2038,10 @@ Her niche is providing air superiority and protecting the frontline from harm th
   * 5 seconds after her first two airstrikes, launches 3 additional Suisei (dropping x1 1000lb bomb, x2 100lb bombs).
   * Has a 3/0/3 loadout.
 
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
+
 * Desc: 
 >A decent little cheerleader for the rest of your carriers, armed with a limited complement of surplus Suisei to throw out and a solid statline to supplement the smattering of buffs she throws out. Ok.
 
@@ -1984,6 +2050,10 @@ Her niche is providing air superiority and protecting the frontline from harm th
   * 30% increase in efficiency for equipped German planes.
   * All KMS ships in fleet take 15% less damage.
   * Has a 2/6/0 loadout.
+
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat or ME155 (if W12+); JU87 Stuka; JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsai or ME155 (if W12+); SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: IT'S NOT JUST A PHASE, MEIN KOMMANDANT!
 >The single toughest CV in the game, courtesy of her ludicrous HP pool (6.8k), the flat damage cut she extends to every KMS unit in the fleet (herself included) and the couple of 150% ME155s she can field to keep the skies clear; and as for the offence, she's no slouch either with her remarkable six 160% Efficiency Stukas.  
@@ -2000,18 +2070,23 @@ Her only real flaw is her lacking Reload, a mere 100 compared to most other top-
   * 25% chance to inflict double damage with her airstrike.
   * Has a 3/3/2 loadout.
 
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
+
 * Desc: 
 >Once a meme, now a force to be reckoned with. Think of her as a barrage boat in carrier form - her main job is blasting ships into smithereens, and she does that remarkably well with two powerful skills dedicated precisely to that and a solid statline.  
 Just don't expect much in the way of support, beyond the air coverage provided by her okay fighters.
-
-
-
 
  #### ![CVL](https://azurlane.koumakan.jp/w/images/9/9a/ChaserChibi.png "Chaser") - [HMS Chaser](https://azurlane.koumakan.jp/Chaser)
 * Skill: 
   * Upon airstrike launch, 15% chance to immediately reload it.
   * Upon airstrike launch, reveal all submarines on the screen for 10s and launch three biplanes armed with depth charges and two parallel torpedoes each.
   * Has a 3/0/3 loadout.
+
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
 >Chaser had a look at Ranger before leaving for the Royals and realised she was up to something good.  
@@ -2023,6 +2098,10 @@ That said, she's still mostly an attack craft - her ASW capabilties, while a nic
   * Increases next airstrike damage by 20% on launching airstrike, stacks up to 3 times
   * When paired, increases Air Power by 20% and takes 20% less damage
   * Has a 2/3/3 loadout.
+
+* Recommended Loadouts:
+  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
 >An extra-tough carrier designed for prolonged fights, which basically means 'boss battles only'.  
@@ -2044,6 +2123,8 @@ Still, high plane efficiency coupled with a neat AA buff for the backline allows
 * Skill: 
   * When deployed w/ at least 1 HMS backliner and upon airstrike launch, 50% chance to launch a Spitfire squadron.
   * Has a 3/3/2 loadout.
+
+
 
 - Desc: SMOL WASP YO!
 >The cheapest CV in the game, by virtue of her Blue rarity... and that's pretty much it, as far as remarkable features go.  
