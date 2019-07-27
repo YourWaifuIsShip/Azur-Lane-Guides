@@ -120,7 +120,7 @@ Also, her barrage gets a few torps thrown into it for good measure.
 
 * Recommended Loadouts:
   * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 127mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+  * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: Gun Fuhrer.
 >Z23 takes the opposite approach to Ayanami, in that she goes all in on guns - her base FP is unmatched among DDs and her skills further ehnance her gun DPS to obscene degrees, while also having great uptime.  
@@ -940,8 +940,8 @@ In short, she isn't tough and she isn't powerful - in fact she's really *really*
   * When Minneapolis' HP falls under 30%, lose 2 Speed but gain -10% damage sustained and heal 4% HP every 3s for 16s (can only proc once per fight).
 
 * Recommended Loadouts:
-  * [DPS] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; FCR
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [DPS] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; FCR
+  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: "Monster Hunter".
@@ -2013,7 +2013,7 @@ They don't launch fast, but when they do they really leave a mark - make sure to
   * Has a 0/2/6 loadout.
   
 * Recommended Loadouts:
-  * [Optimal] Fairey Firefly; Ryusei; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Optimal] Fairey Fulmar; Ryusei; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] Fairey Fulmar; Tenzan; Tenzan; Hydraulic Catapult; Hydraulic Catapult
   
 * Desc: 
