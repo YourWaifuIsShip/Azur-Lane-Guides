@@ -163,8 +163,8 @@ The DPH monster to LafKai's DPS.
   * Every 20s, 30% chance to lower an enemy's Reload by -30% and Damage by -15% for 10s (targets humanoid ships first).
 
 * Recommended Loadouts:
-  * [Optimal] 76mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [Poverty] 76mm; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+  * [Optimal] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
 >Widely available early on and blessed with both excellent skills and a very solid statline, Kagerou has a place in every torp-heavy frontline (torp-CA in particular, as they typically do not have access to torpedo buffs). Her Kai is more of a slight upgrade than a massive change, with her skill being middling at best, but the extra stats are appreciated nonetheless.
@@ -532,7 +532,6 @@ Still, if you're willing to field a full french vanguard (and you do have good o
   * Once per fight and upon falling below 20% HP, heals herself for 25% of her max HP and gains +30% Reload.
   * +15% damage to Sirens.
   
-  
 * Recommended Loadouts:
   * [Optimal] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
@@ -715,20 +714,6 @@ All in all, strong and dependable, just like her.
 >Ever wanted to use Hammann but didn't want to deal with her terrible stats and weaponry? Well, now you can.  
 All the utility of her skills with the sturdiness and DPS of the Cleveland-class. Neat.
  
-![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - **[HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax)**
-* Skill: 
-  * 60% chance every 20s to boost Firepower by 40% for 10s
-  * Increases damage dealt to CAs by 25%
-
-* Recommended Loadouts:
-  * [Full Atk] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
-*  Desc: 
->Ajax goes all in on the offensive, sporting a stellar FP/Torp stat bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff.  
-Powerful for her class and rather inexpensive, but beware the severely subpar HP.
-
 ![CL](https://azurlane.koumakan.jp/w/images/8/84/BelfastChibi.png "HMS Belfast") - **[HMS Belfast](https://azurlane.koumakan.jp/Belfast)**
 * Skill: 
   * Increase HE damage by 25% and chance to ignite fire by 3% 
@@ -822,6 +807,20 @@ A solid pick regardless, especially if you expect aircraft
 *  Desc: The lolifying beam spares nobody!
 > So poor Helena got shrunk too. Unfortunate, but at least she gets a better deal than the other two loli of the batch - her statline hasn't dropped at all beyond a -400ish HP compared to the real version, and while there's no doubt a stat debuff is a lot worse than *just dealing more damage* to all enemies, it is nevertheless nice to have.  
 The AA buff is also okay, as it helps her withstand aerial punishment without into her FP as the Cleveland-class buff does; the lolibote buff isn't, as neither other loli is worth taking along and it only procs when they're around.  
+
+![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - **[HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax)**
+* Skill: 
+  * 60% chance every 20s to boost Firepower by 40% for 10s
+  * Increases damage dealt to CAs by 25%
+
+* Recommended Loadouts:
+  * [Full Atk] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+*  Desc: 
+>Ajax goes all in on the offensive, sporting a stellar FP/Torp stat bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff.  
+Powerful for her class and rather inexpensive, but beware the severely subpar HP.
 
 ![CL](https://azurlane.koumakan.jp/w/images/4/44/AuroraChibi.png "HMS Aurora") - **[HMS Aurora](https://azurlane.koumakan.jp/Aurora)**
 * Skill: 
