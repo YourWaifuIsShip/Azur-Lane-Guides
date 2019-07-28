@@ -1680,7 +1680,7 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
 * Skill: 
   * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p4.qhimg.com/t0127a2b079a4ccebab.gif)
     * The 36 NEEDLES deal 104 base damage with 50/135/120 modifiers. Their damage is modified by 120% of the unit's FP.
-  * Take -35% AP damage, but take +6% Ignition damage and extends Ignition duration by 3s.
+  * Take -35% AP damage, but is Ignited +6% more often and extends Ignition duration by 3s.
   * Deal +15% damage vs Sirens.
 
 * Recommended Loadouts:
