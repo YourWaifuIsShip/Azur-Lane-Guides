@@ -91,7 +91,7 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
   * Every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
   
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 127mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: Vorpal Bunny.
@@ -105,8 +105,8 @@ The DPS monster to AyaKai's DPH.
   * Her regular barrage includes 4 conventional torpedoes.
 
 * Recommended Loadouts:
-  * [Optimal] 76mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 76mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+  * [General Purpose] 120mm Main Gun single; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [Poverty] 120mm Main Gun single or 76mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: She protecc, she attacc, but most importantly, she tsun catt.
 >Nowhere as devastating as her tier companions (or a good few other IJN DDs for that matter), she is nonetheless quite powerful and has incredible defensive skills for both herself and the backline.  
@@ -119,7 +119,7 @@ Also, her barrage gets a few torps thrown into it for good measure.
   * Can equip CL guns, but shouldn't.
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: Gun Fuhrer.
@@ -133,7 +133,7 @@ Torps are even more of an afterthought than they are on Laffey, however, and unl
   
 * Recommended Loadouts:
   * [Full AA] 100mm twin; 533mm quintuple conventional torpedoes; 113mm dual AA; Research AA Radar; Research AA Radar
-  * [Optimal] 100mm twin; 533mm quintuple conventional torpedoes; 113mm dual AA; Toolbox; Oxytorp
+  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 113mm dual AA; Toolbox; Oxytorp
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 113mm dual AA; Toolbox; AA Radar
   
 * Desc: KMSan Diego.
@@ -148,8 +148,8 @@ Proud owner of a quick-firing, high-volume, AP conal barrage with four homing to
   * 70% chance every 20s to fire a special barrage and boost Evasion stat by 30% for 5s
 
 * Recommended Loadouts:
-  * [Optimal] 76mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [Poverty] 76mm; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+  * [General Purpose] 120mm Main Gun single; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] 120mm Main Gun single or 76mm; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: Nuclear Launch Detected.
 >Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even reach the tens of thousands.  
@@ -163,7 +163,7 @@ The DPH monster to LafKai's DPS.
   * Every 20s, 30% chance to lower an enemy's Reload by -30% and Damage by -15% for 10s (targets humanoid ships first).
 
 * Recommended Loadouts:
-  * [Optimal] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
@@ -175,8 +175,8 @@ The DPH monster to LafKai's DPS.
   * Her torpedoes always deal 115% damage against all targets, regardless of the normal torpedo modifiers (80/100/130)
 
 * Recommended Loadouts:
-  * [Optimal] 76mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [Poverty] 76mm; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+  * [General Purpose] 120mm Main Gun single; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] 120mm Main Gun single or 76mm; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: Black Not Shooter.
 >A veritable turncoat of a DD, Kawakaze's main purpose is making Light Armoured units' lives hell by drilling right through it with her torps and her stellar torpedo-armed barrage - and she accomplishes it beautifully.  
@@ -187,7 +187,7 @@ Terrifyingly effective against her intended targets, to the point of overtaking 
   * 6% chance on Main Gun fire for +40% FP/Torp/Evasion/Reload to self.
 
 * Recommended Loadouts:
-  * [Optimal] 76mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 76mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] 76mm; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
@@ -203,7 +203,7 @@ The general strat is to gear her with a super-fast DD gun to proc her skill+barr
   * 60% chance to activate every 20 seconds, increase own Reload by 40% for 10 seconds
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: The bubblewrap fights back!
@@ -217,7 +217,7 @@ As it is for Phoenix, they are best used in mobbing fleets.
   * 70% e/ 20s to +40% her own Firepower/Torpedo/Reload for 10s and, once per battle, if an escort ship's Health falls below 20%, decrease the damage it takes by 15%. If the ship is Helena, additionally heal 8% of Helena's max Health
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc:
@@ -231,7 +231,7 @@ With no real weakness on display, beyond simply not being quite as good as more 
   * When alive in fleet, allied CV/L take -15% damage
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 
@@ -247,7 +247,7 @@ With no real weakness on display, beyond simply not being quite as good as more 
   * Upon launching torpedoes, 30% chance to launch a second spread
 
 * Recommended Loadouts:
-  * [Optimal] 136.8mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 136.8mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
@@ -260,7 +260,7 @@ Maury does things differently from many of her colleagues, but she does them wel
   * 70% chance every 20s to fire a special barrage and boost torpedo stat by 30% for 5s
 
 * Recommended Loadouts:
-  * [Optimal] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
@@ -270,7 +270,7 @@ Maury does things differently from many of her colleagues, but she does them wel
 * Skill: In battle, increases evasion by 30% and torpedo stat by 10% of all Tokugata (herself, Ayanami, Akatsuki, Ikazuchi, Inazuma) destroyers in same fleet.
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
@@ -282,7 +282,7 @@ Maury does things differently from many of her colleagues, but she does them wel
   * When her torpedo hits an enemy, 17% chance to make said enemy take 40% more damage from all torpedoes for 8s.
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Oxytorp; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Oxytorp; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc:
@@ -296,7 +296,7 @@ Devastating if the stars align and the debuff procs on her first torp hit, but l
   * Can equip CL guns (but shouldn't).
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
@@ -309,7 +309,7 @@ That said, if you have no need for such a skill you should probably look for ano
   * Upon expiration, decrease reload by 100% for 3s.
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 - Desc: Vorpal Häschen.
@@ -321,7 +321,7 @@ Very similar in behaviour to her USS counterpart, but whereas she can run a one-
   * At the start of battle and every 20s afterwards, launch a special barrage (a few HE shots in a cone, two waves of 5 and 4 torpedoes respectively) and gain +24% FP/Torp; the buff loses potency and expires over the next 20s.
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 - Desc:
@@ -334,7 +334,7 @@ The tempo she forces upon you is fairly demanding, as the average DD torpedo set
   * When sortied as the Lead Ship, +20% Main Gun Efficiency and -30% AA Gun Efficiency.
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc:
@@ -349,7 +349,7 @@ Similarly to Laffey, her torps are awful but come out quick; consider patching u
   * 60% activation every 20s, increases own FP by 40% for 10s.
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -361,7 +361,7 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
   * Upon taking damage, 15% chance to make entire escort fleet to evade all attacks for 10s. DoT and Ramming damage still apply. CAN'T PROC BEFORE 20s HAVE PASSED (skill starts on cooldown).
 
 * Recommended Loadouts:
-  * [Optimal] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -373,7 +373,7 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
   * Increases Firepower, Torpedo, and Reload of DDs in the fleet by 10%
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -386,7 +386,7 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
   * When alive in fleet, allied CV/L deal +15% damage.
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -399,7 +399,7 @@ A hard sell, but perhaps your carriers may appreciate the buffs while someone pi
   * Every 20s, 60% chance to boost Firepower by 40%
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Oxytorp; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Oxytorp; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
   
 * Desc:  
@@ -411,7 +411,7 @@ Her torp game is still legit, if nothing else, and she'll be a decent placeholde
   * 5% chance on firing main gun to boost Evasion by 60% for 8s
 
 * Recommended Loadouts:
-  * [Optimal] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 76mm; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
@@ -423,7 +423,7 @@ Her torp game is still legit, if nothing else, and she'll be a decent placeholde
   * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s. Has MGM+1.
 
 * Recommended Loadouts:
-  * [Optimal] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -435,7 +435,7 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
   * When planes are shot down within the AA circle, +25% own AA and Firepower for 8s.
 
 * Recommended Loadouts:
-  * [Optimal] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc:
@@ -446,7 +446,7 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
   * +40% FP and Eva to all KMS DD.
 
 * Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -533,7 +533,7 @@ Still, if you're willing to field a full french vanguard (and you do have good o
   * +15% damage to Sirens.
   
 * Recommended Loadouts:
-  * [Optimal] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
   
 - Desc: Insistent termaidology.
@@ -546,7 +546,7 @@ Armed with an excellent AP barrage and a very powerful AP boosting passive, and 
   * +20% Reload and Torpedo to all DD/CL in Fleet
   
 * Recommended Loadouts:
-  * [Optimal] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
   
 - Desc: The fox says 'torp'.
@@ -562,7 +562,7 @@ With no real weakness to speak of, her one significant flaw is not being able to
   * 25% chance upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc:
@@ -577,7 +577,7 @@ Most, if not all, Cruiser compositions will benefit by her presence.
   * 20s 60% chance to inflict a -40% damage resistance debuff on all enemies currently on the screen.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -589,7 +589,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
   * Once per fight and upon falling below 20% HP, restore 25% HP and +30% FP for 15s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -603,7 +603,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
 * Recommended Loadouts:
   * [Full Atk] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Autoloader; Autoloader
   * [Full Def] Prototype Triple 152mm Main Gun; 100mm twin; 40mm Quad Bofors; PR Hydraulic Gear; Gold SG Radar
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: It's not luck, it's all skill.
@@ -614,7 +614,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
   * +25% AP dmg.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc: "Worth her weight in gold."
@@ -628,7 +628,7 @@ Still, there's very few finer, more reliable frontline tanks than she - and that
   * At battle start and 20% chance at every 20s thereafter, create a smokescreen that lasts 5s. Smokescreen provides 40% evasion
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gunn; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gunn; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
@@ -639,7 +639,7 @@ Still, there's very few finer, more reliable frontline tanks than she - and that
   * Upon battle start, heals the fleet by 3.5% of her max HP.
   
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
   
 * Desc: 
@@ -653,7 +653,7 @@ It shouldn't need mentioning, but since she does not have a HE buffing skill, sh
   * +12% CritRate and +30% CritDmg to self.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Amazing how some spit and polish can enhance decimetres thick armour, isn't it?
@@ -666,7 +666,7 @@ It shouldn't need mentioning, but since she does not have a HE buffing skill, sh
   * Can use DD guns, and should.
   
 * Recommended Loadouts:
-  * [Optimal] 100mm twin; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   
 * Desc: Not [2B](https://i.imgur.com/jF188O7.jpg) taken lightly.
@@ -681,7 +681,7 @@ That said, you will need to deploy a few carriers to get the full experience and
   * +15% FP to all Cruisers.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -693,7 +693,7 @@ That said, you will need to deploy a few carriers to get the full experience and
   * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc: Original Dadster.
@@ -707,7 +707,7 @@ All in all, strong and dependable, just like her.
   * 25% upon firing AA guns, -20% own FP and +40% own AA for 3s.
   
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc:
@@ -720,7 +720,7 @@ All the utility of her skills with the sturdiness and DPS of the Cleveland-class
   * 10s after battle starts and 20% chance at every 20s thereafter, create a smokescreen that lasts 10s. Smokescreen provides 35% evasion and 35% reduced damage taken from airstrikes
 
 * Recommended Loadouts:
-  * [Optimal] Triple 155mm Mounted Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Triple 155mm Mounted Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Triple 155mm Mounted Gun; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Hot maid, in more ways than one.
@@ -733,7 +733,7 @@ Her place is strictly PvP, as there's many other HMS CL who will do what she doe
   * 30% chance to launch a second salvo on torpedo launch
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -746,7 +746,7 @@ Not too flashy, but sturdy enough and dependable.
   * 10s after battle start and on a 40% chance every 20s afterwards, deploys a flare (-25% Evasion Rate in the area) for 10s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -761,7 +761,7 @@ Her statline is still damn good, though, and their buffs can stack - as do the -
     * The 12 SHOTS deal 62 bdmg with 100/80/60 mods; the 12 TORPEDOES deal 72 bdmg with 80/100/130 mods. Their damage is modified by 100% of their relevant stat.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: La merveilleuse DDanseuse!
@@ -776,7 +776,7 @@ Her retaliatory barrage is pretty strong, but you should try *not* to proc it; l
   * 25% upon firing AA guns, -20% FP and +40% own AA for 3s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 *  Desc: 
@@ -788,7 +788,7 @@ She'll only buff herself, but a +40% FP never really goes amiss.
   * 20s 60% chance for +40% FP for 8s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
@@ -801,7 +801,7 @@ A solid pick regardless, especially if you expect aircraft
   * Upon firing AA guns, gain +25% AA for 5s; once per battle, if sortied with Lil Sandy or Cleveland and either falls under 40% HP, gain +25% FP/Acc.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: The lolifying beam spares nobody!
@@ -815,7 +815,7 @@ The AA buff is also okay, as it helps her withstand aerial punishment without in
 
 * Recommended Loadouts:
   * [Full Atk] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
@@ -828,7 +828,7 @@ Powerful for her class and rather inexpensive, but beware the severely subpar HP
   * Decreases the evasion rate of all enemy destroyers and light cruisers by 20%.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
@@ -841,7 +841,7 @@ More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
   * While alive, CV/L in the fleet take -15% damage.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -853,7 +853,7 @@ While she isn't a bad unit on her own by any stretch, her competitors are more p
   * 10% FP/Eva/Reload to all CL/CA in the fleet.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -865,7 +865,7 @@ While she isn't a bad unit on her own by any stretch, her competitors are more p
   * Has MGM+1 and Torpedoes.
   
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Boiler
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Boiler
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Boiler
 
 - Desc: Союз нерушимый республик свободных~ ♪♫♬
@@ -941,7 +941,7 @@ In short, she isn't tough and she isn't powerful - in fact she's really *really*
 
 * Recommended Loadouts:
   * [DPS] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; FCR
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: "Monster Hunter".
@@ -955,7 +955,7 @@ In short, she isn't tough and she isn't powerful - in fact she's really *really*
   * Has MGM+1 and torpedoes.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: Oni-chan~
@@ -970,7 +970,7 @@ While she is definitely less tanky, missing the extra 800 HP and 11 Evasion Port
   * Has MGM+1 and torpedoes.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Autoloader
+  * [General Purpose] Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Autoloader
   * [Poverty] 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: ROON FOR YOUR LIVES!
@@ -985,7 +985,7 @@ As a result, Roon is best served on boss battles - where she has time to rev up 
   * +15% damage vs Sirens.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: DESU VULT!
@@ -1002,7 +1002,7 @@ The only fault one can find in her would be her barrage - its wide linear patter
   * 25% chance every 20s, +15% damage resistance to the entire fleet for 8s
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1014,7 +1014,7 @@ The only fault one can find in her would be her barrage - its wide linear patter
   * 25% chance when firing main guns to fire another salvo
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: Can you say 24 shots in a row? She certainly can.   
@@ -1028,7 +1028,7 @@ While her HP is rather lacklustre, it's an easily solved issue and dead enemies 
   * Once retrofitted, can mount DD guns instead of torpedoes. Efficiency stays 160%. DO THIS.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: London cullin'.
@@ -1042,7 +1042,7 @@ Given all this, London Kai proudly joins Wichita and Choukai in their exclusive 
   * Upon Main Gun fire, 30% chance to double its damage.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Toolbox
 
 * Desc: 
@@ -1056,7 +1056,7 @@ Given all this, London Kai proudly joins Wichita and Choukai in their exclusive 
   * Has TWO preloaded torpedo spreads.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Toolbox
 
 - Desc: What do you mean "she's not a DD"?
@@ -1074,7 +1074,7 @@ Still, as long as you employ her for the surgical strikes she's made for, she ha
   * 30% chance upon Main Gun fire to double its shots' damage.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1086,7 +1086,7 @@ As a result, her double damage uptime is considerably higher than the 30% may le
   * 20% chance upon Main Gun fire to gain +100% Eva for 15s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Gold SG Radar; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Gold SG Radar; Research Hydraulic Gear
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Hydraulic Gear or Naval Camo
 
 - Desc: "Problem? What problem?"
@@ -1102,7 +1102,7 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
   * Take -20% damage from DD/CL gun attacks.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1115,7 +1115,7 @@ Solid and dependable, if unremarkable. No reason not to take her if you're going
   * 8% chance to reduce any damage taken by 50% on taking damage
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1128,7 +1128,7 @@ Her poor damage output brings her down in the long run, though, and is usually d
   * Take -20% damage from DD/CL gun attacks.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1141,7 +1141,7 @@ A good fit for mob- as well as boss-hunting, considering how frequent are DD and
   * 60% chance every 20s to increase Firepower by 40% for 10s
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1154,7 +1154,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
   * 30% chance to launch a second salvo on torpedo launch
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1174,7 +1174,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
   * May equip the 283mm SKC28, but shouldn't.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: 
@@ -1188,7 +1188,7 @@ A wrecking ball against small craft, to be sure, but watch out for when they pic
   * Ignitions sustained last for -3s and reduces incoming HE damage by 15%.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
   
 * Desc: 
@@ -1204,7 +1204,7 @@ Her direct competitor would be Portland Kai, and while she comes out of that com
   * +15% FP to all CL/CA in the fleet.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1217,7 +1217,7 @@ She will be phased out eventually, alas, but she's good while she's there and yo
   * Take -40% damage from suicide boats and -15% damage from HE; additionally, her autoguns gain +70% CritRate and ignore armour modifiers.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1242,7 +1242,7 @@ Also, she's slightly better at AA than her sisters (key word being "slightly", t
   * 8% chance to reduce any damage taken by 50% on taking damage
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: HAAH?!
@@ -1255,7 +1255,7 @@ Also, she's slightly better at AA than her sisters (key word being "slightly", t
   * 20s 70% chance to spawn 3 rotating shields (durability: 10 shots each).
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
@@ -1276,7 +1276,7 @@ If you're looking that something that won't die anytime soon, look no further; i
   * Enemies hit by Duke of York's Main Gun fire take +12% damage from all sources for 8s; also, her first volley deals x1.5 damage.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 381mm AA Gun; Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun; Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: 
@@ -1289,7 +1289,7 @@ If you're looking that something that won't die anytime soon, look no further; i
   * Once per battle and upon falling below 20% HP, restore 3% HP every 2s for 8s; also, for every 1% HP lost during the fight, her Reload increases by 1.
 
 * Recommended Loadouts:
-  * [Optimal] Twin 381mm Advanced Main Gun (general purpose) or 406MK6 (vs Light Boss); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Twin 381mm Advanced Main Gun (general purpose) or 406MK6 (vs Light Boss); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] Twin 410mm (general purpose) or 406MK6 (vs Light Boss); Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: Hail to the Monarch, baby.
@@ -1305,7 +1305,7 @@ As a result, it would be wise to pick your sovereign of choice with an eye to ba
     * The 4 AIMED SHELLS deal 226 bdmg with 90/120/70 mods; the 6 SHELLS deal 156 bdmg with 90/120/70 mods; the 16 DD PELLETS deal 25 bdmg with 90/70/40 mods; the 4 TORPEDOES deal 124 bdmg with 80/100/130 mods. All of these's damage is modified by 100% of their relevant stats, but only the torps have a 110% Coefficient.
 
 * Recommended Loadouts:
-  * [Optimal] Twin 381mm Advanced Main Gun; Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Twin 381mm Advanced Main Gun; Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] Twin 410mm; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: If you can't decide what to pick, pick it all.
@@ -1318,7 +1318,7 @@ As a result, it would be wise to pick your sovereign of choice with an eye to ba
     * The 4 TORPEDOES deal 137 bdmg with 80/100/130 mods. Their damage is modified by 150% of the unit's Torp stat.
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: Slow but steady...
@@ -1334,7 +1334,7 @@ However, all this becomes quickly irrelevant as soon as she loses her +30% damag
   * Starts the battle with a preloaded volley, but has MGM-1.
 
 * Recommended Loadouts:
-  * [Optimal] 380Mle quadruple; Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 380Mle quadruple; Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 380Mle quadruple; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: The terror of the Seven Seas.
@@ -1352,7 +1352,7 @@ Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow 
     * The 13 SHELLS deal 174 bdmg with 70/100/90 mods. Their damage is modified by 100% of the unit's FP.
 
 * Recommended Loadouts:
-  * [Optimal] Twin 381mm Advanced Main Gun; QF 120mm Twin; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Twin 381mm Advanced Main Gun; QF 120mm Twin; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] Twin 410mm; QF 120mm Twin; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: More than just a sub.
@@ -1365,7 +1365,7 @@ Remember to have her be the flagship to make the most out of her barrage, and th
   * Grant +15% FP to the entire backline.
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
@@ -1378,7 +1378,7 @@ Remember to have her be the flagship to make the most out of her barrage, and th
     * The 16 SHELLS deal 125bdmg with 90/120/70 mods; the 44 NEEDLES deal 125bdmg with 120/100/80 mods. The damage of both is modified by 100% of the unit's FP.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Mikasa for those who don't like or want more big guns.
@@ -1393,7 +1393,7 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
   * Grant +20% CritRate to the guns/torpedoes/planes used by KMS units, grant +12% Reload to all KMS units, grant Tirpitz +40% Damage.
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Twin 150mm Tbtsk; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Twin 150mm Tbtsk; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; Twin 150mm Tbtsk; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Here comes Tutorial Girl!
@@ -1410,7 +1410,7 @@ Last and least, she has a barrage too. It's not particularly good, but it's ther
   * 50% chance on Main Gun fire to heal the vanguard by 10% of their max HP.
 
 * Recommended Loadouts:
-  * [Optimal] Twin 381mm Advanced Main Gun; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Twin 381mm Advanced Main Gun; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] Twin 410mm; 128SKC; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: WAIT DON'T LEAVE JUST YET. 
@@ -1454,7 +1454,7 @@ She also has a few torps to throw out every now and then, but they're fairly lac
     * The 15 BOMBS deal 173bdmg with 80/85/110 mods. Their damage is modified by 100% of their Aviation stat.
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
@@ -1469,7 +1469,7 @@ A steep price to pay, especially considering how weak the seaplanes are in compa
   * Gain +25% Evasion and Accuracy.
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: An upgrade to Washington.
@@ -1485,7 +1485,7 @@ The Accuracy and Evasion boosts are nice to have, too, but not exactly worthy of
   * Main Gun ammo is overrideen to SHS (60/135/115, shells fire at extremely high angles and fall from the sky) and salvo damage increases the farther the shots land, up to +30% dmg.
 
 * Recommended Loadouts:
-  * [Optimal] 406MK1; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK1; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK1; 128SKC; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Massachusetts shoots for the stars, but the aim isn't quite there. 
@@ -1498,7 +1498,7 @@ If you can guarantee your target won't be moving around much at all and is bigge
   * Upon main gun fire, 30% chance to double the volley damage.
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
@@ -1511,7 +1511,7 @@ Still RNG, yes, but still quite solid and there's nobody cheaper than them, at l
   * 30% chance to do double damage when firing main gun
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
@@ -1524,7 +1524,7 @@ Still RNG, yes, but still quite solid and there's nobody cheaper than them, at l
   * When South Dakota's HP falls to/below 30%, South Dakota gains Protection (avoid lethal damage for 5s) while Washington deals +20% damage and absorbs 30% of the damage sustained by South Dakota.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: Smile for the FCR!
@@ -1550,7 +1550,7 @@ A very solid defensive pick, further helped by the fact her Sanshikidan barrage 
   * While alive in fleet, +15% Firepower/Accuracy and +20% Evasion for all Kongou-class (Kongou, Kirishima, Haruna, Hiei). 
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Kongou-class support craft. Not very flashy, but her buffs are anything but unremarkable - the extra Evasion in particular makes a Kongou-class backline powerful and extremely hard to shift.
@@ -1560,7 +1560,7 @@ A very solid defensive pick, further helped by the fact her Sanshikidan barrage 
   * +20% FP to self.
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Quite literally an improved non-Kai Yamashiro/Fusou in all respects, from the statline to the efficiencies. Not much to say here.
@@ -1585,7 +1585,7 @@ A force to be reckoned with, especially considering her cost, but don't count on
   * Every 20s, launch 3 unguided torpedoes in a cone.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
@@ -1615,7 +1615,7 @@ Still hits damn hard, though, and harder still when she's on a good roll.
     * The 12 SHELLS deal 120 bdmg with 70/100/90 modifiers. Their damage is modified by 100% of the unit's FP.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
@@ -1630,7 +1630,7 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
   * Deal +10% Damage to IJN/KMS/RM/Siren units; if sortied with 3 other HMS units, gain +20% FP/AA/Reload/Evasion.
   
 * Recommended Loadouts:
-  * [Optimal] 356mm quad (if conditions apply) or 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 356mm quad (if conditions apply) or 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 356mm quad (if conditions apply) or 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Takes a King to put an upstart Prince in its place.
@@ -1644,7 +1644,7 @@ In short, she's a big burly beatstick that'll benefit from having some HMS cheer
   * +15% FP/Torp/AA/Aviation/Evasion/Reload to all HMS ships.
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Monkey business.
@@ -1657,7 +1657,7 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
   * Upon first Main Gun fire, +15% Damage to all subsequent salvo (does not stack nor reset).
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); QF 120mm twin; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); QF 120mm twin; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; QF 120mm twin; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
@@ -1669,7 +1669,7 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
     * The 2 SHELLS always crit and deal 154 bdmg with 30/130/110 mods. Their damage is modified by 80/100% of the unit's FP (PvP/PvE) and a 110% Coefficient.
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: "The Queen's Royal Corgi".
@@ -1684,7 +1684,7 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
   * Deal +15% damage vs Sirens.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 381mm AA Gun (vs Light) or Twin 381mm Advanced Main Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Twin 381mm Advanced Main Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Consistently bad.
@@ -1712,7 +1712,7 @@ Bad not just by PR standards but as a whole, there is little to no reason to eve
   * Starts the battle with a preloaded volley, but has MGM-1.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: The predecessor to Jean Bart, and it does show.
@@ -1766,7 +1766,7 @@ Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in t
   * 10s after battle start, 10s cooldown after each use and used only when an enemy gets too close, fire 4 converging CA shells.
  
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Zuiun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Zuiun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Zuiun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
  
 * Desc: 
@@ -1783,7 +1783,7 @@ The seaplanes are still middling at best, but you're paying no price for a BB wi
   * Ise Kai's first two airstrikes have their cooldown reduced by 25% and launch 2 Suisei dive bombers; if a CV/L is present in the fleet, these bonuses remain active.
 
 * Recommended Loadouts:
-  * [Optimal] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Zuiun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Zuiun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; Zuiun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
@@ -1819,7 +1819,7 @@ In short, they're by all accounts a downgrade over their BB forms. Avoid like th
   * Has a 4/0/4 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; F6F Hellcat; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; F6F Hellcat; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; F4U Corsair; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: Centaur is the best generalist the game has to offer among its backliners.
@@ -1837,7 +1837,7 @@ Whatever's getting you down, Centaur has the solution for it - and while she won
   * Has a 0/3/3 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] SB2C Helldiver; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] SB2C Helldiver; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] SB2C Helldiver or JU87 Stuka; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
@@ -1853,7 +1853,7 @@ Can't match Unicorn in air superiority, lacking fighters, but decisively asserts
   * Has a 3/3/2 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
@@ -1867,7 +1867,7 @@ It's not all bombs and sunshine, though - while her proc rate is high, she is ne
   * Has a 0/6/2 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] Barracuda or Ryusei; SB2C Helldiver; SB2C Helldiver; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] Barracuda or Ryusei; SB2C Helldiver; SB2C Helldiver; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] Tenzan; SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
@@ -1881,7 +1881,7 @@ Beware her near-total lack of anti-air presence, though; without Fighters or AA 
   * Has a 3/0/3 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
@@ -1895,7 +1895,7 @@ Do not expect much from her in terms of DPS, though.
   * Have a 3/2/3 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 - Desc: The Foxes launched first.
@@ -1910,7 +1910,7 @@ As is customary for IJN sister ships, they truly shine when used together - but 
 
 * Recommended Loadouts:
   * [Guaranteed Sync] A6M5 Zero; D4Y Suisei; Ryusei; Hydraulic Catapult; Hydraulic Catapult
-  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
@@ -1928,7 +1928,7 @@ Her buffs and layout are good enough to warrant usage even solo.
   * Has a 2/6/0 loadout.
   
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; SB2C Helldiver; SB2C Helldiver; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; SB2C Helldiver; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: Puella Magi Toga Magica.
@@ -1943,7 +1943,7 @@ Her Kai skill, just like her gunfire skill, is best regarded as a bit of free ad
   * Has a 3/3/2 Loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 - Desc: Putting the 'fleet' in 'fleet carrier'.
@@ -1957,7 +1957,7 @@ Do NOT think she can solo backline past W6, though. Carriers aren't made for tha
   * Has a 3/2/3 Loadout.
   
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
@@ -1970,7 +1970,7 @@ Do NOT think she can solo backline past W6, though. Carriers aren't made for tha
   * Has a 3/3/2 Loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
@@ -1986,7 +1986,7 @@ Do NOT think she can solo backline past W6, though. Carriers aren't made for tha
   * Has a 6/2/0 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; F6F Hellcat; Fairey Firefly; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; F6F Hellcat; Fairey Firefly; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; F4U Corsair; Fairey Fulmar; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc:
@@ -1999,7 +1999,7 @@ Do NOT think she can solo backline past W6, though. Carriers aren't made for tha
   * Have a 2/6/0 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
@@ -2013,7 +2013,7 @@ They don't launch fast, but when they do they really leave a mark - make sure to
   * Has a 0/2/6 loadout.
   
 * Recommended Loadouts:
-  * [Optimal] Fairey Fulmar; Ryusei; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] Fairey Fulmar; Ryusei; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] Fairey Fulmar; Tenzan; Tenzan; Hydraulic Catapult; Hydraulic Catapult
   
 * Desc: 
@@ -2026,7 +2026,7 @@ Whether it's boss-busting or wave-clearing, give her the appropriate planes and 
   * Has a 6/0/2 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; F6F Hellcat; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; F6F Hellcat; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; F4U Corsair; Barracuda or Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: Zero to (AS) Hero.
@@ -2040,7 +2040,7 @@ Her niche is providing air superiority and protecting the frontline from harm th
   * Has a 3/0/3 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
@@ -2072,7 +2072,7 @@ Her only real flaw is her lacking Reload, a mere 100 compared to most other top-
   * Has a 3/3/2 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
@@ -2086,7 +2086,7 @@ Just don't expect much in the way of support, beyond the air coverage provided b
   * Has a 3/0/3 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
@@ -2101,7 +2101,7 @@ That said, she's still mostly an attack craft - her ASW capabilties, while a nic
   * Has a 2/3/3 loadout.
 
 * Recommended Loadouts:
-  * [Optimal] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
@@ -2124,8 +2124,6 @@ Still, high plane efficiency coupled with a neat AA buff for the backline allows
 * Skill: 
   * When deployed w/ at least 1 HMS backliner and upon airstrike launch, 50% chance to launch a Spitfire squadron.
   * Has a 3/3/2 loadout.
-
-
 
 - Desc: SMOL WASP YO!
 >The cheapest CV in the game, by virtue of her Blue rarity... and that's pretty much it, as far as remarkable features go.  
