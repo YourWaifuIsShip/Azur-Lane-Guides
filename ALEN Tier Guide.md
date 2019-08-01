@@ -54,8 +54,8 @@ Good reading, and godspeed cap'n!
 tldr; BB/BC and CV/CVL do different things, holding them to the same standards makes little sense.
 - The recommended gear automatically assumed you'll use the highest rarity available for the listed pieces of gear, unless specifying otherwise is relevant; also, DO NOT HOLD THESE RECOMMENDATIONS AS THE OPTIMAL LOADOUTS, these are meant for general or somewhat more specific purposes but they may not be the be-all end-all.  
 As a guru put it,  
-"the pursuit of always optimal loadouts is a fool's errand
->It is and nothing shows it better than AA, but what can ya do beyond warning and pointing out the issues with that
+>"the pursuit of always optimal loadouts is a fool's errand  
+(a) It is and nothing shows it better than AA, but what can ya do beyond warning and pointing out the issues with that  
 yell louder that people are literally hunting for el fucking dorado"
 
 
