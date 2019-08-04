@@ -742,7 +742,7 @@ All in all, strong and dependable, just like her.
 >Ever wanted to use Hammann but didn't want to deal with her terrible stats and weaponry? Well, now you can.  
 All the utility of her skills with the sturdiness and DPS of the Cleveland-class. Neat.
  
- ![CL](https://azurlane.koumakan.jp/w/images/5/50/DenverChibi.png "Denver") - **[USS Denver](https://azurlane.koumakan.jp/Denver)**
+![CL](https://azurlane.koumakan.jp/w/images/5/50/DenverChibi.png "Denver") - **[USS Denver](https://azurlane.koumakan.jp/Denver)**
 * Skill: 
   * 60% chance every 20s, +40% FP for 8s.
   * 25% upon firing AA guns, -20% FP and +40% own AA for 3s.
@@ -1544,7 +1544,7 @@ She also has a few torps to throw out every now and then, but they're fairly lac
 Their Kai is unique in that it is a sidegrade rather than an upgrade: when turned into BBV, they trade their CL guns and 1/3 of their BB salvo for seaplanes, letting them launch airstrikes as if they were carriers.  
 A steep price to pay, especially considering how weak the seaplanes are in comparison to 'proper' bombers, how slow the launches are in comparison to 'proper' carriers and how much better are Ise and Hyuuga as BBVs.
 
-![BB](https://azurlane.koumakan.jp/w/images/1/19/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** **(T2 with BB/BC, T0 with Tirpitz)**
+![BB](https://azurlane.koumakan.jp/w/images/1/19/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** **(T2 with BB/BC, T0 with Bismarck)**
 * Skill: 
   * +30% Damage to self, as long as she is the only BB/BC in the fleet.
   * Every 15s, launches a [torpedo barrage](http://p1.qhimg.com/t01c6cc7b9a0663a9c1.gif).
