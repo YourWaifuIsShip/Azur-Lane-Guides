@@ -838,7 +838,7 @@ The AA buff is also okay, as it helps her withstand aerial punishment without in
 
 ![CL](https://azurlane.koumakan.jp/w/images/4/4f/San_JuanChibi.png "San Juan") - **[USS San Juan](https://azurlane.koumakan.jp/San_Juan)** **(T1.5 to T0.5 depending on amount of USS units in the fleet; Plane Hells only)**
 * Skill: 
-  * Upon firing AA guns, 25% chance to grant +30% AA to ALL units in the fleet for 5s; also, every 13 main gun shots hits, gain a stack of +8% FP (max. 3 stacks)
+  * Upon firing AA guns, 25% chance to grant +30% AA to ALL USS units in the fleet for 5s; also, every 13 main gun shots hits, gain a stack of +8% FP (max. 3 stacks)
 
 * Recommended Loadouts:
   * [Full AA] 100mm dual; 533mm quintuple conventional torpedoes; 113mm; Research AA Radar; Research AA Radar
