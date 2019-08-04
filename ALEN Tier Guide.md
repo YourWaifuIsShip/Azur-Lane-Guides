@@ -226,7 +226,6 @@ As it is for Phoenix, they are best used in mobbing fleets.
   * 70% e/ 20s to +40% her own Firepower/Torpedo/Reload for 10s and, once per battle, if an escort ship's Health falls below 20%, decrease the damage it takes by 15%. If the ship is Helena, additionally heal 8% of Helena's max Health
 
 * Recommended Loadouts:
-
   * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
@@ -702,7 +701,20 @@ That said, you will need to deploy a few carriers to get the full experience and
 
 * Desc: 
 >A full-gun alternative to Leander, somewhat sturdier than she is and in possession of a better barrage. Solid and a vital step on the road to Wichita.
- 
+
+![CL](https://azurlane.koumakan.jp/w/images/4/40/BirminghamChibi.png "Birmingham") - **[USS Birmingham](https://azurlane.koumakan.jp/Birmingham)**
+* Skill: 
+  * Shortens Ignitions sustained by the flagship by -3s; gain +15% FP/AA for 8s when an enemy plane is shot down.
+  * Upon taking damage (and on a 8s internal cooldown), 10% chance to gain +40% Evasion for 5s; once per battle and upon falling below 30% HP, 
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
+
+- Desc: 
+>A slightly sturdier than usual Cleveland who performs better rather than worse when planes are around.  
+Not much to say about her, she's solid and unremarkable like the rest of her class (Montpelier notwithstanding).
+
 ![CL](https://azurlane.koumakan.jp/w/images/4/4a/ClevelandChibi.png "USS Cleveland") - **[USS Cleveland](https://azurlane.koumakan.jp/Cleveland)**
 * Skill: 
   * 25% chance every 20s to boost Damage fleetwide by 25%
@@ -729,6 +741,19 @@ All in all, strong and dependable, just like her.
 - Desc:
 >Ever wanted to use Hammann but didn't want to deal with her terrible stats and weaponry? Well, now you can.  
 All the utility of her skills with the sturdiness and DPS of the Cleveland-class. Neat.
+ 
+ ![CL](https://azurlane.koumakan.jp/w/images/5/50/DenverChibi.png "Denver") - **[USS Denver](https://azurlane.koumakan.jp/Denver)**
+* Skill: 
+  * 60% chance every 20s, +40% FP for 8s.
+  * 25% upon firing AA guns, -20% FP and +40% own AA for 3s.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
+
+*  Desc: 
+>The most selfish of the Solomon Cavaliers - not a good look for a CL, but she's still rather okay.  
+She'll only buff herself, but a +40% FP never really goes amiss.
  
 ![CL](https://azurlane.koumakan.jp/w/images/8/84/BelfastChibi.png "HMS Belfast") - **[HMS Belfast](https://azurlane.koumakan.jp/Belfast)**
 * Skill: 
@@ -786,19 +811,6 @@ Her retaliatory barrage is pretty strong, but you should try *not* to proc it; l
 
 ### Tier 2:
 ---
-![CL](https://azurlane.koumakan.jp/w/images/5/50/DenverChibi.png "Denver") - **[USS Denver](https://azurlane.koumakan.jp/Denver)**
-* Skill: 
-  * 60% chance every 20s, +40% FP for 8s.
-  * 25% upon firing AA guns, -20% FP and +40% own AA for 3s.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
-
-*  Desc: 
->The weakest of the Solomon Cavaliers, which means she's still pretty solid.  
-She'll only buff herself, but a +40% FP never really goes amiss.
-
 ![CL](https://azurlane.koumakan.jp/w/images/d/dc/HonoluluChibi.png "USS Honolulu") - **[USS Honolulu](https://azurlane.koumakan.jp/Honolulu)**
 * Skill: 
   * 20s 60% chance for +40% FP for 8s.
@@ -823,6 +835,19 @@ A solid pick regardless, especially if you expect aircraft
 *  Desc: The lolifying beam spares nobody!
 > So poor Helena got shrunk too. Unfortunate, but at least she gets a better deal than the other two loli of the batch - her statline hasn't dropped at all beyond a -400ish HP compared to the real version, and while there's no doubt a stat debuff is a lot worse than *just dealing more damage* to all enemies, it is nevertheless nice to have.  
 The AA buff is also okay, as it helps her withstand aerial punishment without into her FP as the Cleveland-class buff does; the lolibote buff isn't, as neither other loli is worth taking along and it only procs when they're around.  
+
+![CL](https://azurlane.koumakan.jp/w/images/4/4f/San_JuanChibi.png "San Juan") - **[USS San Juan](https://azurlane.koumakan.jp/San_Juan)** **(T1.5 to T0.5 depending on amount of USS units in the fleet; Plane Hells only)**
+* Skill: 
+  * Upon firing AA guns, 25% chance to grant +30% AA to ALL units in the fleet for 5s; also, every 13 main gun shots hits, gain a stack of +8% FP (max. 3 stacks)
+
+* Recommended Loadouts:
+  * [Full AA] 100mm dual; 533mm quintuple conventional torpedoes; 113mm; Research AA Radar; Research AA Radar
+  * [General Purpose] 100mm dual; 533mm quintuple conventional torpedoes; 113mm; Toolbox; Oxytorp
+  * [Poverty] 120mm dual or 100mm dual; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: Smol Diego done right.
+>Leagues bette than the travesty that was Lil Diego, San Juan very successfully emulates San Diego's main strength (strong fleetwide AA buff) while having some passable DPS of her own; stick her in with a USS fleet and watch them become murder incarnate to incoming aircraft.  
+It goes without saying that she'll severely underperform if she's not going to assist USS units, of course.
 
 ![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - **[HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax)**
 * Skill: 
@@ -1012,6 +1037,19 @@ The only fault one can find in her would be her barrage - its wide linear patter
  
 ### Tier 0.5:
 ---
+![CA](https://azurlane.koumakan.jp/w/images/c/c3/BaltimoreChibi.png "Baltimore") - **[USS Baltimore](https://azurlane.koumakan.jp/Baltimore)** **(T0 w/ USS CV/L)**
+* Skill: 
+  * Overrides Main Gun ammo with improved AP (85/120/85 modifiers).
+  * If deployed with USS CV/L, grant them +7% AA and +15% Aviation; if sortied without, gain +12% FP and +15% Evasion.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] Prototype 203mm Type 3 Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+* Desc: Baltimore AP Blues.
+>Designed to take the fight to later worlds, Baltimore proves to be a tough hard-hitter in every situation; with or without USS carriers to augment she's nearly always at her best, all you have to do is make sure she's snacking on heavy cruisers and carriers or, at the very least, landing those pierces.  
+Nevertheless, do try to have her around those USS carriers, as the buffs she grants them are more substantial than those she has for herself.
+
 ![CA](https://azurlane.koumakan.jp/w/images/4/44/PortlandKaiChibi.png "Portland Kai") - **[USS Portland Kai](https://azurlane.koumakan.jp/Portland#retrofit)**
 * Skill: 
   * When sortied w/ Indianapolis, gain +15% Firepower, AA and Evasion
@@ -1024,7 +1062,7 @@ The only fault one can find in her would be her barrage - its wide linear patter
 * Desc: 
 >Exceptional HP, twice the base Evasion other CAs get, high Firepower and high AA - in a similar fashion to Cleveland, her stats alone justify her rating and the skills are just icing on the cake. She won't hit as often as Wichita or as hard as Chicago, but she's more consistent and much harder to kill.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/7b/WichitaChibi.png "USS Wichita") - **[USS Wichita](https://azurlane.koumakan.jp/Wichita)**
+![CA](https://azurlane.koumakan.jp/w/images/7/7b/WichitaChibi.png "USS Wichita") - **[USS Wichita](https://azurlane.koumakan.jp/Wichita)** **(T0 w/ Gun-focused Cruisers)**
 * Skill: 
   * Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
   * 25% chance when firing main guns to fire another salvo
@@ -1052,7 +1090,7 @@ While her HP is rather lacklustre, it's an easily solved issue and dead enemies 
 While her base form has never been bad, performing as well as a Leander Kai at the end of the day, her comparatively high costs and mostly irrelevant niche (buffing DD FP as well as the rest) meant she wouldn't see much use; the Kai does not change this, but it does put her DPS in the big leagues thanks to her new obscenely powerful DD mount and chance for double damage, while the stat gains make her considerably tougher beside; the +Acc stacks are nice but not particularly important as vanguards don't really struggle landing hits but more crits are appreciated nonetheless.  
 Given all this, London Kai proudly joins Wichita and Choukai in their exclusive "best and most useful CA club" and does so with finesse.
 
-![CA](https://azurlane.koumakan.jp/w/images/c/cb/ChoukaiChibi.png "Choukai") - **[IJN Choukai](https://azurlane.koumakan.jp/Choukai)**
+![CA](https://azurlane.koumakan.jp/w/images/c/cb/ChoukaiChibi.png "Choukai") - **[IJN Choukai](https://azurlane.koumakan.jp/Choukai)** **(T0 w/ Torpedo-armed Cruisers)
 * Skill: 
   * Gain +10% Firepower (permanent); 60% chance every 20s, +20% Firepower and Torpedo to all allied CL/CA for 10s.
   * Upon Main Gun fire, 30% chance to double its damage.
@@ -1330,22 +1368,7 @@ As a result, it would be wise to pick your sovereign of choice with an eye to ba
 - Desc: If you can't decide what to pick, pick it all.
 >Packing offence debuffs for her enemies, defence buffs for her backline, a barrage that includes normal arcing shells alongside linear AP shells and even aimed torpedoes, Amagi has quite literally a bit of everything in herself; and it all comes together as one sleek and effective whole, only marginally hampered by her IJN-standard terrible AA.
 
-![BB](https://azurlane.koumakan.jp/w/images/1/19/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** **(T2 with BB/BC)**
-* Skill: 
-  * +30% Damage to self, as long as she is the only BB/BC in the fleet.
-  * Every 15s, launches a [torpedo barrage](http://p1.qhimg.com/t01c6cc7b9a0663a9c1.gif).
-    * The 4 TORPEDOES deal 137 bdmg with 80/100/130 mods. Their damage is modified by 150% of the unit's Torp stat.
 
-* Recommended Loadouts:
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
-
-- Desc: Slow but steady...
->One of the most consistent and hardest hitting BBs in the game, provided you cater to her social anxiety.  
-Unlike many of her other similarly ranked competitors, Tirpitz isn't flashy in the slightest - no 'real' barrages to speak of, no gamechanging synergies, no ability to take other BB/BC with her - but she doesn't need to be, when hitting hard as a truck with no conditions or strings attached is something none of her rivals can claim.  
-Tirpitz is, in a way, the "safe" choice - her abilities can't misfire, her HP+Armour make her tougher than anyone else, her damage buff extends to both her CL guns and torpedo spread, ensuring that even at 0 Ammo she will still be able to strike and defend herself at nigh-peak efficiency regardless.  
-However, all this becomes quickly irrelevant as soon as she loses her +30% damage buff as it the main reason behind her power; without it she has very little reason to be used and will be easily outshone by pretty much everyone.   
 
  ![BB](https://azurlane.koumakan.jp/w/images/0/0f/Jean_BartChibi.png "Jean Bart") - **[MNF Jean Bart](https://azurlane.koumakan.jp/Jean_Bart)**
 * Skill: 
@@ -1430,6 +1453,21 @@ Last and least, she has a barrage too. It's not particularly good, but it's ther
 ### Tier 1:
 ---
 
+![BB](https://azurlane.koumakan.jp/w/images/2/25/AlabamaChibi.png "Incest") - **[USS Alabama](https://azurlane.koumakan.jp/Alabama)** **(T0 if mob fleet flagship)**
+* Skill:
+  * Gain +12 Evasion and take -20% damage from torpedoes; also, 75% chance to fire a barrage every 20s.
+    * The 9 SHELLS deal 170 bdmg with 50/120/115 mods; the 30 DD PELLETS deal 20 bdmg with 120/60/60 mods (and have 50 Range). The damage of both is modified by 100% of the unit's FP.
+  * Gain a persistent stack of +2.5% FP per enemy node destroyed, and gain a temporary stack +2.5% FP per enemy destroyed in battle (up to a cap of 17.5%, meaning that Alabama starts with more stacks the more nodes she fights but still can't go past +17.5%); also, after the 5th destroyed node, the backline takes -8% damage.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Research AA Radar; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+- Desc: Washington 2: The Blackening.
+>Take Washington, upgrade her barrage to AP and slightly raise its procrate, get rid of the useless synergy and replace it with an actually good set of self-buffs, and voilà - you have Alabama, a steamroller of a mob fleet flagship.  
+While she can work on boss fleets, so long as she gets some kills before it spawns and nobody else wants the flag slot, she's better off playing to her strengths.
+
 ![BB](https://azurlane.koumakan.jp/w/images/1/10/ArizonaChibi.png "USS Arizona") - **[USS Arizona](https://azurlane.koumakan.jp/Arizona)**
 * Skill: 
   * 50% chance on Main Gun fire to heal the vanguard by 10% of their max HP.
@@ -1443,6 +1481,20 @@ Last and least, she has a barrage too. It's not particularly good, but it's ther
 - Desc: WAIT DON'T LEAVE JUST YET. 
 >Healing on a cointoss sounds pretty bad, yes, but ask yourself this - how many units can properly heal at all, and how many of them pack the Firepower, sturdiness and self-defence capabilities of a BB?
 >Yup, that's just her - and while her heal isn't as reliable as that of Unicorn or Shouhou, she's an excellent fit for a vanguard who doesn't strictly need the heals to stay alive and keep fighting.
+
+![BB](https://azurlane.koumakan.jp/w/images/b/be/NevadaKaiChibi.png "Nevada Kai") ![BB](https://azurlane.koumakan.jp/w/images/0/0b/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
+* Skill: 
+  * Upon taking damage, 8% chance to halve that damage.
+  * Upon main gun fire, 30% chance to double the volley damage.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc: 
+>Similar in form, statline and function to their bigger, blacker cousin - AA aside - these cowgirls operate at a fraction of South Dakota's cost while providing similarly good results, courtesy of their better Efficiency and uncharacteristically high Accuracy.
+Bit RNG still, but there's nobody cheaper than them in their class.
 
 ![BB](https://azurlane.koumakan.jp/w/images/c/cd/North_CarolinaChibi.png "USS North Carolina") - **[USS North Carolina](https://azurlane.koumakan.jp/North_Carolina)** **(T0 in Plane Hells)**
 * Skill:
@@ -1492,6 +1544,22 @@ She also has a few torps to throw out every now and then, but they're fairly lac
 Their Kai is unique in that it is a sidegrade rather than an upgrade: when turned into BBV, they trade their CL guns and 1/3 of their BB salvo for seaplanes, letting them launch airstrikes as if they were carriers.  
 A steep price to pay, especially considering how weak the seaplanes are in comparison to 'proper' bombers, how slow the launches are in comparison to 'proper' carriers and how much better are Ise and Hyuuga as BBVs.
 
+![BB](https://azurlane.koumakan.jp/w/images/1/19/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** **(T2 with BB/BC, T0 with Tirpitz)**
+* Skill: 
+  * +30% Damage to self, as long as she is the only BB/BC in the fleet.
+  * Every 15s, launches a [torpedo barrage](http://p1.qhimg.com/t01c6cc7b9a0663a9c1.gif).
+    * The 4 TORPEDOES deal 137 bdmg with 80/100/130 mods. Their damage is modified by 150% of the unit's Torp stat.
+
+* Recommended Loadouts:
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
+  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
+
+- Desc: Slow but steady...
+>One of the most consistent and hardest hitting BBs in the game, provided you cater to her social anxiety.  
+While not as flashy as her competition, Tirpitz is, in a way, the "safe" choice - her abilities can't misfire, her defensive statlines makes her tougher than most and her damage buff extends to both her CL guns and torpedo spread, ensuring that even at 0 Ammo she will still be able to strike and defend herself with remarkable effectiveness.
+However, all this becomes quickly irrelevant as soon as she loses her +30% damage buff as it the main reason behind her power; without it she has very little reason to be used and will be easily outshone by pretty much everyone.   
+
 ![BB](https://azurlane.koumakan.jp/w/images/d/d0/Super_Gamer_Kizuna_AIChibi.png "BBakyu") - **[Super Gamer Kizuna AI](https://azurlane.koumakan.jp/Super_Gamer_Kizuna_AI)**
 * Skill:
   * Gain +30% Main Gun CritRate and increase her Main Gun Scatter by +1; also, 70% chance every 16s to fire a special [barrage](http://p7.qhimg.com/t01493e3bb4e0ed2864.gif).
@@ -1523,20 +1591,6 @@ The Accuracy and Evasion boosts are nice to have, too, but not exactly worthy of
 * Desc: Massachusetts shoots for the stars, but the aim isn't quite there. 
 >On paper she'd easily be T1 material, as the self-buffs are both significant and easily achieved while the SHS ammo type and its enhanced AP modifiers allow her to damage Light Armour... but it also severely reduces both the splash radius of the shots AND their scatter, piledriving her chances to hit even slowly moving targets into the ground.
 If you can guarantee your target won't be moving around much at all and is bigger than a CL, a very solid pick; if you can't, best look elsewhere.
-
-![BB](https://azurlane.koumakan.jp/w/images/b/be/NevadaKaiChibi.png "Nevada Kai") ![BB](https://azurlane.koumakan.jp/w/images/0/0b/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
-* Skill: 
-  * Upon taking damage, 8% chance to halve that damage.
-  * Upon main gun fire, 30% chance to double the volley damage.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
-* Desc: 
->Similar in form, statline and function to their bigger, blacker cousin - AA and backline-wide tank skill aside - these cowgirls operate at a fraction of Sodak's cost while providing similar results.  
-Still RNG, yes, but still quite solid and there's nobody cheaper than them, at least in their class.
 
 ![BB](https://azurlane.koumakan.jp/w/images/8/80/South_DakotaChibi.png "USS South Dakota") - **[USS South Dakota](https://azurlane.koumakan.jp/South_Dakota)**
 * Skill: 
@@ -1971,6 +2025,20 @@ Her buffs and layout are good enough to warrant usage even solo.
 
 ### Tier 1:
 ---
+![CVL](https://azurlane.koumakan.jp/w/images/9/94/BataanChibi.png "Arminsky") - **[USS Bataan](https://azurlane.koumakan.jp/Bataan)** **(T0.5 if not deployed as flag)
+* Skill: 
+  * Gain +30% Fighter Efficiency if using a F6F Hellcat; also, 70% chance to launch three more F6F when airstriking.
+    * The 6 500lb BOMBS carried by the F6F deal 380 bdmg with 80/90/110 mods. They are modified by 80% of the unit's Aviation stat.
+  * If not sortied as flagship, grant +15% Reload to other CV/L in the fleet and +50 AA to the flagship.
+  * Has a 3/0/3 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F6F Hellcat; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>More independent than Indepence and rolling in Hellcats, Bataan provides great DPS and support for her class and is a very solid addition to most carrier compositions - especially those who need some extra fighter coverage.
+
 ![CV](https://azurlane.koumakan.jp/w/images/d/dc/SaratogaKaiChibi.png "Saratoga Kai") - **[USS Saratoga Kai](https://azurlane.koumakan.jp/Saratoga#retrofit)**
 * Skill: 
   * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Airpower).
@@ -2281,7 +2349,11 @@ Highly synergistic, they all benefit from hanging out with each other but are fr
 *About I-56...* notice how it only says "AC Denial/Incapability"? Yes, this does mean she still procs in EN, where there is no Airspace Control at all.
 *About all of them...* don't mind the slower torpedoes, it's actually a benefit rather than a detriment! Fast torpedoes may well zip past the intended target if it moved, but slow ones have a good chance to strike that target on the way back.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/0/0f/DaceChibi.png "Dace") ![SS](https://azurlane.koumakan.jp/w/images/c/c6/I-26Chibi.png "I-26") ![SS](https://azurlane.koumakan.jp/w/images/4/4b/I-58Chibi.png "I-58") - [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
+#### ![SS](https://azurlane.koumakan.jp/w/images/8/87/CavallaChibi.png "Delet This") ![SS](https://azurlane.koumakan.jp/w/images/0/0f/DaceChibi.png "Dace") ![SS](https://azurlane.koumakan.jp/w/images/c/c6/I-26Chibi.png "I-26") ![SS](https://azurlane.koumakan.jp/w/images/4/4b/I-58Chibi.png "I-58") - [USS Cavalla](https://azurlane.koumakan.jp/Cavalla) [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
+* Skill (Cavalla): 
+  * Lower the damage taken by subs by -15%; also, upon leaving the fight, heals 8% of her max HP.
+  * Deal +20% damage to CV; also, fires a torpedo barrage when surfacing whose damage increases by 15% if sortied with Albacore.
+
 * Skill (Dace): 
   * Deal +15% Damage to CA.
   * Gain +40 Oxygen.
@@ -2295,7 +2367,8 @@ Highly synergistic, they all benefit from hanging out with each other but are fr
 
 * Desc: O2 Jamming.
 >A rather diverse bunch of girls, these ones, but they all share a trait - their Oxygen tanks are ample enough to accommodate for two full Mark 16 torpedo volleys, which means they can safely be ran with dual Oxygen Torpedoes.  
-About I-58... she currently is the best one of the bunch, as she gets a special barrage to go along the extra O2.
+*About I-58...* she is a solid starter, as she gets a special barrage to go along the extra O2.
+*About Cavalla...* she is currently the best of this bunch, despite Albacore not being around to enhance her barrage.
 
 #### ![SS](https://azurlane.koumakan.jp/w/images/6/61/I-25Chibi.png "I-25") - [IJN I-25](https://azurlane.koumakan.jp/I-25)
 * Skill: 
