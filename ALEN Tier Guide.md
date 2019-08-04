@@ -1776,7 +1776,7 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
 >Warspite's historical achievements may be impressive, but AL does little justice to them beyond giving her the highest base FP of all BB (PR notwithstanding) and an okay statline elsewhere. What brings her down is partly her effective FP being lower than many others', but mostly her useless skill: an automated, autocritting barrage sounds great, until you realise it struggles immensely hitting anything that's not a stationary target and that the AP modifier makes it useless against the very common Light Armour in the game.  
 [Also, she's a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
  
-![BC](https://azurlane.koumakan.jp/w/images/1/12/IzumoChibi.png "Izumo") - **[IJN Izumo](https://azurlane.koumakan.jp/Izumo)**
+![BC](https://azurlane.koumakan.jp/w/images/1/12/IzumoChibi.png "Izumo") - **[IJN Izumo](https://azurlane.koumakan.jp/Izumo)** **(T1.5 if at full Fate)**
 * Skill: 
   * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p4.qhimg.com/t0127a2b079a4ccebab.gif)
     * The 36 NEEDLES deal 104 base damage with 50/135/120 modifiers. Their damage is modified by 120% of the unit's FP.
@@ -1791,7 +1791,8 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
 * Desc: Consistently bad.
 >One really has to wonder what has Izumo ever done to developers to warrant such a treatment.
 As awful in AL as she is in WoWS, Izumo is bad by any standard - her barrage barely scratches Light Armour while being unable to bypass it due to the parallel shots, her 'defensive' skill harms her much more than it does protect her due to the complete absence of enemy BB AP (and prevalence of BB HE), and worse still, as a barrage boat she needs flagship slot... while sharing Mikasa and Nagato's nation.
-Her sole saving grace is her exceptional statline, and even then it is marred by high Oil costs, comparatively low Efficiencies and is far from making any significant difference.
+Her sole saving grace is her exceptional statline, and even then it is marred by high Oil costs, comparatively low Efficiencies and is far from making any significant difference.  
+The improvements to her barrage brought by a full Fate Sim aren't just an addition - they are a necessity in order to make it work.
 Bad not just by PR standards but as a whole, there is little to no reason to ever use her over any other barrage boat.
 
 ![BC](https://azurlane.koumakan.jp/w/images/9/96/MutsuChibi.png "Mutsu") - **[IJN Mutsu](https://azurlane.koumakan.jp/Mutsu)**
