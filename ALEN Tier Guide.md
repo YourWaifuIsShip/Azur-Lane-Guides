@@ -96,7 +96,7 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
   * Every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
   
 * Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Manual Only (ie. as you should use her)] 138.6mm single or 100mm twin; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 127mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
