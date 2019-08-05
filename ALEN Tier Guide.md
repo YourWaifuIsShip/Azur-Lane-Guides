@@ -1039,7 +1039,7 @@ The only fault one can find in her would be her barrage - its wide linear patter
 ---
 ![CA](https://azurlane.koumakan.jp/w/images/c/c3/BaltimoreChibi.png "Baltimore") - **[USS Baltimore](https://azurlane.koumakan.jp/Baltimore)** **(T0 w/ USS CV/L)**
 * Skill: 
-  * Overrides Main Gun ammo with improved AP (85/120/85 modifiers); also, every shot has a 3.5% chance to inflict Armour Break on Heavy Armour targets.
+  * Overrides Main Gun ammo with improved AP (85/120/85 modifiers); also, from Skill Level 8 onwards, every shot has a 3.5% chance to inflict Armour Break on Heavy Armour targets.
   * If deployed with USS CV/L, grant them +7% AA and +15% Aviation; if sortied without, gain +12% FP and +15% Evasion.
 
 * Recommended Loadouts:
