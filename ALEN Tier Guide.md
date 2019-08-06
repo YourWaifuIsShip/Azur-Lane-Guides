@@ -705,7 +705,7 @@ That said, you will need to deploy a few carriers to get the full experience and
 ![CL](https://azurlane.koumakan.jp/w/images/4/40/BirminghamChibi.png "Birmingham") - **[USS Birmingham](https://azurlane.koumakan.jp/Birmingham)**
 * Skill: 
   * Shortens Ignitions sustained by the flagship by -3s; gain +15% FP/AA for 8s when an enemy plane is shot down.
-  * Upon taking damage (and on a 8s internal cooldown), 10% chance to gain +40% Evasion for 5s; once per battle and upon falling below 30% HP, 
+  * Upon taking damage (and on a 8s internal cooldown), 10% chance to gain +40% Evasion for 5s; once per battle and upon falling below 30% HP, lock EvaRate to 100% for 5s.
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
