@@ -739,7 +739,7 @@ That said, you will need to deploy a few carriers to get the full experience and
 ![CL](https://azurlane.koumakan.jp/w/images/9/9a/SwiftsureChibi.png "Swiftsure") - **[HMS Swiftsure](https://azurlane.koumakan.jp/Swiftsure)**
 * Skill:
   * Upon firing AA guns, 30% chance to grant +30% AA to the entire vanguard for 10s; also, for every 5 planes shot down inside the AA circle, gain up to 10 stacks of +1% Firepower and -1% Damage taken by planes by the backline.
-  * Gain +30% CritRate and +10% Accuracy vs DD/CL; also, enemies hit by her Main Gun fire have a 10% chance to have their EvaRate by 10% for 6s.
+  * Gain +30% CritRate and +10% Accuracy vs DD/CL; also, enemies hit by her Main Gun fire have a 10% chance to have their EvaRate reduced by 10% for 6s.
 
 * Recommended Loadouts:
   * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
