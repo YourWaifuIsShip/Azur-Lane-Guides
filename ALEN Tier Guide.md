@@ -98,7 +98,6 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - IJN Izumo tiers 'up' to T2 (T1.5 w/ full Fate Sim)
 - KMS Tirpitz tiers down to T1
 - HMS Edinburgh tiers down to T1.5
-
 <br/><br/>
 ---
 <br/><br/>
