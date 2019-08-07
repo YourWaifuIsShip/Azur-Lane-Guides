@@ -639,19 +639,6 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
 * Desc: It's not luck, it's all skill.
 >Lewdis' rather impressive statline goes exceedingly well with a solid set of self-buffs to all relevant stats for a Gun-CL like herself, letting her withstand amounts of punishment that would fell a lesser CL or fire harder and faster than much of her competition.
 
-![CL](https://azurlane.koumakan.jp/w/images/d/d8/EdinburghChibi.png "HMS Edinburgh") - **[HMS Edinburgh](https://azurlane.koumakan.jp/Edinburgh)**
-* Skill:
-  * +25% AP dmg.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
-
-- Desc: "Worth her weight in gold."
->Edinburgh is in a similar situation as Cleveland: both have merely 'okay' skills, both have impressive statlines, both will stay in front and tank for days while the rest of the team gets the job done.  
-The difference lies in how 'safe' they play things, as Edinburgh gets a passive boost to AP damage inflicted, an even bulkier HP pool (4.1k is amazing for both varieties of Cruiser) and no AA skill to burn her FP, but doesn't get that lone shot at the fleetwide buff and may find herself short-changed when planes ARE an issue.  
-Still, there's very few finer, more reliable frontline tanks than she - and that's a definite plus.
-
 ![CL](https://azurlane.koumakan.jp/w/images/3/31/LeanderKaiChibi.png "HMS Leander Kai") - **[HMS Leander Kai](https://azurlane.koumakan.jp/Leander)**
 * Skill: 
   * Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
@@ -782,6 +769,19 @@ She'll only buff herself, but a +40% FP never really goes amiss.
 * Desc: Hot maid, in more ways than one.
 >The only one who can actually get some mileage out of the terrible Belgun (because of her buff to HE guns) and packing better torps than every other HMS cruiser, she tends to have a good answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate and planes not attacking you.  
 Her place is strictly PvP, as there's many other HMS CL who will do what she does - be it DPS or tanking - better for less.
+
+![CL](https://azurlane.koumakan.jp/w/images/d/d8/EdinburghChibi.png "HMS Edinburgh") - **[HMS Edinburgh](https://azurlane.koumakan.jp/Edinburgh)**
+* Skill:
+  * +25% AP dmg.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
+
+- Desc: "Worth her weight in gold."
+>Edinburgh is in a similar situation as Cleveland: both have merely 'okay' skills, both have impressive statlines, both will stay in front and tank for days while the rest of the team gets the job done.  
+The difference lies in how 'safe' they play things, as Edinburgh gets a passive boost to AP damage inflicted, an even bulkier HP pool (4.1k is amazing for both varieties of Cruiser) and no AA skill to burn her FP, but doesn't get that lone shot at the fleetwide buff and may find herself short-changed when planes ARE an issue.  
+Still, there's very few finer, more reliable frontline tanks than she - and that's a definite plus.
 
 ![CL](https://azurlane.koumakan.jp/w/images/7/7a/AbukumaKaiChibi.png "IJN Abukuma Kai") - **[IJN Abukuma Kai](https://azurlane.koumakan.jp/Abukuma)**
 * Skill: 
