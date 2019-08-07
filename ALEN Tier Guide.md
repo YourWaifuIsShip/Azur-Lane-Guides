@@ -83,6 +83,22 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [CV/CVL ![CV(L)](https://azurlane.koumakan.jp/w/images/d/d1/CV_img.png "CV/L Icon")](#cvcvl--1)
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
+
+## Changelog as of last update (04/08/2019)
+
+- USS Baltimore joins the list as T0.5 (T0 w/ USS carriers)
+- USS Alabama joins the list as T1 (T0 if mob fleet flagship)
+- USS Bataan joins the list as T1 (T0.5 w/ carriers)
+- USS Birmingham joins the list as T1.5
+- USS San Juan joins the list as T2 (T1.5 to T0.5 depending on amount of USS units in fleet; plane hell only)
+- USS Cavalla joins the list as an O2 Sub.
+
+- USS Nevada and Oklahoma Kai tier up to T1
+- USS Denver tiers up to T1.5
+- IJN Izumo tiers 'up' to T2 (T1.5 w/ full Fate Sim)
+- KMS Tirpitz tiers down to T1
+- HMS Edinburgh tiers down to T1.5
+
 <br/><br/>
 ---
 <br/><br/>
