@@ -1932,6 +1932,17 @@ In short, they're by all accounts a downgrade over their BB forms. Avoid like th
 ## CV/CVL ![CV(L)](https://azurlane.koumakan.jp/w/images/d/d1/CV_img.png "CV/L Icon")
 ### Tier 0:
 ---
+![CV](https://azurlane.koumakan.jp/w/images/e/ed/EssexChibi.png "USS Essex") - **[USS Essex](https://azurlane.koumakan.jp/Essex)**
+* Skill: 
+  * Upon airstrike launch, launches a tight horizontal line of eight additional TBDs armed with parallel, Flooding-inflicting torps; also, deal +10% damage vs BBs.
+  * Increases her own AA and Airpower by 5% for every USS CV/L in the fleet, and increases her own Airpower by 3% whenever her planes shoot down an enemy aircraft (to a maximum of +15% Airpower).
+  * If the fleet contains 4 or more USS ships, the entire fleet has a 12% chance to reduce incoming aircraft torpedo and bomb damage to 1.
+  * Has a 3/3/2 loadout.
+
+* Desc: 
+>Boasting a statline rivaled only by that of Enterprise, graced by even more Efficient planes (especially her 140% Fighters), armed to the teeth with skills further boosting that statline, a squadron of DoT-inflicting torpedo bombers and a fleet-wide chance to outright negate incoming aircraft damage, she is meant to give even the Foxes (or W12's plane swarms) pause for thought - and manages to do so with gusto.  
+What keeps her from true greatness is how strictly she enforces a specific compositon for your backline to make the most of her skills - US carriers only might not be a bad thing per se, but it severely limits your choices. Her second skill being susceptible to killsteals by allied carriers or AA, and her third skill being nigh-on useless in PvE, doesn't help matters either.  
+All that said, when she's good, she's REALLY good.
 
  ![CVL](https://azurlane.koumakan.jp/w/images/f/f7/CentaurChibi.png "Centaur") - **[HMS Centaur](https://azurlane.koumakan.jp/Centaur)**
 * Skill: 
@@ -2038,6 +2049,16 @@ As is customary for IJN sister ships, they truly shine when used together - but 
 >More support-based than her sister and frailer than she when her other half is around, but more than makes up for it thanks to the +30% Airpower she gets as well as the buffs she throws out (which incidentally also partially negate the debuff).  
 Her buffs and layout are good enough to warrant usage even solo.
 
+![CV](https://azurlane.koumakan.jp/w/images/e/ea/TaihouChibi.png "Taihou") - **[IJN Taihou](https://azurlane.koumakan.jp/Taihou)**
+* Skill: 
+  * Upon completion of an airstrike cooldown, she has a 40% chance to launch a Saiun (increases own backline's Damage by 10% for 8s but deals no damage of its own), a 40% chance to launch a Suisei carpet bombing and a 40% chance to launch a Ryusei targeted torpedo strike.
+  * Take -20% HE and Aviation damage.
+  * Has a 2/3/3 loadout.
+
+* Desc: Lady Luck is a bitch.
+>Taihou is as fickle as she is horrifyingly powerful, equally suited to razing waves and demolishing single targets.
+As the proud owner of not one, not two, but three whole separate plane 'barrges' and a bombardment-oriented plane loadout, she is guaranteed to set the oceans ablaze multiple times over, if given the chance(s) to do so - and even if said chances weren't forthcoming, her Heavy Armour, massive HP pool and defensive skill allow her to weather the storms until the next die can be cast.  
+On a sidenote, she's also one of the carriers least affected by enemy AA boats due to the sheer volume of aircraft she can unleash. Nice.
 
 ### Tier 1:
 ---
@@ -2365,7 +2386,11 @@ Highly synergistic, they all benefit from hanging out with each other but are fr
 *About I-56...* notice how it only says "AC Denial/Incapability"? Yes, this does mean she still procs in EN, where there is no Airspace Control at all.
 *About all of them...* don't mind the slower torpedoes, it's actually a benefit rather than a detriment! Fast torpedoes may well zip past the intended target if it moved, but slow ones have a good chance to strike that target on the way back.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/8/87/CavallaChibi.png "Delet This") ![SS](https://azurlane.koumakan.jp/w/images/0/0f/DaceChibi.png "Dace") ![SS](https://azurlane.koumakan.jp/w/images/c/c6/I-26Chibi.png "I-26") ![SS](https://azurlane.koumakan.jp/w/images/4/4b/I-58Chibi.png "I-58") - [USS Cavalla](https://azurlane.koumakan.jp/Cavalla) [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
+#### ![SS](https://azurlane.koumakan.jp/w/images/9/96/AlbacoreChibi.png "Albacore") ![SS](https://azurlane.koumakan.jp/w/images/8/87/CavallaChibi.png "Delet This") ![SS](https://azurlane.koumakan.jp/w/images/0/0f/DaceChibi.png "Dace") ![SS](https://azurlane.koumakan.jp/w/images/c/c6/I-26Chibi.png "I-26") ![SS](https://azurlane.koumakan.jp/w/images/4/4b/I-58Chibi.png "I-58") - [USS Albacore](https://azurlane.koumakan.jp/Albacore) [USS Cavalla](https://azurlane.koumakan.jp/Cavalla) [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
+* Skill (Albacore): 
+  * Deal +10% Damage to DD, CL and CV.
+  * Launches a special torpedo barrage with 70% Ignition chance upon surfacing.
+
 * Skill (Cavalla): 
   * Lower the damage taken by subs by -15%; also, upon leaving the fight, heals 8% of her max HP.
   * Deal +20% damage to CV; also, fires a torpedo barrage when surfacing whose damage increases by 15% if sortied with Albacore.
@@ -2384,7 +2409,7 @@ Highly synergistic, they all benefit from hanging out with each other but are fr
 * Desc: O2 Jamming.
 >A rather diverse bunch of girls, these ones, but they all share a trait - their Oxygen tanks are ample enough to accommodate for two full Mark 16 torpedo volleys, which means they can safely be ran with dual Oxygen Torpedoes.  
 *About I-58...* she is a solid starter, as she gets a special barrage to go along the extra O2.
-*About Cavalla...* she is currently the best of this bunch, despite Albacore not being around to enhance her barrage.
+*About Cavalla...* fairly interesting skillset, all things considered, but your subs can't really take punches anyway so you only really care about the extra damage with Albacore.
 
 #### ![SS](https://azurlane.koumakan.jp/w/images/6/61/I-25Chibi.png "I-25") - [IJN I-25](https://azurlane.koumakan.jp/I-25)
 * Skill: 
