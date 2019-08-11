@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (SUB-LIMINAL MESSAGES EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (ANNIVERSARY ADVERSARY EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -86,18 +86,11 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 
 ## Changelog as of last update (04/08/2019)
 
-- USS Baltimore joins the list as T0.5 (T0 w/ USS carriers)
-- USS Alabama joins the list as T1 (T0 if mob fleet flagship)
-- USS Bataan joins the list as T1 (T0.5 w/ carriers)
-- USS Birmingham joins the list as T1.5
-- USS San Juan joins the list as T2 (T1.5 to T0.5 depending on amount of USS units in fleet; plane hell only)
-- USS Cavalla joins the list as an O2 Sub.
+- USS Essex joins the list as T0.
+- IJN Taihou joins the list as T0.5.
+- SN Avrora was already in as T2.
+- USS Albacore joins the list as an O2 Sub.
 
-- USS Nevada and Oklahoma Kai tier up to T1
-- USS Denver tiers up to T1.5
-- IJN Izumo tiers 'up' to T2 (T1.5 w/ full Fate Sim)
-- KMS Tirpitz tiers down to T1
-- HMS Edinburgh tiers down to T1.5
 <br/><br/>
 ---
 <br/><br/>
