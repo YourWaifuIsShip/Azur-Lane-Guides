@@ -265,7 +265,7 @@ With no real weakness on display, beyond simply not being quite as good as more 
   * Upon launching torpedoes, 30% chance to launch a second spread
 
 * Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Manual Only (ie. as you should use her)] 136.8mm; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [General Purpose] 136.8mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
@@ -279,7 +279,7 @@ Maury does things differently from many of her colleagues, but she does them wel
   * 70% chance every 20s to fire a special barrage and boost torpedo stat by 30% for 5s
 
 * Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Manual Only (ie. as you should use her)] 100mm twin; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
