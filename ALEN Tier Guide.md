@@ -976,6 +976,21 @@ Does all this redeem her, then? Not really, even in this fashion, you'd need to 
 Weak gunnery with access to DD guns, weak torpedoes, an AA-focused skill - the differences start with the *two* very high-efficiency AA guns she carries (deftly pushing her over Sandy base as a flyswatter), the way the AA-focused skill works (being more somewhat more reliable but also a lot more selfish) and the much weaker barrage.  
 In short, she isn't tough and she isn't powerful - in fact she's really *really* wimpy - but she's an exceptionally accomplished and cheap sky clearer. Worth having around if enemy planes got you down.
 
+![CL](https://azurlane.koumakan.jp/w/images/5/57/YuubariKaiChibi.png "Yuubari Kai") - **[IJN Yuubari](https://azurlane.koumakan.jp/Yuubari)**
+* Skill: 
+  * All Cruisers (CL/CA/CB) gain +15% Experience.
+  * Every 20s, 60% chance to gain +40% FP.
+  * Costs as much as a white Light Cruiser (2 Oil at 0LB, 8 at MLB).
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: 
+>Yuubari is very cheap, boosts your cruisers' exp gains and made of papier-mache.  
+That's all you need to know, really; while there are worse cruisers around there are a lot of better ones around too, her one true calling is serve as a cheap exp booster.  
+Especially useful for IJN exp PR grind, as silly as grinding exp for PRs is.
+
 <br/><br/>
 ---
 <br/><br/>
@@ -1932,6 +1947,10 @@ In short, they're by all accounts a downgrade over their BB forms. Avoid like th
   * If the fleet contains 4 or more USS ships, the entire fleet has a 12% chance to reduce incoming aircraft torpedo and bomb damage to 1.
   * Has a 3/3/2 loadout.
 
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei (or 818 Swordfish if boss/es are too fast to land ANY hits); Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan (or Barracuda if boss/es are too fast to land ANY hits); Hydraulic Catapult; Hydraulic Catapult
+
 * Desc: 
 >Boasting a statline rivaled only by that of Enterprise, graced by even more Efficient planes (especially her 140% Fighters), armed to the teeth with skills further boosting that statline, a squadron of DoT-inflicting torpedo bombers and a fleet-wide chance to outright negate incoming aircraft damage, she is meant to give even the Foxes (or W12's plane swarms) pause for thought - and manages to do so with gusto.  
 What keeps her from true greatness is how strictly she enforces a specific compositon for your backline to make the most of her skills - US carriers only might not be a bad thing per se, but it severely limits your choices. Her second skill being susceptible to killsteals by allied carriers or AA, and her third skill being nigh-on useless in PvE, doesn't help matters either.  
@@ -2047,6 +2066,9 @@ Her buffs and layout are good enough to warrant usage even solo.
   * Upon completion of an airstrike cooldown, she has a 40% chance to launch a Saiun (increases own backline's Damage by 10% for 8s but deals no damage of its own), a 40% chance to launch a Suisei carpet bombing and a 40% chance to launch a Ryusei targeted torpedo strike.
   * Take -20% HE and Aviation damage.
   * Has a 2/3/3 loadout.
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: Lady Luck is a bitch.
 >Taihou is as fickle as she is horrifyingly powerful, equally suited to razing waves and demolishing single targets.
