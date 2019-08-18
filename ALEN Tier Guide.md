@@ -1465,7 +1465,7 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
 * Recommended Loadouts:
   * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Twin 150mm Tbtsk; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Twin 150mm Tbtsk; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; Twin 150mm Tbtsk; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
+  * [Poverty] 406MK6; Triple 155mm Mounted Gun; Twin 150mm Tbtsk; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Here comes Tutorial Girl!
 >At long last the wehraboos can rejoice - Bismarck has arrived, and she's every bit as good as they'd hoped.  
@@ -1528,7 +1528,7 @@ Bit RNG still, but there's nobody cheaper than them in their class.
   * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Research AA Radar; SG Radar
   * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [AA Memes] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Research AA Radar; Research AA Radar
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: 
 >Anti-air for backliners is a bit of a meme, but that doesn't mean it can't be a good one.  
@@ -1576,7 +1576,7 @@ A steep price to pay, especially considering how weak the seaplanes are in compa
 * Recommended Loadouts:
   * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
+  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: Slow but steady...
 >One of the most consistent and hardest hitting BBs in the game, provided you cater to her social anxiety.  
@@ -1809,7 +1809,7 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
 * Recommended Loadouts:
   * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
+  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Consistently bad.
 >One really has to wonder what has Izumo ever done to developers to warrant such a treatment.
@@ -1826,7 +1826,7 @@ Bad not just by PR standards but as a whole, there is little to no reason to eve
 * Recommended Loadouts:
   * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
+  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >An oversized monitor like Rodney or Nelson, but with an actually good barrage and better stats.
@@ -1895,7 +1895,7 @@ Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in t
 * Recommended Loadouts:
   * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Zuiun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Zuiun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Zuiun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
+  * [Poverty] 406MK6; Zuiun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
  
 * Desc: 
 >The only aviation battleship to improve in every possible respect after her Kai, the new-and-improved Hyuuga doesn't only sport the customary brutal firepower and enough Main Gun Efficiency to thorougly brutalize what she hits despite the loss of one gun mount, but also retains good self-defence capabilities with her protective barrage.   
@@ -1913,7 +1913,7 @@ The seaplanes are still middling at best, but you're paying no price for a BB wi
 * Recommended Loadouts:
   * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Zuiun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Zuiun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Zuiun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
+  * [Poverty] 406MK6; Zuiun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >Still the more powerful yet less useful sibling, Ise Kai fully embraces her nature as an instrument of destruction by improving her airstrikes to the point of respectability.
