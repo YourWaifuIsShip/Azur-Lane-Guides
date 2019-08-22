@@ -857,7 +857,7 @@ The AA buff is also okay, as it helps her withstand aerial punishment without in
 >Leagues bette than the travesty that was Lil Diego, San Juan very successfully emulates San Diego's main strength (strong fleetwide AA buff) while having some passable DPS of her own; stick her in with a USS fleet and watch them become murder incarnate to incoming aircraft.  
 It goes without saying that she'll severely underperform if she's not going to assist USS units, of course.
 
-![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - **[HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax)**
+![CL](https://azurlane.koumakan.jp/w/images/7/71/AchillesKaiChibi.png "Achilles Kai") (https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - **[HMS Achilles Kai](https://azurlane.koumakan.jp/Achilles#retrofit)** **[HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax#retrofit)**
 * Skill: 
   * 60% chance every 20s to boost Firepower by 40% for 10s
   * Increases damage dealt to CAs by 25%
@@ -868,8 +868,8 @@ It goes without saying that she'll severely underperform if she's not going to a
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
->Ajax goes all in on the offensive, sporting a stellar FP/Torp stat bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff.  
-Powerful for her class and rather inexpensive, but beware the severely subpar HP.
+>Achilles and Ajax go all in on the offensive, sporting a stellar FP/Torp stat for the class bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the very specific anti-CA buff.  
+Powerful enough for the class and rather inexpensive, but beware the severely subpar HP.
 
 ![CL](https://azurlane.koumakan.jp/w/images/4/44/AuroraChibi.png "HMS Aurora") - **[HMS Aurora](https://azurlane.koumakan.jp/Aurora)**
 * Skill: 
