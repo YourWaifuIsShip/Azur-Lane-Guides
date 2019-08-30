@@ -548,6 +548,20 @@ Still, if you're willing to field a full french vanguard (and you do have good o
 ## CL ![CL](https://azurlane.koumakan.jp/w/images/2/20/CL_img.png "CL Icon")
 ### Tier 0:
 ---
+![CL](https://azurlane.koumakan.jp/w/images/4/42/San_DiegoKaiChibi.png "San Diego Kai") - **[USS San Diego Kai](https://azurlane.koumakan.jp/San_Diego#Retrofit)**
+* Skill: 
+  * 15% chance upon firing AA guns, +50% AA to the entire fleet for 8s
+  * +25% own AA; every 20s, launches a special barrage (torrent of slightly homing stars behind her, 1/4 of the screen in width) 
+  * Can equip DD guns, and should.
+
+* Recommended Loadouts:
+  * [Full AA] 100mm twin; 533mm quintuple conventional torpedoes; 113mm twin; Research AA Radar; Research AA Radar
+  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 113mm twin; Toolbox; Oxytorp
+  * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 113mm twin or Pom-Pom; Toolbox; Toolbox
+
+- Desc: WATASHI WA NUMBA WAN!
+>They finally did it, the madmen. Not only they Kai'd Azur Lane's greatest meme, they even made her the hero she was always supposed to be - sporting one whole extra Main Gun Mount, some much needed markups in Firepower and Efficiency, a shiny new and dazzling (but ultimately not too powerful) barrage and EVEN MORE anti-air capabilities, neither the skies nor the seas present any challenge to the once most unwanted gold unit in the game.  
+You'll still want to give her an Oxygen Torpedo or two, though - her torp stat remains abysmal, and even if it's not the torps you're taking her for there's no reason to let them rot. Besides, fireworks go great with a nice, starry night.
 
 ![CL](https://azurlane.koumakan.jp/w/images/a/a4/HMS_NeptuneChibi.png "Neptune") - **[HMS Neptune](https://azurlane.koumakan.jp/HMS_Neptune)**
 * Skill: 
