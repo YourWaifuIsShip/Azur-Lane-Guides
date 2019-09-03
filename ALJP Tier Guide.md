@@ -994,6 +994,21 @@ More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
 >Rescued from the brink of ignonimy by a timely Kai, Curlew got the injection of stats and efficienicies she desperately needed to be even a little relevant - as well as a useful little carrier buff.  
 Nevertheless, she and her less fortunate sisters have always been the HMS answer to Isuzu and by and large, they still are - her DPS stays low and isn't helped much by the lack of torpedoes, but the amount of AA she packs is spectacular and further enhanced by her skill.
 
+
+![CL](https://azurlane.koumakan.jp/w/images/6/6d/Black_PrinceChibi.png "Black Prince") - **[HMS Black Prince](https://azurlane.koumakan.jp/Black_Prince)** **(T1 w/ at least 1 USS unit)**
+* Skill:
+  * If deployed with any USS unit, gain +40% Main Gun CritRate and +20% FP/Torp.
+  * Upon battle start and at a 30% chance every 15s afterwards, deploy a smokescreen (smoke cloud granting +40% EvaRate to those in it) for 5s.
+  * Can use DD guns, and should.
+  
+* Recommended Loadouts:
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 100mm twin; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  
+* Desc: Pretty fly for a white gal?
+Take Sirius, strip her two-way carrier buff and the busted damage on her barrage, then replace them with massive buffs to her 'ordinary weaponry' and a bad ol' fart cloud - and this is what you get.  
+All things considered she's a fairly good deal, providing stable and solid DPS with a side order of okay-ish support as long as you do stick her in with one USS unit. Not particularly hard to do, but not doing so makes her nearly worthless.  
+
 ![CL](https://azurlane.koumakan.jp/w/images/3/33/AganoChibi.png "Agano") - **[IJN Agano](https://azurlane.koumakan.jp/Agano)**
 * Skill: 
   * +15% FP to DDs.
