@@ -649,7 +649,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
 ![CL](https://azurlane.koumakan.jp/w/images/3/31/LeanderKaiChibi.png "HMS Leander Kai") - **[HMS Leander Kai](https://azurlane.koumakan.jp/Leander)**
 * Skill: 
   * Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
-  * At battle start and 20% chance at every 20s thereafter, create a smokescreen that lasts 5s. Smokescreen provides 40% evasion
+  * Upon battle start and at a 30% chance every 15s afterwards, deploy a smokescreen (smoke cloud granting +40% EvaRate to those in it) for 5s.
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 152mm Main Gunn; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
@@ -897,6 +897,20 @@ Powerful enough for the class and rather inexpensive, but beware the severely su
 *  Desc: 
 >Excellent but niche DD/CL-busting skills paired with average CL stats, with the glaring exception of her sub-par HP.  
 More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
+
+![CL](https://azurlane.koumakan.jp/w/images/6/6d/Black_PrinceChibi.png "Black Prince") - **[HMS Black Prince](https://azurlane.koumakan.jp/Black_Prince)** **(T1 w/ at least 1 USS unit)**
+* Skill:
+  * If deployed with any USS unit, gain +40% Main Gun CritRate and +20% FP/Torp.
+  * Upon battle start and at a 30% chance every 15s afterwards, deploy a smokescreen (smoke cloud granting +40% EvaRate to those in it) for 5s.
+  * Can use DD guns, and should.
+  
+* Recommended Loadouts:
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 100mm twin; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  
+* Desc: Pretty fly for a white gal?
+Take Sirius, strip her two-way carrier buff and the busted damage on her barrage, then replace them with massive buffs to her 'ordinary weaponry' and a bad ol' fart cloud - and this is what you get.  
+All things considered she's a fairly good deal, providing stable and solid DPS with a side order of okay-ish support as long as you do stick her in with one USS unit. Not particularly hard to do, but not doing so makes her nearly worthless.  
 
 ![CL](https://azurlane.koumakan.jp/w/images/3/33/AganoChibi.png "Agano") - **[IJN Agano](https://azurlane.koumakan.jp/Agano)**
 * Skill: 
