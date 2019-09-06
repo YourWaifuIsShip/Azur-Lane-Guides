@@ -1485,7 +1485,7 @@ As a result, it would be wise to pick your sovereign of choice with an eye to ba
 Volume of fire is ultimately maintained by her gun, firing a respectable 8 shots in total, and cooldowns aren't a concern either thanks to her higher-than-normal Reload; whatever she's facing, it's heading straight to Davy Jones' locker.
 Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow dreadnoughts. The Jolliest Roger of them all.
 
-![BC](https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png "Freddy Mercury") - **[KMS Friedrich der Grosse](https://azurlane.koumakan.jp/Amagi)**
+![BC](https://azurlane.koumakan.jp/w/images/3/3c/Friedrich_der_GrosseChibi.png "Freddy Mercury") - **[KMS Friedrich der Grosse](https://azurlane.koumakan.jp/Friedrich_der_Grosse)**
 * Skill: 
   * Upon taking damage OR when an enemy surface unit gets too close, launch a [special barrage](http://p1.qhimg.com/dr/400__/t01b505ceaf20a03f2d.gif).
     * The 4 HE SHELLS deal 181 bdmg with 140/110/90 mods; the 48 SCATTER LASERS deal 46 bdmg with 100/100/100 mods. Both are modified by 100% of the unit's FP.
