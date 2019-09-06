@@ -74,20 +74,14 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (04/08/2019)
+## Changelog as of last update (06/09/2019)
 
-- USS Baltimore joins the list as T0.5 (T0 w/ USS carriers)
-- USS Alabama joins the list as T1 (T0 if mob fleet flagship)
-- USS Bataan joins the list as T1 (T0.5 w/ carriers)
-- USS Birmingham joins the list as T1.5
-- USS San Juan joins the list as T2 (T1.5 to T0.5 depending on amount of USS units in fleet; plane hell only)
-- USS Cavalla joins the list as an O2 Sub.
-
-- USS Nevada and Oklahoma Kai tier up to T1
-- USS Denver tiers up to T1.5
-- IJN Izumo tiers 'up' to T2 (T1.5 w/ full Fate Sim)
-- KMS Tirpitz tiers down to T1
-- HMS Edinburgh tiers down to T1.5
+- USS Georgia joins the list as T0
+- IJN Kitakaze joins the list as T0
+- KMS Friedrich der Grosse joins the list as T0
+- MNF Gascogne joins the list as T0
+- USS Seattle joins the list as T0.5
+- IJN Azuma joins the list as T0.5
 <br/><br/>
 ---
 <br/><br/>
@@ -108,6 +102,21 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - Desc: Vorpal Bunny.
 >While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant.  
 The DPS monster to AyaKai's DPH.
+
+![DD](https://azurlane.koumakan.jp/w/images/1/1c/KitakazeChibi.png "Kitakaze") - **[IJN Kitakaze](https://azurlane.koumakan.jp/Kitakaze)**
+* Skill:
+  * Main Gun modifiers are fixed to 115/115/115; also, gain +15% Main Gun Efficiency if using an IJN DD gun.
+  * If sortied as Vanguard Lead, launch a torpedo barrage 10s after the start of the battle; also, upon hitting with 10 NON-BARRAGE torpedoes, launch the same torpedo barrage.
+  * Has MGM+1.
+
+* Recommended Loadouts:
+  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [Poverty] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
+* Desc: 
+>Always liked the Akizuki-class's DDakka and disliked their lack of anything resembling proper firepower?  
+Well, look no further, for Kitakaze dispenses with the flimsy pretense of being an AA DD like the others and goes all-in on surface weaponry - from the supercharged twinned DD gun rocking high FP and Eff with fixed 115% modifiers across the board to the solid regular/barrage torpedo suite, Kitakaze is more than capable of taking on any sort of foe and coming out on top handily (helped also by her exceptionally high HP).  
+Fits any comp, is downright murderous against Heavy. Brilliant.
 
 ![DD](https://azurlane.koumakan.jp/w/images/b/b4/YukikazeChibi.png "Yukikaze") - **[IJN Yukikaze](https://azurlane.koumakan.jp/Yukikaze)**
 * Skill:
@@ -647,6 +656,22 @@ With no real weakness to speak of, her one significant flaw is not being able to
 - Desc:
 > Creme de la creme of the Cleveland class by virtue of a slightly superior statline (compared to her sisters'), an absolute bomb of a Cruiser buffing skill, and surprising amounts of Luck to make the most out of her already sturdy build.  
 Most, if not all, Cruiser compositions will benefit by her presence.
+
+
+![CL](https://azurlane.koumakan.jp/w/images/c/ce/SeattleChibi.png "Seattle") - **[USS Seattle](https://azurlane.koumakan.jp/Seattle)**
+* Skill: 
+  * If an aircraft is shot down within the AA circle, gain +15% FP/AA for 8s; if more than 15 aircraft have been shot down throughout the battle, gain +15% FP and +20% Reload until the end of the battle.
+  * If mounting a CL gun as secondary, gain +15% AA Efficiency; if mounting an AA gun as secondary, gain +15% Main Gun Efficiency; if placed as Vanguard Rear, take -15% less damage.
+  * Can mount a CL gun or an AA gun as secondary.
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 152mm Main Gun or Seattle Gun (if boss); Prototype Triple 152mm Main Gun or Seattle Gun (if boss) or 40mm Quad Bofors (if extra AA is needed); 40mm Quad Bofors; Toolbox; SG Radar
+  * [Poverty] Twin 150mm tbtsk c/36; Twin 150mm tbtsk c/36 or 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: Scuttlefish.
+>Yet another example of the modular buffing structure the USS displays as a whole, she has the potential to be useful in a variety of situations if outfitted and deployed accordingly; while her AA isn't as strong as San Diego's, her staying power isn't on par with Neptune's and her DPS falls behind that of her T0 peers, Scuttle can nevertheless put up a remarkable show on all accounts
+and endure a shocking amount of abuse in the process.  
+Weird but potentially very good. Watch out for her loadout.
 
 ### Tier 1: 
 ---
@@ -1203,6 +1228,21 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
 While her base form has never been bad, performing as well as a Leander Kai at the end of the day, her comparatively high costs and mostly irrelevant niche (buffing DD FP as well as the rest) meant she wouldn't see much use; the Kai does not change this, but it does put her DPS in the big leagues thanks to her new obscenely powerful DD mount and chance for double damage, while the stat gains make her considerably tougher beside; the +Acc stacks are nice but not particularly important as vanguards don't really struggle landing hits but more crits are appreciated nonetheless.  
 Given all this, London Kai proudly joins Wichita and Choukai in their exclusive "best and most useful CA club" and does so with finesse.
 
+![CA](https://azurlane.koumakan.jp/w/images/d/df/AzumaChibi.png "Azuma") - **[IJN Azuma](https://azurlane.koumakan.jp/Azuma)**
+* Skill:
+  * If equipped with a 280mm+ Main Gun, gains up to +25% Main Gun Damage depending on how far from the enemy she is; also, gain +50% Ignition Damage.
+  * Every 20s, 70% chance to gain +20% Evasion and +50% Accuracy for 12s.
+  * If equipped with the Azuma Gun, gain +12% Main Gun Efficiency and barrage every 4 salvo instead of 8.
+  * +15% damage vs Sirens.
+  * Has MGM+1.
+
+- Desc: Hard sell for a hard shell.
+>Expectations surrounding Azuma were high, considering we'd been asking for a "frontline BB" sorts for ages and she seemed to fit the bill perfectly - but alas, they were not matched and both disappointment and hyperbole ran rampant, mucking everything up.  
+That disappointment is borne of two simple elements: one, her being a DR like Freidrich while being closer to old PR1 CAs in power than her, and two, her absurd *16* Oil price tag. Both are very valid reasons to feel cheated out of a great unit.  
+Does this mean she's bad? No, in fact she's a very good cruiser with an edge against shield-heavy lategame scenarios, easy to heal and hard to shift as she lobs fiery death across the screen, but she is indeed overcosted and grinding her up to the point where she can truly perform takes ages.
+
+
+
 ![CA](https://azurlane.koumakan.jp/w/images/c/cb/ChoukaiChibi.png "Choukai") - **[IJN Choukai](https://azurlane.koumakan.jp/Choukai)**
 * Skill: 
   * Gain +10% Firepower (permanent); 60% chance every 20s, +20% Firepower and Torpedo to all allied CL/CA for 10s
@@ -1210,6 +1250,8 @@ Given all this, London Kai proudly joins Wichita and Choukai in their exclusive 
 
 * Desc: 
 >The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
+ 
+ 
  
 ![CA](https://azurlane.koumakan.jp/w/images/0/02/IbukiChibi.png "Ibui") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)** **(TO vs Sirens/Bosses)**
 * Skill:
@@ -1392,6 +1434,18 @@ If you're looking that something that won't die anytime soon, look no further; i
 ## BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")
 ### Tier 0:
 ---
+![BB](https://azurlane.koumakan.jp/w/images/a/a4/GeorgiaChibi.png "Georgia") - **[USS Georgia](https://azurlane.koumakan.jp/Georgia)**
+* Skill: 
+  * Reduce Main Gun Spread by 3; also, deal +20% Damage to CA/CB/BC/BB/BBV.
+  * Upon Main Gun fire, 80% chance to launch an (http://p8.qhimg.com/dr/400__/t01c2636dff4b0e3906.gif)[100% critrate barrage].
+    * The 4 SHS SHELLS deal 239 bdmg with 65/135/115 mods; the 36 DD PELLETS deal 35 bdmg with 120/80/60 mods. Both are modified by 100% of the unit's FP.
+  * Deal +15% Damage to Sirens.
+  * Has MGM-1.
+
+* Desc: 
+>Georgia is a simple woman - she sees a big gun, she barrages.  
+There's really not much to say about her. Very straightforward USS BB, sporting the characteristically excellent AA of her peers and their same DD guns; her most remarkable feature the fact her barrage is both absolute murder *and* aimed, meaning it can be used from the sidelines with no loss in performance whatsoever, as well as her lacking one Main Gun Mount (which is partially made up for by the high Main Gun Efficiency).
+
 
 ![BB](https://azurlane.koumakan.jp/w/images/4/45/Duke_of_YorkChibi.png "Duke of York") - **[HMS Duke of York](https://azurlane.koumakan.jp/Duke_of_York)**
 * Skill: 
@@ -1430,7 +1484,32 @@ As a result, it would be wise to pick your sovereign of choice with an eye to ba
 >As befitting of a pirate queen, Jean Bart doesn't play by the rules: while lacking a third salvo would be a net loss on a dreadnought's effectiveness on the field, Jean makes up for it in spades by showing up to the fight with her horrifically overcharged guns already loaded, resulting in damage spikes that would make Ayanami blush.
 Volume of fire is ultimately maintained by her gun, firing a respectable 8 shots in total, and cooldowns aren't a concern either thanks to her higher-than-normal Reload; whatever she's facing, it's heading straight to Davy Jones' locker.
 Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow dreadnoughts. The Jolliest Roger of them all.
- 
+
+![BC](https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png "Freddy Mercury") - **[KMS Friedrich der Grosse](https://azurlane.koumakan.jp/Amagi)**
+* Skill: 
+  * Upon taking damage OR when an enemy surface unit gets too close, launch a (http://p1.qhimg.com/dr/400__/t01b505ceaf20a03f2d.gif)[special barrage].
+    * The 4 HE SHELLS deal 181 bdmg with 140/110/90 mods; the 48 SCATTER LASERS deal 46 bdmg with 100/100/100 mods. Both are modified by 100% of the unit's FP.
+  * Gain +50% Reload and +20% Damage on every odd-numbered (eg. 1st, 3rd, 5th) volley, until that volley is fired; gain +20% CritRate and +50% CritDmg on every even-numbered (eg. 2nd, 4th, 6th) volley, until that volley is fired.
+  * If her HP is between 70% and 100%, gain +20% Damage; if her HP is between 30% and 100%, gain +10% Damage and take -10% Damage; if her HP is between 1% and 30%, take -20% Damage.
+  * Deal +15% Damage to Sirens.
+
+- Desc: Dark Hero Plays.
+>Freddy is broken as fuck. Enough said, moving on.  
+What, you want more? Fine. Freddy Mercury is unreasonably strong and, unlike Azuma, fully deserving of her status as a DR (and disgusting ***19*** Oil cost) brimming as she in the sheer staying power granted by her escalating defence buff and nearly 10k base HP as well as firepower, courtesy of the devastating 160% Main Gun Efficiency she gets without sacrificing gun mounts or an easily-procced, powerful defensive barrage.  
+If one were to look really hard for any chinks in her Plot Armour it could be said that her HitRate is abysmal, not that BBs exactly shine in that regard; nevertheless she's uncharacteristically bad in that regard, suffering from the PR standard 0 Luck and a meagre 65 Accuracy, but it's an easily solved issue anyway.
+
+ ![BB](https://azurlane.koumakan.jp/w/images/d/d7/GascogneChibi.png "Gasko") - **[MNF Gascogne] (https://azurlane.koumakan.jp/Gascogne)**
+* Skill: 
+  * Upon falling below half HP, gain +50% Evasion and regenerate 8% of max HP over 8s. Works twice per battle.
+  * Manually aimed volleys deal +40% Damage; also, every 20s, launch a (http://p9.qhimg.com/dr/400__/t0135d3754023d7df8a.gif)[special barrage].
+    * The 10 RED ARROWS deal 54 bdmg with 120/80/80 mods; the 10 WHITE ARROWS deal 54 bdmg with 80/120/80 mods; the 10 BLUE ARROWS deal 54 bdmg with 80/80/120 mods. All are modified by 100% of the unit's FP.
+  * Main Gun salvo are split into separate volleys, and has MGM-1.
+  
+- Desc:
+>As befitting a mecha musume, Gascogne is shockingly efficient and stable - and it's not even entirely the heal's doing.  
+No, while the heal (and the defensive buff it comes stock with) are definitely very appreciated, the real stars of the show here are both the guaranteed barrage fired every 20s and the way in which her main guns fire, ensuring that every shell will land on priority target no matter how fast it moves.  
+These are all very desirable characteristics for a mob fleet flagships, but don't forget that her gunnery is more than good enough to earn her a place in a boss fleet as well if need be - an effective 220%+ Efficiency is horrifyingly devastating, all you have to do is take the shot yourself.
+
  
 ### Tier 0.5:
 ---
