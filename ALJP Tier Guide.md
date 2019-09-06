@@ -1437,7 +1437,7 @@ If you're looking that something that won't die anytime soon, look no further; i
 ![BB](https://azurlane.koumakan.jp/w/images/a/a4/GeorgiaChibi.png "Georgia") - **[USS Georgia](https://azurlane.koumakan.jp/Georgia)**
 * Skill: 
   * Reduce Main Gun Spread by 3; also, deal +20% Damage to CA/CB/BC/BB/BBV.
-  * Upon Main Gun fire, 80% chance to launch an (http://p8.qhimg.com/dr/400__/t01c2636dff4b0e3906.gif)[100% critrate barrage].
+  * Upon Main Gun fire, 80% chance to launch an [100% critrate barrage](http://p8.qhimg.com/dr/400__/t01c2636dff4b0e3906.gif).
     * The 4 SHS SHELLS deal 239 bdmg with 65/135/115 mods; the 36 DD PELLETS deal 35 bdmg with 120/80/60 mods. Both are modified by 100% of the unit's FP.
   * Deal +15% Damage to Sirens.
   * Has MGM-1.
@@ -1487,7 +1487,7 @@ Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow 
 
 ![BC](https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png "Freddy Mercury") - **[KMS Friedrich der Grosse](https://azurlane.koumakan.jp/Amagi)**
 * Skill: 
-  * Upon taking damage OR when an enemy surface unit gets too close, launch a (http://p1.qhimg.com/dr/400__/t01b505ceaf20a03f2d.gif)[special barrage].
+  * Upon taking damage OR when an enemy surface unit gets too close, launch a [special barrage](http://p1.qhimg.com/dr/400__/t01b505ceaf20a03f2d.gif).
     * The 4 HE SHELLS deal 181 bdmg with 140/110/90 mods; the 48 SCATTER LASERS deal 46 bdmg with 100/100/100 mods. Both are modified by 100% of the unit's FP.
   * Gain +50% Reload and +20% Damage on every odd-numbered (eg. 1st, 3rd, 5th) volley, until that volley is fired; gain +20% CritRate and +50% CritDmg on every even-numbered (eg. 2nd, 4th, 6th) volley, until that volley is fired.
   * If her HP is between 70% and 100%, gain +20% Damage; if her HP is between 30% and 100%, gain +10% Damage and take -10% Damage; if her HP is between 1% and 30%, take -20% Damage.
@@ -1501,7 +1501,7 @@ If one were to look really hard for any chinks in her Plot Armour it could be sa
  ![BB](https://azurlane.koumakan.jp/w/images/d/d7/GascogneChibi.png "Gasko") - **[MNF Gascogne] (https://azurlane.koumakan.jp/Gascogne)**
 * Skill: 
   * Upon falling below half HP, gain +50% Evasion and regenerate 8% of max HP over 8s. Works twice per battle.
-  * Manually aimed volleys deal +40% Damage; also, every 20s, launch a (http://p9.qhimg.com/dr/400__/t0135d3754023d7df8a.gif)[special barrage].
+  * Manually aimed volleys deal +40% Damage; also, every 20s, launch a [special barrage](http://p9.qhimg.com/dr/400__/t0135d3754023d7df8a.gif).
     * The 10 RED ARROWS deal 54 bdmg with 120/80/80 mods; the 10 WHITE ARROWS deal 54 bdmg with 80/120/80 mods; the 10 BLUE ARROWS deal 54 bdmg with 80/80/120 mods. All are modified by 100% of the unit's FP.
   * Main Gun salvo are split into separate volleys, and has MGM-1.
   
