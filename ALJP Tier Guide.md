@@ -1498,7 +1498,7 @@ Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow 
 What, you want more? Fine. Freddy Mercury is unreasonably strong and, unlike Azuma, fully deserving of her status as a DR (and disgusting ***19*** Oil cost) brimming as she in the sheer staying power granted by her escalating defence buff and nearly 10k base HP as well as firepower, courtesy of the devastating 160% Main Gun Efficiency she gets without sacrificing gun mounts or an easily-procced, powerful defensive barrage.  
 If one were to look really hard for any chinks in her Plot Armour it could be said that her HitRate is abysmal, not that BBs exactly shine in that regard; nevertheless she's uncharacteristically bad in that regard, suffering from the PR standard 0 Luck and a meagre 65 Accuracy, but it's an easily solved issue anyway.
 
- ![BB](https://azurlane.koumakan.jp/w/images/d/d7/GascogneChibi.png "Gasko") - **[MNF Gascogne] (https://azurlane.koumakan.jp/Gascogne)**
+ ![BB](https://azurlane.koumakan.jp/w/images/d/d7/GascogneChibi.png "Gasko") - **[MNF Gascogne](https://azurlane.koumakan.jp/Gascogne)**
 * Skill: 
   * Upon falling below half HP, gain +50% Evasion and regenerate 8% of max HP over 8s. Works twice per battle.
   * Manually aimed volleys deal +40% Damage; also, every 20s, launch a [special barrage](http://p9.qhimg.com/dr/400__/t0135d3754023d7df8a.gif).
