@@ -95,7 +95,7 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
   * Every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
   
 * Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Manual Only (ie. as you should use her)] 138.6mm; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 127mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
@@ -282,7 +282,7 @@ Strong guns and barrage, okay AA and defences, weak torpedoes - all in all, a ve
   * Upon launching torpedoes, 30% chance to launch a second spread
 
 * Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Manual Only (ie. as you should use her)] 138.6mm; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [General Purpose] 136.8mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
@@ -333,7 +333,7 @@ Devastating if the stars align and the debuff procs on her first torp hit, but l
   * 60% e/ 20s to +40% her own Firepower for 8s
 
 * Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Manual Only (ie. as you should use her)] 120mm twin; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
@@ -465,7 +465,7 @@ A hard sell, but perhaps your carriers may appreciate the buffs while someone pi
   * Every 20s, 60% chance to boost Firepower by 40%
 
 * Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Manual Only (ie. as you should use her)] 120mm twin; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
   
@@ -478,7 +478,7 @@ Her torp game is still legit, if nothing else, and she'll be a decent placeholde
   * 5% chance on firing main gun to boost Evasion by 60% for 8s
 
 * Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Manual Only (ie. as you should use her)] 100mm twin; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 120mm Main Gun single or 76mm; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
