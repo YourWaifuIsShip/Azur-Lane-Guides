@@ -84,12 +84,13 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (04/08/2019)
+## Changelog as of last update (15/09/2019)
 
-- USS Essex joins the list as T0.
-- IJN Taihou joins the list as T0.5.
-- SN Avrora was already in as T2.
-- USS Albacore joins the list as an O2 Sub.
+- RN Zara joins the Guide as T0
+- HMS Formidable joins the Guide as T0
+- RN Littorio joins the Guide as T1
+- RN Carabiniere joins the Guide as T1.5
+- RN Giulio Cesare joins the Guide as T2
 
 <br/><br/>
 ---
@@ -884,7 +885,7 @@ The AA buff is also okay, as it helps her withstand aerial punishment without in
 >Leagues bette than the travesty that was Lil Diego, San Juan very successfully emulates San Diego's main strength (strong fleetwide AA buff) while having some passable DPS of her own; stick her in with a USS fleet and watch them become murder incarnate to incoming aircraft.  
 It goes without saying that she'll severely underperform if she's not going to assist USS units, of course.
 
-![CL](https://azurlane.koumakan.jp/w/images/7/71/AchillesKaiChibi.png "Achilles Kai") (https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - **[HMS Achilles Kai](https://azurlane.koumakan.jp/Achilles#retrofit)** **[HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax#retrofit)**
+![CL](https://azurlane.koumakan.jp/w/images/7/71/AchillesKaiChibi.png "Achilles Kai") ![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - **[HMS Achilles Kai](https://azurlane.koumakan.jp/Achilles#retrofit)** **[HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax#retrofit)**
 * Skill: 
   * 60% chance every 20s to boost Firepower by 40% for 10s
   * Increases damage dealt to CAs by 25%
