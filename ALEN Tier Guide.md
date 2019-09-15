@@ -362,6 +362,19 @@ The tempo she forces upon you is fairly demanding, as the average DD torpedo set
 >A gun-focused DD blessed with a great statline where it counts the most and a remarkable Efficiency to go along with it, Letri is rather unwieldy but pretty powerful, if allowed to stack up and lead the charge. Handle with care, and the guns of the revolution will never fall silent.  
 Similarly to Laffey, her torps are awful but come out quick; consider patching up this weakness with an Oxygen Torpedo.
 
+![DD](https://azurlane.koumakan.jp/w/images/8/80/CarabiniereChibi.png "Caramba") - **[RN Carabiniere](https://azurlane.koumakan.jp/Carabiniere)**
+* Skill:
+  * Deal +50% Damage with the first 3 torpedo spreads.
+  * Every 20s and if placed as vanguard rear, 70% chance to gain +15% damage and grant +15% damage to the vanguard lead for 10s. THIS DOES NOT WORK IF SHE IS ALONE.
+
+* Recommended Loadouts:
+  * [Manual Only (ie. as you should use her)] 138.6mm; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
+* Desc: La benemerita, nei secoli fedele!
+>Small but unassumingly tough and fierce, Carabiniere is a Gun-DD packing a surprising amount of heat - be it either through her laser-like barrage, the charged torps or the remarkable gunnery, she can hold her own in the rearguard as she supports the lead.
+
 ### Tier 2:
 ---
 ![DD](https://azurlane.koumakan.jp/w/images/3/36/Charles_AusburneChibi.png "Charles Ausburne") - **[USS Charles Ausburne](https://azurlane.koumakan.jp/Charles_Ausburne)** **(T1.5 w/ CA, T0.5 w/ Fletcher)** 
@@ -1085,6 +1098,20 @@ As a result, Roon is best served on boss battles - where she has time to rev up 
 Mightiest of all CA by weight of stats and skills, there is no area where she doesn't excel - her guns absolutely melt opposing Light Armour and punch through Heavy Armour better than any other frontliners' in the game, her Speed is slightly superior to that of CLs and enjoys a hefty boost to her already high Evasion for more than half a minute after the battle starts, her AA is uncharacteristically high for her class and she enjoys all the perks of her Spe-CA peers (Medium Armour, MGM+1 and Torpedoes).  
 The only fault one can find in her would be her barrage - its wide linear pattern helps dispatching multiple weak foes, yes, but also neuters its impact against single targets.
 
+![CA](https://azurlane.koumakan.jp/w/images/7/7b/ZaraChibi.png "Zara") - **[RN Zara](https://azurlane.koumakan.jp/Zara)**
+* Skill:
+  * Upon taking a hit (MISSES COUNT AS HITS), 18% chance to generate 1 front-facing fixed shield and 1 orbiting shield; the shields last for 12s and can tank up to 10 shots each. Internal skill cooldown, 12s.
+  * If mounting a HE or SAP Main Gun, gain +12% Main Gun Damage and lose the ability to Ignite targets; if mounting an AP Main Gun, each Main Gun shot gains a 8% chance to have the targets hit take +15% more Main Gun Damage.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+- Desc: Tenacemente e ardisco ad ogni impresa~
+>Hands down the best vanguard tank in the game.  
+Portland Kai may be cheap, Prinz Eugen may have more eHP and Roon may have more DPS,  but none of them have her spectacular shields nor her combination of good DPS and high eHP at the same time, and that's what pushes her above her competitors.    
+While the damage boosts are undoubtedly good and allow her to perform optimally under every circumstance, the shields are the real stars of the show here - not only their uptime is much higher than the 18% would lead you to believe, able as they are to proc on *any* attack that collides with her chibi (even if she evades the damage), the front-facing shield is absolutely invaluable when it comes to blocking incoming enemy fire entirely, especially if it's piercing enemy fire.  
+If you're sick of seeing your poor vanguard get turned inside out, Zara is the solution to your problems.
  
 ### Tier 0.5:
 ---
@@ -1611,6 +1638,24 @@ A steep price to pay, especially considering how weak the seaplanes are in compa
 While not as flashy as her competition, Tirpitz is, in a way, the "safe" choice - her abilities can't misfire, her defensive statlines makes her tougher than most and her damage buff extends to both her CL guns and torpedo spread, ensuring that even at 0 Ammo she will still be able to strike and defend herself with remarkable effectiveness.
 However, all this becomes quickly irrelevant as soon as she loses her +30% damage buff as it the main reason behind her power; without it she has very little reason to be used and will be easily outshone by pretty much everyone.   
 
+![BB](https://azurlane.koumakan.jp/w/images/5/52/LittorioChibi.png "Littorio") - **[RN Littorio](https://azurlane.koumakan.jp/Littorio)** 
+* Skill:
+  * On main gun fire, 65% chance to launch a barrage; if mounting the Triple 381mm Main Gun (M1934), aka Littorio Gun, gain +10% proc chance and improve the [barrage](http://p5.qhimg.com/t0125ee7f86d5827577.gif).
+    * The 6/9 SHELLS deal 174 bdmg with 40/125/125 mods; the 20 NEEDLE LASERS deal 20 bdmg with 120/60/60 mods. The damage of both is modified by 100% of the unit's FP.
+  * Upon battle start, generate 2 anti-torp shields in front of Littorio and the vanguard lead, each able to tank up to 2 hits; also, gain +20% FP for the first 3 battles in a sortie.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Triple 381mm Main Gun (M1934); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406MK6 (vs Light) or Triple 381mm Main Gun (M1934) (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; Gold Belgun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+- Desc: 
+>Azur Lane's Littorio doesn't quite match her historical acclaim as one of the best warships of her time but she's still very good, especially as a mauler of lategame Medium/Heavy Armour formations.  
+Blessed with an overall very good statline (Accuracy aside), a strong AP barrage and a hefty FP buff for the first three fights in a sortie, Littorio looks similar enough to Alabama but approaches mobbing in a different way - whereas Alabama gets stronger with each fight and therefore benefits from chewing up easier nodes first, Littorio wants to demolish the toughest opposition first and then move onto easier stuff.
+The anti-torp shields are nice enough too, but not much of a gamechanger considering her job description - speaking of which, unlike Alabama you *could* use her as a boss fleet flag without throwing away part of her skillset, but the less concentrated barrage means she's at her best whem she's fighting more mobile Medium/Heavy bosses who may or may not have adds too.
+*About her gun...* it's an interesting piece of kit, with its +10% Damage for the first two volleys, but it only really works on Littorio or when hunting Sirens (assuming you don't have BB with preloaded/accelerated volleys).
+
+
 ![BB](https://azurlane.koumakan.jp/w/images/d/d0/Super_Gamer_Kizuna_AIChibi.png "BBakyu") - **[Super Gamer Kizuna AI](https://azurlane.koumakan.jp/Super_Gamer_Kizuna_AI)**
 * Skill:
   * Gain +30% Main Gun CritRate and increase her Main Gun Scatter by +1; also, 70% chance every 16s to fire a special [barrage](http://p7.qhimg.com/t01493e3bb4e0ed2864.gif).
@@ -1872,7 +1917,25 @@ Bad not just by PR standards but as a whole, there is little to no reason to eve
 
 * Desc: The predecessor to Jean Bart, and it does show.
 >Like Jean, she lacks her third salvo and can launch her bombardment immediately; unlike Jean, said bombardment operates just like any other and is considerably weaker as a result, while her barrage fires on a coin toss.  
-All that said, she'll always get to fire one more volley per round than 99% of the other dreadnoughts and her gun efficiency is very high.   Decent, all things considered.
+All that said, she'll always get to fire one more volley per round than 99% of the other dreadnoughts and her gun efficiency is very high.   
+Decent, all things considered.
+
+![BC](https://azurlane.koumakan.jp/w/images/2/24/Giulio_CesareChibi.png "Salad") - **[RN Giulio Cesare](https://azurlane.koumakan.jp/Giulio_Cesare)**
+* Skill: 
+  * Upon Main Gun fire, 50% chance to launch a barrage (gif pending).
+     * The 10 SHELLS deal 140 bdmg with 135/85/70 modifiers; the 14 NEEDLES deal 30 bdmg with 100/8'/0 modifiers. Their damage is modified by 100% of the unit's FP stat.
+  * 10s after the start of the battle, launch a torpedo barrage (gif pending); then, 5s after the Main Gun has been fired for the first time in the battle, gain +15% FP, deal +20% damage vs CL and set her torp stat to 0.
+     * The 6 TORPEDOES deal 96 bdmg with 80/110/130 modifiers. Their damage is modified by 100% of the unit's torp stat.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  
+* Desc: Museum piece, broken out.
+>Giulio Cesare's status as a WW1-era dreadnought is made very apparent by her lacking statline, as well as the hilarious amount of shots the puts out when barraging; and while they are solid shots, by most indications, they're still tied to a coinflip you'd rather not make if you could help it.  
+Still, she's an alright BB and well suited to dispatching the very common CL hull class.
+
 
 ### Honourable Mentions:
 ---
@@ -2001,6 +2064,27 @@ Backline could use some buffs or packing BBV? Whether it's carriers or battleshi
 Enemy ships are zipping around too much for your liking? Her Swordfishes inflict Slow and throw out two walls of crisscrossing torps, so they can have fun with that.  
 Subs? Don't let her stats fool you, she's still a CVL and that means she can bomb them with impunity (and great effect at that).  
 Whatever's getting you down, Centaur has the solution for it - and while she won't match the heights of more specalized units in their fields, her responses tend to be more than enough for most tasks at hand. 
+
+ ![CVL](https://azurlane.koumakan.jp/w/images/6/6a/FormidableChibi.png "Gothic Taihou") - **[HMS Formidable](https://azurlane.koumakan.jp/Formidable)**
+* Skill: 
+  * Gain +15% Aviation and grant +15% efficiency to equipped Fairey Albacores; also, if equipped with at least one Fairey Albacore, launch a plane barrage (gif pending).
+    * The 12 PARALLEL TORPEDOES deal 240 bdmg with 80/110/130 modifiers and a 80% chance to Flood for 8s. They are dropped by 2 ALBACORES in 2 separate diagonal waves of 6 parallel torpedoes each, and are modified by 120% of the unit's Aviation stat.
+  * Upon airstrike launch, 80% (or 100% if first airstrike of the battle) chance to stop all enemies in place for 1.5s; stopped enemies regain their regular speed over the following 2.5s.
+  * Take -8% damage; upon airstrike launch, the other backliners take -8% damage for 10s.
+  * Has a 2/0/6 or 0/2/6 loadout.
+
+* Recommended Loadouts:
+  * [Boss fighting] F6F Hellcat; Ryusei; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Mob fighting] F6F Hellcat; Ryusei; Albacore; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; Tenzan; Tenzan or Albacore; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: <insert overused jojo reference here>
+>Unable to accept the fact she's overweight, Formidable insists that everyone be as *lumbering* as her. Rude.  
+Pettiness aside, Formidable is definitely true to her name - not so much because of her damage output, which remarkable as it is still doesn't beat some of the bigger names out there, but because of the invaluable support her stop offers.  
+Locking an enemy in place for a whole second and a half is more than enough for most big guns to get one full salvo on target, and the subsequent 2.5s' slowdown are enough to land a second - or allow other carriers to land the majority of their aimed torpedoes, for that matter. This all hinges on whether you can get her to launch before the others get to, however, and that may require some tinkering with cooldowns.  
+Formidable also happens to have a barrage if her Albacore tax is paid, but expect little from it unless she's in a mob fleet - the torpedoes are too spread apart from each other to ensure more than a couple of hits per spread, and that's not worth giving up the brutal damage output of a full aimed spread instead.
+*About the Albacore...* it's terrible. Parallel torpedoes are bad enough as it is and this one doesn't even launch three, unlike the Barracuda; if you're taking one, it's strictly for the barrage.
+
 
 ![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)**
 * Skill: 
