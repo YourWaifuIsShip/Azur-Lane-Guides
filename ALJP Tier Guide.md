@@ -1863,7 +1863,7 @@ Decent, all things considered.
 
 ![BC](https://azurlane.koumakan.jp/w/images/2/24/Giulio_CesareChibi.png "Salad") - **[RN Giulio Cesare](https://azurlane.koumakan.jp/Giulio_Cesare)**
 * Skill: 
-  * Upon Main Gun fire, 50% chance to launch a barrage (gif pending).
+  * Upon Main Gun fire, 50% chance to launch a [barrage](https://streamable.com/bffxt).
      * The 10 SHELLS deal 140 bdmg with 135/85/70 modifiers; the 14 NEEDLES deal 30 bdmg with 100/8'/0 modifiers. Their damage is modified by 100% of the unit's FP stat.
   * 10s after the start of the battle, launch a torpedo barrage (gif pending); then, 5s after the Main Gun has been fired for the first time in the battle, gain +15% FP, deal +20% damage vs CL and set her torp stat to 0.
      * The 6 TORPEDOES deal 96 bdmg with 80/110/130 modifiers. Their damage is modified by 100% of the unit's torp stat.
