@@ -74,14 +74,13 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (06/09/2019)
+## Changelog as of last update (15/09/2019)
 
-- USS Georgia joins the list as T0
-- IJN Kitakaze joins the list as T0
-- KMS Friedrich der Grosse joins the list as T0
-- MNF Gascogne joins the list as T0
-- USS Seattle joins the list as T0.5
-- IJN Azuma joins the list as T0.5
+- RN Zara joins the Guide as T0
+- HMS Formidable joins the Guide as T0
+- RN Littorio joins the Guide as T1
+- RN Carabiniere joins the Guide as T1.5
+- RN Giulio Cesare joins the Guide as T2
 <br/><br/>
 ---
 <br/><br/>
