@@ -2156,7 +2156,7 @@ Do not expect much from her in terms of DPS, though.
 >Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Airpower and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
 As is customary for IJN sister ships, they truly shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch (and extra screenclear) is.
 
-![CV](https://azurlane.koumakan.jp/w/images/e/ef/1uKaiChibi.png "Hiryu Kai") ![CV](https://azurlane.koumakan.jp/w/images/e/e0/SouryuuKaiChibi.png "Souryuu Kai") - **[IJN Hiryu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Soryu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)** **(T0 when together)**
+![CV](https://azurlane.koumakan.jp/w/images/e/ef/HiryuuKaiChibi.png "Hiryu Kai") ![CV](https://azurlane.koumakan.jp/w/images/e/e0/SouryuuKaiChibi.png "Souryuu Kai") - **[IJN Hiryu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Soryu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)** **(T0 when together)**
 * Skill (Hiryu): 
   * Once per battle and upon taking lethal damage, Hiryu becomes invincible for 15s and immediately launches a full airstrike.
   * When paired with Soryu, gain +35% Aviation.
