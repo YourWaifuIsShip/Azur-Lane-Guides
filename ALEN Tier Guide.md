@@ -84,13 +84,10 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (15/09/2019)
+## Changelog as of last update (21/09/2019)
 
-- RN Zara joins the Guide as T0
-- HMS Formidable joins the Guide as T0
-- RN Littorio joins the Guide as T1
-- RN Carabiniere joins the Guide as T1.5
-- RN Giulio Cesare joins the Guide as T2
+- IJN Hiryu and Soryu now have a Kai, making their non-Kai tiering redundant.
+- IJN Hiryu Kai and Soryu Kai tier up to T0.5 (T0 when together).
 
 <br/><br/>
 ---
@@ -2159,6 +2156,23 @@ Do not expect much from her in terms of DPS, though.
 >Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Airpower and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
 As is customary for IJN sister ships, they truly shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch (and extra screenclear) is.
 
+![CV](https://azurlane.koumakan.jp/w/images/e/ef/1uKaiChibi.png "Hiryu Kai") ![CV](https://azurlane.koumakan.jp/w/images/e/e0/SouryuuKaiChibi.png "Souryuu Kai") - **[IJN Hiryu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Soryu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)** **(T0 when together)**
+* Skill (Hiryu): 
+  * Once per battle and upon taking lethal damage, Hiryu becomes invincible for 15s and immediately launches a full airstrike.
+  * When paired with Soryu, gain +35% Aviation.
+  * At 10s and every 20s after that, launches a random amount of torpedo bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 2 parallel torps each.
+  * Has a 3/2/3 loadout.
+
+* Skill (Soryu): 
+  * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
+  * When paired with Hiryu, gain +35% Aviation.
+  * At 10s and every 20s after that, launches a random amount of dive bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 3 bombs each.
+  * Has a 3/3/2 loadout.
+
+* Desc: Ears of a rabbit, hearts of a lion, decks (and foreheads) of the gods.
+>Once criminally underrated and now outshining even the Foxes in terms of raw damage, Hiryuu focuses on Torpedo Bombers and stubbornly refusing to roll over and die (by becoming invincible for 15s and launching an airstrike); not the most useful skill under the majority of circumstances, though her sister makes up for it with the always handy vanguard buff, but the real deal is the +35% Aviation buff that is further bolstered by the slew of extra stats the Kai brought, as well as the neat timed barrage (which is, despite its inconsistency, still free damage).  
+Exceptional.
+
 ![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0 w/ Zuikaku)**
 * Skill: 
   * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
@@ -2233,32 +2247,6 @@ Her Kai skill, just like her gunfire skill, is best regarded as a bit of free ad
 - Desc: Putting the 'fleet' in 'fleet carrier'.
 > One of the hardiest and most well-rounded carriers in the game, Yorktown can cover any role admirably well, courtesy of her balanced plane loadout, her frontline buff, her self-heal and her personal SBD squadron, ready to bust the heads of whoever thought she was easy pickings.  
 Do NOT think she can solo backline past W6, though. Carriers aren't made for that and she's no exception.
- 
-![CV](https://azurlane.koumakan.jp/w/images/a/a9/HiryuuChibi.png "IJN Hiryuu") - **[IJN Hiryuu](https://azurlane.koumakan.jp/Hiryuu)** **(T0.5 w/ Souryuu)**
-* Skill: 
-  * Once a battle, upon taking lethal damage, will not sink and will evade all attacks for 15s, simultaneously launching an additional airstrike
-  * When paired with Soryu, increases Air Power by 35%
-  * Has a 3/2/3 Loadout.
-  
-* Recommended Loadouts:
-  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
-  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
-
-* Desc: 
->The stubbornest Kaga ever. Very comparable to the white kitsune in statline and efficiencies, though slightly inferior; what sets her apart from the fox is her skill, allowing her to narrowly avoid death and strike out for one last hail mary. Could win you battles both in PvE and PvP, but don't build on it.
-
-![CV](https://azurlane.koumakan.jp/w/images/c/c8/SouryuuChibi.png "IJN Souryuu") - **[IJN Souryuu](https://azurlane.koumakan.jp/Souryuu)** **(T0.5 w/ Hiryuu)**
-* Skill: 
-  * On launching an airstrike, increases escort fleet Damage by 15% for 8s
-  * When paired, increases Air Power by 35%
-  * Has a 3/3/2 Loadout.
-
-* Recommended Loadouts:
-  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
-  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
-
-* Desc: 
->A dive bomber focused Kaga, giving up her fast launch for a frontline buff. Skills aside, what was said about Hiryuu applies to Souryuu as well.
 
 
 ### Tier 1.5:
