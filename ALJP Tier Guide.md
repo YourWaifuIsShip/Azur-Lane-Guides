@@ -259,7 +259,20 @@ With no real weakness on display, beyond simply not being quite as good as more 
 
 - Desc:
 >Ah, the wonders of Kai. Shiranui goes from an excellent 0LB DD meme to a supremely legit pick for normal play, owing to her much improved torp stat and efficiency. The CV/L protection skill is nice to have, too.
- 
+
+![DD](https://azurlane.koumakan.jp/w/images/9/91/Z1KaiChibi.png "KMS Z1") - **[KMS Z1 Kai](https://azurlane.koumakan.jp/Z1#retrofit)** **(T0 if running full Z-series setup)**
+* Skill:
+  * +40% FP and Eva to all KMS DD.
+  * Every 20s, 80% chance to fire a special barrage, gain +50% CritDmg and grant -30% Aviation Damage to the vanguard for 10s.
+
+* Recommended Loadouts:
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: 
+>Z1 Kai read Z23 Kai's damn book and has learnt an EX barrage of her own, as well as a few other tricks, and as a result can now put out some remarkable DPS of her own while offering some measure of protection from planes.  
+Her guns didn't improve all that much, however, so don't forget she's more torp-focused than her peers.
+
 ![DD](https://azurlane.koumakan.jp/w/images/5/57/Le_MalinChibi.png "Le Malin") - **[MNF Le Malin](https://azurlane.koumakan.jp/Le_Malin)**
 * Skill:
   * If her Main Gun shots hit an enemy 10 times, that enemy takes +12% dmg from Le Malin; also, upon destroying an enemy, Le Malin gains a +2% FP stack, up to 10 stacks.
@@ -521,17 +534,6 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
 
 - Desc:
 >New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly great at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down. Solid even when planes aren't around, better when there are.
-
-![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - **[KMS Z1](https://azurlane.koumakan.jp/Z1)** **(T0 if running full Z-series setup)**
-* Skill:
-  * +40% FP and Eva to all KMS DD.
-
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
-
-* Desc: 
->Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
  
 ### Pro Team Players:
 ---
