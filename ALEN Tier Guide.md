@@ -89,7 +89,7 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - IJN Shigure Kai joins the list as a T1
 - IJN Yuugure Kai joins the list as a T1.5
 - IJN Kiyonami joins the list as a T2
-- IJN Makinami drops off the list (obsolete when she was released, Kiyonami obsoletes her entirely)
+- IJN Makinami drops off the list (obsolete when she was released, Kiyonami's arrival makes her entirely irrelevant)
 
 <br/><br/>
 ---
