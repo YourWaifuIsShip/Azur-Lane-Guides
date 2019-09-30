@@ -333,9 +333,8 @@ Devastating if the stars align and the debuff procs on her first torp hit, but l
   * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikons; Toolbox; Toolbox
 
-* Desc: 
->Ardent Kai but good.  
-No, really, there's not much else to say here; the atrocious statline has been fixed in typical IJN fashion (ie. stack torpedoes, stack them some more, slap a little extra armour on, forget how to shoot upwards) and... well, she works a lot better as a result.  
+* Desc: Ardent Kai but good.
+>No, really, there's not much else to say here; the atrocious statline has been fixed in typical IJN fashion (ie. stack torpedoes, stack them some more, slap a little extra armour on, forget how to shoot upwards) and... well, she works a lot better as a result.  
 
 
 ![DD](https://azurlane.koumakan.jp/w/images/5/55/Z25Chibi.png "Z25") - **[KMS Z25](https://azurlane.koumakan.jp/Z25)**
