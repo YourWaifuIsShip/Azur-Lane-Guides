@@ -84,10 +84,12 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (21/09/2019)
+## Changelog as of last update (30/09/2019)
 
-- IJN Hiryu and Soryu now have a Kai, making their non-Kai tiering redundant.
-- IJN Hiryu Kai and Soryu Kai tier up to T0.5 (T0 when together).
+- IJN Shigure Kai joins the list as a T1
+- IJN Yuugure Kai joins the list as a T1.5
+- IJN Kiyonami joins the list as a T2
+- IJN Makinami drops off the list (obsolete when she was released, Kiyonami obsoletes her entirely)
 
 <br/><br/>
 ---
