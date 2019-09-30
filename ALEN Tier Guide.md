@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (DIVINA TRAGICOMMEDIA EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (CROSSWAIT EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -86,8 +86,6 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 
 ## Changelog as of last update (30/09/2019)
 
-- IJN Shigure Kai joins the list as a T1
-- IJN Yuugure Kai joins the list as a T1.5
 - IJN Kiyonami joins the list as a T2
 - IJN Makinami drops off the list (obsolete when she was released, Kiyonami's arrival makes her entirely irrelevant)
 
