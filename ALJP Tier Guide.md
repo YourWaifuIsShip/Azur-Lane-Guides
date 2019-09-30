@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (DIVINA TRAGICOMMEDIA EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (CROSSWAIT EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -38,7 +38,7 @@ Good reading, and godspeed cap'n!
 #### Retrofit/Kai Priority List:
 - DD                  : Laffey > Ayanami = Z23 > Z1 > Cassin/Downes > Kagerou = Tanikaze > Nicholas > Javelin > Foxhound = Shiranui
 - CL                  : San Diego* > Jintsuu > Leander > Leipzig > Ping Hai/Ning Hai > Emile Bertin > Abukuma > Curlew/Curacoa > Ajax/Achilles
-- CA                  : Mogami > Portland > Furutaka/Kako > Suffolk
+- CA                  : London > Portland > Mogami > Furutaka/Kako > Suffolk
 - BB/C                : Hyuuga > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) > F* > Nevada/Oklahoma
 - CV/L                : Shouhou > Hiryu/Soryu > Ranger = Saratoga > Langley
   
@@ -74,13 +74,13 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (15/09/2019)
+## Changelog as of last update (30/09/2019)
 
-- RN Zara joins the Guide as T0
-- HMS Formidable joins the Guide as T0
-- RN Littorio joins the Guide as T1
-- RN Carabiniere joins the Guide as T1.5
-- RN Giulio Cesare joins the Guide as T2
+- IJN Shigure Kai joins the Guide as a T1
+- IJN Yuugure Kai joins the Guide as a T1.5
+- IJN Kiyonami joins the Guide as a T2
+- IJN Makinami drops off the Guide (obsolete when she was released, Kiyonami's arrival makes her entirely irrelevant)
+- IJN Shigure drops off the Guide (no reason not to Kai her)
 <br/><br/>
 ---
 <br/><br/>
@@ -247,6 +247,20 @@ As it is for Phoenix, they are best used in mobbing fleets.
 >Nicholas is a rarity among destroyers, in that she boasts both enough Firepower to face off with the best in her class and very solid defensive capabilities; a true generalist, even more so than Laffey considering her actually good torpedoes.  
 With no real weakness on display, beyond simply not being quite as good as more specialised units, Nicholas is a worthy addition in pretty much any escort fleet - especially one with Helena or Fletcher.
 
+![DD](https://azurlane.koumakan.jp/w/images/f/fe/ShigureKaiChibi.png "Shigure Kai") - **[IJN Shigure Kai](https://azurlane.koumakan.jp/Shiranui#Retrofit)**
+* Skill:
+  * Upon Main Gun fire, 5% chance to gain +60% Evasion for 8s.
+  * If deployed with Yukikaze, gain +15% Torpedo and a 70% chance every 20s to launch a special barrage; if NOT deployed with Yukikaze, grant a -5% fleetwide damage reduction and, once per battle when any unit falls below 20% HP, restore 10% of that unit's max HP.  
+
+* Recommended Loadouts:
+  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
+- Desc: Javelin has been obsoleted. Again.  
+>Poor starter just can't catch a break - first Yukikaze big dicks everyone else in her class (and beyond) in terms of sheer eHP while bringing good DPS and remarkable support, then Shigure joins in by either providing a higher-damage off-tank solution or by acting as a Yukikaze-lite if she's on her own.  
+That aside, she behaves in the usual IJN DD fashion - no torps means no DPS, so make the spreads count.
+
 ![DD](https://azurlane.koumakan.jp/w/images/6/63/ShiranuiKaiChibi.png "Shiranui Kai") - **[IJN Shiranui Kai](https://azurlane.koumakan.jp/Shiranui#Retrofit)**
 * Skill:
   * 30% chance upon torpedo launch to launch a second spread
@@ -323,7 +337,7 @@ Maury does things differently from many of her colleagues, but she does them wel
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
->The best buddy Ayanami will ever have, and she's damn good on her own too owing to her very high Evasion and Torpedo stat.
+>Ayanami's good friend, solid on her own too owing to her high Evasion and Torpedo stat.
 
 ![DD](https://azurlane.koumakan.jp/w/images/e/eb/TanikazeKaiChibi.png "IJN Tanikaze Kai") - **[IJN Tanikaze Kai](https://azurlane.koumakan.jp/Tanikaze#Retrofit)**
 * Skill:
@@ -352,6 +366,17 @@ Devastating if the stars align and the debuff procs on her first torp hit, but l
 - Desc:
 >Kagerou's sisters with practically identical stats and the same double-launch skill. The firepower skill is kinda irrelevant, but that's not what you're using them for anyway.
 
+ ![DD](https://azurlane.koumakan.jp/w/images/d/d0/YuugureKaiChibi.png "Yuugure Kai")- **[IJN Yuugure Kai](https://azurlane.koumakan.jp/Yuugure#Retrofit)**
+* Skill: 
+  * When alive in fleet, allied CV/L take -15% damage.
+  * When alive in fleet, allied CV/L deal +15% damage.
+
+* Recommended Loadouts:
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikons; Toolbox; Toolbox
+
+* Desc: Ardent Kai but good.
+>No, really, there's not much else to say here; the atrocious statline has been fixed in typical IJN fashion (ie. stack torpedoes, stack them some more, slap a little extra armour on, forget how to shoot upwards) and... well, she works a lot better as a result.  
 
 ![DD](https://azurlane.koumakan.jp/w/images/2/20/Z2Chibi.png "Z2") - **[KMS Z2](https://azurlane.koumakan.jp/Z2)**
 * Skill:
@@ -485,32 +510,20 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
 >Carrier mascotte adequate. While the buffs she provides are undeniably good, they also come packaged with a typically HMS DD statline (ie. poor HP, middling gunnery and torpedoes, high Evasion) that makes her almost worthless in an actual fight.  
 A hard sell, but perhaps your carriers may appreciate the buffs while someone picks up the slack?
 
-![DD](https://azurlane.koumakan.jp/w/images/a/a2/MakinamiChibi.png "IJN Makinami") - **[IJN Makinami](https://azurlane.koumakan.jp/Makinami)**
+![DD](https://azurlane.koumakan.jp/w/images/9/91/KiyonamiChibi.png "Kiyonami") - **[IJN Kiyonami](https://azurlane.koumakan.jp/Kiyonami)**
 * Skill: 
-  * 30% chance to launch a second salvo on Torpedo launch
-  * Every 20s, 60% chance to boost Firepower by 40%
+  * Every 20s, 60% chance to gain +40% Firepower for 10s.
+  * 10s after the start of the battle and every 20s afterwards, 25% chance to launch a torpedo spread (the amount of torps depends on the currently equipped ones).
 
 * Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm twin; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
   
 * Desc:  
->Aww, how adorable, she thinks she can actually deal damage what that IJN DD(tm) peashooter she's got!  
-Her torp game is still legit, if nothing else, and she'll be a decent placeholder for the superior and cheaper Kuroshio/Oyashio, whenever they'll come.
+>What's with IJN DD thinking they can actually shoot worth anything?
+At any rate, she's not much different from many other IJN DD in statline and behaviour (unusually high HP aside) - her main feature is her chance to drop a torpedo spread on her own accord every 20s, which is unwieldy but fairly interesting, and if nothing else allows her to drop full spreads more often than most. If she procs, that is.  
 
-![DD](https://azurlane.koumakan.jp/w/images/8/88/ShigureChibi.png "IJN Shigure")- **[IJN Shigure](https://azurlane.koumakan.jp/Shigure)**
-* Skill: 
-  * 5% chance on firing main gun to boost Evasion by 60% for 8s
-
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 100mm twin; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm Main Gun single or 76mm; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
-* Desc: 
->Think Javelin before her Kai, except not terrible. Excellent stats, good skill, pretty good to use overall.
- 
 ![DD](https://azurlane.koumakan.jp/w/images/e/eb/NiizukiChibi.png "IJN Niizuki")- **[IJN Niizuki](https://azurlane.koumakan.jp/Niizuki)**
 * Skill:
   * 25% chance every 20s, Increase entire fleet's Reload by 25% for 8s (does not stack with multiple instances of the same skill)
