@@ -57,6 +57,7 @@ As a guru put it,
 >"the pursuit of always optimal loadouts is a fool's errand  
 (a) It is and nothing shows it better than AA, but what can ya do beyond warning and pointing out the issues with that  
 yell louder that people are literally hunting for el fucking dorado"
+- Speaking of which, if you wish to know why these loadout recommendations are the way they are, read this(https://github.com/guroteske/al-guides). It is Very Important - about as important as the units themselves!
 
 
   
