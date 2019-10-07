@@ -289,7 +289,7 @@ Her guns didn't improve all that much, however, so don't forget she's more torp-
 
 ![DD](https://azurlane.koumakan.jp/w/images/5/57/Le_MalinChibi.png "Le Malin") - **[MNF Le Malin](https://azurlane.koumakan.jp/Le_Malin)**
 * Skill:
-  * If her Main Gun shots hit an enemy 10 times, that enemy takes +12% dmg from Le Malin; also, upon destroying an enemy, Le Malin gains a +2% FP stack, up to 10 stacks.
+  * If her Main Gun shots hit an enemy 10 times, that enemy takes +12% dmg from any destroyer in the fleet; also, upon destroying an enemy, Le Malin gains a +2% FP stack, up to 10 stacks.
   * Upon battle start, gain +20% Torp/Eva for 30s; over the next 20s, the buff potency lowers to 0%.
 
 * Recommended Loadouts:
@@ -2461,7 +2461,7 @@ As such, this section *does not contain tiers* but specific recommendations and 
 
 * Skill (U-557): 
   * Deal +15% Damage to CL.
-  * Gain +6% Torpedo and Reload for every KMS sub in the fleet.
+  * Gain +6% Torp/Reload per KMS submarine in the fleet.
 
 * Desc: Achtung - U-Boot!
 >Given real world Germany's history with submarines, it comes as no surprise that the Ironblood gets the apex specimens of their class.  
