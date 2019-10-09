@@ -674,7 +674,7 @@ With no real weakness to speak of, her one significant flaw is not being able to
 
 ![CL](https://azurlane.koumakan.jp/w/images/1/18/MontpelierChibi.png "Montpelier") - **[USS Montpelier](https://azurlane.koumakan.jp/Montpelier)**
 * Skill: 
-  * 60% chance every 20s, +25% Firepower and Accuracy to all CL/CA/CB in the fleet and decrease the damage they take by -25% for 8s.
+  * 60% chance every 20s, grant +25% Firepower and Accuracy to all CL/CA/CB in the fleet and decrease the damage they take by -15% for 8s.
   * 25% chance upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
 * Recommended Loadouts:
@@ -2091,13 +2091,13 @@ As is customary for IJN sister ships, they truly shine when used together - but 
 * Skill (Hiryu): 
   * Once per battle and upon taking lethal damage, Hiryu becomes invincible for 15s and immediately launches a full airstrike.
   * When paired with Soryu, gain +35% Aviation.
-  * At 10s and every 20s after that, launches a random amount of torpedo bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 2 parallel torps each.
+  * At 10s and every 15s after that, launches a random amount of torpedo bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 2 parallel torps each.
   * Has a 3/2/3 loadout.
 
 * Skill (Soryu): 
   * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
   * When paired with Hiryu, gain +35% Aviation.
-  * At 10s and every 20s after that, launches a random amount of dive bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 3 bombs each.
+  * At 10s and every 15s after that, launches a random amount of dive bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 3 bombs each.
   * Has a 3/3/2 loadout.
 
 * Desc: Ears of a rabbit, hearts of a lion, decks (and foreheads) of the gods.
