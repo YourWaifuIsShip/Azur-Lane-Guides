@@ -74,13 +74,10 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (30/09/2019)
+## Changelog as of last update (09/10/2019)
 
-- IJN Shigure Kai joins the Guide as a T1
-- IJN Yuugure Kai joins the Guide as a T1.5
-- IJN Kiyonami joins the Guide as a T2
-- IJN Makinami drops off the Guide (obsolete when she was released, Kiyonami's arrival makes her entirely irrelevant)
-- IJN Shigure drops off the Guide (no reason not to Kai her)
+- Fixed Le Malin's debuff skill text; it's a recent development, but that debuff helps ALL DD in the fleet, not just herself!
+- Fixed a few skill texts (Montpelir, Hiryu and Soryu).
 <br/><br/>
 ---
 <br/><br/>
