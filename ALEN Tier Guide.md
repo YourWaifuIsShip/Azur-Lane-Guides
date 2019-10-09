@@ -85,10 +85,9 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (30/09/2019)
+## Changelog as of last update (09/10/2019)
 
-- IJN Kiyonami joins the list as a T2
-- IJN Makinami drops off the list (obsolete when she was released, Kiyonami's arrival makes her entirely irrelevant)
+- Fixed a few skill texts (Montpelir, Hiryu and Soryu).
 
 <br/><br/>
 ---
