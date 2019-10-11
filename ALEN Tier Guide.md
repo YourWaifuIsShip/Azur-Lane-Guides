@@ -2175,13 +2175,13 @@ As is customary for IJN sister ships, they truly shine when used together - but 
 * Skill (Hiryu): 
   * Once per battle and upon taking lethal damage, Hiryu becomes invincible for 15s and immediately launches a full airstrike.
   * When paired with Soryu, gain +35% Aviation.
-  * At 10s and every 15s after that, launches a random amount of torpedo bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 2 parallel torps each.
+  * At 10s and every 20s after that, launches a random amount of torpedo bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 2 parallel torps each.
   * Has a 3/2/3 loadout.
 
 * Skill (Soryu): 
   * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
   * When paired with Hiryu, gain +35% Aviation.
-  * At 10s and every 15s after that, launches a random amount of dive bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 3 bombs each.
+  * At 15s and every 20s after that, launches a random amount of dive bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 3 bombs each.
   * Has a 3/3/2 loadout.
 
 * Desc: Ears of a rabbit, hearts of a lion, decks (and foreheads) of the gods.
