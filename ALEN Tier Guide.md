@@ -85,9 +85,13 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (09/10/2019)
+## Changelog as of last update (13/10/2019)
 
-- Fixed a few skill texts (Montpelir, Hiryu and Soryu).
+- HMS Unicorn tiers up, from T0.5 to T0. (Shoho is still more relevant in more worlds, but considering she becomes a liability due to her nil aerial presence from W12 onwards, Unicorn *is* as good as her)
+- RM Carabiniere tiers up, from T1.5 to T1. (reliable and solid supporter with likewise solid DPS, more than what originally looked like)
+- KMS Roon tiers down, from T0 to T0.5. (lots of CA who can take a beating and deal one of their own, and most of them either provide better support or at the very least don't take months to max; https://cdn.discordapp.com/attachments/367307557796053002/632498002996494337/IMG_20191002_125726.jpg)
+- IJN Hiryu Kai and Soryu Kai **unpaired** tier down, from T0.5 to T1. (they're still great, but Hiryu's base skill is a save which means you shouldn't be in a position to use and Soryu would still rather be with the sister)
+- IJN Shoukaku and Zuikaku **paired** tier down, from T0 to T0.5. (intended for boss fights first and foremost, this limits their viability in general use cases)
 
 <br/><br/>
 ---
@@ -264,10 +268,21 @@ That aside, she behaves in the usual IJN DD fashion - no torps means no DPS, so 
   * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
-
 - Desc:
 >Ah, the wonders of Kai. Shiranui goes from an excellent 0LB DD meme to a supremely legit pick for normal play, owing to her much improved torp stat and efficiency. The CV/L protection skill is nice to have, too.
- 
+
+![DD](https://azurlane.koumakan.jp/w/images/8/80/CarabiniereChibi.png "Caramba") - **[RN Carabiniere](https://azurlane.koumakan.jp/Carabiniere)**
+* Skill:
+  * Deal +50% Damage with the first 3 torpedo spreads.
+  * Every 20s and if placed as vanguard rear, 70% chance to gain +15% damage and grant +15% damage to the vanguard lead for 10s. THIS DOES NOT WORK IF SHE IS ALONE.
+
+* Recommended Loadouts:
+  * [Manual Only (ie. as you should use her)] 138.6mm; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
+* Desc: La benemerita, nei secoli fedele!
+>Small but unassumingly tough and fierce, Carabiniere is a Gun-DD packing a surprising amount of heat - be it either through her laser-like barrage, the charged torps or the remarkable gunnery, she can hold her own in the rearguard as she supports the lead.
  
 ### Tier 1.5:
 ---
@@ -386,19 +401,6 @@ The tempo she forces upon you is fairly demanding, as the average DD torpedo set
 - Desc:
 >A gun-focused DD blessed with a great statline where it counts the most and a remarkable Efficiency to go along with it, Letri is rather unwieldy but pretty powerful, if allowed to stack up and lead the charge. Handle with care, and the guns of the revolution will never fall silent.  
 Similarly to Laffey, her torps are awful but come out quick; consider patching up this weakness with an Oxygen Torpedo.
-
-![DD](https://azurlane.koumakan.jp/w/images/8/80/CarabiniereChibi.png "Caramba") - **[RN Carabiniere](https://azurlane.koumakan.jp/Carabiniere)**
-* Skill:
-  * Deal +50% Damage with the first 3 torpedo spreads.
-  * Every 20s and if placed as vanguard rear, 70% chance to gain +15% damage and grant +15% damage to the vanguard lead for 10s. THIS DOES NOT WORK IF SHE IS ALONE.
-
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 138.6mm; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
-* Desc: La benemerita, nei secoli fedele!
->Small but unassumingly tough and fierce, Carabiniere is a Gun-DD packing a surprising amount of heat - be it either through her laser-like barrage, the charged torps or the remarkable gunnery, she can hold her own in the rearguard as she supports the lead.
 
 ### Tier 2:
 ---
@@ -1077,24 +1079,8 @@ Especially useful for IJN exp PR grind, as silly as grinding exp for PRs is.
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: Oni-chan~
-> Step aside Portland, there's a new best CA in the game - at least on the offense.
-While she is definitely less tanky, missing the extra 800 HP and 11 Evasion Port gets, she casts a massive shadow over her DPS thanks to higher Firepower, better Main Gun efficiency, better offensive skills, a much better barrage and, most importantly, still getting Main Gun +1 despite the torps as if she were a gunboat.
-
-![CA](https://azurlane.koumakan.jp/w/images/8/87/RoonChibi.png "Roon") - **[KMS Roon](https://azurlane.koumakan.jp/Roon)**
-* Skill:
-  * Main Gun cycles between HE and AP every 2 salvo, then gains a +3.5% Reload stack for every Main Gun salvo fired. Max 12 stacks.
-  * Every 30s, generates 4 orbiting shields (two on a very narrow orbit, one on a medium orbit, one on a wide orbit) lasting 8 shots or 15s.
-  * +15% damage vs Sirens.
-  * Has MGM+1 and torpedoes.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Autoloader
-  * [Poverty] 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
-- Desc: ROON FOR YOUR LIVES!
-> In many ways, Saint Louis and Roon stand at opposite ends.  
-Whereas the former starts out strong and loses some of her lustre as the battle drags on, the latter only gets stronger; where the former's barrage is uncomfortably wide, the latter's is very concentrated and devastating; where the former relies on high speed and evasion to stay out of harm's way, the latter simply adds layers of HP and shields to power through the barrages; and as the former gradually mellows out of her cold templar persona, the latter grows ever more violent and unhinged.  
-As a result, Roon is best served on boss battles - where she has time to rev up her guns and let the concentrated barrage tear single hard targets apart.
+> Good torpedoes on a gunboat frame are unique more than they're rare, but you can't fault the results.
+Despite her relatively low staying power, courtesy of her abysmal Luck, Mogami Kai does what most CA don't - provide a real answer to Heavy Armour while not only keeping her excellent gunnery for it, but even boosting it.
 
 ![CA](https://azurlane.koumakan.jp/w/images/b/ba/Saint_LouisChibi.png "Saint Louis") - **[FFNF Saint Louis](https://azurlane.koumakan.jp/Saint_Louis)**
 * Skill:
@@ -1210,6 +1196,23 @@ Sporting an IJN DD's skillset and an IJN CA's statline, by all rights she should
 Her IJN DD side shines through her double preloaded torpedo spreads, the ludicrous 185% Torpedo Efficiency and entirely Torpedo-focused skills (including, if Fated, a neat +Eva buff on torpedo launch); her IJN CA side comes to the fore during the lulls inbetween torpedo strikes, as she falls back on her remarkable Torp-CA gunnery and sturdy frame to keep up the offensive.  
 That said, however, she's much more of a DD than a CA - to perform at her best she needs Oxygen Torpedoes, which limit her survivability (in comparison to other CAs at least, she's still considerably tougher than most IJN DDs), as well as suitable targets, which restricts her use cases to Sirens and bosses or alternatively particularly menacing mobs.
 Still, as long as you employ her for the surgical strikes she's made for, she has little to no rivals in her field.
+ 
+ ![CA](https://azurlane.koumakan.jp/w/images/8/87/RoonChibi.png "Roon") - **[KMS Roon](https://azurlane.koumakan.jp/Roon)** **(T0 w/ Bismarck)**
+* Skill:
+  * Main Gun cycles between HE and AP every 2 salvo, then gains a +3.5% Reload stack for every Main Gun salvo fired. Max 12 stacks.
+  * Every 30s, generates 4 orbiting shields (two on a very narrow orbit, one on a medium orbit, one on a wide orbit) lasting 8 shots or 15s.
+  * +15% damage vs Sirens.
+  * Has MGM+1 and torpedoes.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Autoloader
+  * [Poverty] 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+- Desc: ROON FOR YOUR LIVES!
+> Saint Louis and Roon apparently stand at opposite ends.  
+Whereas the former starts out strong and lose some of her lustre as the battle drags on, the latter needs time to wind up; where the former's barrage is uncomfortably wide, the latter's is very concentrated and devastating; where the former relies on high speed and evasion to stay out of harm's way, the latter simply adds layers of HP and shields to power through the barrages; and as the former gradually mellows out of her cold templar persona, the latter grows ever more violent and unhinged.  
+Had that been it, they would've made for a roughly equivalent pair; but as it stands, she is saddled with a detrimental ammo swap mechanic that prevents her from fully harnessing her power and a shield skill that is only marginally better than Prinz's by virtue of being a guaranteed proc (and the least said about the Dev35 buff it enjoys, ie. having them spawn at the start of the fight, the better).  
+Nevertheless, she's still a very accomplished Hybrid-CA and one that is very hardly replaceable in a full KMS lineup.
  
  ### Tier 1:
 ---
@@ -2098,6 +2101,19 @@ Locking an enemy in place for a whole second and a half is more than enough for 
 Formidable also happens to have a barrage if her Albacore tax is paid, but expect little from it unless she's in a mob fleet - the torpedoes are too spread apart from each other to ensure more than a couple of hits per spread, and that's not worth giving up the brutal damage output of a full aimed spread instead.
 *About the Albacore...* it's terrible. Parallel torpedoes are bad enough as it is and this one doesn't even launch three, unlike the Barracuda; if you're taking one, it's strictly for the barrage.
 
+![CVL](https://azurlane.koumakan.jp/w/images/e/e7/UnicornChibi.png "HMS Unicorn") - **[HMS Unicorn](https://azurlane.koumakan.jp/Unicorn)**
+* Skill: 
+  * On launching an airstrike, heals the escort fleet for 8% HP
+  * Increases Reload of escort fleet by 15%
+  * Has a 3/0/3 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>Arguably the best pure support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.  
+Do not expect much from her in terms of DPS, though.
 
 ![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)**
 * Skill: 
@@ -2143,20 +2159,6 @@ It's not all bombs and sunshine, though - while her proc rate is high, she is ne
 >Also referred to as RNGer for obvious reasons, and infamous because of her potentially infinite damage, you need luck on your side to get the most out of her; even without the procs, though, very few carriers get close to the sheer damage output she can unleash thanks to her 8 sea-attacking planes and high Efficiencies, and none of them can manage it at her rock-bottom 9 Oil cost.  
 Beware her near-total lack of anti-air presence, though; without Fighters or AA guns to speak of, there's little she can do about enemy planes.
 
-![CVL](https://azurlane.koumakan.jp/w/images/e/e7/UnicornChibi.png "HMS Unicorn") - **[HMS Unicorn](https://azurlane.koumakan.jp/Unicorn)**
-* Skill: 
-  * On launching an airstrike, heals the escort fleet for 8% HP
-  * Increases Reload of escort fleet by 15%
-  * Has a 3/0/3 loadout.
-
-* Recommended Loadouts:
-  * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
-  * [Poverty] F4U Corsair; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
-
-* Desc: 
->Arguably the best pure support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.  
-Do not expect much from her in terms of DPS, though.
-
 ![CV](https://azurlane.koumakan.jp/w/images/6/64/AkagiChibi.png "IJN Akagi") ![CV](https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)**
 * Skill: 
   * First Airstrike launches 50% faster
@@ -2171,24 +2173,7 @@ Do not expect much from her in terms of DPS, though.
 >Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Airpower and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
 As is customary for IJN sister ships, they truly shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch (and extra screenclear) is.
 
-![CV](https://azurlane.koumakan.jp/w/images/e/ef/HiryuuKaiChibi.png "Hiryu Kai") ![CV](https://azurlane.koumakan.jp/w/images/e/e0/SouryuuKaiChibi.png "Souryuu Kai") - **[IJN Hiryu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Soryu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)** **(T0 when together)**
-* Skill (Hiryu): 
-  * Once per battle and upon taking lethal damage, Hiryu becomes invincible for 15s and immediately launches a full airstrike.
-  * When paired with Soryu, gain +35% Aviation.
-  * At 10s and every 20s after that, launches a random amount of torpedo bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 2 parallel torps each.
-  * Has a 3/2/3 loadout.
-
-* Skill (Soryu): 
-  * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
-  * When paired with Hiryu, gain +35% Aviation.
-  * At 15s and every 20s after that, launches a random amount of dive bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 3 bombs each.
-  * Has a 3/3/2 loadout.
-
-* Desc: Ears of a rabbit, hearts of a lion, decks (and foreheads) of the gods.
->Once criminally underrated and now outshining even the Foxes in terms of raw damage, Hiryuu focuses on Torpedo Bombers and stubbornly refusing to roll over and die (by becoming invincible for 15s and launching an airstrike); not the most useful skill under the majority of circumstances, though her sister makes up for it with the always handy vanguard buff, but the real deal is the +35% Aviation buff that is further bolstered by the slew of extra stats the Kai brought, as well as the neat timed barrage (which is, despite its inconsistency, still free damage).  
-Exceptional.
-
-![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0 w/ Zuikaku)**
+![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0.5 w/ Zuikaku)**
 * Skill: 
   * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
   * When paired, increases Air Power by 30% and INCREASES damage taken by 5%
@@ -2263,6 +2248,22 @@ Her Kai skill, just like her gunfire skill, is best regarded as a bit of free ad
 > One of the hardiest and most well-rounded carriers in the game, Yorktown can cover any role admirably well, courtesy of her balanced plane loadout, her frontline buff, her self-heal and her personal SBD squadron, ready to bust the heads of whoever thought she was easy pickings.  
 Do NOT think she can solo backline past W6, though. Carriers aren't made for that and she's no exception.
 
+![CV](https://azurlane.koumakan.jp/w/images/e/ef/HiryuuKaiChibi.png "Hiryu Kai") ![CV](https://azurlane.koumakan.jp/w/images/e/e0/SouryuuKaiChibi.png "Souryuu Kai") - **[IJN Hiryu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Soryu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)** **(T0 when together)**
+* Skill (Hiryu): 
+  * Once per battle and upon taking lethal damage, Hiryu becomes invincible for 15s and immediately launches a full airstrike.
+  * When paired with Soryu, gain +35% Aviation.
+  * At 10s and every 20s after that, launches a random amount of torpedo bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 2 parallel torps each.
+  * Has a 3/2/3 loadout.
+
+* Skill (Soryu): 
+  * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
+  * When paired with Hiryu, gain +35% Aviation.
+  * At 15s and every 20s after that, launches a random amount of dive bombers that number from 5 (7%) to, 3(12%), 2(51%), 1(30%) dropping 3 bombs each.
+  * Has a 3/3/2 loadout.
+
+* Desc: Ears of a rabbit, hearts of a lion, decks (and foreheads) of the gods.
+>Once criminally underrated and now outshining even the Foxes in terms of raw damage, Hiryuu focuses on Torpedo Bombers and stubbornly refusing to roll over and die (by becoming invincible for 15s and launching an airstrike); not the most useful skill under the majority of circumstances, though her sister makes up for it with the always handy vanguard buff, but the real deal is the +35% Aviation buff that is further bolstered by the slew of extra stats the Kai brought, as well as the neat timed barrage (which is, despite its inconsistency, still free damage).  
+Exceptional.
 
 ### Tier 1.5:
 ---
@@ -2381,7 +2382,7 @@ Just don't expect much in the way of support, beyond the air coverage provided b
 With functionally 9 planes at her back and call without giving up her AA guns or high Reload, she can handily rival most other CVL in DPS while keeping some support capabilites to her credit - as well as a decent chance to throw out torrents of planes.  
 That said, she's still mostly an attack craft - her ASW capabilties, while a nice touch, are entirely useless on non-ASW maps and unnecessary there, given how easily dealt with subs are.
 
-#### ![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(T0 w/ Shoukaku)**
+#### ![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(T0.5 w/ Shoukaku)**
 * Skill: 
   * Increases next airstrike damage by 20% on launching airstrike, stacks up to 3 times
   * When paired, increases Air Power by 20% and takes 20% less damage
