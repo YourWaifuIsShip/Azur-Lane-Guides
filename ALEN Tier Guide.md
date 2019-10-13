@@ -87,6 +87,7 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 
 ## Changelog as of last update (13/10/2019)
 
+- IJN Mikasa joins the Guide, as a T2 (T0 w/ IJN gunboats)
 - HMS London Kai tiers up, from T0.5 to T0. (most consistent and consistently useful CA out there)
 - HMS Unicorn tiers up, from T0.5 to T0. (Shoho is still more relevant in more worlds, but considering she becomes a liability due to her nil aerial presence from W12 onwards, Unicorn *is* as good as her)
 - RM Carabiniere tiers up, from T1.5 to T1. (reliable and solid supporter with likewise solid DPS, more than what originally looked like)
@@ -1907,6 +1908,16 @@ As awful in AL as she is in WoWS, Izumo is bad by any standard - her barrage bar
 Her sole saving grace is her exceptional statline, and even then it is marred by high Oil costs, comparatively low Efficiencies and is far from making any significant difference.  
 The improvements to her barrage brought by a full Fate Sim aren't just an addition - they are a necessity in order to make it work.
 Bad not just by PR standards but as a whole, there is little to no reason to ever use her over any other barrage boat.
+
+![BC](https://azurlane.koumakan.jp/w/images/3/3a/MikasaChibi.png "Mikasa") - **[IJN Mikasa](https://azurlane.koumakan.jp/Mikasa)** **(T0 if deployed w/ IJN BB/BC/gunships)**
+* Skill: 
+  * Upon taking damage, 12% chance to halve that damage; also, when sortied as Flagship, grant all IJN units +20% Firepower/Reload.
+  * 60% chance upon Main Gun fire, grant all BB/C +20% damage output for 8s.
+  * If equipping the "Z Flag" auxiliary item, grant +5% Firepower/Accuracy to the entire fleet.
+
+* Desc: Pint-sized dai-senpai.
+>Don't be fooled by the seemingly low statline - Mikasa has a lot more Firepower and Reload than meets the eye, courtesy of her truly astounding buff suite, and is the premiere flagship for a gun-focused IJN fleets.
+Nevertheless, her low HP and AA do prove a liability later on and you will have to find some ways around that - taking more big guns, AA barges or even carriers, depending on the situation, just don't use her on her own.
 
 ![BC](https://azurlane.koumakan.jp/w/images/9/96/MutsuChibi.png "Mutsu") - **[IJN Mutsu](https://azurlane.koumakan.jp/Mutsu)**
 * Skill: 
