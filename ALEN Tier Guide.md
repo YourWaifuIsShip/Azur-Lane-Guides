@@ -87,6 +87,7 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 
 ## Changelog as of last update (13/10/2019)
 
+- HMS London Kai tiers up, from T0.5 to T0. (most consistent and consistently useful CA out there)
 - HMS Unicorn tiers up, from T0.5 to T0. (Shoho is still more relevant in more worlds, but considering she becomes a liability due to her nil aerial presence from W12 onwards, Unicorn *is* as good as her)
 - RM Carabiniere tiers up, from T1.5 to T1. (reliable and solid supporter with likewise solid DPS, more than what originally looked like)
 - KMS Roon tiers down, from T0 to T0.5. (lots of CA who can take a beating and deal one of their own, and most of them either provide better support or at the very least don't take months to max; https://cdn.discordapp.com/attachments/367307557796053002/632498002996494337/IMG_20191002_125726.jpg)
@@ -1067,6 +1068,21 @@ Especially useful for IJN exp PR grind, as silly as grinding exp for PRs is.
 - Desc: "Monster Hunter".
 > Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP/Rld buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
 
+![CA](https://azurlane.koumakan.jp/w/images/6/64/LondonKaiChibi.png "London Kai") - **[HMS London Kai](https://azurlane.koumakan.jp/London#retrofit)**
+* Skill: 
+  * Increases Firepower of the entire vanguard by 15%.
+  * Upon Main Gun fire, 30% chance to deal +100% damage; upon destroying an enemy unit, gain 1 stack of +1.5% Acc up to a total of 8 stacks.
+  * Once retrofitted, can mount DD guns instead of torpedoes. Efficiency stays 160%. DO THIS.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+* Desc: London cullin'.
+>London's retrofit is on a one-town-mission to clear the bad rap HMS CA for the most part deservedly get, and good Lord does she put in the effort.  
+While her base form has never been bad, performing as well as a Leander Kai at the end of the day, her comparatively high costs and mostly irrelevant niche (buffing DD FP as well as the rest) meant she wouldn't see much use; the Kai does not change this, but it does put her DPS in the big leagues thanks to her new obscenely powerful DD mount and chance for double damage, while the stat gains make her considerably tougher beside; the +Acc stacks are nice but not particularly important as vanguards don't really struggle landing hits but more crits are appreciated nonetheless.  
+Given all this, London Kai proudly joins Wichita and Choukai in their exclusive "best and most useful CA club" and does so with finesse.
+
 ![CA](https://azurlane.koumakan.jp/w/images/7/7b/MogamiKaiChibi.png "Mogami Kai") - **[IJN Mogami Kai](https://azurlane.koumakan.jp/Mogami#retrofit)**
 * Skill:
   * 60% chance every 20s, +40% FP for 8s.
@@ -1151,21 +1167,6 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
 * Desc: Can you say 24 shots in a row? She certainly can.   
 >Wichita brings to bear one of the absolute highest vanguard DPS in the game, owing to her Chain Cannon skill and the passive +15% FP.  
 While her HP is rather lacklustre, it's an easily solved issue and dead enemies can't hurt you anyway.
-
-![CA](https://azurlane.koumakan.jp/w/images/6/64/LondonKaiChibi.png "London Kai") - **[HMS London Kai](https://azurlane.koumakan.jp/London#retrofit)**
-* Skill: 
-  * Increases Firepower of the entire vanguard by 15%.
-  * Upon Main Gun fire, 30% chance to deal +100% damage; upon destroying an enemy unit, gain 1 stack of +1.5% Acc up to a total of 8 stacks.
-  * Once retrofitted, can mount DD guns instead of torpedoes. Efficiency stays 160%. DO THIS.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
-* Desc: London cullin'.
->London's retrofit is on a one-town-mission to clear the bad rap HMS CA for the most part deservedly get, and good Lord does she put in the effort.  
-While her base form has never been bad, performing as well as a Leander Kai at the end of the day, her comparatively high costs and mostly irrelevant niche (buffing DD FP as well as the rest) meant she wouldn't see much use; the Kai does not change this, but it does put her DPS in the big leagues thanks to her new obscenely powerful DD mount and chance for double damage, while the stat gains make her considerably tougher beside; the +Acc stacks are nice but not particularly important as vanguards don't really struggle landing hits but more crits are appreciated nonetheless.  
-Given all this, London Kai proudly joins Wichita and Choukai in their exclusive "best and most useful CA club" and does so with finesse.
 
 ![CA](https://azurlane.koumakan.jp/w/images/c/cb/ChoukaiChibi.png "Choukai") - **[IJN Choukai](https://azurlane.koumakan.jp/Choukai)** **(T0 w/ Torpedo-armed Cruisers)
 * Skill: 
