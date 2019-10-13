@@ -1914,10 +1914,12 @@ Bad not just by PR standards but as a whole, there is little to no reason to eve
   * Upon taking damage, 12% chance to halve that damage; also, when sortied as Flagship, grant all IJN units +20% Firepower/Reload.
   * 60% chance upon Main Gun fire, grant all BB/C +20% damage output for 8s.
   * If equipping the "Z Flag" auxiliary item, grant +5% Firepower/Accuracy to the entire fleet.
+  * Costs -1 Oil compared to other gold BB.
 
 * Desc: Pint-sized dai-senpai.
->Don't be fooled by the seemingly low statline - Mikasa has a lot more Firepower and Reload than meets the eye, courtesy of her truly astounding buff suite, and is the premiere flagship for a gun-focused IJN fleets.
-Nevertheless, her low HP and AA do prove a liability later on and you will have to find some ways around that - taking more big guns, AA barges or even carriers, depending on the situation, just don't use her on her own.
+>Don't be fooled by the seemingly low statline - Mikasa has a lot more Firepower and Reload than meets the eye, courtesy of her truly astounding buff suite, and is the premiere flagship for a gun-focused IJN fleets.  
+Nevertheless, her low HP and AA do prove a liability later on and you will have to find some ways around that - taking more big guns, AA barges or even carriers, depending on the situation.  
+Just don't use her on her own, unless you plan to exploit her -1 Oil cost.
 
 ![BC](https://azurlane.koumakan.jp/w/images/9/96/MutsuChibi.png "Mutsu") - **[IJN Mutsu](https://azurlane.koumakan.jp/Mutsu)**
 * Skill: 
