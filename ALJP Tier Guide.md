@@ -74,14 +74,9 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (13/10/2019)
+## Changelog as of last update (15/10/2019)
 
-- HMS Unicorn tiers up, from T0.5 to T0. (Shoho is still more relevant in more worlds, but considering she becomes a liability due to her nil aerial presence from W12 onwards, Unicorn *is* as good as her)
-- RM Carabiniere tiers up, from T1.5 to T1. (reliable and solid supporter with likewise solid DPS, more than what originally looked like)
-- KMS Roon tiers down, from T0 to T0.5. (lots of CA who can take a beating and deal one of their own, and most of them either provide better support or at the very least don't take months to max; https://cdn.discordapp.com/attachments/367307557796053002/632498002996494337/IMG_20191002_125726.jpg)
-- IJN Suzuya gets a conditional T1 tiering, if she's using the Seattle Gun. (legitimately better than CA guns on her)
-- IJN Hiryu Kai and Soryu Kai **unpaired** tier down, from T0.5 to T1. (they're still great, but Hiryu's base skill is a save which means you shouldn't be in a position to use and Soryu would still rather be with the sister)
-- IJN Shoukaku and Zuikaku **paired** tier down, from T0 to T0.5. (intended for boss fights first and foremost, this limits their viability in general use cases)
+- HMS Unicorn is now T0, as she should've been. It's not a major update if I don't mess up somehow!
 <br/><br/>
 ---
 <br/><br/>
@@ -2024,9 +2019,18 @@ Whatever's getting you down, Centaur has the solution for it - and while she won
 * Desc: <insert overused jojo reference here>
 >Unable to accept the fact she's overweight, Formidable insists that everyone be as *lumbering* as her. Rude.  
 Pettiness aside, Formidable is definitely true to her name - not so much because of her damage output, which remarkable as it is still doesn't beat some of the bigger names out there, but because of the invaluable support her stop offers.  
-Locking an enemy in place for a whole second and a half is more than enough for most big guns to get one full salvo on target, and the subsequent 2.5s' slowdown are enough to land a second - or allow other carriers to land the majority of their aimed torpedoes, for that matter. This all hinges on whether you can get her to launch before the others get to, however, and that may require some tinkering with cooldowns.  
+Locking an enemy in place for a whole second and a half is more than enough for most big guns to get one full salvo on target, and the subsequent 2.5s' slowdown are enough to land a second - or allow other carriers to land the majority of their aimed torpedoes, for that matter. This all hinges on when she launches, however: if she is sortieing with carriers, have her launch last; if she's sortieing with battleships, have her launch first.
 Formidable also happens to have a barrage if her Albacore tax is paid, but expect little from it unless she's in a mob fleet - the torpedoes are too spread apart from each other to ensure more than a couple of hits per spread, and that's not worth giving up the brutal damage output of a full aimed spread instead.
 *About the Albacore...* it's terrible. Parallel torpedoes are bad enough as it is and this one doesn't even launch three, unlike the Barracuda; if you're taking one, it's strictly for the barrage.
+ 
+  ![CVL](https://azurlane.koumakan.jp/w/images/e/e7/UnicornChibi.png "HMS Unicorn") - **[HMS Unicorn](https://azurlane.koumakan.jp/Unicorn)**
+* Skill: 
+  * On launching an airstrike, heals the escort fleet for 8% HP
+  * Increases Reload of escort fleet by 15%
+  * Has a 3/0/3 loadout.
+
+* Desc: 
+>Arguably the best support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
  
  ![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)**
 * Skill: 
@@ -2069,15 +2073,6 @@ It's not all bombs and sunshine, though - while her proc rate is high, she is ne
 >The Essex-class continues to impress, this time with a new-and-improved Hornet that manages to completely obsolete her predecessor while upstaging Enterprise in terms of reliability and overall performance (despite not quite hitting the same damage spikes a x2 dmg proc allows her).  
 The F6F-induced barrage won't see usage in PvE, but never fear - the stacking buffs will, and they'll be signficant.
 On a side-note, that's a B-17's shadow and not a B-25's. Irritating.
- 
- ![CVL](https://azurlane.koumakan.jp/w/images/e/e7/UnicornChibi.png "HMS Unicorn") - **[HMS Unicorn](https://azurlane.koumakan.jp/Unicorn)**
-* Skill: 
-  * On launching an airstrike, heals the escort fleet for 8% HP
-  * Increases Reload of escort fleet by 15%
-  * Has a 3/0/3 loadout.
-
-* Desc: 
->Arguably the best support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
  
 ![CV](https://azurlane.koumakan.jp/w/images/6/64/AkagiChibi.png "IJN Akagi") ![CV](https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)**
 * Skill: 
