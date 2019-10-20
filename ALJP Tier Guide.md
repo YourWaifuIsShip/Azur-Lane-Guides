@@ -74,9 +74,9 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (15/10/2019)
+## Changelog as of last update (20/10/2019)
 
-- HMS Unicorn is now T0, as she should've been. It's not a major update if I don't mess up somehow!
+- KMS U-110 is now in the Tier Guide.
 <br/><br/>
 ---
 <br/><br/>
@@ -2434,42 +2434,37 @@ Here's a quick rundown of how they work.
 Given these premises, it quickly becomes apparent that **submarine fleets are meant to be fielded as a trio**; whether it be mauling nodes on the map or providing heavy torpedo support, they only reach peak efficiency as a full fleet, and in the case of map strikes such efficiency comes at no oil cost whatsoever.
 As such, this section *does not contain tiers* but specific recommendations and groupings - let's get to them.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/9/90/U-47Chibi.png "U-47") ![SS](https://azurlane.koumakan.jp/w/images/thumb/8/81/U-73Chibi.png/139px-U-73Chibi.png "U-73") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/5/5d/U-101Chibi.png "U-101") ![SS](https://azurlane.koumakan.jp/w/images/2/22/U-522Chibi.png "U-522") ![SS](https://azurlane.koumakan.jp/w/images/thumb/4/41/U-556Chibi.png/132px-U-556Chibi.png "U-556") ![SS](https://azurlane.koumakan.jp/w/images/e/ed/U-557Chibi.png "U-557") - [KMS U-47](https://azurlane.koumakan.jp/U-47), [KMS U-73](https://azurlane.koumakan.jp/U-73), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-101](https://azurlane.koumakan.jp/U-101), [KMS U-522](https://azurlane.koumakan.jp/U-522), [KMS U-556](https://azurlane.koumakan.jp/U-556), [KMS U-557](https://azurlane.koumakan.jp/U-557) 
-
-* Skill (U-47): 
-  * If U-47 damages an enemy with a torpedo, her next torpedo within 5s will inflict +40% damage.
-  * If sortied solo, gain +20% Damage vs BBs, +2 Ammo and +1 Search Level.
-  
+#### ![SS](https://azurlane.koumakan.jp/w/images/thumb/8/81/U-73Chibi.png/139px-U-73Chibi.png "U-73") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/5/5d/U-101Chibi.png "U-101") ![SS](https://azurlane.koumakan.jp/w/images/0/03/U-110Chibi.png "U-110") ![SS](https://azurlane.koumakan.jp/w/images/5/5d/U-101Chibi.png "U-101") ![SS](https://azurlane.koumakan.jp/w/images/2/22/U-522Chibi.png "U-522") ![SS](https://azurlane.koumakan.jp/w/images/thumb/4/41/U-556Chibi.png/132px-U-556Chibi.png "U-556") - [KMS U-73](https://azurlane.koumakan.jp/U-73), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-101](https://azurlane.koumakan.jp/U-101), [KMS U-110](https://azurlane.koumakan.jp/U-110), [KMS U-522](https://azurlane.koumakan.jp/U-522), [KMS U-556](https://azurlane.koumakan.jp/U-556)
 * Skill (U-73): 
   * Deal +15% Damage to CV/L.
-  * Gain +6% Torp/Reload per KMS submarine in the fleet
+  * Gain +6% Torp/Reload per KMS submarine in the fleet.
   
 * Skill (U-81): 
   * Deal +20% Damage to CV; also, U-81's torps have a 15% chance to inflict Flooding (DoT similar to Ignition; 3s ticks, multiple procs do not stack but refresh duration) for 24s.
-  * Gain +40% Evasion; also, gain +7% Torp, Reload and Accuracy for every KMS sub in the fleet.
-
+  * Gain +40% Evasion; also, gain +7% Torp/Reload/Acc for every KMS sub in the fleet.
+  
 * Skill (U-101):
   * Gain +15% Accuracy; if *not* sortied as flagship U-101 moves roughly into facetorp range and hovers around there for 18s, falling back afterwards.
   * Grant +7% EvaRate and +7% Damage vs DD/CL to all KMS submarines in the fleet; gain +6% Torp/Reload for every KMS submarine in the fleet.
   
+* Skill (U-110):
+  * Upon battle start, roll a 1d6 and grant a corresponding buff to all KMS units in battle (+3% dmg dealt; -3% dmg taken; +3% CritRate/CritDmg; +4% Evasion; +4% Accuracy; +4% AA).
+  * Gain +6% Torp/Reload per KMS submarine in the fleet.
+  
 * Skill (U-522)
   * Gain +20 O2; also, once per sortie, the sub fleet can be called in regardless of its position on the map.
   * Gain +6% Torp/Reload per KMS submarine in the fleet.
-
+  
 * Skill (U-556)
   * Whenever an allied unit falls below 20% HP, launches a torpedo barrage; if Bismarck is in the fleet, the barrage improves.
-  * Gain +6% Torp/Reload per KMS submarine in the fleet.
-
-* Skill (U-557): 
-  * Deal +15% Damage to CL.
   * Gain +6% Torp/Reload per KMS submarine in the fleet.
 
 * Desc: Achtung - U-Boot!
 >Given real world Germany's history with submarines, it comes as no surprise that the Ironblood gets the apex specimens of their class.  
 Highly synergistic, they all benefit from hanging out with each other but are frail and somewhat lacking in support options otherwise - murdering stuff in call-ins is what they do best and that's all they do, but they better not take casualties.  
-*About U-47...* while you may be tempted to use her solo, don't. There's little to gain from it and much to lose.  
 *About U-81...* she torpedoes harder and gains more than the others from having fellow countrychildren around.  
 *About U-101...* being able to close the distance with the enemy drastically lowers the chance to physically miss the target, but it is also somewhat suicidal if she's not equipped with a Snorkel. What's that? Not in EN? How unfortunate.  
+*About U-110...* COMMENCE RNG FIESTA! Or don't, the buffs are minimal and there's no guarantee you'll get the ones you want when you actually need them. Still better than 556 though.
 *About U-522...* the call-in from across the map is a bit of a meme since you can move your fleet around anyway, but the extra O2 is just enough to let her skip Snorkels in favour of another Oxytorp.  
 *About U-556...* yes, having someone reach critical HP is a terrible condition, and now she's not the only option for a full KMS fleet anymore she's the worst sub in the game. Sorry.  
 *About all of them...* their barrages are semi-homing, just like regular acoustic torps. Have fun.  
