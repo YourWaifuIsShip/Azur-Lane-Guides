@@ -85,15 +85,9 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (13/10/2019)
+## Changelog as of last update (20/10/2019)
 
-- IJN Mikasa joins the Guide, as a T2 (T0 w/ IJN gunboats)
-- HMS London Kai tiers up, from T0.5 to T0. (most consistent and consistently useful CA out there)
-- HMS Unicorn tiers up, from T0.5 to T0. (Shoho is still more relevant in more worlds, but considering she becomes a liability due to her nil aerial presence from W12 onwards, Unicorn *is* as good as her)
-- RM Carabiniere tiers up, from T1.5 to T1. (reliable and solid supporter with likewise solid DPS, more than what originally looked like)
-- KMS Roon tiers down, from T0 to T0.5. (lots of CA who can take a beating and deal one of their own, and most of them either provide better support or at the very least don't take months to max; https://cdn.discordapp.com/attachments/367307557796053002/632498002996494337/IMG_20191002_125726.jpg)
-- IJN Hiryu Kai and Soryu Kai **unpaired** tier down, from T0.5 to T1. (they're still great, but Hiryu's base skill is a save which means you shouldn't be in a position to use and Soryu would still rather be with the sister)
-- IJN Shoukaku and Zuikaku **paired** tier down, from T0 to T0.5. (intended for boss fights first and foremost, this limits their viability in general use cases)
+- KMS U-110 is now in the Tier Guide.
 
 <br/><br/>
 ---
