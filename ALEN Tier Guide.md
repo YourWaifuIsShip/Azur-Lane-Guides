@@ -319,6 +319,19 @@ Maury does things differently from many of her colleagues, but she does them wel
 * Desc: 
 >Ayanami's good friend, solid on her own too owing to her very high Evasion and Torpedo stat.
 
+![DD](https://azurlane.koumakan.jp/w/images/8/89/KuroshioChibi.png "Kuroshio") ![DD](https://azurlane.koumakan.jp/w/images/c/cb/OyashioChibi.png "Oyashio")- **[IJN Kuroshio](https://azurlane.koumakan.jp/Kuroshio)** **[IJN Oyashio](https://azurlane.koumakan.jp/Oyashio)**
+* Skill:
+  * 30% chance upon torpedo launch to launch a second spread
+  * 60% e/ 20s to +40% her own Firepower for 8s
+
+* Recommended Loadouts:
+  * [Manual Only (ie. as you should use her)] 120mm twin; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
+- Desc:
+>Kagerou's sisters with practically identical stats and the same double-launch skill. The firepower skill is kinda irrelevant, but that's not what you're using them for anyway.
+
 ![DD](https://azurlane.koumakan.jp/w/images/e/eb/TanikazeKaiChibi.png "IJN Tanikaze Kai") - **[IJN Tanikaze Kai](https://azurlane.koumakan.jp/Tanikaze#Retrofit)**
 * Skill:
   * When only escort ship alive, increase own evasion by 10% and reduce damage taken from airstrike to self by 50%
