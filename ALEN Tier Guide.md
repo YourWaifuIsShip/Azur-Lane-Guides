@@ -85,9 +85,9 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (20/10/2019)
+## Changelog as of last update (23/10/2019)
 
-- KMS U-110 is now in the Tier Guide.
+- Forgot IJN Oyashio and Kuroshio. Oops! That wasn't intentional.
 
 <br/><br/>
 ---
