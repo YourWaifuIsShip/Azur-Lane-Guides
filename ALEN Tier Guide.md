@@ -636,7 +636,7 @@ With no real weakness to speak of, her one significant flaw is not being able to
   * 25% chance upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc:
@@ -651,7 +651,7 @@ Most, if not all, Cruiser compositions will benefit by her presence.
   * 20s 60% chance to inflict a -40% damage resistance debuff on all enemies currently on the screen.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; PR Hydraulic Gear; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -663,7 +663,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
   * Once per fight and upon falling below 20% HP, restore 25% HP and +30% FP for 15s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; PR Hydraulic Gear; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -689,7 +689,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
   * Upon battle start and at a 30% chance every 15s afterwards, deploy a smokescreen (smoke cloud granting +40% EvaRate to those in it) for 5s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gunn; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gunn; 533mm quintuple conventional torpedo; 40mm Quad Bofors; PR Hydraulic Gear; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
@@ -700,7 +700,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
   * Upon battle start, heals the fleet by 3.5% of her max HP.
   
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; PR Hydraulic Gear; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
   
 * Desc: 
@@ -807,7 +807,7 @@ She'll only buff herself, but a +40% FP never really goes amiss.
   * 10s after battle starts and 20% chance at every 20s thereafter, create a smokescreen that lasts 10s. Smokescreen provides 35% evasion and 35% reduced damage taken from airstrikes
 
 * Recommended Loadouts:
-  * [General Purpose] Triple 155mm Mounted Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Triple 155mm Mounted Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Triple 155mm Mounted Gun; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Hot maid, in more ways than one.
@@ -875,7 +875,7 @@ Her retaliatory barrage is pretty strong, but you should try *not* to proc it; l
   * 20s 60% chance for +40% FP for 8s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
@@ -888,7 +888,7 @@ A solid pick regardless, especially if you expect aircraft
   * Upon firing AA guns, gain +25% AA for 5s; once per battle, if sortied with Lil Sandy or Cleveland and either falls under 40% HP, gain +25% FP/Acc.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: The lolifying beam spares nobody!
@@ -915,7 +915,7 @@ It goes without saying that she'll severely underperform if she's not going to a
 
 * Recommended Loadouts:
   * [Full Atk] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
@@ -928,7 +928,7 @@ Powerful enough for the class and rather inexpensive, but beware the severely su
   * Decreases the evasion rate of all enemy destroyers and light cruisers by 20%.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
