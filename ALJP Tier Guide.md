@@ -74,9 +74,9 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (20/10/2019)
+## Changelog as of last update (27/10/2019)
 
-- KMS U-110 is now in the Tier Guide.
+- Fixed a few gear recommendations for CLs.
 <br/><br/>
 ---
 <br/><br/>
@@ -704,7 +704,7 @@ Weird but potentially very good. Watch out for her loadout.
   * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -716,7 +716,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
   * Once per fight and upon falling below 20% HP, restore 25% HP and +30% FP for 15s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -755,7 +755,7 @@ Not entirely as powerful as her older self, but she's up there without being for
   * Upon battle start and on a 30% chance every 15s, creates a smokescreen (+40% Evasion Rate while inside) for 5s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gunn; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Optimal] Prototype Triple 152mm Main Gunn; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
@@ -793,7 +793,7 @@ That said, you will need to deploy a few carriers to get the full experience and
   * Gain +30% CritRate and +10% Accuracy vs DD/CL; also, enemies hit by her Main Gun fire have a 10% chance to have their EvaRate reduced by 10% for 6s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc:
@@ -806,7 +806,7 @@ Your big guns in particular will thank her for her support.
   * Grant +3 Speed to all units in the vanguard and reduce the ramming damage they sustain by -25%; once per battle and when below 30% HP, become Intangible (100% EvaRate) for 5s and gain +15% Damage for the rest of the battle.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Not Fishy at all!
