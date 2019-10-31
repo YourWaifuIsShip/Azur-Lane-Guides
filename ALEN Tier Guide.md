@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (CROSSWAIT EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (WEHRABOO 2: WEHR HARDER EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -85,9 +85,13 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (27/10/2019)
+## Changelog as of last update (31/10/2019)
 
-- Fixed a few gear recommendations for CLs.
+- KMS Z1 Kai joins the Tier Guide as T1 (T0 in a Z Comp).
+- KMS Leipzig Kai joins the Tier Guide as T1.
+- KMS U-47 and U-557 join the Tier Guide.
+
+- KMS Z1 and KMS Leipzig have been removed from the Tier Guide as they are now irrelevant (their Kai exists).
 
 <br/><br/>
 ---
@@ -266,6 +270,19 @@ That aside, she behaves in the usual IJN DD fashion - no torps means no DPS, so 
 
 - Desc:
 >Ah, the wonders of Kai. Shiranui goes from an excellent 0LB DD meme to a supremely legit pick for normal play, owing to her much improved torp stat and efficiency. The CV/L protection skill is nice to have, too.
+
+![DD](https://azurlane.koumakan.jp/w/images/9/91/Z1KaiChibi.png "KMS Z1") - **[KMS Z1 Kai](https://azurlane.koumakan.jp/Z1#retrofit)** **(T0 if running full Z-series setup)**
+* Skill:
+  * +40% FP and Eva to all KMS DD.
+  * Every 20s, 80% chance to fire a special barrage, gain +50% CritDmg and grant -30% Aviation Damage to the vanguard for 10s.
+
+* Recommended Loadouts:
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: 
+>Z1 Kai read Z23 Kai's damn book and has learnt an EX barrage of her own, as well as a few other tricks, and as a result can now put out some remarkable DPS of her own while offering some measure of protection from planes.  
+Her guns didn't improve all that much, however, so don't forget she's more torp-focused than her peers.
 
 ![DD](https://azurlane.koumakan.jp/w/images/8/80/CarabiniereChibi.png "Caramba") - **[RN Carabiniere](https://azurlane.koumakan.jp/Carabiniere)**
 * Skill:
@@ -500,17 +517,6 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
 
 - Desc:
 >New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly great at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down. Solid even when planes aren't around, better when there are.
-
-![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - **[KMS Z1](https://azurlane.koumakan.jp/Z1)** **(T0 if running full Z-series setup)**
-* Skill:
-  * +40% FP and Eva to all KMS DD.
-
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
-
-* Desc: 
->Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
  
 ### Pro Team Players:
 ---
@@ -734,7 +740,21 @@ It shouldn't need mentioning, but since she does not have a HE buffing skill, sh
 >Similar in a few ways to Jintsuu, Sirius offers a spectacular buff to a specific subset of units while benefiting greatly from it herself - significant enough to offset her otherwise unimpressive statline and really get the most out of her DD guns.
 Gunnery is her main asset, and her barrage even more so - one of the absolute best as far as vanguards are concerned, very quick and hard-hitting despite the unassuming Normal shells, and unique in its narrowing pattern, which makes landing most of the shots from long range a rather simple task.  
 That said, you will need to deploy a few carriers to get the full experience and with her barrage making up a significant portion of her overall DPS, her auto performance will suffer - handle with care. 
- 
+
+![CL](https://azurlane.koumakan.jp/w/images/d/d6/LeipzigKaiChibi.png "Leipzig Kai") - **[KMS Leipzig Kai](https://azurlane.koumakan.jp/Leipzig#retrofit)**
+* Skill: 
+  * Grant 10% FP/Torpedo/Reload to all CL/CA in the fleet. (It stacks with Command skills, too.)
+  * Grant +3 Speed to all units in the vanguard and reduce the ramming damage they sustain by -25%; once per battle and when below 30% HP, become Intangible (100% EvaRate) for 5s and gain +15% Damage for the rest of the battle.
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: Not Fishy at all!
+> More of the same good, old, flexible cruiser buffing action - but on a much more capable platform.  
+Ziggy's Kai gave her the statline she needed to compete favourably with the other big-name CL supporters, even if the second skill is kinda lacklustre. Her torps in particular have shot up a fair few notches, going from an afterthought to her main source of damage, while also making adequate gains in staying power.  
+Nice.  
+
 ### Tier 1.5:
 ---
 ![CL](https://azurlane.koumakan.jp/w/images/4/43/BrooklynChibi.png "USS Brooklyn") - **[USS Brooklyn](https://azurlane.koumakan.jp/Brooklyn)**
@@ -961,17 +981,6 @@ All things considered she's a fairly good deal, providing stable and solid DPS w
 * Desc: 
 >Agano is an interesting little beastie, proud owner of an unconventional kit (DD FP boost, CV/L defence boost) and... less proud owner of a somewhat unremarkable statline for IJN CL, especially when compared to Sendai and Jintsuu.  
 While she isn't a bad unit on her own by any stretch, her competitors are more powerful and their skills more wieldy and impactful than hers - which means her best use would be as a DD FP buffer, similarly to London.
-
-![CL](https://azurlane.koumakan.jp/w/images/1/11/LeipzigChibi.png "KMS Leipzig") - **[KMS Leipzig](https://azurlane.koumakan.jp/Leipzig)**
-* Skill: 
-  * 10% FP/Eva/Reload to all CL/CA in the fleet.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
-* Desc: 
->Leipzig is a solid buff-provider, but is put down by her own somewhat lacking stats. Best used in an all-KMS lineup for maximum impact, as well as Torp-CA fronts, but she has a place in any frontline.
 
 ![CL](https://azurlane.koumakan.jp/w/images/5/5c/AvroraChibi.png "SN Avrora") - **[SN Avrora](https://azurlane.koumakan.jp/Avrora)**
 * Skill: 
@@ -2491,7 +2500,11 @@ Here's a quick rundown of how they work.
 Given these premises, it quickly becomes apparent that **submarine fleets are meant to be fielded as a trio**; whether it be mauling nodes on the map or providing heavy torpedo support, they only reach peak efficiency as a full fleet, and in the case of map strikes such efficiency comes at no oil cost whatsoever.
 As such, this section *does not contain tiers* but specific recommendations and groupings - let's get to them.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/thumb/8/81/U-73Chibi.png/139px-U-73Chibi.png "U-73") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/5/5d/U-101Chibi.png "U-101") ![SS](https://azurlane.koumakan.jp/w/images/0/03/U-110Chibi.png "U-110") ![SS](https://azurlane.koumakan.jp/w/images/2/22/U-522Chibi.png "U-522") ![SS](https://azurlane.koumakan.jp/w/images/thumb/4/41/U-556Chibi.png/132px-U-556Chibi.png "U-556") - [KMS U-73](https://azurlane.koumakan.jp/U-73), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-101](https://azurlane.koumakan.jp/U-101), [KMS U-110](https://azurlane.koumakan.jp/U-110), [KMS U-522](https://azurlane.koumakan.jp/U-522), [KMS U-556](https://azurlane.koumakan.jp/U-556)
+#### ![SS](https://azurlane.koumakan.jp/w/images/9/90/U-47Chibi.png "U-47") ![SS](https://azurlane.koumakan.jp/w/images/thumb/8/81/U-73Chibi.png/139px-U-73Chibi.png "U-73") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/2/22/U-522Chibi.png "U-522") ![SS](https://azurlane.koumakan.jp/w/images/thumb/4/41/U-556Chibi.png/132px-U-556Chibi.png "U-556") ![SS](https://azurlane.koumakan.jp/U-557/Gallery#/media/File:U-557Chibi.png "U-557") - [KMS U-47](https://azurlane.koumakan.jp/U-73), [KMS U-73](https://azurlane.koumakan.jp/U-73), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-101](https://azurlane.koumakan.jp/U-101), [KMS U-522](https://azurlane.koumakan.jp/U-522), [KMS U-556](https://azurlane.koumakan.jp/U-556), [KMS U-557](https://azurlane.koumakan.jp/U-557)
+* Skill (U-47): 
+  * Enemies hit by U-47's torpedoes take +40% damage from U-47's next torpedo.
+  * If sortied solo, deal +20% damage to BB, gain +1 Hunting Range and +2 Ammo.
+
 * Skill (U-73): 
   * Deal +15% Damage to CV/L.
   * Gain +6% Torp/Reload per KMS submarine in the fleet.
@@ -2504,10 +2517,6 @@ As such, this section *does not contain tiers* but specific recommendations and 
   * Gain +15% Accuracy; if *not* sortied as flagship U-101 moves roughly into facetorp range and hovers around there for 18s, falling back afterwards.
   * Grant +7% EvaRate and +7% Damage vs DD/CL to all KMS submarines in the fleet; gain +6% Torp/Reload for every KMS submarine in the fleet.
   
-* Skill (U-110):
-  * Upon battle start, roll a 1d6 and grant a corresponding buff to all KMS units in battle (+3% dmg dealt; -3% dmg taken; +3% CritRate/CritDmg; +4% Evasion; +4% Accuracy; +4% AA).
-  * Gain +6% Torp/Reload per KMS submarine in the fleet.
-  
 * Skill (U-522)
   * Gain +20 O2; also, once per sortie, the sub fleet can be called in regardless of its position on the map.
   * Gain +6% Torp/Reload per KMS submarine in the fleet.
@@ -2515,13 +2524,17 @@ As such, this section *does not contain tiers* but specific recommendations and 
 * Skill (U-556)
   * Whenever an allied unit falls below 20% HP, launches a torpedo barrage; if Bismarck is in the fleet, the barrage improves.
   * Gain +6% Torp/Reload per KMS submarine in the fleet.
+  
+* Skill (U-557)
+  * Deal +15% damage to CL.
+  * Gain +6% Torp/Reload per KMS submarine in the fleet.
 
 * Desc: Achtung - U-Boot!
 >Given real world Germany's history with submarines, it comes as no surprise that the Ironblood gets the apex specimens of their class.  
 Highly synergistic, they all benefit from hanging out with each other but are frail and somewhat lacking in support options otherwise - murdering stuff in call-ins is what they do best and that's all they do, but they better not take casualties.  
+*About U-47...* yes, she does have a solo skill; no, you do not use her solo. You're taking her for her brutal damage output, not because of the solo meme skill.
 *About U-81...* she torpedoes harder and gains more than the others from having fellow countrychildren around.  
-*About U-101...* being able to close the distance with the enemy drastically lowers the chance to physically miss the target, but it is also somewhat suicidal if she's not equipped with a Snorkel. Not that it matters much.  
-*About U-110...* COMMENCE RNG FIESTA! Or don't, the buffs are minimal and there's no guarantee you'll get the ones you want when you actually need them. Still better than 556 though.  
+*About U-101...* being able to close the distance with the enemy drastically lowers the chance to physically miss the target, but it is also somewhat suicidal if she's not equipped with a Snorkel. Not that it matters much.    
 *About U-522...* the call-in from across the map is a bit of a meme since you can move your fleet around anyway, but the extra O2 is just enough to let her skip Snorkels in favour of another Oxytorp.  
 *About U-556...* yes, having someone reach critical HP is a terrible condition, and now she's not the only option for a full KMS fleet anymore she's the worst sub in the game. Sorry.  
 *About all of them...* their barrages are semi-homing, just like regular acoustic torps. Have fun.  
