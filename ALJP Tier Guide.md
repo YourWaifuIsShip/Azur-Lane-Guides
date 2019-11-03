@@ -79,10 +79,11 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - Muse Gascogne joins the Guide as a T1.5 (T1 w/ Muses)
 - Muse Cleveland joins the Guide as a T1.5
 - Muse Admiral Hipper joins the Guide as a T2
+- Muse Sheffield joins the Guide as a T2
 - Muse Akagi joins the Guide as a Honourable Mention (T1 w/ 'full' Muse)
-- Muse Sheffield joins the Guide as a 
 
 - MNF Dunkerque tiers up to T1.5.
+- KMS Admiral Hipper drops from the Guide (Muse Hipper is pretty much better across the board, and the regular one ws in a precarious position already).
 
 <br/><br/>
 ---
@@ -1805,6 +1806,16 @@ A force to be reckoned with, especially considering her cost, but don't count on
 >Think Warspite, except with a functional barrage and less showboating. Between her regular guns, the CL secondaries, the automated barrage and the torps, she will throw out damage more often than any other backliner in the game.  
 A force to be reckoned with, just like her sister; and just like her sister, don't count on her torps at all.
 
+![BC](https://azurlane.koumakan.jp/w/images/8/81/DunkerqueChibi.png "Dunkerque") - **[MNF Dunkerque](https://azurlane.koumakan.jp/Dunkerque)**
+* Skill: 
+  * 50% chance on Main Gun fire, launch a fixed linear HE barrage (2 tight columns of 4 HE shells and a few needles to the sides).
+  * Starts the battle with a preloaded volley, but has MGM-1.
+
+* Desc: The predecessor to Jean Bart, and it does show.
+>Like Jean, she lacks her third salvo and can launch her bombardment immediately; unlike Jean, said bombardment operates just like any other and is considerably weaker as a result, while her barrage fires on a coin toss.  
+All that said, she'll always get to fire one more volley per round than 99% of the other dreadnoughts and her gun efficiency is very high.  
+Solid, all things considered.
+
 ![BB](https://azurlane.koumakan.jp/w/images/c/c5/Gascogne_%28Muse%29Chibi.png "Muse Gascogne") - **[Muse Gascogne](https://azurlane.koumakan.jp/Gascogne_(Muse))** **(T1 w/ full Muse fleet)**
 * Skill: 
   * Main Gun ammo is overridden to Blue Notes (AP, 100/130/130 armour mods) and Red Notes (HE, 140/115/115 armour mods), cycling between the two with each Main Gun fire; also, the first Main Guns' cooldown is reduced by 25%.
@@ -1896,16 +1907,6 @@ Nevertheless, her low HP and AA do prove a liability later on and you will have 
 
 * Desc: 
 >An oversized monitor like Rodney or Nelson, but with an actually good barrage and better stats.
-
-![BC](https://azurlane.koumakan.jp/w/images/8/81/DunkerqueChibi.png "Dunkerque") - **[MNF Dunkerque](https://azurlane.koumakan.jp/Dunkerque)**
-* Skill: 
-  * 50% chance on Main Gun fire, launch a fixed linear HE barrage (2 tight columns of 4 HE shells and a few needles to the sides).
-  * Starts the battle with a preloaded volley, but has MGM-1.
-
-* Desc: The predecessor to Jean Bart, and it does show.
->Like Jean, she lacks her third salvo and can launch her bombardment immediately; unlike Jean, said bombardment operates just like any other and is considerably weaker as a result, while her barrage fires on a coin toss.  
-All that said, she'll always get to fire one more volley per round than 99% of the other dreadnoughts and her gun efficiency is very high.  
-Decent, all things considered.
 
 ![BC](https://azurlane.koumakan.jp/w/images/2/24/Giulio_CesareChibi.png "Salad") - **[RN Giulio Cesare](https://azurlane.koumakan.jp/Giulio_Cesare)**
 * Skill: 
