@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (ENIGMA ENITION)
+# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (IDOLATRY EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -74,9 +74,16 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (27/10/2019)
+## Changelog as of last update (03/11/2019)
 
-- Fixed a few gear recommendations for CLs.
+- Muse Gascogne joins the Guide as a T1.5 (T1 w/ Muses)
+- Muse Cleveland joins the Guide as a T1.5
+- Muse Admiral Hipper joins the Guide as a T2
+- Muse Akagi joins the Guide as a Honourable Mention (T1 w/ 'full' Muse)
+- Muse Sheffield joins the Guide as a 
+
+- MNF Dunkerque tiers up to T1.5.
+
 <br/><br/>
 ---
 <br/><br/>
@@ -851,9 +858,20 @@ Not much to say about her, she's solid and unremarkable like the rest of her cla
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc: Original Dadster.
->Units for whom the excellence of their statline outweighs a poor selection of skills are rare and far between, but there's few better examples than this than Cleveland.  
-Sporting an impressive 3.8k HP, high Reload, slightly higher than usual Evasion and good guns, Cleve doesn't need skills to make her presence felt on the battlefield and excels as a tank; that said, while her AA skill is more of a detriment than a boon, her fleetwide boost is unreliable but potentially great.  
-All in all, strong and dependable, just like her.
+>A new player mainstay, for good or ill, Cleveland has helped many a newbie reach the higher leagues with her plucky go-getter attitude, remarkable bulk and generally good all-around stats; nevertheless, she becomes obsolete quickly as those same higher leagues (W10+) ramp up enemy bulk and damage output beyond her capabilities to dispatch them efficiently, and her skills help her or the fleet little.
+
+![CL](https://azurlane.koumakan.jp/w/images/b/bd/Cleveland_%28Muse%29Chibi.png "Muse Cleveland") - **[Muse Cleveland](https://azurlane.koumakan.jp/Cleveland_(Muse))**
+* Skill: 
+  * Every 15s, change Main Gun ammo to musical notes (120/120/90 modifiers, penetrates once) for 8s.
+  * Whenever a plane is shot down, gain a +8% AA stack for 8s; can gain up to 4 stacks.
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
+
+- Desc:
+>A sort-of sidegrade to the regular Cleveland, loses some bulk in favour of slightly better DPS and a less detrimental AA skill.  
+She's okay.
 
 ![CL](https://azurlane.koumakan.jp/w/images/a/a0/ColumbiaChibi.png "Columbia") - **[USS Columbia](https://azurlane.koumakan.jp/Columbia)**
 * Skill: 
@@ -1043,7 +1061,6 @@ More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
 >Rescued from the brink of ignonimy by a timely Kai, Curlew got the injection of stats and efficienicies she desperately needed to be even a little relevant - as well as a useful little carrier buff.  
 Nevertheless, she and her less fortunate sisters have always been the HMS answer to Isuzu and by and large, they still are - her DPS stays low and isn't helped much by the lack of torpedoes, but the amount of AA she packs is spectacular and further enhanced by her skill.
 
-
 ![CL](https://azurlane.koumakan.jp/w/images/6/6d/Black_PrinceChibi.png "Black Prince") - **[HMS Black Prince](https://azurlane.koumakan.jp/Black_Prince)** **(T1 w/ at least 1 USS unit)**
 * Skill:
   * If deployed with any USS unit, gain +40% Main Gun CritRate and +20% FP/Torp.
@@ -1057,6 +1074,18 @@ Nevertheless, she and her less fortunate sisters have always been the HMS answer
 * Desc: Pretty fly for a white gal?
 Take Sirius, strip her two-way carrier buff and the busted damage on her barrage, then replace them with massive buffs to her 'ordinary weaponry' and a bad ol' fart cloud - and this is what you get.  
 All things considered she's a fairly good deal, providing stable and solid DPS with a side order of okay-ish support as long as you do stick her in with one USS unit. Not particularly hard to do, but not doing so makes her nearly worthless.  
+
+![CL](https://azurlane.koumakan.jp/w/images/5/57/Sheffield_%28Muse%29Chibi.png "Muse Sheffield") - **[Muse Sheffield](https://azurlane.koumakan.jp/Sheffield_(Muse))**
+* Skill:
+  * Upon firing the Main Gun thrice, the next Main Gun fire has its ammo replaced by Blue Notes (120/120/90 armour modifiers, penetrates once).
+  * Upon battle start, when deployed as the last member of the vanguard and when part of a vanguard with 2+ units, grant the vanguard a 24% chance to reduce incoming damage by 32%.
+
+* Recommended Loadouts:
+  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: 
+>Muse Sheffield is such a downgrade compared to her regular version it's not even funny; by all intents and purposes worse across the board, and crucially significantly worse at her one job (protecting other members of the fleet), you would use her only should you lack normal Sheffield or wanted to field a full Muse fleet.
 
 ![CL](https://azurlane.koumakan.jp/w/images/3/33/AganoChibi.png "Agano") - **[IJN Agano](https://azurlane.koumakan.jp/Agano)**
 * Skill: 
@@ -1427,14 +1456,6 @@ Her poor damage output brings her down in the long run, though, and is usually d
 >What you use when you don't have Wichita but still want a powerful, buff-capable CA.  
 She will be phased out eventually, alas, but she's good while she's there and you can still use her to augment a second fleet.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/7f/LondonChibi.png "HMS London") - **[HMS London](https://azurlane.koumakan.jp/London)**
-* Skill: 
-  * +15% FP to the entire vanguard.
-
-* Desc: 
->HMS CA get a bad reputation for being frail and either undergunned or undertorped, despite possessing rather valuable skills.   
-London is one such example, but she rescues herself from the mediocrity of her statline by virtue of being one of the only two frontliners that can buff DD FP - a small niche, admittedly, but a useful one if you plan on fielding multiple DD with good guns.
-
 ![CA](https://azurlane.koumakan.jp/w/images/b/bf/YorkKaiChibi.png "HMS York Kai") - **[HMS York Kai](https://azurlane.koumakan.jp/York#retrofit)**
 * Skill: 
   * Upon performing ANY attack (autoguns, main guns, torpedoes; AA does not count), 40% chance to gain +40% FP for 8s.
@@ -1453,13 +1474,14 @@ All that said, though - she's alright.
 >Maya trades Takao's double damage chance for a permanent passive reload boost. An interesting concept, and paired with double Autoloaders lets her fire her guns and torps faster than any other CA, which is remarkable on its own right... but is a rather poor trade nonetheless.
 Also, she's slightly better at AA than her sisters (key word being "slightly", though).
 
-![CA](https://azurlane.koumakan.jp/w/images/0/02/Admiral_HipperChibi.png "KMS Admiral Hipper") - **[KMS Admiral Hipper](https://azurlane.koumakan.jp/Admiral_Hipper)**
+![CA](https://azurlane.koumakan.jp/w/images/2/2f/Admiral_Hipper_%28Muse%29Chibi.png "Muse Admiral Hipper") - **[Muse Admiral Hipper](https://azurlane.koumakan.jp/Admiral_Hipper_(Muse))**
 * Skill: 
-  * Every 30s, spawns 2 shields that last 15s and blocks 10 shots
-  * 8% chance to reduce any damage taken by 50% on taking damage
+  * Every 20s, 70% chance to replace Main Gun ammo with Red Notes (110/120/100 modifiers, 8% Ignition chance) for 12s.
+  * Every 30s, spawn two orbiting shields lasting 10 shots or 15s; if Hipper is deployed as vanguard lead, the shields spawn upon battle start too.
 
-- Desc: "HAAH?!"
->Damage control is about lowering the incoming damage as much as it is about preventing it in the first place, and Hipper learns the right lesson from Prinz Eugen - despite her much lower HP, Hipper's superior offensive statline and slightly improved tanking skills let her fulfil her role better and for cheaper. 
+- Desc: AH-HAAH?!
+>Better armed and slightly better suited to her intended 'vanguard tank' role than her regular version, Idolhipper manages to be a competent and decently tough KMS CA without any especially glaring flaw.  
+Okay.
 
 ### Honourable Mentions
 ---
@@ -1783,6 +1805,14 @@ A force to be reckoned with, especially considering her cost, but don't count on
 >Think Warspite, except with a functional barrage and less showboating. Between her regular guns, the CL secondaries, the automated barrage and the torps, she will throw out damage more often than any other backliner in the game.  
 A force to be reckoned with, just like her sister; and just like her sister, don't count on her torps at all.
 
+![BB](https://azurlane.koumakan.jp/w/images/c/c5/Gascogne_%28Muse%29Chibi.png "Muse Gascogne") - **[Muse Gascogne](https://azurlane.koumakan.jp/Gascogne_(Muse))** **(T1 w/ full Muse fleet)**
+* Skill: 
+  * Main Gun ammo is overridden to Blue Notes (AP, 100/130/130 armour mods) and Red Notes (HE, 140/115/115 armour mods), cycling between the two with each Main Gun fire; also, the first Main Guns' cooldown is reduced by 25%.
+  * If sortied with an odd amount of Muse units, deal 12% damage; if sortied with an even amount of Muse units, take -15% damage; when firing the Main Gun, grant a stack of +6% FP/Torp/Aviation to all Muse units for 10s (max 2 stacks).
+
+* Desc: 
+>Significantly weaker than her regular counterpart but still capable of putting up a good show, Musecogne retains the unique volley-splitting gimmick of her better (and the precision that comes with it) and binds it to her Muse-only fleetwide buff.  
+Consistent and competent in her own right, especially since she can benefit from the +12% dmg if sortied without other Muse units, she's still better put to use in a full Muse fleet; whether sortieing one such fleet is beneficial or not, that is an entirely different matter...
 
 ### Tier 2:
 ---
@@ -2382,6 +2412,18 @@ While definitely usable, her only real use case would be plugging Hard Mode enfo
 * Desc: 
 >Smol Akagi is an interesting little thing, with those invincibility-granting airstrikes of hers - but lacking a real purpose in an environment crowded with excellent IJN DPS carriers, not least of which Akagi proper (against which her barrage really can't stack up), and a better vanguard protection in the form of Illustrious' bubble.
 However, invincibility *can* go where no bubble has gone before in EX maps...
+
+#### ![CV](https://azurlane.koumakan.jp/w/images/3/32/Akagi_%28Muse%29Chibi.png "Musikagi") - [Muse Akagi](https://azurlane.koumakan.jp/Akagi_(Muse))
+* Skill: 
+  * 10s after launching her first airstrike and depending on the amount (odd/even) of Muse units in the fleet, launch a dive bomber/torpedo bomber barrage.
+    * The 3 500lb BOMBS deal 226bdmg w/ 80/90/110 mods; the 6 100lb BOMBS deal 96 bdmg w/ 80/85/100 mods. Both are modified by 80% of the unit's Aviation stat.
+    * The 6 AIRTORPS deal 240 bdmg w/ 80/110/130 mods. They are modified by 80% of the unit's Aviation stat.
+  * Her first airstrike's cooldown is reduced by 40%; also, gain +10% Aviation for every other Muse unit in the fleet, up to +40%.
+  * Has a 3/2/3 loadout.
+
+* Desc: 
+>So Akagi now has the dubious honour of having not one but *two* whole very questionable alternate versions. Yay?  
+At any rate, Muse Akagi is absolutely worthless outside of a Muse fleet - her skills just do not work without them and no less than a full fleet will make her comparable to the regular one - and desperately needs that +40% Aviation to be relevant, as the barrages themselves are one-offs and suffer from low damage on top of that.
 
 #### ![CVL](https://azurlane.koumakan.jp/w/images/f/ff/HoushouChibi.png "IJN Houshou") - [IJN Houshou](https://azurlane.koumakan.jp/Houshou)
 * Skill: 
