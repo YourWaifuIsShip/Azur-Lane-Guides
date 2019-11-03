@@ -76,11 +76,11 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 
 ## Changelog as of last update (03/11/2019)
 
-- Muse Gascogne joins the Guide as a T1.5 (T1 w/ Muses)
+- Muse Gascogne joins the Guide as a T1.5 (T1 w/ full Muse)
 - Muse Cleveland joins the Guide as a T1.5
 - Muse Admiral Hipper joins the Guide as a T2
 - Muse Sheffield joins the Guide as a T2
-- Muse Akagi joins the Guide as a Honourable Mention (T1 w/ 'full' Muse)
+- Muse Akagi joins the Guide as a Honourable Mention (T1 w/ full Muse)
 
 - MNF Dunkerque tiers up to T1.5.
 - KMS Admiral Hipper drops from the Guide (Muse Hipper is pretty much better across the board, and the regular one ws in a precarious position already).
