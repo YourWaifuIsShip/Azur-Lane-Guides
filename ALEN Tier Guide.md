@@ -37,11 +37,11 @@ Good reading, and godspeed cap'n!
   
   
 #### Retrofit/Kai Priority List:
-- DD                  : Laffey > Ayanami = Z23 > Cassin/Downes > Kagerou = Tanikaze > Javelin > Foxhound = Shiranui
-- CL                  : Jintsuu > Leander > Ping Hai/Ning Hai > Emile Bertin > Abukuma > Curlew/Curacoa > Ajax/Achilles
+- DD                  : Laffey > Ayanami = Z23 > Kagerou = Tanikaze = Z1 > Cassin/Downes > Javelin > Foxhound = Shiranui
+- CL                  : Jintsuu > Leipzig = Leander > Emile Bertin > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
 - CA                  : London > Mogami > Portland > Furutaka/Kako > Suffolk
-- BB/C                : Hyuuga > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) > Nevada/Oklahoma
-- CV/L                : Shouhou > Hiryu/Soryu > Ranger = Saratoga > Langley
+- BB/C                : Hyuuga > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) = Nevada/Oklahoma
+- CV/L                : Hiryu/Soryu > Shouhou > Langley > Ranger = Saratoga
   
   
   
@@ -85,13 +85,9 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (31/10/2019)
+## Changelog as of last update (13/11/2019)
 
-- KMS Z1 Kai joins the Tier Guide as T1 (T0 in a Z Comp).
-- KMS Leipzig Kai joins the Tier Guide as T1.
-- KMS U-47 and U-557 join the Tier Guide.
-
-- KMS Z1 and KMS Leipzig have been removed from the Tier Guide as they are now irrelevant (their Kai exists).
+- Updated the Retrofit Priority List.
 
 <br/><br/>
 ---
