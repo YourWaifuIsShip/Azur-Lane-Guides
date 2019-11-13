@@ -37,8 +37,8 @@ Good reading, and godspeed cap'n!
   
   
 #### Retrofit/Kai Priority List:
-- DD                  : Laffey > Ayanami = Z23 > Kagerou = Tanikaze = Z1 > Cassin/Downes > Javelin > Foxhound = Shiranui
-- CL                  : Jintsuu > Leipzig = Leander > Emile Bertin > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
+- DD                  : Laffey > Ayanami = Z23 > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
+- CL                  : San Diego* > Jintsuu > Leipzig = Leander > Emile Bertin > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
 - CA                  : London > Mogami > Portland > Furutaka/Kako > Suffolk
 - BB/C                : Hyuuga > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) = Nevada/Oklahoma
 - CV/L                : Hiryu/Soryu > Shouhou > Langley > Ranger = Saratoga
@@ -1561,7 +1561,7 @@ Last and least, she has a barrage too. It's not particularly good, but it's ther
 ### Tier 1:
 ---
 
-![BB](https://azurlane.koumakan.jp/w/images/2/25/AlabamaChibi.png "Incest") - **[USS Alabama](https://azurlane.koumakan.jp/Alabama)** **(T0 if mob fleet flagship)**
+![BB](https://azurlane.koumakan.jp/w/images/2/25/AlabamaChibi.png "Incest") - **[USS Alabama](https://azurlane.koumakan.jp/Alabama)**
 * Skill:
   * Gain +12 Evasion and take -20% damage from torpedoes; also, 75% chance to fire a barrage every 20s.
     * The 9 SHELLS deal 170 bdmg with 50/120/115 mods; the 30 DD PELLETS deal 20 bdmg with 120/60/60 mods (and have 50 Range). The damage of both is modified by 100% of the unit's FP.
