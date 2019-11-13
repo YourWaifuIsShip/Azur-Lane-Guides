@@ -1565,7 +1565,7 @@ Last and least, she has a barrage too. It's not particularly good, but it's ther
 * Skill:
   * Gain +12 Evasion and take -20% damage from torpedoes; also, 75% chance to fire a barrage every 20s.
     * The 9 SHELLS deal 170 bdmg with 50/120/115 mods; the 30 DD PELLETS deal 20 bdmg with 120/60/60 mods (and have 50 Range). The damage of both is modified by 100% of the unit's FP.
-  * Gain a persistent stack of +2.5% FP per enemy node destroyed, and gain a temporary stack +2.5% FP per enemy destroyed in battle (up to a cap of 17.5%, meaning that Alabama starts with more stacks the more nodes she fights but still can't go past +17.5%); also, after the 5th destroyed node, the backline takes -8% damag3e.
+  * Gain a persistent stack of +2.5% FP per enemy node destroyed, and gain a temporary stack +2.5% FP per enemy destroyed in battle (up to a cap of 17.5%, meaning that Alabama starts with more stacks the more nodes she fights but still can't go past +17.5%); also, after the 5th destroyed node, the backline takes -8% damage.
 
 * Recommended Loadouts:
   * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Research AA Radar; SG Radar
