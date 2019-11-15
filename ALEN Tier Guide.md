@@ -1076,7 +1076,7 @@ Especially useful for IJN exp PR grind, as silly as grinding exp for PRs is.
 * Recommended Loadouts:
   * [DPS] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; FCR
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: "Monster Hunter".
 > Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP/Rld buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
@@ -1089,7 +1089,7 @@ Especially useful for IJN exp PR grind, as silly as grinding exp for PRs is.
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: London cullin'.
 >London's retrofit is on a one-town-mission to clear the bad rap HMS CA for the most part deservedly get, and good Lord does she put in the effort.  
@@ -1105,7 +1105,7 @@ Given all this, London Kai proudly joins Wichita and Choukai in their exclusive 
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: Oni-chan~
 > Good torpedoes on a gunboat frame are unique more than they're rare, but you can't fault the results.
@@ -1119,7 +1119,7 @@ Despite her relatively low staying power, courtesy of her abysmal Luck, Mogami K
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: DESU VULT!
 > Historically praised by multiple navies as one of the absolute best heavy cruiser designs but robbed of its chance to shine due to the fall of France in WW2, Azur Lane's Saint Louis has come to set the record straight - and does she ever.  
@@ -1133,7 +1133,7 @@ The only fault one can find in her would be her barrage - its wide linear patter
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm SKC (AP) or 203mm Mounted Gun (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: Tenacemente e ardisco ad ogni impresa~
 >Hands down the best vanguard tank in the game.  
@@ -1163,7 +1163,7 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Exceptional HP, twice the base Evasion other CAs get, high Firepower and high AA - in a similar fashion to Cleveland, her stats alone justify her rating and the skills are just icing on the cake. She won't hit as often as Wichita or as hard as Chicago, but she's more consistent and much harder to kill.
@@ -1175,7 +1175,7 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: Can you say 24 shots in a row? She certainly can.   
 >Wichita brings to bear one of the absolute highest vanguard DPS in the game, owing to her Chain Cannon skill and the passive +15% FP.  
@@ -1188,7 +1188,7 @@ While her HP is rather lacklustre, it's an easily solved issue and dead enemies 
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Toolbox
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Toolbox
 
 * Desc: 
 >Pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-C
@@ -1202,7 +1202,7 @@ While her HP is rather lacklustre, it's an easily solved issue and dead enemies 
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Toolbox
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Toolbox
 
 - Desc: What do you mean "she's not a DD"?
 > Someone at the design bureau must've missed a memo when they designed Ibuki.  
@@ -1237,7 +1237,7 @@ Nevertheless, she's still a very accomplished Hybrid-CA and one that is very har
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >What was said about Wichita applies to Chicago as well. Slightly frailer than she is and more selfish, she will nonetheless punch hard and harder than anyone else when she does proc, which she often will - a proc on the first salvo lasts throughout the second, and the second salvo may still proc if the first one didn't.  
@@ -1249,7 +1249,7 @@ As a result, her double damage uptime is considerably higher than the 30% may le
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Gold SG Radar; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Hydraulic Gear or Naval Camo; Hydraulic Gear or Naval Camo
 
 - Desc: "Problem? What problem?"
 >While an Evasion-focused CA sounds ludicrous, and it is under most circumstances, Houston actually makes it work given enough Evasion-boosting auxiliaries: CAs live and die by their Evasion (or lack thereof), so stacking it actually lets her survive under heavy fire for much longer than you'd expect.  
@@ -1265,7 +1265,7 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Leader of the New Orleans class, she emphasises their strengths and shares their reinforced armour plating.  
@@ -1278,7 +1278,7 @@ Solid and dependable, if unremarkable. No reason not to take her if you're going
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
@@ -1291,7 +1291,7 @@ Her poor damage output brings her down in the long run, though, and is usually d
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Sporting a matching set of Medium Armour, anti-DD/CL gunfire skills and considerable AA capabilities, the New Orleans-class CAs focus more on the defence than the offence, unlike almost every other CA in the USS.  
@@ -1304,7 +1304,7 @@ A good fit for mob- as well as boss-hunting, considering how frequent are DD and
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Boasting the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above every other Torp-CA and has access to QE's buffs to boot.  
@@ -1317,7 +1317,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Takao is a tad on the RNG side, but sports high HP and a remarkable statline. Her skills are what makes her as good as she is, but they're not exactly the most reliable. Still, they are powerful and thus worth respect.
@@ -1337,7 +1337,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: 
 >Too large for mere CA and too small for proper BCs, these Pocket Battleships are odd creatures.  
@@ -1351,7 +1351,7 @@ A wrecking ball against small craft, to be sure, but watch out for when they pic
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
   
 * Desc: 
 >A sturdy gunboat with remarkable firepower. Sounds familiar? 
@@ -1367,7 +1367,7 @@ Her direct competitor would be Portland Kai, and while she comes out of that com
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >What you use when you don't have Wichita but still want a powerful, buff-capable CA.  
@@ -1380,7 +1380,7 @@ She will be phased out eventually, alas, but she's good while she's there and yo
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >It speaks volumes about HMS non-CL vanguards that the best they can aspire to is not be irredeemable wrecks.  
@@ -1392,7 +1392,7 @@ All that said, though - she's alright.
 
 * Recommended Loadouts:
   * [Optimal] Prototype Triple 203mm AA Gun (HE) or Prototype Truiple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Maya trades Takao's double damage chance for a permanent passive reload boost. An interesting concept, and paired with double Autoloaders lets her fire her guns and torps faster than any other CA, which is remarkable on its own right... but is a rather poor trade nonetheless.
@@ -1405,7 +1405,7 @@ Also, she's slightly better at AA than her sisters (key word being "slightly", t
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: HAAH?!
 >Damage control is about lowering the incoming damage as much as it is about preventing it in the first place, and Hipper learns the right lesson from Prinz Eugen - despite her much lower HP, Hipper's superior offensive statline and slightly improved tanking skills let her fulfil her role better and for cheaper. 
@@ -1418,7 +1418,7 @@ Also, she's slightly better at AA than her sisters (key word being "slightly", t
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >It's exceedingly rare for a frontliner to have more HP than carriers and battlecruisers, but Prinz Eugen makes it happen. Proud owner of a HP pool larger than 90% of the ships in the game, she pays for this priviledge by being saddled with a semi-useless skill and poor offensive stats.  
@@ -2234,7 +2234,7 @@ On a sidenote, she's also one of the carriers least affected by enemy AA boats d
 * Skill: 
   * Gain +30% Fighter Efficiency if using a F6F Hellcat; also, 70% chance to launch three more F6F when airstriking.
     * The 6 500lb BOMBS carried by the F6F deal 380 bdmg with 80/90/110 mods. They are modified by 80% of the unit's Aviation stat.
-  * If not sortied as flagship, grant +15% Reload to other CV/L in the fleet and +50 AA to the flagship.
+  * If not sortied as flagship, grant +15% Reload to other CV/L in the fleet and +50 AA to the backline.
   * Has a 3/0/3 loadout.
 
 * Recommended Loadouts:
