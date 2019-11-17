@@ -74,16 +74,11 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (03/11/2019)
+## Changelog as of last update (17/11/2019)
 
-- Muse Gascogne joins the Guide as a T1.5 (T1 w/ full Muse)
-- Muse Cleveland joins the Guide as a T1.5
-- Muse Admiral Hipper joins the Guide as a T2
-- Muse Sheffield joins the Guide as a T2
-- Muse Akagi joins the Guide as a Honourable Mention (T1 w/ full Muse)
+- KMS Scharnhorst has been downtiered to T2 (upon recent reconsideration of the BB/BC list, it has become apparent just how appallingly weak she and her sister are; a downtier was in order) .
+- KMS Gneisenau has been downtiered to T2 (ditto).
 
-- MNF Dunkerque tiers up to T1.5.
-- KMS Admiral Hipper drops from the Guide (Muse Hipper is pretty much better across the board, and the regular one ws in a precarious position already).
 
 <br/><br/>
 ---
@@ -1788,24 +1783,6 @@ A very solid defensive pick, further helped by the fact her Sanshikidan barrage 
 
 * Desc: Quite literally an improved non-Kai Yamashiro/Fusou in all respects, from the statline to the efficiencies. Not much to say here.
 
-![BC](https://azurlane.koumakan.jp/w/images/5/52/GneisenauChibi.png "KMS Gneisenau") - **[KMS Gneisenau](https://azurlane.koumakan.jp/Gneisenau)** **(T1 if deployed with Graf Zeppelin)**
-* Skill:
-  * +25% FP to self.
-  * 20s, launch 3 unguided torpedoes in a cone.
-
-* Desc: 
->Think Tirpitz, except not quite as hard-hitting and not as fussy about her company. She will outdamage all her BC competitors (excepting Hood and Amagi), while still being able to defend herself through a set of CL guns.  
-A force to be reckoned with, especially considering her cost, but don't count on the torps to do much more than stop the occasional fireboat.
- 
-![BC](https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png "KMS Scharnhorst") - **[KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst)** **(T1 if deployed with Graf Zeppelin)**
-* Skill:
-  * Every 15s, fires a 3-bullet (Normal, upgrades to AP after SL6) auto-critting salvo at a random target.
-  * Every 20s, launch 3 unguided torpedoes in a cone.
-
-* Desc: 
->Think Warspite, except with a functional barrage and less showboating. Between her regular guns, the CL secondaries, the automated barrage and the torps, she will throw out damage more often than any other backliner in the game.  
-A force to be reckoned with, just like her sister; and just like her sister, don't count on her torps at all.
-
 ![BC](https://azurlane.koumakan.jp/w/images/8/81/DunkerqueChibi.png "Dunkerque") - **[MNF Dunkerque](https://azurlane.koumakan.jp/Dunkerque)**
 * Skill: 
   * 50% chance on Main Gun fire, launch a fixed linear HE barrage (2 tight columns of 4 HE shells and a few needles to the sides).
@@ -1907,6 +1884,35 @@ Nevertheless, her low HP and AA do prove a liability later on and you will have 
 
 * Desc: 
 >An oversized monitor like Rodney or Nelson, but with an actually good barrage and better stats.
+
+![BC](https://azurlane.koumakan.jp/w/images/5/52/GneisenauChibi.png "KMS Gneisenau") - **[KMS Gneisenau](https://azurlane.koumakan.jp/Gneisenau)** **(T1.5 if deployed with Bismarck)**
+* Skill:
+  * +25% FP to self.
+  * 20s, launch 3 weak unguided torpedoes in a cone.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
+  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc: 
+>Think Yamashiro, except outright inferior across the statline, trading two whole secondary CL gun mounts for hilariously poor torpedoes and access to KMS buffs.  
+The one silver lining for this sad girl is having a torpedo stat, which you may find useful in stat padding for hardmodes... but you may as well give Oxygen Torpedoes to a vanguard to achieve the same result for cheaper.
+ 
+![BC](https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png "KMS Scharnhorst") - **[KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst)** **(T1.5 if deployed with Bismarck)**
+* Skill:
+  * Every 15s, fires a [barrage] at a random target.
+    * The 3 SHELLS deal 103 bdmg with 30/130/110 mods. Their damage is modified by 100% of the unit's FP and a 110% Coefficient.
+  * Every 20s, launch 3 unguided torpedoes in a cone.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
+  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc: 
+>Think Warspite, except with a barrage that actually hits things and weaker across the statline, just like her sister; and just like her sister, she too loses two secondary gun mounts for hilariously awful torpedoes.  
+What was said for her applies to this one.
 
 ![BC](https://azurlane.koumakan.jp/w/images/2/24/Giulio_CesareChibi.png "Salad") - **[RN Giulio Cesare](https://azurlane.koumakan.jp/Giulio_Cesare)**
 * Skill: 
