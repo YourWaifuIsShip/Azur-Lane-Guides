@@ -85,9 +85,13 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (13/11/2019)
+## Changelog as of last update (17/11/2019)
 
-- Updated the Retrofit Priority List.
+- HMS Warspite Kai joins the Tier Guide as T0.5; the non-Kai entry has been deleted as it is now irrelevant.
+
+- MNF Dunkerque has been uptiered to T1.5 (the preloaded gun gimmick is better than it's given credit for, and not just against Sirens and the likes; damn powerful shelling to do with it as well).
+- KMS Scharnhorst has been downtiered to T2 (upon recent reconsideration of the BB/BC list, it has become apparent just how appallingly weak she and her sister are; a downtier was in order) .
+- KMS Gneisenau has been downtiered to T2 (ditto).
 
 <br/><br/>
 ---
@@ -1512,6 +1516,18 @@ Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow 
 >Second only to Tirpitz in terms of pure staying power and armed with a quickly-proccable, backline-buffing, devastating barrage, she is exceptionally good under almost all circumstances; whether it is tearing apart mob nodes, showering enemy battleships in heavy firepower or providing support, Hood gets it done.  
 Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
 
+![BB](https://azurlane.koumakan.jp/w/images/1/15/WarspiteKaiChibi.png "HMS Warspite") - **[HMS Warspite Kai](https://azurlane.koumakan.jp/Warspite#retrofit)**
+* Skill: 
+  * +10s after the start of the battle and every 15s afterwards, fires two aimed AP auto-critting shells at the farthest available target AND places a marker upon it (increasing the chances other HMS backliners will fire upon it); also, the first barrage will deal +130% damage.
+  * Gain -5 Dispersion to the Main Gun, +15% FP and +15% HitRate against DD.
+  * She may take 1 ASW plane as an auxiliary item. HISTORICAL REFERENCES HO!
+
+- Desc: The Queen's Royal Corgi.
+>Well, the Kai's come and gone, and Warspite's left in a slightly better position than she originally was - as far as PvE is concerned, at least.  
+While her statline did enjoy a substantial offensive boost in the form of more stats, chief among which her truly absurd 125 Accuracy (roughly twice that of most BBs), higher Efficiencies and a strong passive skill, her new-and-improved barrage suffers from the same unreliability that torpedoed her shot(s) at glory - as powerful as those AP shells now are, they're still all too likely to be fired at Light targets (or worse, at fireboats), while the marker part of barrage appears to be bafflingly ineffectual, as evidenced both by *HMS BB/C still opening fire on unmarked targets* and by the possibility of *multiple markers coexisting, negating the supposed benefits*.  
+On the bright side, Warspite's newfound strength lets her be competitive there once more in the PvP areans, where her intended targets are always armoured, immobile and valuable.  
+[Also, she's still a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
+
 ![BB](https://azurlane.koumakan.jp/w/images/e/e0/HyuugaChibi.png "IJN Hyuuga") - **[IJN Hyuuga](https://azurlane.koumakan.jp/Hyuuga)**
 * Skill: 
   * Gain +20% FP.
@@ -1783,34 +1799,15 @@ A very solid defensive pick, further helped by the fact her Sanshikidan barrage 
 
 * Desc: Quite literally an improved non-Kai Yamashiro/Fusou in all respects, from the statline to the efficiencies. Not much to say here.
 
-![BC](https://azurlane.koumakan.jp/w/images/5/52/GneisenauChibi.png "KMS Gneisenau") - **[KMS Gneisenau](https://azurlane.koumakan.jp/Gneisenau)** **(T1 if deployed with Bismarck)**
-* Skill:
-  * +25% FP to self.
-  * 20s, launch 3 unguided torpedoes in a cone.
+![BC](https://azurlane.koumakan.jp/w/images/8/81/DunkerqueChibi.png "Dunkerque") - **[MNF Dunkerque](https://azurlane.koumakan.jp/Dunkerque)**
+* Skill: 
+  * 50% chance on Main Gun fire, launch a fixed linear HE barrage (2 tight columns of 4 HE shells and a few needles to the sides).
+  * Starts the battle with a preloaded volley, but has MGM-1.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
-* Desc: 
->Think Tirpitz, except not quite as hard-hitting and not as fussy about her company. She will outdamage all her BC competitors (excepting Hood and Amagi), while still being able to defend herself through a set of CL guns.  
-A force to be reckoned with, especially considering her cost, but don't count on the torps to do much more than stop the occasional fireboat.
- 
-![BC](https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png "KMS Scharnhorst") - **[KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst)** **(T1 if deployed with Bismarck)**
-* Skill:
-  * Every 15s, fires a [barrage] at a random target.
-    * The 3 SHELLS deal 103 bdmg with 30/130/110 mods. Their damage is modified by 100% of the unit's FP and a 110% Coefficient.
-  * Every 20s, launch 3 unguided torpedoes in a cone.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
-* Desc: 
->Think Warspite, except with a functional barrage and less showboating. Between her regular guns, the CL secondaries, the automated barrage and the torps, she will throw out damage more often than any other backliner in the game.  
-A force to be reckoned with, just like her sister; and just like her sister, don't count on her torps at all.
+* Desc: The predecessor to Jean Bart, and it does show.
+>Like Jean, she lacks her third salvo and can launch her bombardment immediately; unlike Jean, said bombardment operates just like any other and is considerably weaker as a result, while her barrage fires on a coin toss.  
+All that said, she'll always get to fire one more volley per round than 99% of the other dreadnoughts and her gun efficiency is very high.  
+Solid, all things considered.
 
 
 ### Tier 2:
@@ -1888,20 +1885,6 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
 * Desc: 
 >Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself properly.  
 
-![BB](https://azurlane.koumakan.jp/w/images/8/87/WarspiteChibi.png "HMS Warspite") - **[HMS Warspite](https://azurlane.koumakan.jp/Warspite)** **(T1.5 if deployed w/ Queen Elizabeth)**
-* Skill: 
-  * Every 15s and *aimed at the farthest available target*, launch a [barrage](http://p3.qhimg.com/t017ab6c9c3280c635e.gif).
-    * The 2 SHELLS always crit and deal 154 bdmg with 30/130/110 mods. Their damage is modified by 80/100% of the unit's FP (PvP/PvE) and a 110% Coefficient.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shells
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
-- Desc: "The Queen's Royal Corgi".
->Warspite's historical achievements may be impressive, but AL does little justice to them beyond giving her the highest base FP of all BB (PR notwithstanding) and an okay statline elsewhere. What brings her down is partly her effective FP being lower than many others', but mostly her useless skill: an automated, autocritting barrage sounds great, until you realise it struggles immensely hitting anything that's not a stationary target and that the AP modifier makes it useless against the very common Light Armour in the game.  
-[Also, she's a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
- 
 ![BC](https://azurlane.koumakan.jp/w/images/1/12/IzumoChibi.png "Izumo") - **[IJN Izumo](https://azurlane.koumakan.jp/Izumo)** **(T1.5 if at full Fate)**
 * Skill: 
   * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p4.qhimg.com/t0127a2b079a4ccebab.gif)
@@ -1946,21 +1929,34 @@ Just don't use her on her own, unless you plan to exploit her -1 Oil cost.
 * Desc: 
 >An oversized monitor like Rodney or Nelson, but with an actually good barrage and better stats.
 
-![BC](https://azurlane.koumakan.jp/w/images/8/81/DunkerqueChibi.png "Dunkerque") - **[MNF Dunkerque](https://azurlane.koumakan.jp/Dunkerque)**
-* Skill: 
-  * Upon Main Gun fire, 50% chance to launch a [barrage](http://p0.qhimg.com/t01a7ded0224e734f00.gif).
-    * The 8 FIREBALLS deal 140 bdmg with 135/95/70; the 16 NEEDLES deal 30 bdmg with 100/80/70. Their damage is modified by 100% of the unit's FP.
-  * Starts the battle with a preloaded volley, but has MGM-1.
+![BC](https://azurlane.koumakan.jp/w/images/5/52/GneisenauChibi.png "KMS Gneisenau") - **[KMS Gneisenau](https://azurlane.koumakan.jp/Gneisenau)** **(T1.5 if deployed with Bismarck)**
+* Skill:
+  * +25% FP to self.
+  * 20s, launch 3 weak unguided torpedoes in a cone.
 
 * Recommended Loadouts:
-  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 120mm twin; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 120mm twin; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; 120mm twin; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
+  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
-* Desc: The predecessor to Jean Bart, and it does show.
->Like Jean, she lacks her third salvo and can launch her bombardment immediately; unlike Jean, said bombardment operates just like any other and is considerably weaker as a result, while her barrage fires on a coin toss.  
-All that said, she'll always get to fire one more volley per round than 99% of the other dreadnoughts and her gun efficiency is very high.   
-Decent, all things considered.
+* Desc: 
+>Think Yamashiro, except outright inferior across the statline, trading two whole secondary CL gun mounts for hilariously poor torpedoes and access to KMS buffs.  
+The one silver lining for this sad girl is having a torpedo stat, which you may find useful in stat padding for hardmodes... but you may as well give Oxygen Torpedoes to a vanguard to achieve the same result for cheaper.
+ 
+![BC](https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png "KMS Scharnhorst") - **[KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst)** **(T1.5 if deployed with Bismarck)**
+* Skill:
+  * Every 15s, fires a [barrage] at a random target.
+    * The 3 SHELLS deal 103 bdmg with 30/130/110 mods. Their damage is modified by 100% of the unit's FP and a 110% Coefficient.
+  * Every 20s, launch 3 unguided torpedoes in a cone.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
+  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc: 
+>Think Warspite, except with a barrage that actually hits things and weaker across the statline, just like her sister; and just like her sister, she too loses two secondary gun mounts for hilariously awful torpedoes.  
+What was said for her applies to this one.
 
 ![BC](https://azurlane.koumakan.jp/w/images/2/24/Giulio_CesareChibi.png "Salad") - **[RN Giulio Cesare](https://azurlane.koumakan.jp/Giulio_Cesare)**
 * Skill: 
