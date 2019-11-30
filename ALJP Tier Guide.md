@@ -74,10 +74,9 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (17/11/2019)
+## Changelog as of last update (30/11/2019)
 
-- KMS Scharnhorst has been downtiered to T2 (upon recent reconsideration of the BB/BC list, it has become apparent just how appallingly weak she and her sister are; a downtier was in order) .
-- KMS Gneisenau has been downtiered to T2 (ditto).
+- I am aware the images are kinda sorta screwed and there is a lot more Akashi than there is supposed to be. Causes uncertain, probably the disabling of image hotlinking from the wiki; at any rate, this'll take a while to fix.
 
 
 <br/><br/>
