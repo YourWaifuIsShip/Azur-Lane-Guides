@@ -1403,7 +1403,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 * Skill:
   * Each time Suzuya's Main Gun lands 8 hits (not consecutively, each shell counts as 1 hit), gain 1 stack of +5% Firepower and +25% Reload up to a maximum of 3 stacks; upon gaining max stacks, her barrage improves (gains two lines of 4 AP shots in a tight cone).
   * Take -20% AP damage.
-  * Can take a CL gun, but shouldn't.
+  * Can take a CL gun, but shouldn't UNLESS it's the Seattle Gun.
 
 * Desc: 
 >CAs aren't known for their barrages, but Suzuya isn't going to let that get her down.   
