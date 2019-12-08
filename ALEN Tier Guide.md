@@ -293,6 +293,22 @@ Her guns didn't improve all that much, however, so don't forget she's more torp-
 * Desc: La benemerita, nei secoli fedele!
 >Small but unassumingly tough and fierce, Carabiniere is a Gun-DD packing a surprising amount of heat - be it either through her laser-like barrage, the charged torps or the remarkable gunnery, she can hold her own in the rearguard as she supports the lead.
  
+![DD](/Images-for-the-Guide/Shirakami_FubukiChibi.png "Not Kawakaze") - **[Shirakami Fubuki](https://azurlane.koumakan.jp/Shirakami_Fubuki)**
+* Skill:
+  * Forces a "Mach 2.42 Bermbew Sprawt" weapon camo on the currently equipped Dive Bomber. When an airstrike is called in, the Dive Bombers take twice as long as normal to arrive; also, every 20s, summons a Dive Bomver.
+    * The 6 BOMBS deal 220 bdmg with 80/90/110 modifiers. Their damage is modified by 60% of the unit's TORP.
+  * Gain +15% FP; also, gain +12% Torp after having defeated 3 enemy nodes in a sortie.
+  * The AA slot is replaced with a DB slot (holding up to 2 DBs per airstrike; only 1 airstrike can be stored).
+
+* Recommended Loadouts:
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; Fairey Fulmar; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; Fairey Fulmar; Toolbox; Toolbox
+ 
+* Desc: I can't believe it's Not Kawakaze(tm)!
+>The first ever legitimately good collaboat, Not Kawakaze marries a typically IJN DD statline with a gushing love for modern military aircraft - so much so that she lugs a pair around instead of AA guns and has one swinging by every 20s to bomb her foes.  
+The trade is a net positive. While two 80% Dive Bombers and 201 Aviation make for very weak airstrikes, she lost nothing of value (IJN AA is by and large terrible, and IJN DD AA is usually worst in hull class) for it while gaining some 'free damage' and, more importantly, a quick-firing screenclears no other vanguard in the game can claim to have; as for the other skills they're alright, somewhat low-impact but appreciated nonetheless.  
+One can only hope we'll see more DDVs like this one in the future.  
+ 
 ### Tier 1.5:
 ---
 ![DD](https://azurlane.koumakan.jp/w/images/3/37/MauryChibi.png "USS Maury") - **[USS Maury](https://azurlane.koumakan.jp/Maury)**
