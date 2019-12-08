@@ -305,8 +305,8 @@ Her guns didn't improve all that much, however, so don't forget she's more torp-
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; Fairey Fulmar; Toolbox; Toolbox
  
 * Desc: I can't believe it's Not Kawakaze(tm)!
->The first ever legitimately good collaboat, Not Kawakaze marries a typically IJN DD statline with a gushing love for modern military aircraft - so much so that she lugs a pair around instead of AA guns and has one swinging by every 20s to bomb her foes.  
-The trade is a net positive. While two 80% Dive Bombers and 201 Aviation make for very weak airstrikes, she lost nothing of value (IJN AA is by and large terrible, and IJN DD AA is usually worst in hull class) for it while gaining some 'free damage' and, more importantly, a quick-firing screenclears no other vanguard in the game can claim to have; as for the other skills they're alright, somewhat low-impact but appreciated nonetheless.  
+>The first ever legitimately good collaboat, Not Kawakaze marries a typically IJN DD statline to a gushing love for modern military aircraft - so much so that she lugs a pair around instead of AA guns and has one swinging by every 20s to bomb her foes.  
+The trade is a net positive. While two 80% Dive Bombers and 201 Aviation make for very weak airstrikes, she loses nothing of value (IJN AA is by and large terrible, and IJN DD AA is usually worst in hull class) for it while gaining some 'free damage' and, more importantly, a quick-firing screenclear no other vanguard in the game can claim to have; as for the other skills they're alright, somewhat low-impact but appreciated nonetheless.  
 One can only hope we'll see more DDVs like this one in the future.  
  
 ### Tier 1.5:
