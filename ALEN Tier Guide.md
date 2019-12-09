@@ -90,7 +90,8 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - Shirakawa Fubuki joins the Guide as T1;
 - Nakiri Ayame joins the Guide as T1.5;
 - Tokino Sora joins the Guide as T1.5;
-- Ookami Mio joins the Guide as T2.
+- Ookami Mio joins the Guide as T2;
+- Minato Aqua joins the Guide (she's good).
 
 - USS Quincy and USS Vincennes are demoted to T2 (from T1.5), on the grounds of painfully low DPS not counterbalanced by staying power.
 
