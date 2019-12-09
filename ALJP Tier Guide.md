@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (IDOLATRY EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (WHOTUBER EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -310,6 +310,22 @@ Strong guns and barrage, okay AA and defences, weak torpedoes - all in all, a ve
 
 * Desc: La benemerita, nei secoli fedele!
 >Small but unassumingly tough and fierce, Carabiniere is a Gun-DD packing a surprising amount of heat - be it either through her laser-like barrage, the charged torps or the remarkable gunnery, she can hold her own in the rearguard as she supports the lead.
+ 
+![DD](/Images-for-the-Guide/Shirakami_FubukiChibi.png "Not Kawakaze") - **[Shirakami Fubuki](https://azurlane.koumakan.jp/Shirakami_Fubuki)**
+* Skill:
+  * Forces a "Mach 2.42 Bermbew Sprawt" weapon camo on the currently equipped Dive Bomber. When an airstrike is called in, the Dive Bombers take twice as long as normal to arrive; also, every 20s, summons a Dive Bomver.
+    * The 6 BOMBS deal 220 bdmg with 80/90/110 modifiers. Their damage is modified by 60% of the unit's TORP.
+  * Gain +15% FP; also, gain +12% Torp after having defeated 3 enemy nodes in a sortie.
+  * The AA slot is replaced with a DB slot (holding up to 2 DBs per airstrike; only 1 airstrike can be stored).
+
+* Recommended Loadouts:
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; Fairey Fulmar; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; Fairey Fulmar; Toolbox; Toolbox
+ 
+* Desc: I can't believe it's Not Kawakaze(tm)!
+>The first ever legitimately good collaboat, Not Kawakaze marries a typically IJN DD statline to a gushing love for modern military aircraft - so much so that she lugs a pair around instead of AA guns and has one swinging by every 20s to bomb her foes.  
+The trade is a net positive. While two 80% Dive Bombers and 201 Aviation make for very weak airstrikes, she loses nothing of value (IJN AA is by and large terrible, and IJN DD AA is usually worst in hull class) for it while gaining some 'free damage' and, more importantly, a quick-firing screenclear no other vanguard in the game can claim to have; as for the other skills they're alright, somewhat low-impact but appreciated nonetheless.  
+One can only hope we'll see more DDVs like this one in the future.  
  
 ### Tier 1.5:
 ---
@@ -1429,7 +1445,21 @@ A wrecking ball against small craft, to be sure, but watch out for when they pic
 * Desc: 
 >A sturdy gunboat with remarkable firepower. Sounds familiar? 
 Her direct competitor would be Portland Kai, and while she comes out of that comparison looking pretty weak (lower eHP, the extra FP comes at the expense of higher Oil costs, the lack of a barrage and the need to take at least 2+ Kizunas to outgun her), she is nonetheless a tough nut to crack and she can pack a good punch.
- 
+
+![CA](/Images-for-the-Guide/Nakiri_AyameChibi.png "Nakiri Ayame") - **[Nakiri Ayame](https://azurlane.koumakan.jp/Nakiri_Ayame)**
+* Skill: 
+  * Every 20s, 70% chance to gain a +8% damage stack (caps at 3 stacks, or +24% damage).
+  * Every 15s, fire a narrow wave-shaped slash in front of her; the slash has a 50% chance to inflict Armour Break on the enemies hit regardless of Armour class for 6s.
+    * The SLASH deals 81 bdmg with 100/100/100 armour mods; can pierce up to 20 targets. It is modified by 100% of the unit's FP.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+* Desc: 
+>A competent enough Gun-CA whose main purpose is to be a semi-reliable Armour Break delivery system.  
+Her DPS starts out low but - given enough time and luck - grows to respectable levels and is further helped by the Armour Break; speaking of which, the slash she fires has low damage too but it is well capable of piercing enemies from one end of the screen to the other, which is nice (and concerning if you let so many enemies pile up).  
+'s alright.  
  
 ### Tier 2:
 ---
@@ -2329,6 +2359,22 @@ Her niche is providing air superiority and protecting the frontline from harm th
 >The single toughest CV in the game, courtesy of her ludicrous HP pool (6.8k), the flat damage cut she extends to every KMS unit in the fleet (herself included) and the couple of 150% ME155s she can field to keep the skies clear; and as for the offence, she's no slouch either with her remarkable six 160% Efficiency Stukas.  
 Her only real flaw is her lacking Reload, a mere 100 compared to most other top-of-the-line carriers - and, of course, her lack of synergy with non-KMS units, so keep her in there and she'll do work.
 
+#### ![CV](/Images-for-the-Guide/Tokino_SoraChibi.png "Generic Moeblob")- **[Tokino Sora](https://azurlane.koumakan.jp/Tokino_Sora)** **(T1 w/ full Hololive fleet)**
+* Skill: 
+  * Upon airstrike, 100% chance to launch a barrage.
+    * The 15 STARS deal 122 bdmg with 110/110/110 armour mods; Ignition chance is 1.5% and they prefer to 'fall' on chibi first. Their damage is modified by 100% of the unit's Aviation stat and a 118% coefficient.
+  * Decrease damage taken by all Hololive units by 7%; also, every 20s, reduce enemy Speed by -10%, increase allied Hit by 10% and increase Hololive units' Speed by 10% for 8s.
+  * Has a 2/3/3 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>Pretty solid if somewhat unremarkable carrier. Out of the Hololive bunch she's the one that has most to offer to her fellows, but she's likely to put in a good performance even among regular units, courtesy of her generally okay kit; the +10% Hit sounds good, and it is, but don't make the mistake of thinking it's enough to offset her mediocre statline.  
+The barrage warrants a mention, in that it is a rain of little star-shaped pellets somewhat slowly falling from the sky and attempting to aim for enemy chibi; their damage is pretty high, but the AoEs are small and the long travel time somewhat hampers their effectiveness.
+Serviceable enough.
+
 ### Tier 2:
 ---
 #### ![CV](https://azurlane.koumakan.jp/w/images/d/db/HornetChibi.png "USS Hornet") - **[BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)**
@@ -2386,6 +2432,22 @@ All things considered - pretty okay, and very cheap to boot.
 * Desc: 
 >An extra-tough carrier designed for prolonged fights, which basically means 'boss battles only'.  
 Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be.
+
+#### ![CV](/Images-for-the-Guide/Ookami_MioChibi.png "stando doggo") - [Ookami Mio](https://azurlane.koumakan.jp/Ookami_Mio)
+* Skill: 
+  * Upon even-numbered airstrike launch, launch two extra birb TBs; upon odd-numbered airstrike launch, launch two extra birb DBs.
+    * The 6 AERIAL TORPEDOES deal 240 bdmg with 80/110/130 armour mods; the pattern is parallel. The damage is modified by 100% of the unit's Aviation stat.
+    * The 3 BOMBS deal 300 bdmg with 80/90/110 armour mods. The damage is modified by 100% of the unit's Aviation stat.
+  * Upon battle start, randomly pick one of four buffs (gain +12% AA, gain +12% Aviation, gain +12% Reload, gain -20% airstrike cooldown for the first airstrike).
+  * Has a 3/2/3 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>An adequate carrier with no readily distinguishable quality, she doesn't DPS particularly hard (or much, for that matter) nor does she support particularly well; she's competent enough at her job and flings some extra planes about on airstike, but that's kind of it.  
+She's not *bad* per se, but she's not that good or useful either.
 
 ### Honourable Mentions:
 ---
