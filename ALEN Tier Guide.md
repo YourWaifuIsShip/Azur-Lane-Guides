@@ -1422,7 +1422,7 @@ A good fit for mob- as well as boss-hunting, considering how frequent are DD and
 York Kai is one of the lucky few worthy of such lofty praise, managing to scrape by virtue of an exceptional self-buff and a Kai that gives her the sorely needed FP to make some actual use out of said skill; the second skill is an alright boost, pushing her autoguns into the realm of "kinda sorta decent" and slightly bolstering her defences, but don't be deceived by her Medium Armour and high Evasion, a tank she ain't and her abysmal luck makes sure she can't play the part for long.  
 All that said, though - she's alright.
 
-![CA](https://azurlane.koumakan.jp/w/images/8/84/MayaChibi.png "IJN Maya") - **[IJN Maya](https://azurlane.koumakan.jp/Maya)**
+![CA](https://azurlane.koumakan.jp/w/images/8/84/MayaChibi.png "Adopted") - **[IJN Maya](https://azurlane.koumakan.jp/Maya)**
 * Skill: Increases Reload by 35% and 30% chance to launch a second salvo on torpedo launch
 
 * Recommended Loadouts:
