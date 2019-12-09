@@ -1381,15 +1381,6 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
 >Leader of the New Orleans class, she emphasises their strengths and shares their reinforced armour plating.  
 Solid and dependable, if unremarkable. No reason not to take her if you're going to field them at all, but Minneapolis has better things to do than hang out with her sisters.
 
-![CA](https://azurlane.koumakan.jp/w/images/d/d2/QuincyChibi.png "Quincy") ![CA](https://azurlane.koumakan.jp/w/images/3/3f/VincennesChibi.png "Vincennes") - **[USS Quincy](https://azurlane.koumakan.jp/Quincy)** **[USS Vincennes](https://azurlane.koumakan.jp/Vincennes)**
-* Skill: 
-  * 60% chance every 20s, gain +40% Firepower for 10s.
-  * Take -20% damage from DD/CL gun attacks.
-
-* Desc: 
->Sporting a matching set of Medium Armour, anti-DD/CL gunfire skills and considerable AA capabilities, the New Orleans-class CAs focus more on the defence than the offence, unlike almost every other CA in the USS.  
-A good fit for mob- as well as boss-hunting, considering how frequent are DD and CL bosses, but beware their weaker guns and the need to take Astoria to make the most out of them.
-
 ![CA](https://azurlane.koumakan.jp/w/images/b/bf/SuffolkKaiChibi.png "HMS Suffolk Kai") - **[HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk)** **(T1 when deployed with Queen Elizabeth)**
 * Skill: 
   * 25% chance when firing main guns to fire another salvo.
@@ -1480,6 +1471,15 @@ Her poor damage output brings her down in the long run, though, and is usually d
 * Desc: 
 >What you use when you don't have Wichita but still want a powerful, buff-capable CA.  
 She will be phased out eventually, alas, but she's good while she's there and you can still use her to augment a second fleet.
+
+![CA](https://azurlane.koumakan.jp/w/images/d/d2/QuincyChibi.png "Quincy") ![CA](https://azurlane.koumakan.jp/w/images/3/3f/VincennesChibi.png "Vincennes") - **[USS Quincy](https://azurlane.koumakan.jp/Quincy)** **[USS Vincennes](https://azurlane.koumakan.jp/Vincennes)**
+* Skill: 
+  * 60% chance every 20s, gain +40% Firepower for 10s.
+  * Take -20% damage from DD/CL gun attacks.
+
+* Desc: 
+>Sporting a matching set of Medium Armour, anti-DD/CL gunfire skills and considerable AA capabilities, the New Orleans-class CAs focus more on the defence than the offence, unlike almost every other CA in the USS.  
+A good fit for mob- as well as boss-hunting, considering how frequent are DD and CL bosses, but beware their weaker guns and the need to take Astoria to make the most out of them.
 
 ![CA](https://azurlane.koumakan.jp/w/images/b/bf/YorkKaiChibi.png "HMS York Kai") - **[HMS York Kai](https://azurlane.koumakan.jp/York#retrofit)**
 * Skill: 
