@@ -1372,7 +1372,21 @@ A wrecking ball against small craft, to be sure, but watch out for when they pic
 * Desc: 
 >A sturdy gunboat with remarkable firepower. Sounds familiar? 
 Her direct competitor would be Portland Kai, and while she comes out of that comparison looking pretty weak (lower eHP, the extra FP comes at the expense of higher Oil costs, the lack of a barrage and the need to take at least 2+ Kizunas to outgun her), she is nonetheless a tough nut to crack and she can pack a good punch.
- 
+
+![CA](/Images-for-the-Guide/Nakiri_AyameChibi.png "Nakiri Ayame") - **[Nakiri Ayame](https://azurlane.koumakan.jp/Nakiri_Ayame)**
+* Skill: 
+  * Every 20s, 70% chance to gain a +8% damage stack (caps at 3 stacks, or +24% damage).
+  * Every 15s, fire a narrow wave-shaped slash in front of her; the slash has a 50% chance to inflict Armour Break on the enemies hit regardless of Armour class for 6s.
+    * The SLASH deals 81 bdmg with 100/100/100 armour mods; can pierce up to 20 targets. It is modified by 100% of the unit's FP.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+* Desc: 
+>A competent enough Gun-CA whose main purpose is to be a semi-reliable Armour Break delivery system.  
+Her DPS starts out low but - given enough time and luck - grows to respectable levels and is further helped by the Armour Break; speaking of which, the slash she fires has low damage too but it is well capable of piercing enemies from one end of the screen to the other, which is nice (and concerning if you let so many enemies pile up).  
+'s alright.  
  
 ### Tier 2:
 ---
@@ -2379,8 +2393,24 @@ Her niche is providing air superiority and protecting the frontline from harm th
   * [Poverty] F4U Corsai or ME155 (if W12+); SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: IT'S NOT JUST A PHASE, MEIN KOMMANDANT!
->The single toughest CV in the game, courtesy of her ludicrous HP pool (6.8k), the flat damage cut she extends to every KMS unit in the fleet (herself included) and the couple of 150% ME155s she can field to keep the skies clear; and as for the offence, she's no slouch either with her remarkable six 160% Efficiency Stukas.  
+>One of the toughest carriers in the game, courtesy of her large HP pool (7.5k HP), the flat damage cut she extends to every KMS unit in the fleet (herself included) and the couple of 150% ME155s she can field to keep the skies clear; and as for the offence, she's no slouch either with her remarkable six 160% Efficiency Stukas.  
 Her only real flaw is her lacking Reload, a mere 100 compared to most other top-of-the-line carriers - and, of course, her lack of synergy with non-KMS units, so keep her in there and she'll do work.
+
+#### ![CV](/Images-for-the-Guide/Tokino_SoraChibi.png "Generic Moeblob")- **[Tokino Sora](https://azurlane.koumakan.jp/Tokino_Sora)** **(T1 w/ full Hololive fleet)**
+* Skill: 
+  * Upon airstrike, 100% chance to launch a barrage.
+    * The 15 STARS deal 122 bdmg with 110/110/110 armour mods; Ignition chance is 1.5% and they prefer to 'fall' on chibi first. Their damage is modified by 100% of the unit's Aviation stat and a 118% coefficient.
+  * Decrease damage taken by all Hololive units by 7%; also, every 20s, reduce enemy Speed by -10%, increase allied Hit by 10% and increase Hololive units' Speed by 10% for 8s.
+  * Has a 2/3/3 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>Pretty solid if somewhat unremarkable carrier. Out of the Hololive bunch she's the one that has most to offer to her fellows, but she's likely to put in a good performance even among regular units, courtesy of her generally okay kit; the +10% Hit sounds good, and it is, but don't make the mistake of thinking it's enough to offset her mediocre statline.  
+The barrage warrants a mention, in that it is a rain of little star-shaped pellets somewhat slowly falling from the sky and attempting to aim for enemy chibi; their damage is pretty high, but the AoEs are small and the long travel time somewhat hampers their effectiveness.
+Serviceable enough.
 
 
 ### Tier 2:
@@ -2388,8 +2418,8 @@ Her only real flaw is her lacking Reload, a mere 100 compared to most other top-
  
 #### ![CV](https://azurlane.koumakan.jp/w/images/d/db/HornetChibi.png "USS Hornet") - **[BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)**
 * Skill: 
-  * Upon airstriking, 60% chance to launch a [barrage](http://p8.qhimg.com/t01f5e40a0d4aa5e59e.gif).
-    * The 12 BOMBS deal 222 bdmg with 80/90/110 mods. Their damage is modified by 100% of the unit's Aviation.
+  * Upon airstrike launch, 60% chance to launch a [barrage](http://p8.qhimg.com/t01f5e40a0d4aa5e59e.gif).
+    * The 12 BOMBS deal 222 bdmg with 80/90/110 armour mods. Their damage is modified by 100% of the unit's Aviation.
   * 25% chance to inflict double damage with her airstrike.
   * Has a 3/3/2 loadout.
 
@@ -2429,6 +2459,22 @@ That said, she's still mostly an attack craft - her ASW capabilties, while a nic
 * Desc: 
 >An extra-tough carrier designed for prolonged fights, which basically means 'boss battles only'.  
 Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be.
+
+ #### ![CV](/Images-for-the-Guide/Ookami_MioChibi.png "stando doggo") - [Ookami Mio](https://azurlane.koumakan.jp/Ookami_Mio)
+* Skill: 
+  * Upon even-numbered airstrike launch, launch two extra birb TBs; upon odd-numbered airstrike launch, launch two extra birb DBs.
+    * The 6 AERIAL TORPEDOES deal 240 bdmg with 80/110/130 armour mods; the pattern is parallel. The damage is modified by 100% of the unit's Aviation stat.
+    * The 3 BOMBS deal 300 bdmg with 80/90/110 armour mods. The damage is modified by 100% of the unit's Aviation stat.
+  * Upon battle start, randomly pick one of four buffs (gain +12% AA, gain +12% Aviation, gain +12% Reload, gain -20% airstrike cooldown for the first airstrike).
+  * Has a 3/2/3 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>An adequate carrier with no readily distinguishable quality, she doesn't DPS particularly hard (or much, for that matter) nor does she support particularly well; she's competent enough at her job and flings some extra planes about on airstike, but that's kind of it.  
+She's not *bad* per se, but she's not that good or useful either.
 
 ### Honourable Mentions:
 ---
@@ -2506,7 +2552,7 @@ As such, this section *does not contain tiers* but specific recommendations and 
 
 #### ![SS](https://azurlane.koumakan.jp/w/images/9/90/U-47Chibi.png "U-47") ![SS](https://azurlane.koumakan.jp/w/images/thumb/8/81/U-73Chibi.png/139px-U-73Chibi.png "U-73") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/5/5d/U-101Chibi.png "U-101") ![SS](https://azurlane.koumakan.jp/w/images/0/03/U-110Chibi.png "U-110") ![SS](https://azurlane.koumakan.jp/w/images/2/22/U-522Chibi.png "U-522") ![SS](https://azurlane.koumakan.jp/w/images/thumb/4/41/U-556Chibi.png/132px-U-556Chibi.png "U-556") ![SS](https://azurlane.koumakan.jp/U-557/Gallery#/media/File:U-557Chibi.png "U-557") - [KMS U-47](https://azurlane.koumakan.jp/U-73), [KMS U-73](https://azurlane.koumakan.jp/U-73), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-101](https://azurlane.koumakan.jp/U-101), [KMS U-110](https://azurlane.koumakan.jp/U-110), [KMS U-522](https://azurlane.koumakan.jp/U-522), [KMS U-556](https://azurlane.koumakan.jp/U-556), [KMS U-557](https://azurlane.koumakan.jp/U-557)
 * Skill (U-47): 
-  * Enemies hit by U-47's torpedoes take +40% damage from U-47's next torpedo.
+  * Enemies hit by U-47's torpedoes take +40% damage from U-47's torpedoes for 5s.
   * If sortied solo, deal +20% damage to BB, gain +1 Hunting Range and +2 Ammo.
 
 * Skill (U-73): 
@@ -2600,7 +2646,6 @@ Highly synergistic, they all benefit from hanging out with each other but are fr
 >A heavy-duty support submarine, I-25 forgoes the damage boosts many others have in favour of buffs and debuffs.  
 While you shouldn't expect anything much out of the seaplane bomb, the +Acc buff is both permanent and rather substantial; the debuff, less so, but it is still welcome.  
 
-
 #### ![SS](https://azurlane.koumakan.jp/w/images/e/e8/SurcoufChibi.png "Surcouf") - [FFNF Surcouf](https://azurlane.koumakan.jp/Surcouf)
 * Skill: 
   * Upon joining the battle, grant +20% Accuracy to the vanguard.
@@ -2611,6 +2656,16 @@ While you shouldn't expect anything much out of the seaplane bomb, the +Acc buff
 >Surcouf is unique among subs for several reasons, not least of which her ability to stand her ground while surfaced.
 Firstly, her guns are not only actually useful but also threatening; secondly, she bolsters the vanguard's fighting prowess with a hefty Accuracy buff; thirdly, she stays on the field for longer than anyone else while making full use of her entire armament throughout it all.
 Her one downside is a subpar hunting range, but she's not meant to stay front and centre anyway.
+
+#### ![SS](/Images-for-the-Guide/Minato_AquaChibi.png "Salty Maid") - [Minato Aqua](https://azurlane.koumakan.jp/Minato_Aqua)
+* Skill: 
+  * Lose 60 o2 stat; for 20s after call-in, gain +30% damage; upon surfacing, gain +100% Speed and commence retreat almost immediately.
+  * Upon call-in, randomly select and grant one of five buffs to the fleet (+2% damage dealt, -2% damage taken, +4% Evasion, +4% Accuracy, heal 10HP); if the buff affects a Hololive unit, the effect is increased by +50%.
+  * Upon call-in, launch a tight V-shaped special torpedo barrage with 100% CritChance; if the fleet contains 2+ Hololive units, launch that barrage again.
+
+* Desc:
+>A remarkably powerful submarine and a coward at heart, Aqua's job is simple: get in, blow load from flagship position while under the effect of the +30% damage, pretend to support (she can't, the buffs are hilariously weak), skedaddle away the moment she's spotted.  
+If that sounds more or less what subs are supposed to do... well yes, it is, but as good as this all sounds, she's still not the best sub in the game. That title belongs to U-47 and her nigh-on permanent +40% damage and homing barrage (and KMS synergy).
 
 
 
