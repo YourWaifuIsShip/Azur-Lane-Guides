@@ -76,14 +76,14 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
   
    
 ## Table of Contents 
-- ### [DD ![DD](https://azurlane.koumakan.jp/w/images/thumb/f/f6/DD_img.png/45px-DD_img.png "DD Icon")](#dd--1)
-- ### [CL ![CL](https://azurlane.koumakan.jp/w/images/2/20/CL_img.png "CL Icon")](#cl--1)
-- ### [CA ![CA](https://azurlane.koumakan.jp/w/images/c/c3/CA_img.png "CA Icon")](#ca--1)
-- ### [BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")](#bbbc--1)
-- ### [BBV ![BBV](https://azurlane.koumakan.jp/w/images/thumb/1/1a/BBV_img.png/45px-BBV_img.png "BBV Icon")](#bbv--1)
-- ### [CV/CVL ![CV(L)](https://azurlane.koumakan.jp/w/images/d/d1/CV_img.png "CV/L Icon")](#cvcvl--1)
-- ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
-- ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
+- ### [DD ![DD](/Images-for-the-Guide/45px-DD_img40.png "DD Icon")](#dd--1)
+- ### [CL ![CL](/Images-for-the-Guide/45px-CL_img40.png "CL Icon")](#cl--1)
+- ### [CA ![CA](/Images-for-the-Guide/45px-CA_img40.png "CA Icon")](#ca--1)
+- ### [BB/BC ![BB/BC](/Images-for-the-Guide/45px-BC_img40.png "BB/BC Icon")](#bbbc--1)
+- ### [BBV ![BBV](/Images-for-the-Guide/45px-BBV_img40.png "BBV Icon")](#bbv--1)
+- ### [CV/CVL ![CV(L)](/Images-for-the-Guide/45px-CVL_img.png "CV/L Icon")](#cvcvl--1)
+- ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
+- ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
 ## Changelog as of last update (09/12/2019)
 
