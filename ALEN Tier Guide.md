@@ -85,9 +85,14 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - ### [SS ![SS](https://azurlane.koumakan.jp/w/images/thumb/e/e3/SS_img.png/45px-SS_img.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (30/11/2019)
+## Changelog as of last update (09/12/2019)
 
-- I am aware the images are kinda sorta screwed and there is a lot more Akashi than there is supposed to be. Causes uncertain, probably the disabling of image hotlinking from the wiki; at any rate, this'll take a while to fix.
+- Shirakawa Fubuki joins the Guide as T1;
+- Nakiri Ayame joins the Guide as T1.5;
+- Tokino Sora joins the Guide as T1.5;
+- Ookami Mio joins the Guide as T2.
+
+- USS Quincy and USS Vincennes are demoted to T2 (from T1.5), on the grounds of painfully low DPS not counterbalanced by staying power.
 
 <br/><br/>
 ---
@@ -1300,19 +1305,6 @@ Solid and dependable, if unremarkable. No reason not to take her if you're going
 >The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
 Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
 
-![CA](https://azurlane.koumakan.jp/w/images/d/d2/QuincyChibi.png "Quincy") ![CA](https://azurlane.koumakan.jp/w/images/3/3f/VincennesChibi.png "Vincennes") - **[USS Quincy](https://azurlane.koumakan.jp/Quincy)** **[USS Vincennes](https://azurlane.koumakan.jp/Vincennes)**
-* Skill: 
-  * 60% chance every 20s, gain +40% Firepower for 10s.
-  * Take -20% damage from DD/CL gun attacks.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
-* Desc: 
->Sporting a matching set of Medium Armour, anti-DD/CL gunfire skills and considerable AA capabilities, the New Orleans-class CAs focus more on the defence than the offence, unlike almost every other CA in the USS.  
-A good fit for mob- as well as boss-hunting, considering how frequent are DD and CL bosses, but beware their weaker guns and the need to take Astoria to make the most out of them.
-
 ![CA](https://azurlane.koumakan.jp/w/images/b/bf/SuffolkKaiChibi.png "HMS Suffolk Kai") - **[HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk)** **(T1 when deployed with Queen Elizabeth)**
 * Skill: 
   * 25% chance when firing main guns to fire another salvo
@@ -1402,6 +1394,19 @@ Her DPS starts out low but - given enough time and luck - grows to respectable l
 * Desc: 
 >What you use when you don't have Wichita but still want a powerful, buff-capable CA.  
 She will be phased out eventually, alas, but she's good while she's there and you can still use her to augment a second fleet.
+
+![CA](https://azurlane.koumakan.jp/w/images/d/d2/QuincyChibi.png "Quincy") ![CA](https://azurlane.koumakan.jp/w/images/3/3f/VincennesChibi.png "Vincennes") - **[USS Quincy](https://azurlane.koumakan.jp/Quincy)** **[USS Vincennes](https://azurlane.koumakan.jp/Vincennes)**
+* Skill: 
+  * 60% chance every 20s, gain +40% Firepower for 10s.
+  * Take -20% damage from DD/CL gun attacks.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+* Desc: 
+>Sporting a matching set of Medium Armour, anti-DD/CL gunfire skills and considerable AA capabilities, the New Orleans-class CAs focus more on the defence than the offence, unlike almost every other CA in the USS.  
+A good fit for mob- as well as boss-hunting, considering how frequent are DD and CL bosses, but beware their weaker guns and the need to take Astoria to make the most out of them.
 
 ![CA](https://azurlane.koumakan.jp/w/images/b/bf/YorkKaiChibi.png "HMS York Kai") - **[HMS York Kai](https://azurlane.koumakan.jp/York#retrofit)**
 * Skill: 
