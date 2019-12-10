@@ -35,7 +35,8 @@ Good reading, and godspeed cap'n!
 - Honourable Mentions   : Ships that, while too weak or unwieldy for general usage, nonetheless possess some interesting or useful quirk that may warrant attention.
   
   
-  
+  >Nowhere as devastating as her tier companions (or a good few other IJN DDs for that matter), she is nonetheless quite powerful and has incredible defensive skills for both herself and the backline.  
+
 #### Retrofit/Kai Priority List:
 - DD                  : Laffey > Ayanami = Z23 > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
 - CL                  : San Diego* > Jintsuu > Leipzig = Leander > Emile Bertin > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
@@ -94,6 +95,8 @@ If you find what I do here and/or on the Discords #helpful and would like to sho
 - Minato Aqua joins the Guide (she's good).
 
 - USS Quincy and USS Vincennes are demoted to T2 (from T1.5), on the grounds of painfully low DPS not counterbalanced by staying power.
+
+- SLOWLY RESTORING THE GODDAMN IMAGES. This means the EN/JP guides will be identical for a little while, until everything gets sorted out good and proper.
 
 <br/><br/>
 ---
