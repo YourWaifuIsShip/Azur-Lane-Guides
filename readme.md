@@ -7,9 +7,17 @@ They are called 'Tier Guides' to tell them apart from tierlists and their typica
 If all this sounds interesting to you, hop in and have a read; in the future I'll be adding more Guide content too, so look forward to it~  
 If you happen to have questions for me, want to discuss tierings or would like to show new information you feel may influence some tierings, poke me on Discord over at the Azur Lane English Community server (Kawaii Five-O#2305).
 
-## Repository Changelog
+## Featured news and Changelog
 ```
-11/10/2019  - We have a Readme now! Hello world!
+[11/12/2019]
+OH BOY THERE'S A LOT OF NEW STUFF TO TALK ABOUT HOLY MEATBALLS
+So you'll have noticed by now most of the images are currently suffering from a bad case of "link broken"; that is because the wiki has disabled hotlinking, which means I'll have to grab every single icon and chibi out there and personally rehost it on my GitHub in order to have them show. It's not hard, but it's long and tedious, so I'll fix one hull class per day.
+It's not all bad news, though; I took the opportunity to improve the Repository a fair bit, firstly by having a real readme now (which will show its contents on the landing page) and moving some of the stuff that was in the Guides there, like the credits or the donation link; this'll keep things cleaner and straight-er to the point, I hope.
+I've also figured out how to use Issues! A few too many months too late for the poor fellows who actually contacted me there unfortunately, so I just closed them, but I did go through them and implemented what changes needed to be - including an Untier Guide!
+
+[11/12/2019]
+> We have a Readme now! Hello world!
+> We also have an AL Untier Guide, for all your whys amd hows your unit of choice happens not to be on the Tier Guides proper!
 ```
 
 ### Credits:
