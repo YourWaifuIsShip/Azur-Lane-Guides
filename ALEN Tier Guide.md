@@ -2740,6 +2740,19 @@ On the flipside, her barrage is extremely linear and runs the very real risk of 
 While you shouldn't expect anything much out of the seaplane bomb, the +Acc buff is both permanent and rather substantial; the debuff, less so, but it is still welcome.  
 
 
+#### ![SS](/Images-for-the-Guide/Minato_AquaChibi.png "Submaid") - [Minato Aqua](https://azurlane.koumakan.jp/Minato_Aqua)
+* Skill: 
+  * Lose 60 o2; deal +30% damage upon call-in; gain +100% Speed upon surfacing and start retreating immediately.
+  * Upon call-in, grant a randomly chosen fleetwide buff (+2% damage dealt, -2% damage taken, +4% Evasion, +4% Accuracy, 10HP healed); if the unit affected is Hololive, increase effect potency by 50%.
+  * Upon call-in, launch a tight v-shaped autocritting torpedo barrage; if there are 2+ Hololive units in the fleet, repeat the barrage once.
+
+* Desc:
+>A mean and cowardly beatstick, Aqua goes in hard but *really* doesn't like to outstay her welcome - past her 20s powerful burst, her damage falls off significantly and the moment she peeks her head outside the water, unlike every other sub in circulation she'll beat a very hasty retreat instead of hanging around for a few extra seconds to fling one or two more torpedoes. 
+Don't expect the buff to do much, either; it's better than nothing, but its impact should not be overstated given its low potency (even when applied to Hololive units).  
+Despite the quirks, she's still a powerful sub and one you need not fear will cripple your subfleet's effectiveness when taken.
+
+
+
 <br/><br/>
 ---
 <br/><br/>
