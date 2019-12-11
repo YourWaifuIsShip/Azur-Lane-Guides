@@ -1,9 +1,9 @@
-# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (WHOTUBER EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (WHOTUBER EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
 
-Indeed, you could even interpret the tiers as a relative measure of how much investment is needed to get these units to perform, if you wish - a T0 would be a beast almost right out of the gate, whereas an untiered unit would require disproporFtionate amounts of effort - but I'd recommend treating the tiers as they're meant to be, according to the criteria below.
+Indeed, you could even interpret the tiers as a relative measure of how much investment is needed to get these units to perform, if you wish - a T0 would be a beast almost right out of the gate, whereas an untiered unit would require disproportionate amounts of effort - but I'd recommend treating the tiers as they're meant to be, according to the criteria below.
 
 Whatever the case and however you choose to read this guide, I want to stress this - ALL units are viable, SOME are better than others, NONE of them will work if you don't know how to use them.
 Good reading, and godspeed cap'n!
@@ -1199,11 +1199,32 @@ In short, she isn't tough and she isn't powerful - in fact she's really *really*
 ## CA ![CA](/Images-for-the-Guide/45px-CA_img40.png "CA Icon")
 ### Tier 0:
 ---
+![CB](https://azurlane.koumakan.jp/w/images/d/df/AzumaChibi.png "Azuma") - **[IJN Azuma](https://azurlane.koumakan.jp/Azuma)**
+* Skill:
+  * If equipped with a 280mm+ Main Gun, gains up to +25% Main Gun Damage depending on how far from the enemy she is; also, gain +50% Ignition Damage.
+  * Every 20s, 70% chance to gain +20% Evasion and +50% Accuracy for 12s.
+  * If equipped with the Azuma Gun, gain +12% Main Gun Efficiency and barrage every 4 salvo instead of 8.
+  * +15% damage vs Sirens.
+  * Has MGM+1 and can equip the VH Plate (as she is a CB, not a CA).
+
+* Recommended Loadouts:
+  * [General Purpose] Azuma Gun; 138.6mm; STAAG; Research Hydraulic Gear; VH Plate
+  * [Poverty] SKC28 (AP); 127mm twin; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+- Desc: Hard sell for a hard shell.
+>At long last, here is the "frontline BB" the playerbase has dreamed of for ages, and how closely does she match that moniker!  
+Close in firing mechanics, damage output, bulk and price tag - a staggering *16 oil* - to a proper battlecruiser, Azuma is at her best in lategame engagements, where her AoE-capable guns and barrage are able to shoot over the uncomfortably common shields from a distance and smash the clusters of tightly-packed mobs as she weathers almost effortlessly the incoming hailstorm of bullets thanks to her Heavy Armour (if she's wielding the VH Plate, that is).  
+That said, don't make the mistake of thinking Heavy Armour makes her invincible - while regular gunfire will now only scratch some paint off of her, torpedoes and aerial ordnance are now much more lethal threats you will have to manoeuvre out of the way of (or have tanked by someone slimmer), lest you see your precious 'frontline battleship' meet the same fate enemy Kongous usually do.
+
 
  ![CA](https://azurlane.koumakan.jp/w/images/7/74/MinneapolisChibi.png "USS Minneapolis") - **[USS Minneapolis](https://azurlane.koumakan.jp/Minneapolis)**
 * Skill:
   * +15% Firepower and +30% Reload for 12s after killing an enemy vessel, if skill is already active it will refresh the duration 
   * When Minneapolis' HP falls under 30%, lose 2 Speed but gain -10% damage sustained and heal 4% HP every 3s for 16s (can only proc once per fight).
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: Monster Hunter. Je suis monté.
 > Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP/Rld buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
@@ -1213,6 +1234,10 @@ In short, she isn't tough and she isn't powerful - in fact she's really *really*
   * Increases Firepower of the entire vanguard by 15%.
   * Upon Main Gun fire, 30% chance to deal +100% damage; upon destroying an enemy unit, gain 1 stack of +1.5% Acc up to a total of 8 stacks.
   * Once retrofitted, can mount DD guns instead of torpedoes. Efficiency stays 160%. DO THIS.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: London callin'. 
 >London's retrofit is on a one-town-mission to clear the bad rap HMS CA for the most part deservedly get, and good Lord does she put in the effort.  
@@ -1280,6 +1305,10 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
   * When sortied w/ Indianapolis, gain +15% Firepower, AA and Evasion
   * 25% chance every 20s, +15% damage resistance to the entire fleet for 8s
 
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >Exceptional HP, twice the base Evasion other CAs get, high Firepower and high AA - in a similar fashion to Cleveland, her stats alone justify her rating and the skills are just icing on the cake. She won't hit as often as Wichita or as hard as Chicago, but she's more consistent and much harder to kill.
 
@@ -1288,26 +1317,21 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
   * Grant +15% Firepower to all CL/CA/CB in the fleet.
   * 25% chance when firing main guns to fire another salvo. (Has an internal cooldown of 5s; do not give her the 203Mle as the gun will reload in under 5s.)
 
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >Can you say 24 shots in a row? She certainly can. Wichita is THE heaviest frontline DPS in the entire game, bar none. Her HP is rather lacklustre, but it's an easily solved issue and dead enemies can't hurt you anyway.
-
-![CA](https://azurlane.koumakan.jp/w/images/d/df/AzumaChibi.png "Azuma") - **[IJN Azuma](https://azurlane.koumakan.jp/Azuma)**
-* Skill:
-  * If equipped with a 280mm+ Main Gun, gains up to +25% Main Gun Damage depending on how far from the enemy she is; also, gain +50% Ignition Damage.
-  * Every 20s, 70% chance to gain +20% Evasion and +50% Accuracy for 12s.
-  * If equipped with the Azuma Gun, gain +12% Main Gun Efficiency and barrage every 4 salvo instead of 8.
-  * +15% damage vs Sirens.
-  * Has MGM+1.
-
-- Desc: Hard sell for a hard shell.
->Expectations surrounding Azuma were high, considering we'd been asking for a "frontline BB" sorts for ages and she seemed to fit the bill perfectly - but alas, they were not matched and both disappointment and hyperbole ran rampant, mucking everything up.  
-That disappointment is borne of two simple elements: one, her being a DR like Freidrich while being closer to old PR1 CAs in power than her, and two, her absurd *16* Oil price tag. Both are very valid reasons to feel cheated out of a great unit.  
-Does this mean she's bad? No, in fact she's a very good cruiser with an edge against shield-heavy lategame scenarios, easy to heal and hard to shift as she lobs fiery death across the screen, but she is indeed overcosted and grinding her up to the point where she can truly perform takes ages.
 
 ![CA](https://azurlane.koumakan.jp/w/images/c/cb/ChoukaiChibi.png "Choukai") - **[IJN Choukai](https://azurlane.koumakan.jp/Choukai)**
 * Skill: 
   * Gain +10% Firepower (permanent); 60% chance every 20s, +20% Firepower and Torpedo to all allied CL/CA for 10s
   * Upon Main Gun fire, 30% chance to double its damage
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
@@ -1318,6 +1342,10 @@ Does this mean she's bad? No, in fact she's a very good cruiser with an edge aga
   * Upon launching torpedoes, 30% chance to launch a special torpedo barrage.
   * +15% damage vs Sirens.
   * Has TWO preloaded torpedo spreads.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: What do you mean "she's not a DD"?
 > Someone at the design bureau must've missed a memo when they designed Ibuki.  
@@ -1351,6 +1379,10 @@ Nevertheless, she's still a very accomplished Hybrid-CA and one that is very har
 * Skill: 
   * Upon firing the Main Gun, 30% chance to have it deal +100% Damage. (Has an internal cooldown of 5s; do not give her the 203Mle as the gun will reload in under 5s.)
 
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >What was said about Wichita applies to Chicago as well. Slightly frailer than she is and needing RNG to get the most out of her, she will nonetheless punch very hard - and harder than anyone else when she procs.
 Also worth mentioning, if she procs on her first salvo, the buff affects the second one too - which means that all in all, her actual procrate is 49%!
@@ -1358,6 +1390,10 @@ Also worth mentioning, if she procs on her first salvo, the buff affects the sec
 ![CA](https://azurlane.koumakan.jp/w/images/5/58/HoustonChibi.png "USS Houston") - **[USS Houston](https://azurlane.koumakan.jp/Houston)**
 * Skill: 
   * 20% chance upon Main Gun fire to gain +100% Eva for 15s.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: "Problem? What problem?"
 > While an Evasion-focused CA sounds ludicrous, and it is under most circumstances, Houston actually makes it work given enough Evasion-boosting auxiliaries: CAs live and die by their Evasion (or lack thereof), so stacking it actually lets her survive under heavy fire for much longer than you'd expect.  
@@ -1371,6 +1407,10 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
   * When sortied w/ at least 1 New Orleans-class CA (Quincy / Vincennes / Minneapolis), gain and grant them +10% Firepower, +20% Accuracy and AA.
   * Take -20% damage from DD/CL gun attacks.
 
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >Leader of the New Orleans class, she emphasises their strengths and shares their reinforced armour plating.  
 Solid and dependable, if unremarkable. No reason not to take her if you're going to field them at all, but Minneapolis has better things to do than hang out with her sisters.
@@ -1379,6 +1419,10 @@ Solid and dependable, if unremarkable. No reason not to take her if you're going
 * Skill: 
   * 25% chance when firing main guns to fire another salvo.
   * 60% chance every 20s to increase Firepower by 40% for 10s.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Boasting the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above every other Torp-CA and has access to QE's buffs to boot.  
@@ -1389,6 +1433,10 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
   * 30% chance to do double damage when firing main gun
   * 30% chance to launch a second salvo on torpedo launch
 
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >Takao is a tad on the RNG side, but sports high HP and a remarkable statline. Her skills are what makes her as good as she is, but they're not exactly the most reliable. Still, they are powerful and thus worth respect.
 
@@ -1396,6 +1444,10 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 * Skill: 
   * 60% chance every 20s, gain +40% Firepower for 10s.
   * Every torpedo launch has a 30.0% chance to launch another spread.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
@@ -1405,6 +1457,10 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
   * Each time Suzuya's Main Gun lands 8 hits (not consecutively, each shell counts as 1 hit), gain 1 stack of +5% Firepower and +25% Reload up to a maximum of 3 stacks; upon gaining max stacks, her barrage improves (gains two lines of 4 AP shots in a tight cone).
   * Take -20% AP damage.
   * Can take a CL gun, but shouldn't UNLESS it's the Seattle Gun.
+
+* Recommended Loadouts:
+  * [General Purpose] Seattle Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >CAs aren't known for their barrages, but Suzuya isn't going to let that get her down.   
@@ -1416,6 +1472,10 @@ On the flipside, said barrage is also her most noteworthy feature - manual play 
 * Skill: 
   * Deal +35% damage to DD/CL.
   * May equip the 283mm SKC28, but shouldn't.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: 
 >Too large for mere CA and too small for proper BCs, these Pocket Battleships are odd creatures.  
@@ -1446,13 +1506,17 @@ Her direct competitor would be Portland Kai, and while she comes out of that com
 Her DPS starts out low but - given enough time and luck - grows to respectable levels and is further helped by the Armour Break; speaking of which, the slash she fires has low damage too but it is well capable of piercing enemies from one end of the screen to the other, which is nice (and concerning if you let so many enemies pile up).  
 's alright.  
  
+ 
 ### Tier 2:
 ---
-
 ![CA](https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png "USS Indianapolis") - **[USS Indianapolis](https://azurlane.koumakan.jp/Indianapolis)**
 * Skill: 
   * Every 30s, spawns 2 orbiting shields that last 8 shots or 15s; if broken, all nearby enemies take minor damage.
   * Upon taking damage, 8% chance to halve that damage.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
@@ -1461,6 +1525,10 @@ Her poor damage output brings her down in the long run, though, and is usually d
 ![CA](https://azurlane.koumakan.jp/w/images/8/89/NorthamptonChibi.png "USS Northampton") - **[USS Northampton](https://azurlane.koumakan.jp/Northampton)**
 * Skill: 
   * +15% FP to all CL/CA in the fleet.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >What you use when you don't have Wichita but still want a powerful, buff-capable CA.  
@@ -1471,6 +1539,10 @@ She will be phased out eventually, alas, but she's good while she's there and yo
   * 60% chance every 20s, gain +40% Firepower for 10s.
   * Take -20% damage from DD/CL gun attacks.
 
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >Sporting a matching set of Medium Armour, anti-DD/CL gunfire skills and considerable AA capabilities, the New Orleans-class CAs focus more on the defence than the offence, unlike almost every other CA in the USS.  
 A good fit for mob- as well as boss-hunting, considering how frequent are DD and CL bosses, but beware their weaker guns and the need to take Astoria to make the most out of them.
@@ -1479,6 +1551,10 @@ A good fit for mob- as well as boss-hunting, considering how frequent are DD and
 * Skill: 
   * Upon performing ANY attack (autoguns, main guns, torpedoes; AA does not count), 40% chance to gain +40% FP for 8s.
   * Take -40% damage from suicide boats and -15% damage from HE; additionally, her autoguns gain +70% CritRate and ignore armour modifiers.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >It speaks volumes about HMS non-CL vanguards that the best they can aspire to is not be irredeemable wrecks.  
@@ -1489,6 +1565,10 @@ All that said, though - she's alright.
 ![CA](https://azurlane.koumakan.jp/w/images/8/84/MayaChibi.png "IJN Maya") - **[IJN Maya](https://azurlane.koumakan.jp/Maya)**
 * Skill: Increases Reload by 35% and 30% chance to launch a second salvo on torpedo launch
 
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
 * Desc: 
 >Maya trades Takao's double damage chance for a permanent passive reload boost. An interesting concept, and paired with double Autoloaders lets her fire her guns and torps faster than any other CA, which is remarkable on its own right... but is a rather poor trade nonetheless.
 Also, she's slightly better at AA than her sisters (key word being "slightly", though).
@@ -1497,6 +1577,10 @@ Also, she's slightly better at AA than her sisters (key word being "slightly", t
 * Skill: 
   * Every 20s, 70% chance to replace Main Gun ammo with Red Notes (110/120/100 modifiers, 8% Ignition chance) for 12s.
   * Every 30s, spawn two orbiting shields lasting 10 shots or 15s; if Hipper is deployed as vanguard lead, the shields spawn upon battle start too.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: AH-HAAH?!
 >Better armed and slightly better suited to her intended 'vanguard tank' role than her regular version, Idolhipper manages to be a competent and decently tough KMS CA without any especially glaring flaw.  
