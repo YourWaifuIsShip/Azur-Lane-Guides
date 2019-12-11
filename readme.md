@@ -4,7 +4,8 @@ If you've landed here because someone linked the Tier Guides to you or happened 
 The Tier Guides are less of a tierlist and more of a compendium of all the relevant units in the game: they are meant to tell you who's good at what, why is it good at that and how good it is, ***not who you should be using** (as that is a very subjective thing and different players value different characteristics differently)*.  
 They are called 'Tier Guides' to tell them apart from tierlists and their typical way of handling things (ie. small portraits with a tier and no explanation of how and why the tier has been decided that way); indeed, one of the reasons tierlists are rather poorly regarded by the less casual members of the playerbase is precisely that lack of information and perceived arbitrariety, both issues the Guides seek to remedy by way of in-depth descriptions and details for each unit and publically visible tiering criteria.  
 
-If all this sounds interesting to you, hop in and have a read; in the future I'll be adding more Guide content too, so look forward to it~  If you happen to have questions for me, want to discuss tierings or would like to show new information you feel may influence some tierings, poke me on Discord over at the Azur Lane English Community server (Kawaii Five-O#2305).
+If all this sounds interesting to you, hop in and have a read; in the future I'll be adding more Guide content too, so look forward to it~  
+If you happen to have questions for me, want to discuss tierings or would like to show new information you feel may influence some tierings, poke me on Discord over at the Azur Lane English Community server (Kawaii Five-O#2305).
 
 ## Repository Changelog
 ```
