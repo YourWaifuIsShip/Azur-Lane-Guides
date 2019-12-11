@@ -8,6 +8,12 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 
 ```
 [09/12/2019]
-- Natsuiro Matsuri did not join the Tier Guide, on account of her middling statline and poor skillset (self-buff to guns is hilariosuly ineffective given the IJN DD baseline, self-buff and buff to damage reduction is low impact; barrage is okay but not nearly enough to offset its long charge time and not guaranteed launch).
-- Murasaki Shion did not join the Tier Guide, on account of her atrocious DPS and very poor skillset (damage reduction is very low-impact and suffers from the same pitfalls all screenwides debuffs do; barrage damage is low).
+> Natsuiro Matsuri did not join the Tier Guide, on account of her middling statline and poor skillset.
+- self-buff to guns is hilariosuly ineffective given the IJN DD baseline;
+- self-buff and buff to damage reduction is low impact; 
+- barrage is okay but not nearly enough to offset its long charge time and not guaranteed launch.
+
+> Murasaki Shion did not join the Tier Guide, on account of her atrocious DPS and very poor skillset. 
+- damage reduction is very low-impact and suffers from the same pitfalls all screenwides debuffs do;
+- barrage damage is low.
 ```
