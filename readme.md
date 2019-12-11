@@ -1,5 +1,5 @@
-Welcome to 
-
+# Welcome to Your Waifu is SHIP's highly opinionated and extra-biased Tier Guides!
+uwu
 
 
 
