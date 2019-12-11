@@ -69,6 +69,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - Ookami Mio joins the Guide as T2;
 - Minato Aqua joins the Guide (she's good).
 
+- IJN Azuma is promoted to T0 (from T0.5), on the grounds of being the first Heavy vanguard in the game (at least if she has the VH Plate).
 - USS Quincy and USS Vincennes are demoted to T2 (from T1.5), on the grounds of painfully low DPS not counterbalanced by staying power.
 
 - SLOWLY RESTORING THE GODDAMN IMAGES. This means the EN/JP guides will be identical for a little while, until everything gets sorted out good and proper.
@@ -1213,7 +1214,7 @@ In short, she isn't tough and she isn't powerful - in fact she's really *really*
 
 - Desc: Hard sell for a hard shell.
 >At long last, here is the "frontline BB" the playerbase has dreamed of for ages, and how closely does she match that moniker!  
-Close in firing mechanics, damage output, bulk and price tag - a staggering *16 oil* - to a proper battlecruiser, Azuma is at her best in lategame engagements, where her AoE-capable guns and barrage are able to shoot over the uncomfortably common shields from a distance and smash the clusters of tightly-packed mobs as she weathers almost effortlessly the incoming hailstorm of bullets thanks to her Heavy Armour (if she's wielding the VH Plate, that is).
+Close in firing mechanics, damage output, bulk and price tag - a staggering *16 oil* - to a proper battlecruiser, Azuma is at her best in lategame engagements, where her AoE-capable guns and barrage are able to shoot over the uncomfortably common shields from a distance and smash the clusters of tightly-packed mobs as she weathers almost effortlessly the incoming hailstorm of bullets thanks to her Heavy Armour (if she's wielding the VH Plate, that is).  
 That said, don't make the mistake of thinking Heavy Armour makes her invincible - while regular gunfire will now only scratch some paint off of her, torpedoes and aerial ordnance are now much more lethal threats you will have to manoeuvre out of the way of (or have tanked by someone slimmer), lest you see your precious 'frontline battleship' meet the same fate enemy Kongous usually do.
 
 
