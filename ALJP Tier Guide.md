@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (WHOTUBER EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (WHOTUBER EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -69,7 +69,6 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - Ookami Mio joins the Guide as T2;
 - Minato Aqua joins the Guide (she's good).
 
-- IJN Azuma is promoted to T0 (from T0.5), on the grounds of being the first Heavy vanguard in the game (at least if she has the VH Plate).
 - USS Quincy and USS Vincennes are demoted to T2 (from T1.5), on the grounds of painfully low DPS not counterbalanced by staying power.
 
 - SLOWLY RESTORING THE GODDAMN IMAGES. This means the EN/JP guides will be identical for a little while, until everything gets sorted out good and proper.
@@ -1200,7 +1199,7 @@ In short, she isn't tough and she isn't powerful - in fact she's really *really*
 ## CA ![CA](/Images-for-the-Guide/45px-CA_img40.png "CA Icon")
 ### Tier 0:
 ---
-![CB](https://azurlane.koumakan.jp/w/images/d/df/AzumaChibi.png "Azuma") - **[IJN Azuma](https://azurlane.koumakan.jp/Azuma)**
+![CB](/Images-for-the-Guide/AzumaChibi.png "Azuma") - **[IJN Azuma](https://azurlane.koumakan.jp/Azuma)**
 * Skill:
   * If equipped with a 280mm+ Main Gun, gains up to +25% Main Gun Damage depending on how far from the enemy she is; also, gain +50% Ignition Damage.
   * Every 20s, 70% chance to gain +20% Evasion and +50% Accuracy for 12s.
@@ -1218,7 +1217,7 @@ Close in firing mechanics, damage output, bulk and price tag - a staggering *16 
 That said, don't make the mistake of thinking Heavy Armour makes her invincible - while regular gunfire will now only scratch some paint off of her, torpedoes and aerial ordnance are now much more lethal threats you will have to manoeuvre out of the way of (or have tanked by someone slimmer), lest you see your precious 'frontline battleship' meet the same fate enemy Kongous usually do.
 
 
- ![CA](https://azurlane.koumakan.jp/w/images/7/74/MinneapolisChibi.png "USS Minneapolis") - **[USS Minneapolis](https://azurlane.koumakan.jp/Minneapolis)**
+ ![CA](/Images-for-the-Guide/MinneapolisChibi.png "USS Minneapolis") - **[USS Minneapolis](https://azurlane.koumakan.jp/Minneapolis)**
 * Skill:
   * +15% Firepower and +30% Reload for 12s after killing an enemy vessel, if skill is already active it will refresh the duration 
   * When Minneapolis' HP falls under 30%, lose 2 Speed but gain -10% damage sustained and heal 4% HP every 3s for 16s (can only proc once per fight).
@@ -1230,7 +1229,7 @@ That said, don't make the mistake of thinking Heavy Armour makes her invincible 
 - Desc: Monster Hunter. Je suis monté.
 > Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP/Rld buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
 
-![CA](https://azurlane.koumakan.jp/w/images/6/64/LondonKaiChibi.png "London Kai") - **[HMS London Kai](https://azurlane.koumakan.jp/London#retrofit)**
+![CA](/Images-for-the-Guide/LondonKaiChibi.png "London Kai") - **[HMS London Kai](https://azurlane.koumakan.jp/London#retrofit)**
 * Skill: 
   * Increases Firepower of the entire vanguard by 15%.
   * Upon Main Gun fire, 30% chance to deal +100% damage; upon destroying an enemy unit, gain 1 stack of +1.5% Acc up to a total of 8 stacks.
@@ -1245,7 +1244,7 @@ That said, don't make the mistake of thinking Heavy Armour makes her invincible 
 While her base form has never been bad, performing as well as a Leander Kai at the end of the day, her comparatively high costs and mostly irrelevant niche (buffing DD FP as well as the rest) meant she wouldn't see much use; the Kai does not change this, but it does put her DPS in the big leagues thanks to her new obscenely powerful DD mount and chance for double damage, while the stat gains make her considerably tougher beside; the +Acc stacks are nice but not particularly important as vanguards don't really struggle landing hits but more crits are appreciated nonetheless.  
 Given all this, London Kai proudly joins Wichita and Choukai in their exclusive "best and most useful CA club" and does so with finesse.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/7b/MogamiKaiChibi.png "Mogami Kai") - **[IJN Mogami Kai](https://azurlane.koumakan.jp/Mogami#retrofit)**
+![CA](/Images-for-the-Guide/MogamiKaiChibi.png "Mogami Kai") - **[IJN Mogami Kai](https://azurlane.koumakan.jp/Mogami#retrofit)**
 * Skill:
   * 60% chance every 20s, +40% FP for 8s.
   * Take -20% AP damage.
@@ -1260,7 +1259,7 @@ Given all this, London Kai proudly joins Wichita and Choukai in their exclusive 
 > Good torpedoes on a gunboat frame are unique more than they're rare, but you can't fault the results.
 Despite her relatively low staying power, courtesy of her abysmal Luck, Mogami Kai does what most CA don't - provide a real answer to Heavy Armour while not only keeping her excellent gunnery for it, but even boosting it.
 
-![CA](https://azurlane.koumakan.jp/w/images/b/ba/Saint_LouisChibi.png "Saint Louis") - **[FFNF Saint Louis](https://azurlane.koumakan.jp/Saint_Louis)**
+![CA](/Images-for-the-Guide/Saint_LouisChibi.png "Saint Louis") - **[FFNF Saint Louis](https://azurlane.koumakan.jp/Saint_Louis)**
 * Skill:
   * +35% HE damage and -3% Ignition chance
   * Upon battle start, gain +8 Speed (permanent) and +30% Evasion (for 40s)
@@ -1271,7 +1270,7 @@ Despite her relatively low staying power, courtesy of her abysmal Luck, Mogami K
 Mightiest of all CA by weight of stats and skills, there is no area where she doesn't excel - her guns absolutely melt opposing Light Armour and punch through Heavy Armour better than any other frontliners' in the game, her Speed is slightly superior to that of CLs and enjoys a hefty boost to her already high Evasion for more than half a minute after the battle starts, her AA is uncharacteristically high for her class and she enjoys all the perks of her Spe-CA peers (Medium Armour, MGM+1 and Torpedoes).  
 The only fault one can find in her would be her barrage - its wide linear pattern helps dispatching multiple weak foes, yes, but also neuters its impact against single targets.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/7b/ZaraChibi.png "Zara") - **[RN Zara](https://azurlane.koumakan.jp/Zara)**
+![CA](/Images-for-the-Guide/ZaraChibi.png "Zara") - **[RN Zara](https://azurlane.koumakan.jp/Zara)**
 * Skill:
   * Upon taking a hit (MISSES COUNT AS HITS), 18% chance to generate 1 front-facing fixed shield and 1 orbiting shield; the shields last for 12s and can tank up to 10 shots each. Internal skill cooldown, 12s.
   * If mounting a HE or SAP Main Gun, gain +12% Main Gun Damage and lose the ability to Ignite targets; if mounting an AP Main Gun, each Main Gun shot gains a 8% chance to have the targets hit take +15% more Main Gun Damage.
@@ -1288,7 +1287,7 @@ If you're sick of seeing your poor vanguard get turned inside out, Zara is the s
  
 ### Tier 0.5:
 ---
-![CA](https://azurlane.koumakan.jp/w/images/c/c3/BaltimoreChibi.png "Baltimore") - **[USS Baltimore](https://azurlane.koumakan.jp/Baltimore)** **(T0 w/ USS CV/L)**
+![CA](/Images-for-the-Guide/BaltimoreChibi.png "Baltimore") - **[USS Baltimore](https://azurlane.koumakan.jp/Baltimore)** **(T0 w/ USS CV/L)**
 * Skill: 
   * Overrides Main Gun ammo with improved AP (85/120/85 modifiers).
   * If deployed with USS CV/L, grant them +7% AA and +15% Aviation; if sortied without, gain +12% FP and +15% Evasion.
@@ -1301,7 +1300,7 @@ If you're sick of seeing your poor vanguard get turned inside out, Zara is the s
 >Designed to take the fight to later worlds, Baltimore proves to be a tough hard-hitter in every situation; with or without USS carriers to augment she's nearly always at her best, all you have to do is make sure she's snacking on heavy cruisers and carriers or, at the very least, landing those pierces.  
 Nevertheless, do try to have her around those USS carriers, as the buffs she grants them are more substantial than those she has for herself.
 
-![CA](https://azurlane.koumakan.jp/w/images/4/44/PortlandKaiChibi.png "Portland Kai") - **[USS Portland Kai](https://azurlane.koumakan.jp/Portland#retrofit)**
+![CA](/Images-for-the-Guide/PortlandKaiChibi.png "Portland Kai") - **[USS Portland Kai](https://azurlane.koumakan.jp/Portland#retrofit)**
 * Skill: 
   * When sortied w/ Indianapolis, gain +15% Firepower, AA and Evasion
   * 25% chance every 20s, +15% damage resistance to the entire fleet for 8s
@@ -1313,7 +1312,7 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
 * Desc: 
 >Exceptional HP, twice the base Evasion other CAs get, high Firepower and high AA - in a similar fashion to Cleveland, her stats alone justify her rating and the skills are just icing on the cake. She won't hit as often as Wichita or as hard as Chicago, but she's more consistent and much harder to kill.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/7b/WichitaChibi.png "USS Wichita") - **[USS Wichita](https://azurlane.koumakan.jp/Wichita)**
+![CA](/Images-for-the-Guide/WichitaChibi.png "USS Wichita") - **[USS Wichita](https://azurlane.koumakan.jp/Wichita)**
 * Skill: 
   * Grant +15% Firepower to all CL/CA/CB in the fleet.
   * 25% chance when firing main guns to fire another salvo. (Has an internal cooldown of 5s; do not give her the 203Mle as the gun will reload in under 5s.)
@@ -1325,7 +1324,7 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
 * Desc: 
 >Can you say 24 shots in a row? She certainly can. Wichita is THE heaviest frontline DPS in the entire game, bar none. Her HP is rather lacklustre, but it's an easily solved issue and dead enemies can't hurt you anyway.
 
-![CA](https://azurlane.koumakan.jp/w/images/c/cb/ChoukaiChibi.png "Choukai") - **[IJN Choukai](https://azurlane.koumakan.jp/Choukai)**
+![CA](/Images-for-the-Guide/ChoukaiChibi.png "Choukai") - **[IJN Choukai](https://azurlane.koumakan.jp/Choukai)**
 * Skill: 
   * Gain +10% Firepower (permanent); 60% chance every 20s, +20% Firepower and Torpedo to all allied CL/CA for 10s
   * Upon Main Gun fire, 30% chance to double its damage
@@ -1337,7 +1336,7 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
 * Desc: 
 >The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
  
-![CA](https://azurlane.koumakan.jp/w/images/0/02/IbukiChibi.png "Ibui") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)** **(TO vs Sirens/Bosses)**
+![CA](/Images-for-the-Guide/IbukiChibi.png "Fat DD") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)** **(TO vs Sirens/Bosses)**
 * Skill:
   * Gain +40% Torpedo CritRate and +65% Torpedo CritDmg.
   * Upon launching torpedoes, 30% chance to launch a special torpedo barrage.
@@ -1355,7 +1354,7 @@ Her IJN DD side shines through her double preloaded torpedo spreads, the ludicro
 That said, however, she's much more of a DD than a CA - to perform at her best she needs Oxygen Torpedoes, which limit her survivability (in comparison to other CAs at least, she's still considerably tougher than most IJN DDs), as well as suitable targets, which restricts her use cases to Sirens and bosses or alternatively particularly menacing mobs.
 Still, as long as you employ her for the surgical strikes she's made for, she has little to no rivals in her field.
 
- ![CA](https://azurlane.koumakan.jp/w/images/8/87/RoonChibi.png "Roon") - **[KMS Roon](https://azurlane.koumakan.jp/Roon)** **(T0 w/ Bismarck)**
+ ![CA](/Images-for-the-Guide/RoonChibi.png "Qu'est-ce que c'est?") - **[KMS Roon](https://azurlane.koumakan.jp/Roon)** **(T0 w/ Bismarck)**
 * Skill:
   * Main Gun cycles between HE and AP every 2 salvo, then gains a +3.5% Reload stack for every Main Gun salvo fired. Max 12 stacks.
   * Every 30s, generates 4 orbiting shields (two on a very narrow orbit, one on a medium orbit, one on a wide orbit) lasting 8 shots or 15s.
@@ -1376,7 +1375,7 @@ Nevertheless, she's still a very accomplished Hybrid-CA and one that is very har
  ### Tier 1:
 ---
 
-![CA](https://azurlane.koumakan.jp/w/images/7/78/ChicagoChibi.png "USS Chicago") - **[USS Chicago](https://azurlane.koumakan.jp/Chicago)**
+![CA](/Images-for-the-Guide/ChicagoChibi.png "USS Chicago") - **[USS Chicago](https://azurlane.koumakan.jp/Chicago)**
 * Skill: 
   * Upon firing the Main Gun, 30% chance to have it deal +100% Damage. (Has an internal cooldown of 5s; do not give her the 203Mle as the gun will reload in under 5s.)
 
@@ -1388,7 +1387,7 @@ Nevertheless, she's still a very accomplished Hybrid-CA and one that is very har
 >What was said about Wichita applies to Chicago as well. Slightly frailer than she is and needing RNG to get the most out of her, she will nonetheless punch very hard - and harder than anyone else when she procs.
 Also worth mentioning, if she procs on her first salvo, the buff affects the second one too - which means that all in all, her actual procrate is 49%!
 
-![CA](https://azurlane.koumakan.jp/w/images/5/58/HoustonChibi.png "USS Houston") - **[USS Houston](https://azurlane.koumakan.jp/Houston)**
+![CA](/Images-for-the-Guide/HoustonChibi.png "USS Houston") - **[USS Houston](https://azurlane.koumakan.jp/Houston)**
 * Skill: 
   * 20% chance upon Main Gun fire to gain +100% Eva for 15s.
 
@@ -1403,7 +1402,7 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
 ### Tier 1.5:
 ---
 
-![CA](https://azurlane.koumakan.jp/w/images/6/6b/AstoriaChibi.png "Astoria") - **[USS Astoria](https://azurlane.koumakan.jp/Astoria)**
+![CA](/Images-for-the-Guide/AstoriaChibi.png "Astoria") - **[USS Astoria](https://azurlane.koumakan.jp/Astoria)**
 * Skill: 
   * When sortied w/ at least 1 New Orleans-class CA (Quincy / Vincennes / Minneapolis), gain and grant them +10% Firepower, +20% Accuracy and AA.
   * Take -20% damage from DD/CL gun attacks.
@@ -1416,7 +1415,7 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
 >Leader of the New Orleans class, she emphasises their strengths and shares their reinforced armour plating.  
 Solid and dependable, if unremarkable. No reason not to take her if you're going to field them at all, but Minneapolis has better things to do than hang out with her sisters.
 
-![CA](https://azurlane.koumakan.jp/w/images/b/bf/SuffolkKaiChibi.png "HMS Suffolk Kai") - **[HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk)** **(T1 when deployed with Queen Elizabeth)**
+![CA](/Images-for-the-Guide/SuffolkKaiChibi.png "HMS Suffolk Kai") - **[HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk)**
 * Skill: 
   * 25% chance when firing main guns to fire another salvo.
   * 60% chance every 20s to increase Firepower by 40% for 10s.
@@ -1429,7 +1428,7 @@ Solid and dependable, if unremarkable. No reason not to take her if you're going
 >Boasting the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above every other Torp-CA and has access to QE's buffs to boot.  
 Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 
-![CA](https://azurlane.koumakan.jp/w/images/d/de/TakaoChibi.png "IJN Takao") - **[IJN Takao](https://azurlane.koumakan.jp/Takao)**
+![CA](/Images-for-the-Guide/TakaoChibi.png "IJN Takao") - **[IJN Takao](https://azurlane.koumakan.jp/Takao)**
 * Skill:
   * 30% chance to do double damage when firing main gun
   * 30% chance to launch a second salvo on torpedo launch
@@ -1453,7 +1452,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 * Desc: 
 >Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
 
-![CA](https://azurlane.koumakan.jp/w/images/2/2d/SuzuyaChibi.png "Suzuya") - **[IJN Suzuya](https://azurlane.koumakan.jp/Suzuya)** **(T1 with the Seattle Gun)**
+![CA](/Images-for-the-Guide/SuzuyaChibi.png "Suzuya") - **[IJN Suzuya](https://azurlane.koumakan.jp/Suzuya)** **(T1 with the Seattle Gun)**
 * Skill:
   * Each time Suzuya's Main Gun lands 8 hits (not consecutively, each shell counts as 1 hit), gain 1 stack of +5% Firepower and +25% Reload up to a maximum of 3 stacks; upon gaining max stacks, her barrage improves (gains two lines of 4 AP shots in a tight cone).
   * Take -20% AP damage.
@@ -1469,7 +1468,7 @@ Blessed with one of the best vanguard barrages currently available once upgraded
 And speaking of gunnery, the addition of the Seattle Gun - the only CL gun able to match CA gunnery on a relatively even footing and the only real choice for CL gunnery on boss fleets - makes Suzuya suddenly a lot more viable, capable as she is of maximising its effectiveness with her CA FP, relatively high efficiency and barraging a lot more, given the improved volume of fire.
 On the flipside, said barrage is also her most noteworthy feature - manual play is almost mandatory in order to play to her strength.   
 
-![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "Deutschland") ![CA](https://azurlane.koumakan.jp/w/images/0/04/Admiral_Graf_SpeeChibi.png "Admiral Graf Spee") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)** & **[KMS Admiral Graf Spee](https://azurlane.koumakan.jp/Admiral_Graf_Spee)**
+![CA](/Images-for-the-Guide/DeutschlandChibi.png "Desuland") ![CA](/Images-for-the-Guide/ "Shpi") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)** & **[KMS Admiral Graf Spee](https://azurlane.koumakan.jp/Admiral_Graf_Spee)**
 * Skill: 
   * Deal +35% damage to DD/CL.
   * May equip the 283mm SKC28, but shouldn't.
@@ -1483,7 +1482,7 @@ On the flipside, said barrage is also her most noteworthy feature - manual play 
 Capable of mounting a unique underchambered BB gun, they sport massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than they (DD and CL) - but are let down by that same gun's AP element (which underperforms against DD and CL), their lower-than-average Speed and Evasion, and the weak torpedoes they're stuck with.  
 A wrecking ball against small craft, to be sure, but watch out for when they pick a fight with people her size - and place Spee at the front, as she is slightly tankier than her sister.
 
- ![CA](https://azurlane.koumakan.jp/w/images/6/69/Elegant_Kizuna_AIChibi.png "CAkyu") - **[Elegant Kizuna AI](https://azurlane.koumakan.jp/Elegant_Kizuna_AI)**
+ ![CA](/Images-for-the-Guide/Elegant_Kizuna_AIChibi.png "CAkyu") - **[Elegant Kizuna AI](https://azurlane.koumakan.jp/Elegant_Kizuna_AI)**
 * Skill:
   * Gain +6% FP for every other Kizuna unit in the fleet, up to +24%; if no other Kizuna unit is present, take -15% dmg for 30s after the start of the battle. (Pyoko-Pyoko aux lets a "normal" unit count as Kizuna)
   * Ignitions sustained last for -3s and reduces incoming HE damage by 15%.
@@ -1510,7 +1509,7 @@ Her DPS starts out low but - given enough time and luck - grows to respectable l
  
 ### Tier 2:
 ---
-![CA](https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png "USS Indianapolis") - **[USS Indianapolis](https://azurlane.koumakan.jp/Indianapolis)**
+![CA](/Images-for-the-Guide/IndianapolisChibi.png "USS Indianapolis") - **[USS Indianapolis](https://azurlane.koumakan.jp/Indianapolis)**
 * Skill: 
   * Every 30s, spawns 2 orbiting shields that last 8 shots or 15s; if broken, all nearby enemies take minor damage.
   * Upon taking damage, 8% chance to halve that damage.
@@ -1535,7 +1534,7 @@ Her poor damage output brings her down in the long run, though, and is usually d
 >What you use when you don't have Wichita but still want a powerful, buff-capable CA.  
 She will be phased out eventually, alas, but she's good while she's there and you can still use her to augment a second fleet.
 
-![CA](https://azurlane.koumakan.jp/w/images/d/d2/QuincyChibi.png "Quincy") ![CA](https://azurlane.koumakan.jp/w/images/3/3f/VincennesChibi.png "Vincennes") - **[USS Quincy](https://azurlane.koumakan.jp/Quincy)** **[USS Vincennes](https://azurlane.koumakan.jp/Vincennes)**
+![CA](/Images-for-the-Guide/QuincyChibi.png "Quincy") ![CA](/Images-for-the-Guide/VincennesChibi.png "Vincennes") - **[USS Quincy](https://azurlane.koumakan.jp/Quincy)** **[USS Vincennes](https://azurlane.koumakan.jp/Vincennes)**
 * Skill: 
   * 60% chance every 20s, gain +40% Firepower for 10s.
   * Take -20% damage from DD/CL gun attacks.
@@ -1548,7 +1547,7 @@ She will be phased out eventually, alas, but she's good while she's there and yo
 >Sporting a matching set of Medium Armour, anti-DD/CL gunfire skills and considerable AA capabilities, the New Orleans-class CAs focus more on the defence than the offence, unlike almost every other CA in the USS.  
 A good fit for mob- as well as boss-hunting, considering how frequent are DD and CL bosses, but beware their weaker guns and the need to take Astoria to make the most out of them.
 
-![CA](https://azurlane.koumakan.jp/w/images/b/bf/YorkKaiChibi.png "HMS York Kai") - **[HMS York Kai](https://azurlane.koumakan.jp/York#retrofit)**
+![CA](/Images-for-the-Guide/YorkKaiChibi.png "HMS York Kai") - **[HMS York Kai](https://azurlane.koumakan.jp/York#retrofit)**
 * Skill: 
   * Upon performing ANY attack (autoguns, main guns, torpedoes; AA does not count), 40% chance to gain +40% FP for 8s.
   * Take -40% damage from suicide boats and -15% damage from HE; additionally, her autoguns gain +70% CritRate and ignore armour modifiers.
@@ -1563,7 +1562,7 @@ York Kai is one of the lucky few worthy of such lofty praise, managing to scrape
 All that said, though - she's alright.
 
 
-![CA](https://azurlane.koumakan.jp/w/images/8/84/MayaChibi.png "IJN Maya") - **[IJN Maya](https://azurlane.koumakan.jp/Maya)**
+![CA](/Images-for-the-Guide/MayaChibi.png "IJN Maya") - **[IJN Maya](https://azurlane.koumakan.jp/Maya)**
 * Skill: Increases Reload by 35% and 30% chance to launch a second salvo on torpedo launch
 
 * Recommended Loadouts:
@@ -1574,7 +1573,7 @@ All that said, though - she's alright.
 >Maya trades Takao's double damage chance for a permanent passive reload boost. An interesting concept, and paired with double Autoloaders lets her fire her guns and torps faster than any other CA, which is remarkable on its own right... but is a rather poor trade nonetheless.
 Also, she's slightly better at AA than her sisters (key word being "slightly", though).
 
-![CA](https://azurlane.koumakan.jp/w/images/2/2f/Admiral_Hipper_%28Muse%29Chibi.png "Muse Admiral Hipper") - **[Muse Admiral Hipper](https://azurlane.koumakan.jp/Admiral_Hipper_(Muse))**
+![CA](/Images-for-the-Guide/Admiral_Hipper_(Muse)Chibi.png "Muse Admiral Hipper") - **[Muse Admiral Hipper](https://azurlane.koumakan.jp/Admiral_Hipper_(Muse))**
 * Skill: 
   * Every 20s, 70% chance to replace Main Gun ammo with Red Notes (110/120/100 modifiers, 8% Ignition chance) for 12s.
   * Every 30s, spawn two orbiting shields lasting 10 shots or 15s; if Hipper is deployed as vanguard lead, the shields spawn upon battle start too.
@@ -1589,7 +1588,7 @@ Okay.
 
 ### Honourable Mentions
 ---
-![CA](https://azurlane.koumakan.jp/w/images/5/5d/Prinz_EugenChibi.png "KMS Prinz Eugen") - **[KMS Prinz Eugen](https://azurlane.koumakan.jp/Prinz_Eugen)**
+![CA](/Images-for-the-Guide/Prinz_EugenChibi.png "KMS Prinz Eugen") - **[KMS Prinz Eugen](https://azurlane.koumakan.jp/Prinz_Eugen)**
 * Skill: 
   * 20s 70% chance to spawn 3 rotating shields (durability: 10 shots each).
 
@@ -2740,6 +2739,7 @@ On the flipside, her barrage is extremely linear and runs the very real risk of 
 >A heavy-duty support submarine, I-25 forgoes the damage boosts many others have in favour of buffs and debuffs.  
 While you shouldn't expect anything much out of the seaplane bomb, the +Acc buff is both permanent and rather substantial; the debuff, less so, but it is still welcome.  
 
+
 #### ![SS](/Images-for-the-Guide/Minato_AquaChibi.png "Submaid") - [Minato Aqua](https://azurlane.koumakan.jp/Minato_Aqua)
 * Skill: 
   * Lose 60 o2; deal +30% damage upon call-in; gain +100% Speed upon surfacing and start retreating immediately.
@@ -2750,6 +2750,7 @@ While you shouldn't expect anything much out of the seaplane bomb, the +Acc buff
 >A mean and cowardly beatstick, Aqua goes in hard but *really* doesn't like to outstay her welcome - past her 20s powerful burst, her damage falls off significantly and the moment she peeks her head outside the water, unlike every other sub in circulation she'll beat a very hasty retreat instead of hanging around for a few extra seconds to fling one or two more torpedoes. 
 Don't expect the buff to do much, either; it's better than nothing, but its impact should not be overstated given its low potency (even when applied to Hololive units).  
 Despite the quirks, she's still a powerful sub and one you need not fear will cripple your subfleet's effectiveness when taken.
+
 
 
 <br/><br/>
