@@ -1837,7 +1837,7 @@ While she can work on boss fleets, so long as she gets some kills before it spaw
 >Similar in form, statline and function to their bigger, blacker cousin - AA aside - these cowgirls operate at a fraction of South Dakota's cost while providing similarly good results, courtesy of their better Efficiency and uncharacteristically high Accuracy.
 Bit RNG still, but there's nobody cheaper than them in their class.
 
-![BB](/Images-for-the-Guide/North_CarolinaChibi.png "USS North Carolina") - **[USS North Carolina](https://azurlane.koumakan.jp/North_Carolina)** **(T0 in Plane Hells)**
+![BB](/Images-for-the-Guide/North_CarolinaChibi.png "Norca") - **[USS North Carolina](https://azurlane.koumakan.jp/North_Carolina)** **(T0 in Plane Hells)**
 * Skill:
   * -15% incoming aviation damage to the backline as long as North Carolina is alive and in the fleet
   * Increase FP by 30% of her total AA stat (buffs not included)
@@ -1852,7 +1852,7 @@ Bit RNG still, but there's nobody cheaper than them in their class.
 North Carolina goes harder than anyone else on the AA front, as far as backliners are concerned - not only does she prevent plane damage with her skill, she also grows stronger the more AA she acquires (and she's plenty strong to begin with, sporting a very high base FP thanks to said skill).  
 Whether you do actually need all that AA is another matter entirely, but rest assured that she will lay on the hurt even if you don't - and if you do, that's just gravy.
 
-![BB](https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29Chibi.png "IJN Kaga BB") - **[IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))**
+![BB](/Images-for-the-Guide/Kaga_(Battleship)Chibi.png "IJN Kaga BB") - **[IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))**
 * Skill:
   * 50% chance on Main Gun fire to launch a special barrage (long range: tight 4-shot wave, tight 4-shot wave with 2 shots to the sides; short range: wide V-shaped spread of small bullets)
   * 10s after battle start and every 20s, afterwards, launches a torpedo barrage (2 lines of 2 aimed torps).
@@ -2021,7 +2021,7 @@ A very solid defensive pick, further helped by the fact her Sanshikidan barrage 
 All that said, she'll always get to fire one more volley per round than 99% of the other dreadnoughts and her gun efficiency is very high.  
 Solid, all things considered.
 
-![BB](https://azurlane.koumakan.jp/w/images/c/c5/Gascogne_%28Muse%29Chibi.png "Muse Gascogne") - **[Muse Gascogne](https://azurlane.koumakan.jp/Gascogne_(Muse))** **(T1 w/ full Muse fleet)**
+![BB](/Images-for-the-Guide/Gascogne_(Muse)Chibi.png "Muse Gascogne") - **[Muse Gascogne](https://azurlane.koumakan.jp/Gascogne_(Muse))** **(T1 w/ full Muse fleet)**
 * Skill: 
   * Main Gun ammo is overridden to Blue Notes (AP, 100/130/130 armour mods) and Red Notes (HE, 140/115/115 armour mods), cycling between the two with each Main Gun fire; also, the first Main Guns' cooldown is reduced by 25%.
   * If sortied with an odd amount of Muse units, deal 12% damage; if sortied with an even amount of Muse units, take -15% damage; when firing the Main Gun, grant a stack of +6% FP/Torp/Aviation to all Muse units for 10s (max 2 stacks).
@@ -2141,7 +2141,7 @@ Bad not just by PR standards but as a whole, there is little to no reason to eve
 >Don't be fooled by the seemingly low statline - Mikasa has a lot more Firepower and Reload than meets the eye, courtesy of her truly astounding buff suite, and is the premiere flagship for a gun-focused IJN fleets.
 Nevertheless, her low HP and AA do prove a liability later on and you will have to find some ways around that - taking more big guns, AA barges or even carriers, depending on the situation, just don't use her on her own.
 
-![BC](https://azurlane.koumakan.jp/w/images/9/96/MutsuChibi.png "Mutsu") - **[IJN Mutsu](https://azurlane.koumakan.jp/Mutsu)**
+![BC](/Images-for-the-Guide/MutsuChibi.png "Mutsu") - **[IJN Mutsu](https://azurlane.koumakan.jp/Mutsu)**
 * Skill: 
   * 40% chance on Main Gun fire, launch a fixed linear HE barrage.
 
