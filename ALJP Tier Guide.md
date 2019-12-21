@@ -3,7 +3,7 @@
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
 
-Indeed, you could even interpret the tiers as a relative measure of how much investment is needed to get these units to perform, if you wish - a T0 would be a beast almost right out of the gate, whereas an untiered unit would require disproportionate amounts of effort - but I'd recommend treating the tiers as they're meant to be, according to the criteria below.
+Indeed, you could even interpret the tiers as a relative measure of how much investment is needed to get these units to perform, if you wish - a T0 would be a beast almost right out of the gate, whereas aFn untiered unit would require disproportionate amounts of effort - but I'd recommend treating the tiers as they're meant to be, according to the criteria below.
 
 Whatever the case and however you choose to read this guide, I want to stress this - ALL units are viable, SOME are better than others, NONE of them will work if you don't know how to use them.
 Good reading, and godspeed cap'n!
@@ -1440,7 +1440,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 * Desc: 
 >Takao is a tad on the RNG side, but sports high HP and a remarkable statline. Her skills are what makes her as good as she is, but they're not exactly the most reliable. Still, they are powerful and thus worth respect.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/7a/FurutakaKaiChibi.png "IJN Furutaka Kai") ![CA](https://azurlane.koumakan.jp/w/images/7/7b/KakoKaiChibi.png "IJN Kako Kai") - **[IJN Furutaka Kai](https://azurlane.koumakan.jp/Furutaka)** & **[IJN Kako Kai](https://azurlane.koumakan.jp/Kako)**
+![CA](/Images-for-the-Guide/FurutakaKaiChibi.png "IJN Furutaka Kai") ![CA](/Images-for-the-Guide/KakoKaiChibi.png "IJN Kako Kai") - **[IJN Furutaka Kai](https://azurlane.koumakan.jp/Furutaka)** & **[IJN Kako Kai](https://azurlane.koumakan.jp/Kako)**
 * Skill: 
   * 60% chance every 20s, gain +40% Firepower for 10s.
   * Every torpedo launch has a 30.0% chance to launch another spread.
@@ -1468,7 +1468,7 @@ Blessed with one of the best vanguard barrages currently available once upgraded
 And speaking of gunnery, the addition of the Seattle Gun - the only CL gun able to match CA gunnery on a relatively even footing and the only real choice for CL gunnery on boss fleets - makes Suzuya suddenly a lot more viable, capable as she is of maximising its effectiveness with her CA FP, relatively high efficiency and barraging a lot more, given the improved volume of fire.
 On the flipside, said barrage is also her most noteworthy feature - manual play is almost mandatory in order to play to her strength.   
 
-![CA](/Images-for-the-Guide/DeutschlandChibi.png "Desuland") ![CA](/Images-for-the-Guide/ "Shpi") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)** & **[KMS Admiral Graf Spee](https://azurlane.koumakan.jp/Admiral_Graf_Spee)**
+![CA](/Images-for-the-Guide/DeutschlandChibi.png "Desuland") ![CA](/Images-for-the-Guide/Admiral_Graf_SpeeChibi.png "Shpi") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)** & **[KMS Admiral Graf Spee](https://azurlane.koumakan.jp/Admiral_Graf_Spee)**
 * Skill: 
   * Deal +35% damage to DD/CL.
   * May equip the 283mm SKC28, but shouldn't.
@@ -1602,58 +1602,84 @@ If you're looking that something that won't die anytime soon, look no further; i
 ## BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")
 ### Tier 0:
 ---
-![BB](https://azurlane.koumakan.jp/w/images/a/a4/GeorgiaChibi.png "Georgia") - **[USS Georgia](https://azurlane.koumakan.jp/Georgia)**
+![BB](/Images-for-the-Guide/GeorgiaChibi.png "Georgia") - **[USS Georgia](https://azurlane.koumakan.jp/Georgia)**
 * Skill: 
   * Reduce Main Gun Spread by 3; also, deal +20% Damage to CA/CB/BC/BB/BBV.
   * Upon Main Gun fire, 80% chance to launch an [100% critrate barrage](http://p8.qhimg.com/dr/400__/t01c2636dff4b0e3906.gif).
     * The 4 SHS SHELLS deal 239 bdmg with 65/135/115 mods; the 36 DD PELLETS deal 35 bdmg with 120/80/60 mods. Both are modified by 100% of the unit's FP.
   * Deal +15% Damage to Sirens.
-  * Has MGM-1.
+  * Has only two Main Gun Mounts.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Twin 406mm Main Gun (SK C/34) (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
+  * [Poverty] 410mm purple; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >Georgia is a simple woman - she sees a big gun, she barrages.  
-There's really not much to say about her. Very straightforward USS BB, sporting the characteristically excellent AA of her peers and their same DD guns; her most remarkable feature the fact her barrage is both absolute murder *and* aimed, meaning it can be used from the sidelines with no loss in performance whatsoever, as well as her lacking one Main Gun Mount (which is partially made up for by the high Main Gun Efficiency).
+There's really not much to say about her. Very straightforward USS BB, sporting the characteristically excellent AA of her peers and their same DD guns; her most remarkable feature the fact her barrage is both absolute murder *and* aimed, meaning it can be used from the sidelines with no loss in performance whatsoever, as well as her lacking one Main Gun Mount (which is partially made up for by the high Main Gun Efficiency, and partially by the devastating barrage).
 
 
-![BB](https://azurlane.koumakan.jp/w/images/4/45/Duke_of_YorkChibi.png "Duke of York") - **[HMS Duke of York](https://azurlane.koumakan.jp/Duke_of_York)**
+![BB](/Images-for-the-Guide/Duke_of_YorkChibi.png "Dork") - **[HMS Duke of York](https://azurlane.koumakan.jp/Duke_of_York)**
 * Skill: 
   * Every 20s, fires an aimed Normal slowing (-40% Speed for 6s) barrage (4 356mm quad-like shots) at the farthest available target.
   * Enemies hit by Duke of York's Main Gun fire take +12% damage from all sources for 8s; also, her first volley deals x1.5 damage.
 
-- Desc: 
->With stats coming close to Warspite's stellar FP and Reload and a suite of skills aimed at softening the enemy up, not only she can lay on the hurt but she can also make sure her fellow warships do the same. A worthy inclusion in every fleet.
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
-![BB](https://azurlane.koumakan.jp/w/images/a/ae/MonarchChibi.png "Monarch") - **[HMS Monarch](https://azurlane.koumakan.jp/Monarch)**
+- Desc: 
+>A nasty beatstick statline and a consistently useful support kit coming with basically no strings attached? Yes please!  
+Bear in mind that despite her having a barrage, she isn't *really* one - it's at best a little bit of extra utility and a smattering of free damage every 20s, its damage being too piddly (and the accuracy too poor) to really be considered.
+
+![BB](/Images-for-the-Guide/MonarchChibi.png "Monarch") - **[HMS Monarch](https://azurlane.koumakan.jp/Monarch)**
 * Skill:
   * 70% chance on Main Gun fire, fire a fixed AP slowing (-40% Speed for 6s) barrage (Hood-like)
   * Once per battle and upon falling below 20% HP, restore 3% HP every 2s for 8s; also, for every 1% HP lost during the fight, her Reload increases by 1.
 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  
 - Desc: 
 >It'd be easy to regard Monarch as a straight upgrade to Hood. She mounts CL guns, Her FP is much higher, her Efficiencies are better, her barrage is AP and she can even heal herself... what more could one possibly want from a battleship?
 The truth isn't quite so simple, though. While Monarch's statline is indeed superior (with the glaring exception of AA) and the self-heal greatly extends her operational time even beyond Hood's already impressive one, Monarch's barrage will neither quicken the backline's pace nor can it be used with the same reckless abandon due to the AP modifiers; while she won't fall flat against Light Armour, courtesy of her excellent regular shelling, she doesn't quite match Hood's supportive capabilities and weight of fire.
 As a result, it would be wise to pick your sovereign of choice with an eye to battlefield conditions - if enemy BB/C are out for blood or Medium/Heavy Armour is getting you down, Monarch will weather their storm and put them in their place with staggering ease.
 
-![BC](https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png "IJN Amagi") - **[IJN Amagi](https://azurlane.koumakan.jp/Amagi)**
+![BC](/Images-for-the-Guide/AmagiChibi.png "Amagi") - **[IJN Amagi](https://azurlane.koumakan.jp/Amagi)**
 * Skill: 
   * -9% FP/Torp/Aviation to all enemies as long as she's alive
   * -15% Ignition dmg and +10% Evasion Rate for backline as long as she's alive
   * 70% chance on Main Gun fire, launches a frontal barrage (damage based on skill level), also if the fleet contains 4 or more Sakura Empire ships she gains -45% cooldown on first Main Gun volley.
 
+* Recommended Loadouts:
+  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  
 - Desc: If you can't decide what to pick, pick it all.
 >Packing offensive buffs for her enemies, defensive buffs for her backline, a barrage that includes normal arcing shells alongside linear AP shells and even aimed torpedoes, Amagi has quite literally a bit of everything in herself; and it all comes together as one sleek and effective whole, only marginally hampered by her IJN standard terrible AA.
  
- ![BB](https://azurlane.koumakan.jp/w/images/0/0f/Jean_BartChibi.png "Jean Bart") - **[MNF Jean Bart](https://azurlane.koumakan.jp/Jean_Bart)**
+ ![BB](/Images-for-the-Guide/Jean_BartChibi.png "Jean Bart") - **[MNF Jean Bart](https://azurlane.koumakan.jp/Jean_Bart)**
 * Skill: 
   * All first Main Gun salvo deal +60% damage, and all manually aimed Main Gun salvo damage deal a further +60% damage.
   * When equipped with the 380Mle quadruple BB gun, gain +30% CritChance and +50% CritDmg on her Main Gun.
   * Starts the battle with a preloaded volley, but has MGM-1.
-  
+ 
+* Recommended Loadouts:
+  * [Lategame Bossing] Quadruple 380mm Main Gun (Mle 1935); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] Quadruple 380mm Main Gun (Mle 1935); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] Quadruple 380mm Main Gun (Mle 1935); Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+ 
 - Desc: The terror of the Seven Seas.
 >As befitting of a pirate queen, Jean Bart doesn't play by the rules: while lacking a third salvo would be a net loss on a dreadnought's effectiveness on the field, Jean makes up for it in spades by showing up to the fight with her horrifically overcharged guns already loaded, resulting in damage spikes that would make Ayanami blush.
 Volume of fire is ultimately maintained by her gun, firing a respectable 8 shots in total, and cooldowns aren't a concern either thanks to her higher-than-normal Reload; whatever she's facing, it's heading straight to Davy Jones' locker.
 Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow dreadnoughts. The Jolliest Roger of them all.
 
-![BC](https://azurlane.koumakan.jp/w/images/3/3c/Friedrich_der_GrosseChibi.png "Freddy Mercury") - **[KMS Friedrich der Grosse](https://azurlane.koumakan.jp/Friedrich_der_Grosse)**
+![BC](/Images-for-the-Guide/Friedrich_der_GrosseChibi.png "Freddy Mercury") - **[KMS Friedrich der Grosse](https://azurlane.koumakan.jp/Friedrich_der_Grosse)**
 * Skill: 
   * Upon taking damage OR when an enemy surface unit gets too close, launch a [special barrage](http://p1.qhimg.com/dr/400__/t01b505ceaf20a03f2d.gif).
     * The 4 HE SHELLS deal 181 bdmg with 140/110/90 mods; the 48 SCATTER LASERS deal 46 bdmg with 100/100/100 mods. Both are modified by 100% of the unit's FP.
@@ -1661,17 +1687,27 @@ Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow 
   * If her HP is between 70% and 100%, gain +20% Damage; if her HP is between 30% and 100%, gain +10% Damage and take -10% Damage; if her HP is between 1% and 30%, take -20% Damage.
   * Deal +15% Damage to Sirens.
 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
 - Desc: Dark Hero Plays.
 >Freddy is broken as fuck. Enough said, moving on.  
 What, you want more? Fine. Freddy Mercury is unreasonably strong and, unlike Azuma, fully deserving of her status as a DR (and disgusting ***19*** Oil cost) brimming as she in the sheer staying power granted by her escalating defence buff and nearly 10k base HP as well as firepower, courtesy of the devastating 160% Main Gun Efficiency she gets without sacrificing gun mounts or an easily-procced, powerful defensive barrage.  
 If one were to look really hard for any chinks in her Plot Armour it could be said that her HitRate is abysmal, not that BBs exactly shine in that regard; nevertheless she's uncharacteristically bad in that regard, suffering from the PR standard 0 Luck and a meagre 65 Accuracy, but it's an easily solved issue anyway.
 
- ![BB](https://azurlane.koumakan.jp/w/images/d/d7/GascogneChibi.png "Gasko") - **[MNF Gascogne](https://azurlane.koumakan.jp/Gascogne)**
+ ![BB](/Images-for-the-Guide/GascogneChibi.png "Gasko") - **[MNF Gascogne](https://azurlane.koumakan.jp/Gascogne)**
 * Skill: 
   * Upon falling below half HP, gain +50% Evasion and regenerate 8% of max HP over 8s. Works twice per battle.
   * Manually aimed volleys deal +40% Damage; also, every 20s, launch a [special barrage](http://p9.qhimg.com/dr/400__/t0135d3754023d7df8a.gif).
     * The 10 RED ARROWS deal 54 bdmg with 120/80/80 mods; the 10 WHITE ARROWS deal 54 bdmg with 80/120/80 mods; the 10 BLUE ARROWS deal 54 bdmg with 80/80/120 mods. All are modified by 100% of the unit's FP.
-  * Main Gun salvo are split into separate volleys, and has MGM-1.
+  * Main Gun salvo are split into separate volleys, and has only two Main Gun Mounts.
+ 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
   
 - Desc:
 >As befitting a mecha musume, Gascogne is shockingly efficient and stable - and it's not even entirely the heal's doing.  
@@ -1682,19 +1718,29 @@ These are all very desirable characteristics for a mob fleet flagships, but don'
 ### Tier 0.5:
 ---
 
-![BC](https://azurlane.koumakan.jp/w/images/5/5f/HoodChibi.png "HMS Hood") - **[HMS Hood](https://azurlane.koumakan.jp/Hood)**
+![BC](/Images-for-the-Guide/HoodChibi.png "The Mighty Hood") - **[HMS Hood](https://azurlane.koumakan.jp/Hood)**
 * Skill: 
   * 70% chance upon Main Gun fire to launch a special barrage and grant +40% Reload to the backline for 8s.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Twin 381mm Advanced Main Gun; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] Twin 381mm Advanced Main Gun; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 410mm purple; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: More than just a sub. 
 >Second only to Tirpitz in terms of pure staying power and armed with a quickly-proccable, backline-buffing, devastating barrage, she is exceptionally good under almost all circumstances; whether it is tearing apart mob nodes, showering enemy battleships in heavy firepower or providing support, Hood gets it done.  
 Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
 
- ![BB](https://azurlane.koumakan.jp/w/images/1/15/WarspiteKaiChibi.png "HMS Warspite") - **[HMS Warspite Kai](https://azurlane.koumakan.jp/Warspite#retrofit)**
+ ![BB](/Images-for-the-Guide/WarspiteKaiChibi.png "Warspite") - **[HMS Warspite Kai](https://azurlane.koumakan.jp/Warspite#retrofit)**
 * Skill: 
   * +10s after the start of the battle and every 15s afterwards, fires two aimed AP auto-critting shells at the farthest available target AND places a marker upon it (increasing the chances other HMS backliners will fire upon it); also, the first barrage will deal +130% damage.
   * Gain -5 Dispersion to the Main Gun, +15% FP and +15% HitRate against DD.
   * She may take 1 ASW plane as an auxiliary item. HISTORICAL REFERENCES HO!
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: The Queen's Royal Corgi.
 >Well, the Kai's come and gone, and Warspite's left in a slightly better position than she originally was - as far as PvE is concerned, at least.  
@@ -1702,28 +1748,43 @@ While her statline did enjoy a substantial offensive boost in the form of more s
 On the bright side, Warspite's newfound strength lets her be competitive there once more in the PvP areans, where her intended targets are always armoured, immobile and valuable.  
 [Also, she's still a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
 
-![BB](https://azurlane.koumakan.jp/w/images/8/85/NagatoChibi.png "Nagato") - **[IJN Nagato](https://azurlane.koumakan.jp/Nagato)**
+![BB](/Images-for-the-Guide/NagatoChibi.png "Nagato") - **[IJN Nagato](https://azurlane.koumakan.jp/Nagato)**
 * Skill: 
   * When sortied as Flagship, grant all IJN units +10% Firepower, +20% Reload/Accuracy, and +20% damage output to all IJN carriers.
   * 40% chance on Main Gun fire, launch a fixed linear HE barrage.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Mikasa for those who don't like or want more big guns.
 >A well-rounded warship on her own right compared to her dakka-centric senpai, her set of buffs is about as good as those provided by Mikasa but she needs the flagship slot even more due to her barrage.
 Place her there and she'll carry your IJN carrier division to glory and triumph; place her to the sides and she's merely okay.
 
-![BB](https://azurlane.koumakan.jp/w/images/e/e0/HyuugaChibi.png "IJN Hyuuga") - **[IJN Hyuuga](https://azurlane.koumakan.jp/Hyuuga)**
+![BB](/Images-for-the-Guide/HyuugaChibi.png "Hyuuga") - **[IJN Hyuuga](https://azurlane.koumakan.jp/Hyuuga)**
 * Skill: 
   * +20% FP to self.
   * +15% FP to the entire backline.
 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
 * Desc: 
 >THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
 
-![BB](https://azurlane.koumakan.jp/w/images/2/2c/BismarckChibi.png "Bismarck") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)** **(T0 w/ KMS units around)**
+![BB](/Images-for-the-Guide/BismarckChibi.png "Bismarck") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)** **(T0 w/ KMS units around)**
 * Skill: 
   * The first salvo of her every volley always crits; also extends the range of any CL gun equipped to 90 units (= white line that pushes you back when approached), but reduces their damage by 35%.
   * If flagship, 70% chance to fire a weak barrage (4 shots to the centre of the screen, 2 shots to each side, some mid-ranged DD pellets in the middle); also, passively raise KMS carrier damage by 20%.
   * Grant +20% CritRate to the guns/torpedoes/planes used by KMS units, grant +12% Reload to all KMS units, grant Tirpitz +40% Damage.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Here comes Tutorial Girl!
 >At long last the wehraboos can rejoice - Bismarck has arrived, and she's every bit as good as they'd hoped.  
@@ -1734,47 +1795,57 @@ Last and least, she has a barrage too. It's not particularly good, but it's ther
 
 ### Tier 1:
 ---
-![BB](https://azurlane.koumakan.jp/w/images/2/25/AlabamaChibi.png "Incest") - **[USS Alabama](https://azurlane.koumakan.jp/Alabama)** **(T0 if mob fleet flagship)**
+![BB](/Images-for-the-Guide/AlabamaChibi.png "Incest") - **[USS Alabama](https://azurlane.koumakan.jp/Alabama)** **(T0 if mob fleet flagship)**
 * Skill:
   * Gain +12 Evasion and take -20% damage from torpedoes; also, 75% chance to fire a barrage every 20s.
     * The 9 SHELLS deal 170 bdmg with 50/120/115 mods; the 30 DD PELLETS deal 20 bdmg with 120/60/60 mods (and have 50 Range). The damage of both is modified by 100% of the unit's FP.
   * Gain a persistent stack of +2.5% FP per enemy node destroyed, and gain a temporary stack +2.5% FP per enemy destroyed in battle (up to a cap of 17.5%, meaning that Alabama starts with more stacks the more nodes she fights but still can't go past +17.5%); also, after the 5th destroyed node, the backline takes -8% damage.
 
 * Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Research AA Radar; SG Radar
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: Washington 2: The Blackening.
 >Take Washington, upgrade her barrage to AP and slightly raise its procrate, get rid of the useless synergy and replace it with an actually good set of self-buffs, and voilà - you have Alabama, a steamroller of a mob fleet flagship.  
 While she can work on boss fleets, so long as she gets some kills before it spawns and nobody else wants the flag slot, she's better off playing to her strengths.
 
-![BB](https://azurlane.koumakan.jp/w/images/1/10/ArizonaChibi.png "USS Arizona") - **[USS Arizona](https://azurlane.koumakan.jp/Arizona)**
+![BB](/Images-for-the-Guide/ArizonaChibi.png "USS Arizona") - **[USS Arizona](https://azurlane.koumakan.jp/Arizona)**
 * Skill: 
   * 50% chance on Main Gun fire to heal the vanguard by 10% of their max HP.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloaders (mobs)
 
 - Desc: WAIT DON'T LEAVE JUST YET. 
 >Healing on a cointoss sounds pretty bad, yes, but ask yourself this - how many units can properly heal at all, and how many of them pack the Firepower, sturdiness and self-defence capabilities of a BB?
 >Yup, that's just her - and while her heal isn't as reliable as that of Unicorn or Shouhou, she's an excellent fit for a vanguard who doesn't strictly need the heals to stay alive and keep fighting.
 
-![BB](https://azurlane.koumakan.jp/w/images/b/be/NevadaKaiChibi.png "Nevada Kai") ![BB](https://azurlane.koumakan.jp/w/images/0/0b/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
+![BB](/Images-for-the-Guide/NevadaKaiChibi.png "Nevada Kai") ![BB](/Images-for-the-Guide/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
 * Skill: 
   * Upon taking damage, 8% chance to halve that damage.
   * Upon main gun fire, 30% chance to double the volley damage.
 
 * Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >Similar in form, statline and function to their bigger, blacker cousin - AA aside - these cowgirls operate at a fraction of South Dakota's cost while providing similarly good results, courtesy of their better Efficiency and uncharacteristically high Accuracy.
 Bit RNG still, but there's nobody cheaper than them in their class.
 
-![BB](https://azurlane.koumakan.jp/w/images/c/cd/North_CarolinaChibi.png "USS North Carolina") - **[USS North Carolina](https://azurlane.koumakan.jp/North_Carolina)** **(T0 in Plane Hells)**
+![BB](/Images-for-the-Guide/North_CarolinaChibi.png "USS North Carolina") - **[USS North Carolina](https://azurlane.koumakan.jp/North_Carolina)** **(T0 in Plane Hells)**
 * Skill:
   * -15% incoming aviation damage to the backline as long as North Carolina is alive and in the fleet
   * Increase FP by 30% of her total AA stat (buffs not included)
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Research AA Radar; Type 1 Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: 
 >Anti-air for backliners is a bit of a meme, but that doesn't mean it can't be a good one.  
@@ -1786,46 +1857,56 @@ Whether you do actually need all that AA is another matter entirely, but rest as
   * 50% chance on Main Gun fire to launch a special barrage (long range: tight 4-shot wave, tight 4-shot wave with 2 shots to the sides; short range: wide V-shaped spread of small bullets)
   * 10s after battle start and every 20s, afterwards, launches a torpedo barrage (2 lines of 2 aimed torps).
 
+* Recommended Loadouts:
+  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
 - Desc: A sidegrade to Washington.
 >Sturdier, more powerful, better armed and in possession of a much more useful synergy (Akagi still gets her +35% Aviation buff with her) in PvE, BB Kaga - affectionately called "Baga" - does however forfeit some reliability on her enhanced barrage and is stuck with an atrocious AA stat.  
 She also has a few torps to throw out every now and then, but they're fairly lacklustre.
 
-![BB](https://azurlane.koumakan.jp/w/images/e/e1/YamashiroChibi.png "IJN Yamashiro") ![BB](https://azurlane.koumakan.jp/w/images/a/a8/FusouChibi.png "IJN Fusou") - **[IJN Yamashiro](https://azurlane.koumakan.jp/Yamashiro)** **[IJN Fusou](https://azurlane.koumakan.jp/Fusou)** **(Kai)**
+![BB](/Images-for-the-Guide/YamashiroChibi.png "Yamashiro") ![BB](/Images-for-the-Guide/FusouChibi.png "Fusou") - **[IJN Yamashiro](https://azurlane.koumakan.jp/Yamashiro)** **[IJN Fusou](https://azurlane.koumakan.jp/Fusou)** **(Kai)**
 * Skill: 
   * +20% FP to self.
   * (Kai) On first airstrike, launch additional Zuiun.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >The second most cost-effective BBs in the game, owing to their remarkable statline, Kai nodes and comparatively low Oil costs.  
 Their Kai is unique in that it is a sidegrade rather than an upgrade: when turned into BBV, they trade their CL guns and 1/3 of their BB salvo for seaplanes, letting them launch airstrikes as if they were carriers.  
 A steep price to pay, especially considering how weak the seaplanes are in comparison to 'proper' bombers, how slow the launches are in comparison to 'proper' carriers and how much better are Ise and Hyuuga as BBVs.
 
-![BB](https://azurlane.koumakan.jp/w/images/1/19/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** **(T2 with BB/BC, T0 with Bismarck)**
+![BB](/Images-for-the-Guide/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** **(T2 with BB/BC, T0 with Bismarck)**
 * Skill: 
   * +30% Damage to self, as long as she is the only BB/BC in the fleet.
   * Every 15s, launches a [torpedo barrage](http://p1.qhimg.com/t01c6cc7b9a0663a9c1.gif).
     * The 4 TORPEDOES deal 137 bdmg with 80/100/130 mods. Their damage is modified by 150% of the unit's Torp stat.
 
 * Recommended Loadouts:
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: Slow but steady...
 >One of the most consistent and hardest hitting BBs in the game, provided you cater to her social anxiety.  
 While not as flashy as her competition, Tirpitz is, in a way, the "safe" choice - her abilities can't misfire, her defensive statlines makes her tougher than most and her damage buff extends to both her CL guns and torpedo spread, ensuring that even at 0 Ammo she will still be able to strike and defend herself with remarkable effectiveness.
 However, all this becomes quickly irrelevant as soon as she loses her +30% damage buff as it the main reason behind her power; without it she has very little reason to be used and will be easily outshone by pretty much everyone.   
 
-![BB](https://azurlane.koumakan.jp/w/images/5/52/LittorioChibi.png "Littorio") - **[RN Littorio](https://azurlane.koumakan.jp/Littorio)** 
+![BB](/Images-for-the-Guide/LittorioChibi.png "Littorio") - **[RN Littorio](https://azurlane.koumakan.jp/Littorio)** 
 * Skill:
   * On main gun fire, 65% chance to launch a barrage; if mounting the Triple 381mm Main Gun (M1934), aka Littorio Gun, gain +10% proc chance and improve the [barrage](http://p5.qhimg.com/t0125ee7f86d5827577.gif).
     * The 6/9 SHELLS deal 174 bdmg with 40/125/125 mods; the 20 NEEDLE LASERS deal 20 bdmg with 120/60/60 mods. The damage of both is modified by 100% of the unit's FP.
   * Upon battle start, generate 2 anti-torp shields in front of Littorio and the vanguard lead, each able to tank up to 2 hits; also, gain +20% FP for the first 3 battles in a sortie.
 
 * Recommended Loadouts:
-  * [Lategame Bossing] Triple 381mm Main Gun (M1934); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] 406MK6 (vs Light) or Triple 381mm Main Gun (M1934) (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [Poverty] 406MK6; Gold Belgun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  * [Lategame Bossing] Triple 381mm (Model 1934); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: 
 >Azur Lane's Littorio doesn't quite match her historical acclaim as one of the best warships of her time but she's still very good, especially as a mauler of lategame Medium/Heavy Armour formations.  
@@ -1833,10 +1914,15 @@ Blessed with an overall very good statline (Accuracy aside), a strong AP barrage
 The anti-torp shields are nice enough too, but not much of a gamechanger considering her job description - speaking of which, unlike Alabama you *could* use her as a boss fleet flag without throwing away part of her skillset, but the less concentrated barrage means she's at her best whem she's fighting more mobile Medium/Heavy bosses who may or may not have adds too.
 *About her gun...* it's an interesting piece of kit, with its +10% Damage for the first two volleys, but it only really works on Littorio or when hunting Sirens (assuming you don't have BB with preloaded/accelerated volleys).
 
-![BB](https://azurlane.koumakan.jp/w/images/d/d0/Super_Gamer_Kizuna_AIChibi.png "BBakyu") - **[Super Gamer Kizuna AI](https://azurlane.koumakan.jp/Super_Gamer_Kizuna_AI)**
+![BB](/Images-for-the-Guide/Super_Gamer_Kizuna_AIChibi.png "BBakyu") - **[Super Gamer Kizuna AI](https://azurlane.koumakan.jp/Super_Gamer_Kizuna_AI)**
 * Skill:
   * Gain +30% Main Gun CritRate and increase her Main Gun Scatter by +1; also, 70% chance every 16s to fire a special barrage (very scattershot single large AP shots and torpedoes).
   * Gain +25% Evasion and Accuracy.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: An upgrade to Washington.
 >Though she may not look much like the part, BB AI does live up to her title; between the very significant crit boost (for which the +1 scatter may as well not be there, insubstantial as it is), the hilariously scattershot but poweful barrage clearing the field for the Main Guns and access to CL defensive guns, there's very little not to like here.  
@@ -1844,56 +1930,91 @@ The Accuracy and Evasion boosts are nice to have, too, but not exactly worthy of
  
 ### Tier 1.5:
 ---
-![BB](https://azurlane.koumakan.jp/w/images/4/46/MassachusettsChibi.png "USS Massachusetts") - **[USS Massachusetts](https://azurlane.koumakan.jp/Massachusetts)**
+![BB](/Images-for-the-Guide/MassachusettsChibi.png "USS Massachusetts") - **[USS Massachusetts](https://azurlane.koumakan.jp/Massachusetts)**
 * Skill: 
   * Gain +5% FP/AA/Evasion for every OTHER USS BB/CA in the fleet, up to +15%.
   * Main Gun ammo is overrideen to SHS (60/135/115, shells fire at extremely high angles and fall from the sky) and salvo damage increases the farther the shots land, up to +30% dmg.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Massachusetts shoots for the stars, but the aim isn't quite there. 
 >On paper she'd easily be T1 material, as the self-buffs are both significant and easily achieved while the enhanced AP modifiers allow her to damage Light Armour... but firing into the stratosphere lengthens the shots' travel time to the point where she struggles hitting at all, making the gains pretty much moot.  
 If you can guarantee your target won't be moving around much at all and is bigger than a CL, a very solid pick; if you can't, best look elsewhere.
 
-![BB](https://azurlane.koumakan.jp/w/images/8/80/South_DakotaChibi.png "USS South Dakota") - **[USS South Dakota](https://azurlane.koumakan.jp/South_Dakota)**
+![BB](/Images-for-the-Guide/South_DakotaChibi.png "South Dakota") - **[USS South Dakota](https://azurlane.koumakan.jp/South_Dakota)**
 * Skill: 
   * Every 30s, absorb 50% damage taken by main fleet for 8s, then heal for 50% of the damage taken during that time
   * 30% chance to do double damage when firing main gun
 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
 * Desc: 
 >While her tanking skill isn't good enough to make her the tank she's meant to be, she is undeniably hard to kill thanks to her large HP pool and all-around excellent stats, AA included (a rarity among BB/Cs); her double damage proc needs RNG to work, but when it does it will annihilate whatever she aimed at.
 
-![BB](https://azurlane.koumakan.jp/w/images/9/95/WashingtonChibi.png "USS Washington") - **[USS Washington](https://azurlane.koumakan.jp/Washington)** **(T1 in Plane Hells)**
+![BB](/Images-for-the-Guide/WashingtonChibi.png "Washi") - **[USS Washington](https://azurlane.koumakan.jp/Washington)** **(T1 in Plane Hells)**
 * Skill: 
   * 70% chance every 20s to fire a strong barrage (mid-ranged conal machinegun sweep, long range focused bombardment)
   * When South Dakota's HP falls to/below 30%, South Dakota gains Protection (avoid lethal damage for 5s) while Washington deals +20% damage and absorbs 30% of the damage sustained by South Dakota.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: Smile for the FCR!
 >An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.  
 As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
  
- ![BB](https://azurlane.koumakan.jp/w/images/8/8a/KirishimaChibi.png "Kirishima") - **[IJN Kirishima](https://azurlane.koumakan.jp/Kirishima)**
+ ![BB](/Images-for-the-Guide/KirishimaChibi.png "Kirishima") - **[IJN Kirishima](https://azurlane.koumakan.jp/Kirishima)**
 * Skill: 
   * 60% chance upon Main Gun fire, launch a semi-aimed Sanshikidan barrage (8 shells in two waves of four, heading towards the nearest enemies); also, deal +15% damage to BB.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >(PvE) Airstrike murderer extraordinaire thanks to her barrage, accomplished fireboat slayer owing to her CL guns on a BC frame, and even gets an edge against the most threatening enemies you can face later on.
 A very solid defensive pick, further helped by the fact her Sanshikidan barrage doesn't need her to be in the flagship slot to do work.
  
- ![BB](https://azurlane.koumakan.jp/w/images/2/23/KongouChibi.png "Kongou") - **[IJN Kongou](https://azurlane.koumakan.jp/Kongou)**
+ ![BB](/Images-for-the-Guide/KongouChibi.png "Bingo Bango Bongou") - **[IJN Kongou](https://azurlane.koumakan.jp/Kongou)**
 * Skill: 
   * While alive in fleet, +15% Firepower/Accuracy and +20% Evasion for all Kongou-class (Kongou, Kirishima, Haruna, Hiei). 
 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
 * Desc: Kongou-class support craft. Not very flashy, but her buffs are anything but unremarkable - the extra Evasion in particular makes a Kongou-class backline powerful and extremely hard to shift.
  
-![BB](https://azurlane.koumakan.jp/w/images/c/c9/IseChibi.png "IJN Ise") - **[IJN Ise](https://azurlane.koumakan.jp/Ise)**
+![BB](/Images-for-the-Guide/IseChibi.png "Ise") - **[IJN Ise](https://azurlane.koumakan.jp/Ise)**
 * Skill: 
   * +20% FP to self.
 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
 * Desc: Quite literally an improved non-Kai Yamashiro/Fusou in all respects, from the statline to the efficiencies. Not much to say here.
 
-![BC](https://azurlane.koumakan.jp/w/images/8/81/DunkerqueChibi.png "Dunkerque") - **[MNF Dunkerque](https://azurlane.koumakan.jp/Dunkerque)**
+![BC](/Images-for-the-Guide/DunkerqueChibi.png "Dunkerque") - **[MNF Dunkerque](https://azurlane.koumakan.jp/Dunkerque)**
 * Skill: 
   * 50% chance on Main Gun fire, launch a fixed linear HE barrage (2 tight columns of 4 HE shells and a few needles to the sides).
   * Starts the battle with a preloaded volley, but has MGM-1.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: The predecessor to Jean Bart, and it does show.
 >Like Jean, she lacks her third salvo and can launch her bombardment immediately; unlike Jean, said bombardment operates just like any other and is considerably weaker as a result, while her barrage fires on a coin toss.  
@@ -1905,6 +2026,11 @@ Solid, all things considered.
   * Main Gun ammo is overridden to Blue Notes (AP, 100/130/130 armour mods) and Red Notes (HE, 140/115/115 armour mods), cycling between the two with each Main Gun fire; also, the first Main Guns' cooldown is reduced by 25%.
   * If sortied with an odd amount of Muse units, deal 12% damage; if sortied with an even amount of Muse units, take -15% damage; when firing the Main Gun, grant a stack of +6% FP/Torp/Aviation to all Muse units for 10s (max 2 stacks).
 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
 * Desc: 
 >Significantly weaker than her regular counterpart but still capable of putting up a good show, Musecogne retains the unique volley-splitting gimmick of her better (and the precision that comes with it) and binds it to her Muse-only fleetwide buff.  
 Consistent and competent in her own right, especially since she can benefit from the +12% dmg if sortied without other Muse units, she's still better put to use in a full Muse fleet; whether sortieing one such fleet is beneficial or not, that is an entirely different matter...
@@ -1912,27 +2038,42 @@ Consistent and competent in her own right, especially since she can benefit from
 ### Tier 2:
 ---
 
-![BB](https://azurlane.koumakan.jp/w/images/5/59/CaliforniaChibi.png "USS California") - **[USS California](https://azurlane.koumakan.jp/California)**
+![BB](/Images-for-the-Guide/CaliforniaChibi.png "USS California") - **[USS California](https://azurlane.koumakan.jp/California)**
 * Skill: 
   * 30% chance upon Main Gun fire, x2 damage to the entire volley.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >By most intents and purposes, a discount South Dakota who gives up her bigger, blacker sister's AA capabilities, a portion of her statline and her shield for a lower Oil cost.   
 Still hits damn hard, though, and harder still when she's on a good roll.
 
-![BB](https://azurlane.koumakan.jp/w/images/6/61/PennsylvaniaChibi.png "USS Pennsylvania") - **[USS Pennsylvania](https://azurlane.koumakan.jp/Pennsylvania)**
+![BB](/Images-for-the-Guide/PennsylvaniaChibi.png "USS Pennsylvania") - **[USS Pennsylvania](https://azurlane.koumakan.jp/Pennsylvania)**
 * Skill: 
   * 20s 60% chance, fires a special barrage (4 salvo of 3 shots barraging bombarding the middle of the screen, Normal modifiers)
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >Often overlooked in favour of other barrage ships (eg. Hood, Washington), Pennsylvania plays it different from many others by having a timed proc instead of a main-gun-fire-based one.  
 While this means you can equip whichever BB gun you'd like to stick on her, it also means that she may proc when you don't need her to and waste the barrage.  
 A bit fiddly, but arguably more flexible than most and just as powerful.
 
-![BB](https://azurlane.koumakan.jp/w/images/5/5f/King_George_VChibi.png "King George V") - **[HMS King George V](https://azurlane.koumakan.jp/King_George_V)** **(T1 if deployed w/ 3 OTHER HMS units)**
+![BB](/Images-for-the-Guide/King_George_VChibi.png "King George V") - **[HMS King George V](https://azurlane.koumakan.jp/King_George_V)** **(T1 if deployed w/ 3 OTHER HMS units)**
 * Skill: 
   * Every 24s, 70% chance to fire a mediocre barrage (6/8 spread out shots + thin V-shaped wave of parallel needles); if KGV mounts a 356mm Quad, reduce the cooldown of her first volley by 75%, gain +20% CritChance on main gun shots, reduce its scatter by 2 and enhance the barrage (slightly better damage, 8 large shots instead of 6).
   * Deal +10% Damage to IJN/KMS/RM/Siren units; if sortied with 3 other HMS units, gain +20% FP/AA/Reload/Evasion.
+  
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
   
 * Desc: Takes a King to put an upstart Prince in its place.
 >Heh, typical nobles. Profiting from their underlings and giving next to nothing in return.  
@@ -1940,23 +2081,33 @@ While KGV is yet another sovereign that doesn't buff back her fellow countrywome
 As for the 356mm, long story short - it only overtakes the good ol' 406MK6 if her first volley lands most of its shots and hits something valuable, otherwise the long cooldown and the subpar damage eventually catch up to her; it won't cripple her but she won't benefit a whole lot from it either, and her barrage is fairly anaemic anyway so buffing it isn't too desirable a prospect.  
 In short, she's a big burly beatstick that'll benefit from having some HMS cheerleaders around. Only let her be the flag if nobody else has a better barrage.
 
-![BB](https://azurlane.koumakan.jp/w/images/0/03/Queen_ElizabethChibi.png "HMS Queen Elizabeth")- **[HMS Queen Elizabeth](https://azurlane.koumakan.jp/Queen_Elizabeth)** **(T1 w/ FULL HMS fleet, the less HMS units the lower the tier)**
+![BB](/Images-for-the-Guide/Queen_ElizabethChibi.png "HMS Queen Elizabeth")- **[HMS Queen Elizabeth](https://azurlane.koumakan.jp/Queen_Elizabeth)** **(T1.5 w/ FULL HMS fleet, the less HMS units the lower the tier)**
 * Skill: 
   * +15% FP/Torp/AA/Aviation/Evasion/Reload to all HMS ships.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Monkey business.
 >The ex-core of every HMS fleet, the simian queen has fallen quite roughly to the wayside in favour of much stronger shellers (eg. Monarch/Hood), supporters (eg. Duke of York) or both (eg. Hyuuga), buff notwithstanding.   
 Fielding her in a full HMS fleet is one of her few last semi-practical applications, if you can stomach the rather poor quality of the average HMS vanguard.  
 [Also, her age is starting to show...](https://cdn.discordapp.com/attachments/466250908682944522/526742291193266186/DnCZSPHVAAAQywe.jpg)
 
-![BC](https://azurlane.koumakan.jp/w/images/c/c1/RenownChibi.png "HMS Renown") - **[HMS Renown](https://azurlane.koumakan.jp/Renown)** **(T1.5 if deployed w/ Queen Elizabeth)**
+![BC](/Images-for-the-Guide/RenownChibi.png "HMS Renown") - **[HMS Renown](https://azurlane.koumakan.jp/Renown)** **(T1.5 if deployed w/ Queen Elizabeth)**
 * Skill: 
   * Upon first Main Gun fire, +15% Damage to all subsequent salvo (does not stack nor reset).
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself properly.
 
-![BC](https://azurlane.koumakan.jp/w/images/1/12/IzumoChibi.png "Izumo") - **[IJN Izumo](https://azurlane.koumakan.jp/Izumo)** **(T1.5 if at full Fate)**
+![BC](/Images-for-the-Guide/IzumoChibi.png "Izumo") - **[IJN Izumo](https://azurlane.koumakan.jp/Izumo)** **(T1.5 if at full Fate)**
 * Skill: 
   * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p4.qhimg.com/t0127a2b079a4ccebab.gif)
     * The 36 NEEDLES deal 104 base damage with 50/135/120 modifiers. Their damage is modified by 120% of the unit's FP.
@@ -1975,13 +2126,18 @@ Her sole saving grace is her exceptional statline, and even then it is marred by
 The improvements to her barrage brought by a full Fate Sim aren't just an addition - they are a necessity in order to make it work.
 Bad not just by PR standards but as a whole, there is little to no reason to ever use her over any other barrage boat.
 
-![BC](https://azurlane.koumakan.jp/w/images/3/3a/MikasaChibi.png "Mikasa") - **[IJN Mikasa](https://azurlane.koumakan.jp/Mikasa)** **(T0 if deployed w/ IJN BB/BC/gunships)**
+![BC](/Images-for-the-Guide/MikasaChibi.png "Mikasa") - **[IJN Mikasa](https://azurlane.koumakan.jp/Mikasa)** **(T0 if deployed w/ IJN BB/BC/gunships)**
 * Skill: 
   * Upon taking damage, 12% chance to halve that damage; also, when sortied as Flagship, grant all IJN units +20% Firepower/Reload.
   * 60% chance upon Main Gun fire, grant all BB/C +20% damage output for 8s.
   * If equipping the "Z Flag" auxiliary item, grant +5% Firepower/Accuracy to the entire fleet.
 
-* Desc: Pint-sized dai-senpai.
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Twin 100mm; Twin 100mm; Research AA Radar; Research AA Radar
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 120mm Main Gun; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc: Pint-size dai-senpai.
 >Don't be fooled by the seemingly low statline - Mikasa has a lot more Firepower and Reload than meets the eye, courtesy of her truly astounding buff suite, and is the premiere flagship for a gun-focused IJN fleets.
 Nevertheless, her low HP and AA do prove a liability later on and you will have to find some ways around that - taking more big guns, AA barges or even carriers, depending on the situation, just don't use her on her own.
 
@@ -1989,10 +2145,15 @@ Nevertheless, her low HP and AA do prove a liability later on and you will have 
 * Skill: 
   * 40% chance on Main Gun fire, launch a fixed linear HE barrage.
 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
 * Desc: 
 >An oversized monitor like Rodney or Nelson, but with an actually good barrage and better stats.
 
-![BC](https://azurlane.koumakan.jp/w/images/5/52/GneisenauChibi.png "KMS Gneisenau") - **[KMS Gneisenau](https://azurlane.koumakan.jp/Gneisenau)** **(T1.5 if deployed with Bismarck)**
+![BC](/Images-for-the-Guide/GneisenauChibi.png "Gneisenau") - **[KMS Gneisenau](https://azurlane.koumakan.jp/Gneisenau)** **(T1.5 if deployed with Bismarck)**
 * Skill:
   * +25% FP to self.
   * 20s, launch 3 weak unguided torpedoes in a cone.
@@ -2006,7 +2167,7 @@ Nevertheless, her low HP and AA do prove a liability later on and you will have 
 >Think Yamashiro, except outright inferior across the statline, trading two whole secondary CL gun mounts for hilariously poor torpedoes and access to KMS buffs.  
 The one silver lining for this sad girl is having a torpedo stat, which you may find useful in stat padding for hardmodes... but you may as well give Oxygen Torpedoes to a vanguard to achieve the same result for cheaper.
  
-![BC](https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png "KMS Scharnhorst") - **[KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst)** **(T1.5 if deployed with Bismarck)**
+![BC](/Images-for-the-Guide/ScharnhorstChibi.png "Scharnhorst") - **[KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst)** **(T1.5 if deployed with Bismarck)**
 * Skill:
   * Every 15s, fires a [barrage] at a random target.
     * The 3 SHELLS deal 103 bdmg with 30/130/110 mods. Their damage is modified by 100% of the unit's FP and a 110% Coefficient.
@@ -2021,7 +2182,7 @@ The one silver lining for this sad girl is having a torpedo stat, which you may 
 >Think Warspite, except with a barrage that actually hits things and weaker across the statline, just like her sister; and just like her sister, she too loses two secondary gun mounts for hilariously awful torpedoes.  
 What was said for her applies to this one.
 
-![BC](https://azurlane.koumakan.jp/w/images/2/24/Giulio_CesareChibi.png "Salad") - **[RN Giulio Cesare](https://azurlane.koumakan.jp/Giulio_Cesare)**
+![BC](/Images-for-the-Guide/Giulio_CesareChibi.png "Ave") - **[RN Giulio Cesare](https://azurlane.koumakan.jp/Giulio_Cesare)**
 * Skill: 
   * Upon Main Gun fire, 50% chance to launch a [barrage](https://streamable.com/bffxt).
      * The 10 SHELLS deal 140 bdmg with 135/85/70 modifiers; the 14 NEEDLES deal 30 bdmg with 100/8'/0 modifiers. Their damage is modified by 100% of the unit's FP stat.
@@ -2029,7 +2190,7 @@ What was said for her applies to this one.
      * The 6 TORPEDOES deal 96 bdmg with 80/110/130 modifiers. Their damage is modified by 100% of the unit's torp stat.
 
 * Recommended Loadouts:
-  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
   * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
   
@@ -2039,31 +2200,31 @@ Still, she's an alright BB and well suited to dispatching the very common CL hul
 
 ### Honourable Mentions:
 ---
-#### ![BM](https://azurlane.koumakan.jp/w/images/f/fe/TerrorChibi.png "HMS Terror") ![BM](https://azurlane.koumakan.jp/w/images/a/a3/ErebusChibi.png "HMS Erebus") [HMS Terror](https://azurlane.koumakan.jp/Terror) [HMS Erebus](https://azurlane.koumakan.jp/Erebus)
+#### ![BM](/Images-for-the-Guide/TerrorChibi.png "Terror") ![BM](/Images-for-the-Guide/ErebusChibi.png "Erebus") [HMS Terror](https://azurlane.koumakan.jp/Terror) [HMS Erebus](https://azurlane.koumakan.jp/Erebus)
 * Skill: Every 20s, 60% chance to fire a special barrage.
 
-- Desc: "The poor man's Barrage Boat."
+- Desc: The poor man's Barrage Boat.
 >A description partly in jest, and partly absolutely accurate - compared to a normal BB, they are incredibly frail (barely 3k HP with Light Armour) and considerably weaker (low FP, slightly lower Efficiency, one less salvo per volley), but they also cost a fraction than what they do and still get truly impressive barrages.  
 How does this come together? As pint-sized discount-costed powerhouses for early world farming, that's how: while low, their Firepower is enough to stop fireboats in their tracks, and if given enough Evasion, they can be reliably expected to evade incoming BB salvo, prolonging their operational time much beyond what their abysmal statline would lead you to believe.  
 Monitors can be expected to auto their way up to W8 or 9 with little resistance. Any further, though, and auto becomes almost impossible as enemies get more accurate, tougher and more powerful: the moment a BB opens up on them, they're already dead.
  
-#### ![BM](https://azurlane.koumakan.jp/w/images/b/bc/NelsonChibi.png "HMS Nelson") ![BM](https://azurlane.koumakan.jp/w/images/c/ca/RodneyChibi.png "HMS Erebus") - [HMS Nelson](https://azurlane.koumakan.jp/Nelson) [HMS Rodney](https://azurlane.koumakan.jp/Rodney)
+#### ![BM](/Images-for-the-Guide/NelsonChibi.png "Nelson") ![BM](/Images-for-the-Guide/RodneyChibi.png "Rodney") - [HMS Nelson](https://azurlane.koumakan.jp/Nelson) [HMS Rodney](https://azurlane.koumakan.jp/Rodney)
 * Skill: 40% chance to fire a special barrage when firing main gun.
 
-- Desc: "Newbie traps."
+- Desc: Newbie traps.
 >So you just started playing and found these two BBs. Their barrages fire lasers everywhere and melt mobs and they look pretty tough, so they've gotta be good, right?  
 Well, no, not really. It'll be like that only early on, where enemies tend to fall to a stiff breeze anyway, but the moment they're faced by serious opposition and normal (eg. 1.5k / 2k HP per trash mob) HP pools, the weaknesses of said barrage quickly come to the fore: low proc rate, proc fixed to main gun fire (which means having to take faster and weaker guns to fish for said procs), super-wide pattern subject to massive scatter and unable to hit what's directly in front of them, poor armour modifiers and poor base damage.  
 In short, their barrage is the only notable feature they have - and it's both unreliable and weak.  
 Avoid.
 
-#### ![BB](https://azurlane.koumakan.jp/w/images/b/b3/ColoradoChibi.png "USS Colorado") ![BB](https://azurlane.koumakan.jp/w/images/c/c1/West_VirginiaChibi.png "USS West Virginia") ![BB](https://azurlane.koumakan.jp/w/images/a/a9/MarylandChibi.png "USS Maryland") - [USS Colorado](https://azurlane.koumakan.jp/Colorado) [USS West Virginia](https://azurlane.koumakan.jp/West_Virginia) [USS Maryland](https://azurlane.koumakan.jp/Maryland)
+#### ![BB](/Images-for-the-Guide/ColoradoChibi.png "Colorado") ![BB](/Images-for-the-Guide/West_VirginiaChibi.png "West Virginia") ![BB](/Images-for-the-Guide/MarylandChibi.png "Maryland") - [USS Colorado](https://azurlane.koumakan.jp/Colorado) [USS West Virginia](https://azurlane.koumakan.jp/West_Virginia) [USS Maryland](https://azurlane.koumakan.jp/Maryland)
 * Skill: 
   * 40% chance to fire a special barrage when firing main gun
   * (Maryland) When her HP drops below 70% increase her damage dealt based on how low her HP is, up to +35%.
 
-- Desc: "The pits."
+- Desc: The pits.
 >You know what was just said about Nelson and Rodney? Well, they're even worse, courtesy of their weaker statlines and lack of CL guns; as for Maryland's +Dmg on low HP, it goes without saying that if you're taking damage, you're in an undesirable situation to begin with.  
-Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in the game.
+Outgunned, outskilled, outcosted. With no hyperbole, they ARE among the worst BBs in the game.
 
 <br/><br/>
 ---
