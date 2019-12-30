@@ -61,17 +61,17 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (09/12/2019)
+## Changelog as of last update (30/12/2019)
 
-- Shirakawa Fubuki joins the Guide as T1;
-- Nakiri Ayame joins the Guide as T1.5;
-- Tokino Sora joins the Guide as T1.5;
-- Ookami Mio joins the Guide as T2;
-- Minato Aqua joins the Guide (she's good).
+- IJN Noshiro joins the Guide as T0;
+- IJN Ryuuhou joins the Guide as T0;
+- IJN Kinu joins the Guide as T1;
+- IJN Suruga joins the Guide as T1.5.
 
-- USS Quincy and USS Vincennes are demoted to T2 (from T1.5), on the grounds of painfully low DPS not counterbalanced by staying power.
+- USS Bataan has been promoted to T0.5; given her un-CVL-like DPS and impressive support suite, she's amply deserved it.
+- HMS Illustrious has been demoted to T2; she's too expensive and too weak to compete with other carriers, Langley and Bataan in primis, and her Air Superiorty isn't nearly enough to make up for it.
 
-- SLOWLY RESTORING THE GODDAMN IMAGES. This means the EN/JP guides will be identical for a little while, until everything gets sorted out good and proper.
+- ALL IMAGES HAVE BEEN RESTORED. FINALLY.
 
 <br/><br/>
 ---
