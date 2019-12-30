@@ -37,7 +37,7 @@ Good reading, and godspeed cap'n!
   
 #### Retrofit/Kai Priority List:
 - DD                  : Laffey > Ayanami = Z23 > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
-- CL                  : San Diego* > Jintsuu > Leipzig = Leander > Emile Bertin > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
+- CL                  : San Diego* > Jintsuu > Leipzig = Leander > Kinu = Emile Bertin > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
 - CA                  : London > Mogami > Portland > Furutaka/Kako > Suffolk
 - BB/C                : Hyuuga > Warspite* > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) = Nevada/Oklahoma
 - CV/L                : Hiryu/Soryu > Shouhou > Langley > Ranger = Saratoga
