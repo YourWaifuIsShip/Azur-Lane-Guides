@@ -9,6 +9,10 @@ If you happen to have questions for me, want to discuss tierings or would like t
 
 ## Featured news and Changelog
 ```
+[30/12/2019]
+TIER GUIDE UPDATED
+Swirling Cherry Blossoms units have been added, a few tierings have been revised, the images are now all fine!
+
 [11/12/2019]
 OH BOY THERE'S A LOT OF NEW STUFF TO TALK ABOUT HOLY MEATBALLS
 So you'll have noticed by now most of the images are currently suffering from a bad case of "link broken"; that is because the wiki has disabled hotlinking, which means I'll have to grab every single icon and chibi out there and personally rehost it on my GitHub in order to have them show. It's not hard, but it's long and tedious, so I'll fix one hull class per day.
@@ -21,7 +25,7 @@ I've also figured out how to use Issues! A few too many months too late for the 
 ```
 
 ### Credits:
-- This guide is far from a solo effort: while the writing is mine, the tierings are researched and approved collegially with Gurosebe#4054, Enbayft#2527, Cantarella#7963 and the #helpful fellows over at the Azur Lane English Community server, while the coding framework that makes this possible was provided by Enbayft#2527 and improved upon by Boz#5174; the gifs have been provided by Halfminute#6110 and the CN wiki; lastly, kudos to Kopfjäger for providing the original framework for the guide you're now reading.  
+- This guide is far from a solo effort: while the writing is mine, the tierings are researched and approved collegially with Gurosebe#4054, Enbayft#2527, Dami🐈chan🐇#2228 and the #helpful fellows over at the Azur Lane English Community server, while the coding framework that makes this possible was provided by Enbayft#2527 and improved upon by Boz#5174; the gifs have been provided by Halfminute#6110 and the CN wiki; lastly, kudos to Kopfjäger for providing the original framework for the guide you're now reading.  
 Without these people, the Tier Guide would never be as comprehensive, accurate or good-looking as it is, and it is to them that I extend my sincere gratitude.
 Oh, and one last thing...
  
