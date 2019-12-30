@@ -7,6 +7,16 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 ## _VERY IMPORTANT OPENING NOTE_ 
 
 ```
+[30/12/2019]
+> IJN Kasumi did not join the Tier Guide, on account of her being Kagerou but worse.
+- Almost identical statline but costs +1 Oil due to purple rarity;
+- Torpedo boost only works with a full vanguard and only affects IJN units;
+- Lacks Chain Torpedo.
+
+> IJN Hatsuharu did not join the Tier Guide, on account of her also being Kagerou but worse.
+- Similar but weaker statline;
+- Same skills, but misses Kagerou's Interference.
+
 [09/12/2019]
 > Natsuiro Matsuri did not join the Tier Guide, on account of her middling statline and poor skillset.
 - self-buff to guns is hilariosuly ineffective given the IJN DD baseline;
