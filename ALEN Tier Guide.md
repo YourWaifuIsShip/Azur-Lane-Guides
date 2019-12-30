@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (WHOTUBER EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (IJN BIAS EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -360,6 +360,24 @@ Maury does things differently from many of her colleagues, but she does them wel
 * Desc: 
 >Ayanami's good friend, solid on her own too owing to her high Evasion and Torpedo stat.
 
+
+![DD](/Images-for-the-Guide/HibikiChibi.png "Hibiki") - **[IJN Hibiki](https://azurlane.koumakan.jp/Hibiki)**
+* Skill:
+  * Upon launching a torpedo spread, 30% chance to launch a second one; also, once per fight upon falling below 20% HP, heal back up by 20%.
+  * If sortied with any other Akatsuki-class DD (Akatsuki, Inazuma, Ikazuchi), gain +15% FP/Torp/Reload.
+  * Every 20s, 30% chance to lower an enemy's Reload by -30% and Damage by -15% for 10s (targets humanoid ships first).
+
+* Recommended Loadouts:
+  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
+* Desc: IJN Mahan!
+>The IJN finally gets in on the self-healing action, and it does so in its own peculiar - read, torp-heavy and guns-light - way.  
+An interesting proposition but one that is for the most part only going to appeal to dedicated torp-heavy vanguards, as the Mahans are much cheaper and much more effective in their role of unshiftable-yet-adequately-armed bubblewrap, but she can be put to good use if one is willing to manual and invest on torp buffers.  
+Forget about the self-buff if sortied with Akatsuki-class DDs, they aren't worth using in the first place unless you particularly like them.  
+
+
 ![DD](/Images-for-the-Guide/TanikazeKaiChibi.png "Tinykaze") - **[IJN Tanikaze Kai](https://azurlane.koumakan.jp/Tanikaze#Retrofit)**
 * Skill:
   * When only escort ship alive, increase own evasion by 10% and reduce damage taken from airstrike to self by 50%
@@ -640,7 +658,7 @@ Still, if you're willing to field a full french vanguard (and you do have good o
 
 * Recommended Loadouts:
   * [Full AA] 100mm twin; 533mm quintuple conventional torpedoes; 113mm twin; Research AA Radar; Research AA Radar
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 113mm twin; Toolbox; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 113mm twin; Toolbox; Oxytorp
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 113mm twin or Pom-Pom; Toolbox; Toolbox
 
 - Desc: WATASHI WA NUMBA WAN!
@@ -655,7 +673,7 @@ You'll still want to give her an Oxygen Torpedo or two, though - her torp stat r
   * +15% damage to Sirens.
   
 * Recommended Loadouts:
-  * [Optimal] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: Insistent termaidology.
@@ -669,13 +687,27 @@ Armed with an excellent AP barrage and a very powerful AP boosting passive, and 
   * +20% Reload and Torpedo to all DD/CL in Fleet
   
 * Recommended Loadouts:
-  * [Optimal] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: The fox says 'torp'.
 >As far as torpedoes are concerned, this is what peak efficiency looks like. Sporting three different superb torpedo buffs for whoever has any business mounting them and stellar torpedo stats+efficiency, she's a powerhouse in her own right with access to a handy damage cut (which she needs, considering her abysmal HP pool) and an uncharacteristically good barrage.  
-With no real weakness to speak of, her one significant flaw is not being able to bolster CA torpedoes - you'll want to look elsewhere for that.
- 
+With no real weakness to speak of beyond a somewhat flimsy hull, her one significant flaw is not being able to bolster CA torpedoes - you'll want to look elsewhere for that.
+
+
+![CL](/Images-for-the-Guide/NoshiroChibi.png "Balans") - **[IJN Noshiro](https://azurlane.koumakan.jp/Noshiro)**
+* Skill: 
+  * Gain +15% EvaRate and reduce the torpedo Damage taken by the vanguard by 20%.
+  * Deal +20% Damage to CV/Ls; grant +20% Torpedo to the entire vanguard; grant +12% CritRate to the entire vanguard.
+  
+* Recommended Loadouts:
+  * [General Purpose] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] 150SKC single (Manual only) or Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
+- Desc: 
+>What is there to say? Noshiro is almost perfect.  
+One of the absolute toughest units in the entire game, regardless of hull class; astounding supportive capabilities in general and especially for torp-heavy comps; high DPS thanks to the torpedo/crit buffs, IJN standard high quality torpedoes and unusually decent guns; and a nice barrage to cap it all off, like she needed the extra help or something.  
+About the only flaw she has, if we're feeling nitpicky, is not being as helpful to gun-heavy comps as some other cruisers, but... for everyone else that does happen to have torpedoes, you'll want her specifically.  
  
 ### Tier 0.5:
 ---
@@ -686,7 +718,7 @@ With no real weakness to speak of, her one significant flaw is not being able to
   * 25% chance upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc:
@@ -701,7 +733,7 @@ Most, if not all, Cruiser compositions will benefit by her presence.
   * Can mount a CL gun or an AA gun as secondary.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun or Seattle Gun (if boss); Prototype Triple 152mm Main Gun or Seattle Gun (if boss) or 40mm Quad Bofors (if extra AA is needed); 40mm Quad Bofors; Toolbox; SG Radar
+  * [General Purpose] Prototype Triple 152mm Main Gun or Seattle Gun (if boss); Prototype Triple 152mm Main Gun or Seattle Gun (if boss) or 40mm Quad Bofors (if extra AA is needed); 40mm Quad Bofors; Toolbox; SG Radar
   * [Poverty] Twin 150mm tbtsk c/36; Twin 150mm tbtsk c/36 or 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Scuttlefish.
@@ -716,7 +748,7 @@ Weird but potentially very good. Watch out for her loadout.
   * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -728,7 +760,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
   * Once per fight and upon falling below 20% HP, restore 25% HP and +30% FP for 15s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -742,7 +774,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
 * Recommended Loadouts:
   * [Full Atk] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Autoloader; Autoloader
   * [Full Def] Prototype Triple 152mm Main Gun; 100mm twin; 40mm Quad Bofors; PR Hydraulic Gear; Gold SG Radar
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: It's not luck, it's all skill.
@@ -754,7 +786,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
   * Upon battle start, heals the fleet by 3.5% of her max HP.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 * Desc: 
@@ -767,7 +799,7 @@ Not entirely as powerful as her older self, but she's up there without being for
   * Upon battle start and on a 30% chance every 15s, creates a smokescreen (+40% Evasion Rate while inside) for 5s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gunn; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gunn; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
@@ -779,7 +811,7 @@ Not entirely as powerful as her older self, but she's up there without being for
   * Can use DD guns, and should.
 
 * Recommended Loadouts:
-  * [Optimal] 100mm twin; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Not 2B taken lightly.
@@ -793,7 +825,7 @@ That said, you will need to deploy a few carriers to get the full experience and
   * +12% CritRate and +30% CritDmg to self.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Amazing how some spit and polish can enhance decimetres thick armour, isn't it?
@@ -805,12 +837,27 @@ That said, you will need to deploy a few carriers to get the full experience and
   * Gain +30% CritRate and +10% Accuracy vs DD/CL; also, enemies hit by her Main Gun fire have a 10% chance to have their EvaRate reduced by 10% for 6s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc:
 > A jack-of-all-tradeish unit whose skillset betrays her obvious Plane Hell oriented design, but who still packs a significant enough punch and remarkably useful enough support to put up a good showing for herself even outside the boundaries of W12 and W13.  
 Your big guns in particular will thank her for her support.
+
+
+![CL](/Images-for-the-Guide/KinuKai.png "Kinu Kai") - **[IJN Kinu Kai](https://azurlane.koumakan.jp/Kinu#retrofit)**
+* Skill: 
+  * Gain +15% FP, AA and ASW; also, decrease Damage sustained by SS and SSV by 15%.
+  * Deal +30% Torpedo Damage; also, when launching a torpedo spread, 30% chance to launch a second one.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: Torpblade.
+> What do you get when you strip away the Sendai-class's vanguard-wide torpedo buffs, replace them with a massive flat damage boost and a chance for double torpedoes, tack on some extra HP, real AA guns (a first for the IJN) and lob some Firepower onto their above-average main guns? You get the last word in terms of CL torpedo prowess, that's what - Kinu Kai.   
+Accept no substitute, but do consider a Jintsuu or Noshiro to boost even further her obscenely powerful ordnance; also feel free to forget about the ASW stuff, your subs shouldn't be taking damage in the first place.  
+
 
 ![CL](/Images-for-the-Guide/LeipzigKaiChibi.png "Leipzig Kai") - **[KMS Leipzig Kai](https://azurlane.koumakan.jp/Leipzig#retrofit)**
 * Skill: 
@@ -818,7 +865,7 @@ Your big guns in particular will thank her for her support.
   * Grant +3 Speed to all units in the vanguard and reduce the ramming damage they sustain by -25%; once per battle and when below 30% HP, become Intangible (100% EvaRate) for 5s and gain +15% Damage for the rest of the battle.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Not Fishy at all!
@@ -834,7 +881,7 @@ Nice.
   * +15% Firepower to CL/CA.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -859,7 +906,7 @@ Not much to say about her, she's solid and unremarkable like the rest of her cla
   * 25% upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc: Original Dadster.
@@ -871,7 +918,7 @@ Not much to say about her, she's solid and unremarkable like the rest of her cla
   * Whenever a plane is shot down, gain a +8% AA stack for 8s; can gain up to 4 stacks.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc:
@@ -884,7 +931,7 @@ She's okay.
   * 25% upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc:
@@ -910,7 +957,7 @@ She'll only buff herself, but a +40% FP never really goes amiss.
   * 10s after battle starts and on a 20% chance every 20s aftewards, create a special smokescreen (+35% Evasion Rate and-35% damage from planes while inside) that lasts 10s.
 
 * Recommended Loadouts:
-  * [Optimal] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Triple 155mm Mounted Gun; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Hot honeytrap maid.
@@ -923,7 +970,7 @@ Her place is mostly PvP, as there are many other CL who will do what she does - 
   * Deal +25% AP damage.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc: Worth her weight in gold.
@@ -938,7 +985,7 @@ Still, there's very few more reliable frontline tanks than she - and that's a de
   * Grant +15% FP to the entire vanguard.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: The advent of Plane Hells earned this previously inferior version of Leander a spot on the Tier Guide, as she patches the glaring AA-shaped hole in the HMS vanguard lineup. Her skillset isn't particularly remarkable and focusing on gunnery as a Torp-CL is somewhat questionable, but she does the job legitimately well - especially with planes to shoot at.
@@ -949,7 +996,7 @@ Still, there's very few more reliable frontline tanks than she - and that's a de
   * 30% chance to launch a second salvo on torpedo launch
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -962,7 +1009,7 @@ Not too flashy, but sturdy enough and dependable.
   * 10s after battle start and on a 40% chance every 20s afterwards, deploys a flare (-25% Evasion Rate in the area) for 10s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -977,7 +1024,7 @@ Her statline is still damn good, though, and their buffs can stack - as do the -
     * The 12 SHOTS deal 62 bdmg with 100/80/60 mods; the 12 TORPEDOES deal 72 bdmg with 80/100/130 mods. Their damage is modified by 100% of their relevant stat.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: La merveilleuse DDanseuse!
@@ -991,7 +1038,7 @@ Her retaliatory barrage is pretty strong, but you should try *not* to proc it; l
   * 60% chance every 20s, +40% FP for 8s.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 *  Desc: 
@@ -1004,7 +1051,7 @@ A solid pick regardless, especially if you expect aircraft.
   * Upon firing AA guns, gain +25% AA for 5s; once per battle, if sortied with Lil Sandy or Cleveland and either falls under 40% HP, gain +25% FP/Acc.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: The lolifying beam spares nobody!
@@ -1032,7 +1079,7 @@ It goes without saying that she'll severely underperform if she's not going to a
 
 * Recommended Loadouts:
   * [Full Atk] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
@@ -1045,7 +1092,7 @@ While powerful for their class, they are also dangerously frail and lacking in s
   * While alive, -20% Evasion Rate for enemy DD/CL.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
@@ -1059,7 +1106,7 @@ More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
   * Can use DD guns, and should; has MGM+1; the torpedo slot is replaced by a second AA gun.
 
 * Recommended Loadouts:
-  * [Optimal] 100mm twin; 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; Research AA Radar
+  * [General Purpose] 100mm twin; 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; Research AA Radar
   * [Poverty] 100mm twin; 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; AA Radar
 
 *  Desc: 
@@ -1086,7 +1133,7 @@ All things considered she's a fairly good deal, providing stable and solid DPS w
   * Upon battle start, when deployed as the last member of the vanguard and when part of a vanguard with 2+ units, grant the vanguard a 24% chance to reduce incoming damage by 32%.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -1098,7 +1145,7 @@ All things considered she's a fairly good deal, providing stable and solid DPS w
   * While alive, CV/L in the fleet take -15% damage.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -1112,7 +1159,7 @@ While she isn't a bad unit on her own by any stretch, her competitors are more p
   * Every 12s, commence RNG FIESTA! (17% chance for gun barrage; 17% chance for torpedo barrage; 14% chance for a sprinkler-shot grenade; 14% chance to erect a 60-shots-tough shield for 18s; 14% chance to erect a 99-shots-tough shield for 6s; 14% chance to heal the entire fleet for 2.4% of Yuubari's max HP; 10% chance to heal the entire fleet for 9HP).
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -1125,7 +1172,7 @@ Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outco
   * Has MGM+1 and Torpedoes.
 
 * Recommended Loadouts:
-  * [Optimal] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Boiler
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Boiler
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Boiler
 
 - Desc: "Союз нерушимый республик свободных~ ♪♫♬"
@@ -1174,7 +1221,7 @@ Her one job is being immensely irritating/powerful in the arena, and dying for y
   * Can use DD guns, and should; has MGM+1; the torpedo slot is replaced by a second AA gun.
 
 * Recommended Loadouts:
-  * [Optimal] 100mm twin; 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; Research AA Radar
+  * [General Purpose] 100mm twin; 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; Research AA Radar
   * [Poverty] 100mm twin; 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; AA Radar
 
 *  Desc: 
@@ -2006,6 +2053,22 @@ A very solid defensive pick, further helped by the fact her Sanshikidan barrage 
 
 * Desc: Quite literally an improved non-Kai Yamashiro/Fusou in all respects, from the statline to the efficiencies. Not much to say here.
 
+![BC](/Images-for-the-Guide/SurugaChibi.png "Horny Waifu") - **[IJN Suruga](https://azurlane.koumakan.jp/Suruga)**
+* Skill: 
+  * Every 20s, 70% chance to launch a [barrage](http://p2.qhimg.com/dr/400__/t01865159fd89fcb4e4.gif)
+    * The 4 AIMED TORPEDOES deal 96 bdmg with 80/110/130 mods; the 10 SHELLS deal 130 bdmg with 70/100/90 mods; the 36 PELLETS deal 20 bdmg with 100/80/70; the 24 PVP PELLETS deal 20 bdmg with 100/80/60 mods. Their damages are modified by 100% of the respective stats.
+  * When a backliner takes damage, 70% chance to reduce the damage dealt to backliners by 12% for 15s (with a 20s cooldown between activations); also, once per battle and upon falling below 20% HP, restore 10% of her max HP.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
+  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc:
+>Suruga may have been Crosswave's poster girl, but here she's barely a footnote on the list.  
+A fairly unremarkable battleship, she possesses the typical high-end BB statline with IJN-standard abysmal AA and accompanies it with an uncomfortably wide - that is to say, ineffective - timed barrage and a theoretically nice suite of backline protecting skills, which however do little to mitigate the incoming damage she would take from either planes or shelling.  
+All in all she's usable, but she's so far behind the real self-healers (Gascogne, Monarch) and real barragers (most of the higher tiers) there's honestly not much point to her.  
+
 ![BC](/Images-for-the-Guide/DunkerqueChibi.png "Dunkerque") - **[MNF Dunkerque](https://azurlane.koumakan.jp/Dunkerque)**
 * Skill: 
   * 50% chance on Main Gun fire, launch a fixed linear HE barrage (2 tight columns of 4 HE shells and a few needles to the sides).
@@ -2229,11 +2292,11 @@ Outgunned, outskilled, outcosted. With no hyperbole, they ARE among the worst BB
 <br/><br/>
 ---
 <br/><br/>
-## BBV ![BBV](https://azurlane.koumakan.jp/w/images/thumb/1/1a/BBV_img.png/45px-BBV_img.png "BBV Icon")
+## BBV ![BBV](/Images-for-the-Guide/45px-BBV_img.png "BBV Icon")
 ### Tier 0:
 ---
 
- ![BBV](https://azurlane.koumakan.jp/w/images/b/b9/HyuugaKaiChibi.png "Hyuuga Kai") - **[IJN Hyuuga Kai](https://azurlane.koumakan.jp/Hyuuga#Retrofit)**
+ ![BBV](/Images-for-the-Guide/HyuugaKaiChibi.png "Hyuuga Kai") - **[IJN Hyuuga Kai](https://azurlane.koumakan.jp/Hyuuga#Retrofit)**
 * Skill: 
   * Grant +15% FP to the backline.
   * Gain +20% FP.
@@ -2247,7 +2310,7 @@ The seaplanes are still middling at best, but you're paying no price for a BB wi
  ### Tier 0.5:
 --- 
   
-   ![BBV](https://azurlane.koumakan.jp/w/images/2/26/IseKaiChibi.png "Ise Kai") - **[IJN Ise Kai](https://azurlane.koumakan.jp/Ise#Retrofit)**
+   ![BBV](/Images-for-the-Guide/IseKaiChibi.png "Isekai") - **[IJN Ise Kai](https://azurlane.koumakan.jp/Ise#Retrofit)**
 * Skill: 
   * Gain +20% FP.
   * Ise Kai's first two airstrikes have their cooldown reduced by 25% and launch 2 Suisei dive bombers; if a CV/L is present in the fleet, these bonuses remain active.
@@ -2260,7 +2323,7 @@ Damage's still not on par with proper carriers, sure, but it's leagues better th
  ### (Dis)honourable Mentions:
 --- 
   
-![BB](https://azurlane.koumakan.jp/w/images/9/9a/YamashiroKaiChibi.png "Yamashiro Kai") ![BB](https://azurlane.koumakan.jp/w/images/0/05/FusouKaiChibi.png "Fusou Kai") - **[IJN Yamashiro Kai](https://azurlane.koumakan.jp/Yamashiro#retrofit)** **[IJN Fusou Kai](https://azurlane.koumakan.jp/Fusou#retrofit)**
+![BB](/Images-for-the-Guide/YamashiroKaiChibi.png "Yamashiro Kai") ![BB](/Images-for-the-Guide/FusouKaiChibi.png "Fusou Kai") - **[IJN Yamashiro Kai](https://azurlane.koumakan.jp/Yamashiro#retrofit)** **[IJN Fusou Kai](https://azurlane.koumakan.jp/Fusou#retrofit)**
 * Skill: 
   * +20% FP to self.
   * On first airstrike, launch additional Zuiun.
@@ -2274,11 +2337,11 @@ In short, they're by all accounts a downgrade over their BB forms. Avoid like th
 <br/><br/>
 ---
 <br/><br/>
-## CV/CVL ![CV(L)](https://azurlane.koumakan.jp/w/images/d/d1/CV_img.png "CV/L Icon")
+## CV/CVL ![CV(L)](/Images-for-the-Guide/45px-CVL_img.png "CV/L Icon")
 ### Tier 0:
 ---
 
- ![CV](https://azurlane.koumakan.jp/w/images/e/ed/EssexChibi.png "USS Essex") - **[USS Essex](https://azurlane.koumakan.jp/Essex)**
+ ![CV](/Images-for-the-Guide/EssexChibi.png "USS Essex") - **[USS Essex](https://azurlane.koumakan.jp/Essex)**
 * Skill: 
   * Upon airstrike launch, launches a tight horizontal line of eight additional TBDs armed with parallel, Flooding-inflicting torps; also, deal +10% damage vs BBs.
   * Increases her own AA and Airpower by 5% for every USS CV/L in the fleet, and increases her own Airpower by 3% whenever her planes shoot down an enemy aircraft (to a maximum of +15% Airpower).
@@ -2290,7 +2353,7 @@ In short, they're by all accounts a downgrade over their BB forms. Avoid like th
 What keeps her from true greatness is how strictly she enforces a specific compositon for your backline to make the most of her skills - US carriers only might not be a bad thing per se, but it severely limits your choices. Her second skill being susceptible to killsteals by allied carriers or AA, and her third skill being nigh-on useless in PvE, doesn't help matters either.  
 All that said, when she's good, she's REALLY good.
  
- ![CVL](https://azurlane.koumakan.jp/w/images/f/f7/CentaurChibi.png "Centaur") - **[HMS Centaur](https://azurlane.koumakan.jp/Centaur)**
+ ![CVL](/Images-for-the-Guide/CentaurChibi.png "Centaur") - **[HMS Centaur](https://azurlane.koumakan.jp/Centaur)**
 * Skill: 
   * Deal +10% damage vs BB; also, upon airstrike launch, deploy a volley of highly damaging, slowing (-40% speed for 6s), criss-crossing torpedoes from Swordfish planes.
   * Upon airstrike launch, grant +15% Aviation and +10% Firepower to the backline for 8s.
@@ -2308,7 +2371,7 @@ Enemy ships are zipping around too much for your liking? Her Swordfishes inflict
 Subs? Don't let her stats fool you, she's still a CVL and that means she can bomb them with impunity (and great effect at that).  
 Whatever's getting you down, Centaur has the solution for it - and while she won't match the heights of more specalized units in their fields, her responses tend to be more than enough for most tasks at hand.  
  
- ![CVL](https://azurlane.koumakan.jp/w/images/6/6a/FormidableChibi.png "Gothic Taihou") - **[HMS Formidable](https://azurlane.koumakan.jp/Formidable)**
+ ![CVL](/Images-for-the-Guide/FormidableChibi.png "Gothic Taihou") - **[HMS Formidable](https://azurlane.koumakan.jp/Formidable)**
 * Skill: 
   * Gain +15% Aviation and grant +15% efficiency to equipped Fairey Albacores; also, if equipped with at least one Fairey Albacore, launch a plane barrage (gif pending).
     * The 12 PARALLEL TORPEDOES deal 240 bdmg with 80/110/130 modifiers and a 80% chance to Flood for 8s. They are dropped by 2 ALBACORES in 2 separate diagonal waves of 6 parallel torpedoes each, and are modified by 120% of the unit's Aviation stat.
@@ -2328,7 +2391,7 @@ Locking an enemy in place for a whole second and a half is more than enough for 
 Formidable also happens to have a barrage if her Albacore tax is paid, but expect little from it unless she's in a mob fleet - the torpedoes are too spread apart from each other to ensure more than a couple of hits per spread, and that's not worth giving up the brutal damage output of a full aimed spread instead.
 *About the Albacore...* it's terrible. Parallel torpedoes are bad enough as it is and this one doesn't even launch three, unlike the Barracuda; if you're taking one, it's strictly for the barrage.
  
-  ![CVL](https://azurlane.koumakan.jp/w/images/e/e7/UnicornChibi.png "HMS Unicorn") - **[HMS Unicorn](https://azurlane.koumakan.jp/Unicorn)**
+  ![CVL](/Images-for-the-Guide/UnicornChibi.png "HMS Unicorn") - **[HMS Unicorn](https://azurlane.koumakan.jp/Unicorn)**
 * Skill: 
   * On launching an airstrike, heals the escort fleet for 8% HP
   * Increases Reload of escort fleet by 15%
@@ -2337,7 +2400,26 @@ Formidable also happens to have a barrage if her Albacore tax is paid, but expec
 * Desc: 
 >Arguably the best support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
  
- ![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)**
+ 
+ ![CVL](/Images-for-the-Guide/Ryuuhou.png "Ryuuhou") - **[IJN Ryuuhou](https://azurlane.koumakan.jp/Ryuuhou)**
+* Skill: 
+  * The first three airstrikes launched by Ryuuhou heal the most damaged target in the fleet 3 times over 3s for 3% of Ryuuhou's max HP (if the unit being healed stops being the most damaged, the new most damaged one will be healed by the next healing tick instead): if Ryuuhou is deployed in a full backline, increase the heal potency to 6% of Ryuuhou's max HP.
+  * Decrease the damage the vanguard takes from enemy submarines by -12%; upon submarine fleet arrival in battle, heals them by 20% of their max HP; finally, whenever your submarines sink an enemy unit, gain a +3.5% damage stack up to a max of 6 stacks (+21% dmg total).
+  * Has a 0/3/3 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F6F Hellcat; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>Lo and behold, at long last a new healer! A **real** one, this time around, and capable of fixing up backliners as well!  
+The way she heals is highly unconventional, not just because it draws from her own HP pool rather than the healed's but also because it only affects one unit at a time: as a result she won't heal as much as Shouhou or Unicorn do (unless you're running an undersized vanguard or a DD-heavy one) but she won't be overhealing either, and of course she'll be able to target the back too.  
+The boost her healing gets when sortied in a full backline is substantial, but so will be your oil costs; evaluate carefully whether you do need that help or you can manage without it.  
+Her armament strikes a nice middle ground between offence and support, sporting 130% Fighters and 145% Torpedo Bombers; not as powerful as Shouhou, but she won't be up a creek without a paddle when planes come a-knockin'.  
+As for the submarines... she has those skills? It's a good set of skills, to be sure, but it's unlikely to see much usage. Still, better with than without.
+
+ 
+ ![CVL](/Images-for-the-Guide/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)**
 * Skill: 
   * On launching an airstrike, heals the escort fleet by 8% of their HP.
   * On launching an airstrike, +15% Aviation to all CV/L for 8s.
@@ -2355,7 +2437,21 @@ Can't match Unicorn in air superiority, lacking fighters, but decisively asserts
  ### Tier 0.5:
  ---
  
-![CV](https://azurlane.koumakan.jp/w/images/d/dc/EnterpriseChibi.png "USS Enterprise") - **[USS Enterprise](https://azurlane.koumakan.jp/Enterprise)**
+ ![CVL](/Images-for-the-Guide/BataanChibi.png "Arminsky") - **[USS Bataan](https://azurlane.koumakan.jp/Bataan)** **(T0 if not deployed as flag)
+* Skill: 
+  * Gain +30% Fighter Efficiency if using a F6F Hellcat; also, 70% chance to launch three more F6F when airstriking.
+    * The 6 500lb BOMBS carried by the F6F deal 380 bdmg with 80/90/110 mods. They are modified by 80% of the unit's Aviation stat.
+  * If not sortied as flagship, grant +15% Reload to other CV/L in the fleet and +50 AA to the entire backline.
+  * Has a 3/0/3 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F6F Hellcat; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>More independent than Indepence and rolling in Hellcats, Bataan provides shocking amounts of DPS for her class and excellent support - be it air support with her F6F storms, fire support with their bombs and her own powerful torpedo bombers or support support with the Reload and AA buffs, Bataan has something to offer to every carrier comp out there and nothing short of hell to enemy airwings.
+ 
+![CV](/Images-for-the-Guide/EnterpriseChibi.png "USS Enterprise") - **[USS Enterprise](https://azurlane.koumakan.jp/Enterprise)**
 * Skill: 
   * 70% chance on airstrike launch, airstrike deals x2 damage and Enterprise becomes invincible for 8s.
   * Has a 3/3/2 loadout.
@@ -2368,7 +2464,7 @@ Can't match Unicorn in air superiority, lacking fighters, but decisively asserts
 >One of the best solo CV currently in the game, courtesy of her generally superior statline and a skill that can reliably lay the smackdown on waves and airwings alike - as well as provide some emergency damage absorption against incoming aircraft or shelling.  
 It's not all bombs and sunshine, though - while her proc rate is high, she is nevertheless very reliant on that proc to perform and her generalist Efficiencies tend to blunt her effectiveness somewhat.
  
-![CV](https://azurlane.koumakan.jp/w/images/4/48/Shangri-LaChibi.png "Shangri-la") - **[USS Shangri-La](https://azurlane.koumakan.jp/Shangri-La)**
+![CV](/Images-for-the-Guide/Shangri-LaChibi.png "Shangri-la") - **[USS Shangri-La](https://azurlane.koumakan.jp/Shangri-La)**
 * Skill: 
   * Upon airstrike launch, 80% chance to scramble a 'B-25' and drop 12 extra bombs.
   * 10s after battle start, launch a F6F fighter and if it is shot down, scramble that same 'B-25'; also, every 8s after launching the fighter, gain a stack of +3% Accuracy and +7% Damage up to a maximum of 5 stacks.
@@ -2379,7 +2475,7 @@ It's not all bombs and sunshine, though - while her proc rate is high, she is ne
 The F6F-induced barrage won't see usage in PvE, but never fear - the stacking buffs will, and they'll be signficant.
 On a side-note, that's a B-17's shadow and not a B-25's. Irritating.
  
-![CV](https://azurlane.koumakan.jp/w/images/6/64/AkagiChibi.png "IJN Akagi") ![CV](https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)**
+![CV](/Images-for-the-Guide/AkagiChibi.png "IJN Akagi") ![CV](https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)**
 * Skill: 
   * First Airstrike launches 50% faster
   * When paired, increase Air Power by 35%
@@ -2408,7 +2504,7 @@ On a sidenote, she's also one of the carriers least affected by enemy AA boats d
 
 ### Tier 1:
 ---
-![CVL](https://azurlane.koumakan.jp/w/images/9/94/BataanChibi.png "Arminsky") - **[USS Bataan](https://azurlane.koumakan.jp/Bataan)** **(T0.5 if not deployed as flag)
+![CVL](/Images-for-the-Guide/BataanChibi.png "Arminsky") - **[USS Bataan](https://azurlane.koumakan.jp/Bataan)** **(T0.5 if not deployed as flag)
 * Skill: 
   * Gain +30% Fighter Efficiency if using a F6F Hellcat; also, 70% chance to launch three more F6F when airstriking.
     * The 6 500lb BOMBS carried by the F6F deal 380 bdmg with 80/90/110 mods. They are modified by 80% of the unit's Aviation stat.
@@ -2434,7 +2530,7 @@ While at first glance her skills may look like a schizophrenic mess, and to a ce
 You may have to rethink your fleet to accommodate her eccentricities, but she'll make sure it'll be worth it.
 
 
-![CVL](https://azurlane.koumakan.jp/w/images/6/69/IndependenceChibi.png "Independence") - **[USS Independence](https://azurlane.koumakan.jp/Independence)** (T0.5 w/ 1+ Cleveland-class around)
+![CVL](/Images-for-the-Guide/IndependenceChibi.png "Independence") - **[USS Independence](https://azurlane.koumakan.jp/Independence)** (T0.5 w/ 1+ Cleveland-class around)
 * Skill: 
   * Gains +15% Efficiency on a slot when using USS planes
   * Upon airstrike launch, scramble a TBF Avenger torpedo bomber; also, if sortied with at least 1 Cleveland-class CL, grant them +8% FP and gain +15% Accuracy/Aviation and launch 2 TBF Avengers instead.
@@ -2445,7 +2541,7 @@ You may have to rethink your fleet to accommodate her eccentricities, but she'll
 Well, beyond her being a CVL (ie. less planes, inferior statline compared to CVs), there really isn't one - beyond 'having' to take a Cleveland-class CL along to get the most of out of her 'barrage' (which is just one/two planes), which is a mutually beneficial relationship anyway, and having to mount US planes for similar reasons, which still ends up working in her favour.  
 Tip - if you don't have the VT-8, resist the temptation to give her the regular TBF Avenger, as its cooldown is bad enough to make the usual Barracuda/Ryuusei still preferable, despite the Eff drop.
 
-![CVL](https://azurlane.koumakan.jp/w/images/e/e0/RangerKaiChibi.png "USS Ranger Kai") - **[USS Ranger Kai](https://azurlane.koumakan.jp/Ranger)**
+![CVL](/Images-for-the-Guide/RangerKaiChibi.png "USS Ranger Kai") - **[USS Ranger Kai](https://azurlane.koumakan.jp/Ranger)**
 * Skill: 
   * 15% activation when launching an airstrike, the next airstrike becomes available immediately
   * 25% chance of inflicting double damage with airstrike
@@ -2459,7 +2555,7 @@ Tip - if you don't have the VT-8, resist the temptation to give her the regular 
 >Also referred to as RNGer for obvious reasons, and infamous because of her potentially infinite damage, you need luck on your side to get the most out of her; even without the procs, though, very few carriers get close to the sheer damage output she can unleash thanks to her 8 sea-attacking planes and high Efficiencies, and none of them can manage it at her rock-bottom 9 Oil cost.  
 Beware her near-total lack of anti-air presence, though; without Fighters or AA guns to speak of, there's little she can do about enemy planes.
 
-![CV](https://azurlane.koumakan.jp/w/images/d/dc/SaratogaKaiChibi.png "Saratoga Kai") - **[USS Saratoga Kai](https://azurlane.koumakan.jp/Saratoga#retrofit)**
+![CV](/Images-for-the-Guide/SaratogaKaiChibi.png "Saratoga Kai") - **[USS Saratoga Kai](https://azurlane.koumakan.jp/Saratoga#retrofit)**
 * Skill: 
   * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Airpower).
   * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
@@ -2470,7 +2566,7 @@ Beware her near-total lack of anti-air presence, though; without Fighters or AA 
 >Saratoga's Kai doesn't significantly change her playstyle: she's still the powerful DB-focused CV she's always been, but with a considerably improved statline that further emphasises her strengths. Extremely solid, even from a HP standpoint.  
 Her Kai skill, just like her gunfire skill, is best regarded as a bit of free additional damage than a reliable contribution to the fight - the extra planes have aimed torpedoes and the DoTs they inflict are fairly weak, but it's still better than most CV do in their downtime.
 
-![CV](https://azurlane.koumakan.jp/w/images/3/3d/YorktownChibi.png "USS Yorktown") - **[USS Yorktown](https://azurlane.koumakan.jp/Yorktown)**
+![CV](/Images-for-the-Guide/YorktownChibi.png "USS Yorktown") - **[USS Yorktown](https://azurlane.koumakan.jp/Yorktown)**
 * Skill: 
   * Once per battle, if Yorktown's HP falls below 20% she heals herself by 25%
   * Upon receiving damage and on a 20s cooldown, launches three special SBD dive bombers (x1 2000lb, x2 100lb); 
@@ -2481,7 +2577,7 @@ Her Kai skill, just like her gunfire skill, is best regarded as a bit of free ad
 > One of the hardiest and most well-rounded carriers in the game, Yorktown can cover any role admirably well, courtesy of her balanced plane loadout, her frontline buff, her self-heal and her personal SBD squadron, ready to bust the heads of whoever thought she was easy pickings.
 Do NOT think she can solo backline past W6, though. Carriers aren't made for that and she's no exception.
 
-![CV](https://azurlane.koumakan.jp/w/images/e/ef/HiryuuKaiChibi.png "Hiryu Kai") ![CV](https://azurlane.koumakan.jp/w/images/e/e0/SouryuuKaiChibi.png "Souryuu Kai") - **[IJN Hiryu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Soryu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)** **(T0 when together)**
+![CV](/Images-for-the-Guide/HiryuuKaiChibi.png "Usagi Yojimbo") ![CV](/Images-for-the-Guide/SouryuuKaiChibi.png "Long Legs Monster") - **[IJN Hiryu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Soryu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)** **(T0 when together)**
 * Skill (Hiryu): 
   * Once per battle and upon taking lethal damage, Hiryu becomes invincible for 15s and immediately launches a full airstrike.
   * When paired with Soryu, gain +35% Aviation.
@@ -2498,7 +2594,7 @@ Do NOT think she can solo backline past W6, though. Carriers aren't made for tha
 >Once criminally underrated and now outshining even the Foxes in terms of raw damage, Hiryuu focuses on Torpedo Bombers and stubbornly refusing to roll over and die (by becoming invincible for 15s and launching an airstrike); not the most useful skill under the majority of circumstances, though her sister makes up for it with the always handy vanguard buff, but the real deal is the +35% Aviation buff that is further bolstered by the slew of extra stats the Kai brought, as well as the neat timed barrage (which is, despite its inconsistency, still free damage).  
 Exceptional.
 
-![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0.5 w/ Zuikaku)**
+![CV](h/Images-for-the-Guide/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0.5 w/ Zuikaku)**
 * Skill: 
   * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
   * When paired, increases Air Power by 30% and INCREASES damage taken by 10%
@@ -2516,7 +2612,7 @@ Her buffs and layout are good enough to warrant usage even solo.
 
 ### Tier 1.5:
 ---
-#### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
+#### ![CVL](/Images-for-the-Guide/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
 * Skill: 
   * Increases experience gained by CV by 15%
   * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
@@ -2530,21 +2626,21 @@ Her buffs and layout are good enough to warrant usage even solo.
 >Once considered a liability due to the much reviled F/F/B loadout and an exp boost as a primary skill, Langley Kai's fortunes changed drastically with the advent of Air Superiority mechanics; not only do those fighters contribute almost or over twice the amount other types of planes do, but they're also extraordinarily cost-effective as well as slightly more readily available than usual.
 If stacking AS is what you need but you'd rather not focus on carriers, look no further.
 
-![CV](https://azurlane.koumakan.jp/w/images/3/33/LexingtonChibi.png "USS Lexington") ![CV](https://azurlane.koumakan.jp/w/images/f/fb/SaratogaChibi.png "USS Saratoga") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)** **[USS Saratoga](https://azurlane.koumakan.jp/Saratoga)**
+![CV](h/Images-for-the-Guide/LexingtonChibi.png "USS Lexington") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)**
+
 * Skill: 
   * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Airpower).
   * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
   * Have a 2/6/0 loadout.
 
 * Recommended Loadouts:
-  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
-  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; SB2C Helldiver; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
->These two ships are identical in use (albeit not in popularity, only Saratoga has a Kai to this day), and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo.  
-They don't launch fast, but when they do they really leave a mark - make sure to stagger the launches as to not overwrite the Damage buff, though.
+>Identical in use to Saratoga, both her pre- and post-Kai version; the only difference is she doesn't get a Kai, on account of not being a loli.  
  
- ![CV](https://azurlane.koumakan.jp/w/images/c/c4/Ark_RoyalChibi.png "HMS Ark Royal") - **[HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)**
+ ![CV](/Images-for-the-Guide/Ark_RoyalChibi.png "Lolicon Royal") - **[HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)**
 * Skill: 
   * Upon airstrike launch, reduce all on-screen enemies' speed by 60% and launch 3 biplanes armed with 1 aimed torpedo each.
   * 25% chance to do double damage on Airstrike.
@@ -2555,23 +2651,10 @@ They don't launch fast, but when they do they really leave a mark - make sure to
   * [Poverty] Fairey Fulmar; Tenzan; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
->A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen.   
-Whether it's boss-busting or wave-clearing, give her the appropriate planes and she'll do a pretty good job - just don't expect much of anything from her terrible DBs, and definitely do not expect your carrier-based torp to magically all hit afterwards.
- 
-![CV](https://azurlane.koumakan.jp/w/images/0/00/IllustriousChibi.png "HMS Illustrious") - **[HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)**
-* Skill: 
-  * Upon airstrike launch, grants every vanguard unit a shield for 10% of Illustrious' max HP, lasting 8s.
-  * Has a 6/0/2 loadout.
+>A rare Torpedo-focused CV, coming stock with two powerful TB slots, a chance for double damage and a skill that lets her launch even more WHILE slowing any enemy on the screen.   
+Whether it's boss-busting or wave-clearing, give her the appropriate planes and she'll do a pretty good job - just don't expect much of anything from her terrible DBs and definitely do not expect your carrier-based torp to magically all hit afterwards, though it will help.
 
-* Recommended Loadouts:
-  * [General Purpose] F6F Hellcat; F6F Hellcat; Ryusei; Hydraulic Catapult; Hydraulic Catapult
-  * [Poverty] F4U Corsair; F4U Corsair; Barracuda or Tenzan; Hydraulic Catapult; Hydraulic Catapult
-
-* Desc: Zero to (AS) Hero.
->A very defensive-focused CV with double fighter slots, a shield generator and staggering amounts of Air Superiority. Her low DPS is the stuff of legend.    
-Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo strikes.
-
-#### ![CVL](https://azurlane.koumakan.jp/w/images/6/62/RyuujouChibi.png "Ryuujou") - **[IJN Ryuujou](https://azurlane.koumakan.jp/Ryuujou)**
+#### ![CVL](/Images-for-the-Guide/RyuujouChibi.png "Ryuujou") - **[IJN Ryuujou](https://azurlane.koumakan.jp/Ryuujou)**
 * Skill: 
   * Upon airstrike launch, 70% chance for +15% Aviation (self) and +15% Reload (all CVL) and -15% damage received (all CV/L) for 8s
   * 5 seconds after her first two airstrikes, launches 3 additional Suisei (dropping x1 1000lb bomb, x2 100lb bombs).
@@ -2584,7 +2667,7 @@ Her niche is providing air superiority and protecting the frontline from harm th
 * Desc: 
 >A decent little cheerleader for the rest of your carriers, armed with a limited complement of surplus Suisei to throw out and a solid statline to supplement the smattering of buffs she throws out. Ok.
 
-![CV](https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** **(T0 w/ other KMS units)**
+![CV](/Images-for-the-Guide/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** **(T1 w/ other KMS units)**
 * Skill: 
   * 30% increase in efficiency for equipped German planes
   * All KMS ships in fleet take 15% less damage.
@@ -2616,7 +2699,7 @@ Serviceable enough.
 
 ### Tier 2:
 ---
-#### ![CV](https://azurlane.koumakan.jp/w/images/d/db/HornetChibi.png "USS Hornet") - **[BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)**
+#### ![CV](/Images-for-the-Guide/HornetChibi.png "USS Hornet") - **[BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)**
 * Skill: 
   * Upon airstriking, 60% chance to launch a [barrage](http://p8.qhimg.com/t01f5e40a0d4aa5e59e.gif).
     * The 12 BOMBS deal 222 bdmg with 80/90/110 mods. Their damage is modified by 100% of the unit's Aviation.
@@ -2631,7 +2714,7 @@ Serviceable enough.
 >Once a meme, now a force to be reckoned with. Think of her as a barrage boat in carrier form - her main job is blasting ships into smithereens, and she does that remarkably well with two powerful skills dedicated precisely to that and a solid statline.  
 Just don't expect much in the way of support, beyond the air coverage provided by her okay fighters.
 
- #### ![CVL](https://azurlane.koumakan.jp/w/images/9/9a/ChaserChibi.png "Chaser") - [HMS Chaser](https://azurlane.koumakan.jp/Chaser)
+ #### ![CVL](/Images-for-the-Guide/ChaserChibi.png "Chaser") - [HMS Chaser](https://azurlane.koumakan.jp/Chaser)
 * Skill: 
   * Upon airstrike launch, 15% chance to immediately reload it.
   * Upon airstrike launch, reveal all submarines on the screen for 10s and launch three biplanes armed with depth charges and two parallel torpedoes each.
@@ -2646,19 +2729,32 @@ Just don't expect much in the way of support, beyond the air coverage provided b
 With functionally 9 planes at her back and call without giving up her AA guns or high Reload, she can handily rival most other CVL in DPS while keeping some support capabilites to her credit - as well as a decent chance to throw out torrents of planes.  
 That said, she's still mostly an attack craft - her ASW capabilties, while a nice touch, are entirely useless on non-ASW maps and unnecessary there, given how easily dealt with subs are.
 
- #### ![CVL](https://azurlane.koumakan.jp/w/images/f/fb/HermesKaiChibi.png "Hermes Kai") - [HMS Hermes Kai](https://azurlane.koumakan.jp/Hermes#retrofit)
+ #### ![CVL](/Images-for-the-Guide/HermesKaiChibi.png "Hermes Kai") - [HMS Hermes Kai](https://azurlane.koumakan.jp/Hermes#retrofit)
 * Skill: 
   * Upon airstriking, 25% chance to deal x2 damage for 10s.
   * Every 20s, launch one of three [barrages](http://p9.qhimg.com/t01a72c2315e7c4be51.gif); 33% chance for 1 HE nuke, 33% chance for 3 AP bombs; 34% chance for 24 Normal bomblets.
     * The 1 NUKE deals 294 bdmg AND a 50% chance to inflict Flooding; the 3 BOMBS deal 248 bdmg; the 24 BOMBLETS deal 72 bdmg. Their damage is modified by 100% of the unit's Aviation and all have the same 100/100/100 mods.
   * Has a 0/0/6 loadout.
 
-* Desc: Airstrikes on motorcycles!
+* Desc: War games on motorcycles!
 >Hellbent on dealing surface damage and dealing it (relatively) quickly, Hermes Kai boasts staggering amounts of Reload that allow her to airstrike in just about 19s with high-efficiency BiS torpedo bombers - and little to no support capabilities, which mostly come in screenclear form.  
 Her skills further semi-reliably let her stack her hand, either by dealing more damage on both her airstrike and the subsequent barrage or just by barraging and potentially cracking single hard targets or dispatching a cluster of adds.  
 All things considered - pretty okay, and very cheap to boot.
 
-#### ![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(T0.5 w/ Shoukaku)**
+![CV](/Images-for-the-Guide/IllustriousChibi.png "Lusty") - **[HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)**
+* Skill: 
+  * Upon airstrike launch, grants every vanguard unit a shield for 10% of Illustrious' max HP, lasting 8s.
+  * Has a 6/0/2 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; F6F Hellcat; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; F4U Corsair; Barracuda or Tenzan; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: Zero to (AS) Hero.
+>A very defensive-focused CV with double fighter slots, a shield generator and staggering amounts of Air Superiority. To this day, her low DPS is the stuff of legend.    
+Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo strikes.
+
+#### ![CV](/Images-for-the-Guide/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(T0.5 w/ Shoukaku)**
 * Skill: 
   * Increases next airstrike damage by 20% on launching airstrike, stacks up to 3 times
   * When paired, increases Air Power by 20% and takes 20% less damage
@@ -2690,7 +2786,7 @@ She's not *bad* per se, but she's not that good or useful either.
 
 ### Honourable Mentions:
 ---
-#### ![CVL](https://azurlane.koumakan.jp/w/images/1/16/BogueKaiChibi.png "USS Bogue Kai") - **[USS Bogue Kai](https://azurlane.koumakan.jp/Bogue)**
+#### ![CVL](/Images-for-the-Guide/BogueKaiChibi.png "USS Bogue Kai") - **[USS Bogue Kai](https://azurlane.koumakan.jp/Bogue)**
 * Skill: 
   * 15% activation when launching an airstrike, the next airstrike becomes available immediately
   * Increases AA for backline by 15%, does not stack with other command skills that have similar effect.
@@ -2700,7 +2796,7 @@ She's not *bad* per se, but she's not that good or useful either.
 >Similar in concept and usage to Ranger, her airstrikes come out faster but don't provide close to the same weight of fire.  
 Still, high plane efficiency coupled with a neat AA buff for the backline allows her to be decently useful and cost-effective in most situations.
 
-#### ![CV](https://azurlane.koumakan.jp/w/images/1/1b/WaspChibi.png "USS Wasp") - [USS Wasp](https://azurlane.koumakan.jp/Wasp)
+#### ![CV](/Images-for-the-Guide/WaspChibi.png "USS Wasp") - [USS Wasp](https://azurlane.koumakan.jp/Wasp)
 * Skill: 
   * When deployed w/ at least 1 HMS backliner and upon airstrike launch, 50% chance to launch a Spitfire squadron.
   * Has a 3/3/2 loadout.
@@ -2710,7 +2806,7 @@ Still, high plane efficiency coupled with a neat AA buff for the backline allows
 Her staline is somewhat lacklustre, her skill doesn't add much to her DPS and pushes you into using HMS backliners.  
 While definitely usable, her only real use case would be plugging Hard Mode enforced ship requirements.
 
-#### ![CV](https://azurlane.koumakan.jp/w/images/5/59/Akagi-chanChibi.png "Akagi-chan") - [IJN Akagi-chan](https://azurlane.koumakan.jp/Akagi-chan)
+#### ![CV](/Images-for-the-Guide/Akagi-chanChibi.png "Akagi-chan") - [IJN Akagi-chan](https://azurlane.koumakan.jp/Akagi-chan)
 * Skill: 
   * If in a fleet with 3+ IJN units, 12s after the start of the battle launches a special plane barrage (3 Type 99 w/ x1 500lb, x2 100lb bombs; 80% Aviation)
   * Upon airstriking, the vanguard ship with the lowest HP becomes invincible for 5s.
@@ -2732,7 +2828,7 @@ However, invincibility *can* go where no bubble has gone before in EX maps...
 >So Akagi now has the dubious honour of having not one but *two* whole very questionable alternate versions. Yay?  
 At any rate, Muse Akagi is absolutely worthless outside of a Muse fleet - her skills just do not work without them and no less than a full fleet will make her comparable to the regular one - and desperately needs that +40% Aviation to be relevant, as the barrages themselves are one-offs and suffer from low damage on top of that.
 
-#### ![CVL](https://azurlane.koumakan.jp/w/images/f/ff/HoushouChibi.png "IJN Houshou") - [IJN Houshou](https://azurlane.koumakan.jp/Houshou)
+#### ![CVL](/Images-for-the-Guide/HoushouChibi.png "IJN Houshou") - [IJN Houshou](https://azurlane.koumakan.jp/Houshou)
 * Skill: 
   * Increases experience gained by CV/L by 15%
   * +15% Aviation to all CV/L for 8s after Houshou launches an airstrike.
@@ -2742,7 +2838,7 @@ At any rate, Muse Akagi is absolutely worthless outside of a Muse fleet - her sk
 >The first carrier to ever sail the seas, and it shows. As THE early prototype for the ships that would later dominate the oceans, she's incredibly weak and brought further down by her mandatory CL gun - which can barely deal scratch damage, owing to her 0 Firepower statline.  
 Why is she even mentioned, then? Because her +XP skill stacks with Langley's, that's why, and having her around as a 0LB exp booster may be a good idea to hasten the leveling process.
 
-#### ![CV](https://azurlane.koumakan.jp/w/images/a/a3/ZeppyChibi.png "Zeppy") - [KMS Zeppy](https://azurlane.koumakan.jp/Zeppy)
+#### ![CV](/Images-for-the-Guide/ZeppyChibi.png "Zeppy") - [KMS Zeppy](https://azurlane.koumakan.jp/Zeppy)
 * Skill: 
   * Every 8s, gain a stack of +80FP; when 3 stacks are reached, fires a special barrage (large V of AP shots with minor diagonal lines of AP shots) with increased damage if mounting a CL gun.
   * Gain +5% AA, Aviation and Reload for every KMS unit in the fleet.
@@ -2752,17 +2848,6 @@ Why is she even mentioned, then? Because her +XP skill stacks with Langley's, th
 >The one and only carrier fully capable of defending herself, and actually contributing somewhat to the fight through her barrage.  
 A remarkable claim to fame for her class, but somewhat let down by her poor efficiencies and poor offensive statline; fielding her in a KMS fleet is all but necessary to have her compete in battle effectiveness with light carriers.  
 She *does* keep Tirpitz happy, though.
-
-#### ![CV](https://azurlane.koumakan.jp/w/images/b/ba/FumiruiruChibi.png "Fumirul") - [Fumirul](https://azurlane.koumakan.jp/Fumiruiru)
-* Skill: 
-  * Upon airstrike launch, 60% chance to heal the unit with the lowest current HP by 10% of its max HP.
-  * 10s after battle start and every 20s afterwards, fires a narrow beam-like barrage straight ahead.
-  * Has a 2/0/6 loadout.
-
-* Desc: 
->Despite her predictably awful statline - it's a collab ship, after all - Fumirul has some interesting tricks up her oversized sleeves that might, just might, justify taking her along.
-First is her heal, which unlike most other heals can somewhat reliably affect the backline too, which in turn makes her quite valuable in BB-heavy environments where the flagship is often exposed to enemy fire; second is her FREAKIN' LAZOR BEAM, which is both badass and nasty, though hampered by its strictly linear nature.
-Interesting and potentially useful, just don't expect to see her launch often.
 
 <br/><br/>
 ---
@@ -2783,7 +2868,7 @@ Here's a quick rundown of how they work.
 Given these premises, it quickly becomes apparent that **submarine fleets are meant to be fielded as a trio**; whether it be mauling nodes on the map or providing heavy torpedo support, they only reach peak efficiency as a full fleet, and in the case of map strikes such efficiency comes at no oil cost whatsoever.
 As such, this section *does not contain tiers* but specific recommendations and groupings - let's get to them.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/9/90/U-47Chibi.png "U-47") ![SS](https://azurlane.koumakan.jp/w/images/thumb/8/81/U-73Chibi.png/139px-U-73Chibi.png "U-73") ![SS](https://azurlane.koumakan.jp/w/images/9/94/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/5/5d/U-101Chibi.png "U-101") ![SS](https://azurlane.koumakan.jp/w/images/0/03/U-110Chibi.png "U-110") ![SS](https://azurlane.koumakan.jp/w/images/2/22/U-522Chibi.png "U-522") ![SS](https://azurlane.koumakan.jp/w/images/thumb/4/41/U-556Chibi.png/132px-U-556Chibi.png "U-556") ![SS](https://azurlane.koumakan.jp/U-557/Gallery#/media/File:U-557Chibi.png "U-557") - [KMS U-47](https://azurlane.koumakan.jp/U-73), [KMS U-73](https://azurlane.koumakan.jp/U-73), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-101](https://azurlane.koumakan.jp/U-101), [KMS U-110](https://azurlane.koumakan.jp/U-110), [KMS U-522](https://azurlane.koumakan.jp/U-522), [KMS U-556](https://azurlane.koumakan.jp/U-556), [KMS U-557](https://azurlane.koumakan.jp/U-557)
+#### ![SS](/Images-for-the-Guide/U-47Chibi.png "U-47") ![SS](/Images-for-the-Guide/U-73Chibi.png "U-73") ![SS](/Images-for-the-Guide/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/5/5d/U-101Chibi.png "U-101") ![SS](/Images-for-the-Guide/U-110Chibi.png "U-110") ![SS](/Images-for-the-Guide/U-522Chibi.png "U-522") ![SS](/Images-for-the-Guide/U-556Chibi.png/132px-U-556Chibi.png "U-556") ![SS](/Images-for-the-Guide/U-557Chibi.png "U-557") - [KMS U-47](https://azurlane.koumakan.jp/U-73), [KMS U-73](https://azurlane.koumakan.jp/U-73), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-101](https://azurlane.koumakan.jp/U-101), [KMS U-110](https://azurlane.koumakan.jp/U-110), [KMS U-522](https://azurlane.koumakan.jp/U-522), [KMS U-556](https://azurlane.koumakan.jp/U-556), [KMS U-557](https://azurlane.koumakan.jp/U-557)
 * Skill (U-47): 
   * Enemies hit by U-47's torpedoes take +40% damage from U-47's next torpedo.
   * If sortied solo, deal +20% damage to BB, gain +1 Hunting Range and +2 Ammo.
@@ -2827,7 +2912,7 @@ Highly synergistic, they all benefit from hanging out with each other but are fr
 *About U-556...* yes, having someone reach critical HP is a terrible condition, and now she's not the only option for a full KMS fleet anymore she's the worst sub in the game. Sorry.  
 *About all of them...* their barrages are semi-homing, just like regular acoustic torps. Have fun.  
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/b/bd/I-19Chibi.png "I-19") ![SS](https://azurlane.koumakan.jp/w/images/5/58/I-56Chibi.png "I-56") ![SS](https://azurlane.koumakan.jp/w/images/6/67/I-168Chibi.png "I-168") - [IJN I-19](https://azurlane.koumakan.jp/I-19), [IJN I-56](https://azurlane.koumakan.jp/I-56), [IJN I-168](https://azurlane.koumakan.jp/I-168) 
+#### ![SS](/Images-for-the-Guide/I-19Chibi.png "I-19") ![SS](/Images-for-the-Guide/I-56Chibi.png "I-56") ![SS](/Images-for-the-Guide/I-168Chibi.png "I-168") - [IJN I-19](https://azurlane.koumakan.jp/I-19), [IJN I-56](https://azurlane.koumakan.jp/I-56), [IJN I-168](https://azurlane.koumakan.jp/I-168) 
 * Skill (I-19): 
   * 8s after joining the battle, launches a wave of penetrating torpedoes (up to 2 pierces, similarly to AP shells).
   * I-19's torpedoes lose 1 Speed and deal +12% Damage.
@@ -2845,7 +2930,7 @@ Highly synergistic, they all benefit from hanging out with each other but are fr
 About I-56... notice how it only says "AC Denial/Incapability"? Yes, this does mean she still procs in EN, where there is no Airspace Control at all.
 About all of them... don't mind the slower torpedoes, it's actually a benefit rather than a detriment! Fast torpedoes may well zip past the intended target if it moved, but slow ones have a good chance to strike that target on the way back.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/9/96/AlbacoreChibi.png "Albacore") ![SS](https://azurlane.koumakan.jp/w/images/8/87/CavallaChibi.png "Delet This") ![SS](https://azurlane.koumakan.jp/w/images/0/0f/DaceChibi.png "Dace") ![SS](https://azurlane.koumakan.jp/w/images/c/c6/I-26Chibi.png "I-26") ![SS](https://azurlane.koumakan.jp/w/images/4/4b/I-58Chibi.png "I-58") - [USS Albacore](https://azurlane.koumakan.jp/Albacore), [USS Cavalla](https://azurlane.koumakan.jp/Cavalla), [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
+#### ![SS](/Images-for-the-Guide/AlbacoreChibi.png "Albacore") ![SS](/Images-for-the-Guide/CavallaChibi.png "Delet This") ![SS](/Images-for-the-Guide/DaceChibi.png "USS Cameltoe") ![SS](/Images-for-the-Guide/I-26Chibi.png "I-26") ![SS](/Images-for-the-Guide/I-58Chibi.png "I-58") - [USS Albacore](https://azurlane.koumakan.jp/Albacore), [USS Cavalla](https://azurlane.koumakan.jp/Cavalla), [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
 * Skill (Albacore): 
   * Deal +10% Damage to DD, CL and CV.
   * Launches a special torpedo barrage with 70% Ignition chance upon surfacing.
@@ -2869,7 +2954,7 @@ About all of them... don't mind the slower torpedoes, it's actually a benefit ra
 >A rather diverse bunch of girls, these ones, but they all share a trait - their Oxygen tanks are ample enough to accommodate for two full Mark 16 torpedo volleys, which means they can safely be ran with dual Oxygen Torpedoes.  
 *About I-58...* she is a solid starter, as she gets a special barrage to go along the extra O2.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/e/e8/SurcoufChibi.png "Surcouf") - [FFNF Surcouf](https://azurlane.koumakan.jp/Surcouf)
+#### ![SS](/Images-for-the-Guide/SurcoufChibi.png "Surcouf") - [FFNF Surcouf](https://azurlane.koumakan.jp/Surcouf)
 * Skill: 
   * Upon joining the battle, grant +20% Accuracy to the vanguard.
   * Upon surfacing, fire her barrage and stay on the field for 12s longer.
@@ -2880,7 +2965,7 @@ About all of them... don't mind the slower torpedoes, it's actually a benefit ra
 Firstly, her guns are not only actually useful but also threatening; secondly, she bolsters the vanguard's fighting prowess with a hefty Accuracy buff; thirdly, she stays on the field for longer than anyone else while making full use of her entire armament throughout it all.
 Her one downside is a subpar hunting range, but she's not meant to stay front and centre anyway.
 
-#### ![SSV](https://azurlane.koumakan.jp/w/images/8/81/I-13Chibi.png "Seaslug") - [IJN I-13](https://azurlane.koumakan.jp/I-13)
+#### ![SSV](/Images-for-the-Guide/I-13Chibi.png "Seaslug") - [IJN I-13](https://azurlane.koumakan.jp/I-13)
 * Skill: 
   * Upon joining the battle, launch a unarmed Saiun and grant +10% Damage to the backline.
   * Gain +40 Oxygen.
@@ -2891,7 +2976,7 @@ Her one downside is a subpar hunting range, but she's not meant to stay front an
 I-13 is the first of her class to reach Azur Lane, and despite the very mixed historical results, she puts on an impressive showing here - the damage buff is extremely welcome, the extra Oxygen nixes the need for a snorkel, her hunting range is comfortably wide and her Seiran can make a real contribution to the fight.  
 On the flipside, her barrage is extremely linear and runs the very real risk of being entirely wasted if sortied as a sideliner.
 
-#### ![SS](https://azurlane.koumakan.jp/w/images/6/61/I-25Chibi.png "I-25") - [IJN I-25](https://azurlane.koumakan.jp/I-25)
+#### ![SS](/Images-for-the-Guide/I-25Chibi.png "I-25") - [IJN I-25](https://azurlane.koumakan.jp/I-25)
 * Skill: 
   * Upon joining the battle, launch a Type 0 Seaplane armed with a single bomb and grant +10% Accuracy to all subs in the fleet.
   * Upon surfacing, launch a torpedo barrage; also, her gunfire and barrage torpedoes have a 70% chance to lower the Reload/Acc of the enemies struck by 10%.
@@ -2924,7 +3009,7 @@ Despite the quirks, she's still a powerful sub and one you need not fear will cr
 TLDR; they contribute little to nothing to the fight, their healing is pathetic and vastly outclassed as soon as you use more than a single DD for your vanguard, the +1 ammo is easily negated by a single ambush (and given the inability to attack surface targets they can't assist the fleet in the battle either) and they cost the same as the much superior healer options (Unicorn / Shouhou / Arizona).  
 However, **Vestal** - unlike Akashi - has a few redeeming features that make her worth taking along for lategame low(ish)-cost farming, provided you don't mind the increase in clearing times.
 
-#### ![AR](https://azurlane.koumakan.jp/w/images/3/3c/VestalChibi.png "USS Vestal") - [USS Vestal](https://azurlane.koumakan.jp/Vestal)
+#### ![AR](/Images-for-the-Guide/VestalChibi.png "USS Vestal") - [USS Vestal](https://azurlane.koumakan.jp/Vestal)
 * Skill: 
   * Once per battle, Vestal heals a ship under 20% HP by 20% of the healed's HP; if the target is Enterprise, the healing amount is increased by 50%.
   * Begin each Sortie with 3 Emergency Repairs (consumable +10% fleetwide HP heals, used in the map screen). 
