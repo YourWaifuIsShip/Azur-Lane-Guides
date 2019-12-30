@@ -15,7 +15,7 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 
 > IJN Hatsuharu did not join the Tier Guide, on account of her also being Kagerou but worse.
 - Similar but weaker statline;
-- Same skills, but misses Kagerou's Interference.
+- Same skills, but lacks Kagerou's Interference and the torpedo buff only affects DDs.
 
 [09/12/2019]
 > Natsuiro Matsuri did not join the Tier Guide, on account of her middling statline and poor skillset.
