@@ -2401,7 +2401,7 @@ Formidable also happens to have a barrage if her Albacore tax is paid, but expec
 >Arguably the best support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
  
  
- ![CVL](/Images-for-the-Guide/Ryuuhou.png "Ryuuhou") - **[IJN Ryuuhou](https://azurlane.koumakan.jp/Ryuuhou)**
+ ![CVL](/Images-for-the-Guide/RyuuhouChibi.png "Ryuuhou") - **[IJN Ryuuhou](https://azurlane.koumakan.jp/Ryuuhou)**
 * Skill: 
   * The first three airstrikes launched by Ryuuhou heal the most damaged target in the fleet 3 times over 3s for 3% of Ryuuhou's max HP (if the unit being healed stops being the most damaged, the new most damaged one will be healed by the next healing tick instead): if Ryuuhou is deployed in a full backline, increase the heal potency to 6% of Ryuuhou's max HP.
   * Decrease the damage the vanguard takes from enemy submarines by -12%; upon submarine fleet arrival in battle, heals them by 20% of their max HP; finally, whenever your submarines sink an enemy unit, gain a +3.5% damage stack up to a max of 6 stacks (+21% dmg total).
