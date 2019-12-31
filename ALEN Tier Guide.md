@@ -24,7 +24,7 @@ Good reading, and godspeed cap'n!
   
   
 #### Tier Explanations:
-- Tier 0                : The best of the best, rivaled by few and matched by none. They set the bar for everyone else in one or more specific areas.
+- Tier 0                : The best of the best, rivaled by few and matched by none. They set the bar for everyone else in one or more specific areas, without their excellence being marred by some other flaw.
 - Tier 0.5              : Terrifyingly effective units with little to no real competition in their class or function, usually by virtue of exceptionally strong skills and statlines.
 - Tier 1                : Generally very effective units, albeit marred by some minor flaw that can be easily overlooked or fixed.
 - Tier 1.5              : Niche, quirky or plain but solid, these units can perform their roles well but will need to be handled with care.
