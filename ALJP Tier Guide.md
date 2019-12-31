@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased JP Tier Guide (IJN BIAS EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased EN Tier Guide (IJN BIAS EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -37,7 +37,7 @@ Good reading, and godspeed cap'n!
   
 #### Retrofit/Kai Priority List:
 - DD                  : Laffey > Ayanami = Z23 > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
-- CL                  : San Diego* > Jintsuu > Leipzig = Leander > Emile Bertin > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
+- CL                  : San Diego* > Jintsuu > Leipzig = Leander > Kinu = Emile Bertin > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
 - CA                  : London > Mogami > Portland > Furutaka/Kako > Suffolk
 - BB/C                : Hyuuga > Warspite* > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) = Nevada/Oklahoma
 - CV/L                : Hiryu/Soryu > Shouhou > Langley > Ranger = Saratoga
@@ -69,7 +69,10 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - IJN Suruga joins the Guide as T1.5.
 
 - USS Bataan has been promoted to T0.5; given her un-CVL-like DPS and impressive support suite, she's amply deserved it.
+- IJN Kirishima has been promoted to T1; a very accomplished BC, well suited to mulching trash mobs and airstrikes while still pummeling enemy battleships, and one of the only big guns capable of barraging from the sidelines as well as she does from the middle.
+- IJN Kaga (BB) has been demoted to T1.5; way too much competition in T1 for her to still be worth a place there, the demotion brings her more in line with the original sidegrade she was to, Washington.
 - HMS Illustrious has been demoted to T2; she's too expensive and too weak to compete with other carriers, Langley and Bataan in primis, and her Air Superiorty isn't nearly enough to make up for it.
+
 
 - ALL IMAGES HAVE BEEN RESTORED. FINALLY.
 
@@ -1899,21 +1902,21 @@ Bit RNG still, but there's nobody cheaper than them in their class.
 North Carolina goes harder than anyone else on the AA front, as far as backliners are concerned - not only does she prevent plane damage with her skill, she also grows stronger the more AA she acquires (and she's plenty strong to begin with, sporting a very high base FP thanks to said skill).  
 Whether you do actually need all that AA is another matter entirely, but rest assured that she will lay on the hurt even if you don't - and if you do, that's just gravy.
 
-![BB](/Images-for-the-Guide/Kaga_(Battleship)Chibi.png "IJN Kaga BB") - **[IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))**
-* Skill:
-  * 50% chance on Main Gun fire to launch a special barrage (long range: tight 4-shot wave, tight 4-shot wave with 2 shots to the sides; short range: wide V-shaped spread of small bullets)
-  * 10s after battle start and every 20s, afterwards, launches a torpedo barrage (2 lines of 2 aimed torps).
+![BB](/Images-for-the-Guide/KirishimaChibi.png "Kirishima") - **[IJN Kirishima](https://azurlane.koumakan.jp/Kirishima)**
+* Skill: 
+  * 60% chance upon Main Gun fire, launch an aimed [Sanshikidan barrage](http://p1.qhimg.com/dr/400__/t01e04f9bdfd5e64b03.gif); also, deal +15% damage to BB.
+    * The 128 PELLETS deal 20 bdmg with 125/110/95 mods and a 110% Coefficient, plus a 50% Ignition chance. The damage is modified by 150% of the unit's FP.
 
 * Recommended Loadouts:
   * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
   * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
   * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
-- Desc: A sidegrade to Washington.
->Sturdier, more powerful, better armed and in possession of a much more useful synergy (Akagi still gets her +35% Aviation buff with her) in PvE, BB Kaga - affectionately called "Baga" - does however forfeit some reliability on her enhanced barrage and is stuck with an atrocious AA stat.  
-She also has a few torps to throw out every now and then, but they're fairly lacklustre.
+* Desc: 
+>Adds and airstrikes slayer extraordinaire thanks to her barrage, accomplished fireboat slayer owing to her CL guns on a BC frame, and even gets an edge against the most threatening enemies you can face later on.
+A very solid defensive pick, further helped by the fact her Sanshikidan barrage doesn't need her to be in the flagship slot to do work.
 
-![BB](/Images-for-the-Guide/YamashiroChibi.png "Yamashiro") ![BB](/Images-for-the-Guide/FusouChibi.png "Fusou") - **[IJN Yamashiro](https://azurlane.koumakan.jp/Yamashiro)** **[IJN Fusou](https://azurlane.koumakan.jp/Fusou)** **(Kai)**
+![BB](/Images-for-the-Guide/YamashiroChibi.png "Yamashiro") ![BB](/Images-for-the-Guide/FusouChibi.png "Fusou") - **[IJN Yamashiro](https://azurlane.koumakan.jp/Yamashiro)** **[IJN Fusou](https://azurlane.koumakan.jp/Fusou)**
 * Skill: 
   * +20% FP to self.
   * (Kai) On first airstrike, launch additional Zuiun.
@@ -2018,18 +2021,19 @@ If you can guarantee your target won't be moving around much at all and is bigge
 >An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.  
 As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
  
- ![BB](/Images-for-the-Guide/KirishimaChibi.png "Kirishima") - **[IJN Kirishima](https://azurlane.koumakan.jp/Kirishima)**
-* Skill: 
-  * 60% chance upon Main Gun fire, launch a semi-aimed Sanshikidan barrage (8 shells in two waves of four, heading towards the nearest enemies); also, deal +15% damage to BB.
+ ![BB](/Images-for-the-Guide/Kaga_(Battleship)Chibi.png "IJN Kaga BB") - **[IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))**
+* Skill:
+  * 50% chance on Main Gun fire to launch a special barrage (long range: tight 4-shot wave, tight 4-shot wave with 2 shots to the sides; short range: wide V-shaped spread of small bullets)
+  * 10s after battle start and every 20s, afterwards, launches a torpedo barrage (2 lines of 2 aimed torps).
 
 * Recommended Loadouts:
   * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
   * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
   * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
-* Desc: 
->(PvE) Airstrike murderer extraordinaire thanks to her barrage, accomplished fireboat slayer owing to her CL guns on a BC frame, and even gets an edge against the most threatening enemies you can face later on.
-A very solid defensive pick, further helped by the fact her Sanshikidan barrage doesn't need her to be in the flagship slot to do work.
+- Desc: A sidegrade to Washington.
+>Sturdier, more powerful, better armed and in possession of a much more useful synergy (Akagi still gets her +35% Aviation buff with her) in PvE, BB Kaga - affectionately called "Baga" - does however forfeit some reliability on her enhanced barrage and is stuck with an atrocious AA stat.  
+She also has a few torps to throw out every now and then, but they're fairly lacklustre.
  
  ![BB](/Images-for-the-Guide/KongouChibi.png "Bingo Bango Bongou") - **[IJN Kongou](https://azurlane.koumakan.jp/Kongou)**
 * Skill: 
@@ -2504,20 +2508,6 @@ On a sidenote, she's also one of the carriers least affected by enemy AA boats d
 
 ### Tier 1:
 ---
-![CVL](/Images-for-the-Guide/BataanChibi.png "Arminsky") - **[USS Bataan](https://azurlane.koumakan.jp/Bataan)** **(T0.5 if not deployed as flag)
-* Skill: 
-  * Gain +30% Fighter Efficiency if using a F6F Hellcat; also, 70% chance to launch three more F6F when airstriking.
-    * The 6 500lb BOMBS carried by the F6F deal 380 bdmg with 80/90/110 mods. They are modified by 80% of the unit's Aviation stat.
-  * If not sortied as flagship, grant +15% Reload to other CV/L in the fleet and +50 AA to the flagship.
-  * Has a 3/0/3 loadout.
-
-* Recommended Loadouts:
-  * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
-  * [Poverty] F6F Hellcat; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
-
-* Desc: 
->More independent than Indepence and rolling in Hellcats, Bataan provides great DPS and support for her class and is a very solid addition to most carrier compositions - especially those who need some extra fighter coverage.
-
 ![CVL](https://azurlane.koumakan.jp/w/images/9/9f/Bunker_HillChibi.png "Bunker Hill") - **[USS Bunker Hill](https://azurlane.koumakan.jp/Bunker_Hill)** (T0.5 w/ USS BBs as flagship, T0.5 w/ CV/L)
 * Skill: 
   * Gain +15% Aviation; if flagship, grant +15% Firepower to USS BBs; if not, grant +15% Firepower and AA to USS DDs.
@@ -2816,7 +2806,7 @@ While definitely usable, her only real use case would be plugging Hard Mode enfo
 >Smol Akagi is an interesting little thing, with those invincibility-granting airstrikes of hers - but lacking a real purpose in an environment crowded with excellent IJN DPS carriers, not least of which Akagi proper (against which her barrage really can't stack up), and a better vanguard protection in the form of Illustrious' bubble.
 However, invincibility *can* go where no bubble has gone before in EX maps...
 
-#### ![CV](/Images-for-the-Guide/Akagi_(Muse)Chibi.png "Musikagi") - [Muse Akagi](https://azurlane.koumakan.jp/Akagi_(Muse))
+#### ![CV](https://azurlane.koumakan.jp/w/images/3/32/Akagi_%28Muse%29Chibi.png "Musikagi") - [Muse Akagi](https://azurlane.koumakan.jp/Akagi_(Muse))
 * Skill: 
   * 10s after launching her first airstrike and depending on the amount (odd/even) of Muse units in the fleet, launch a dive bomber/torpedo bomber barrage.
     * The 3 500lb BOMBS deal 226bdmg w/ 80/90/110 mods; the 6 100lb BOMBS deal 96 bdmg w/ 80/85/100 mods. Both are modified by 80% of the unit's Aviation stat.
