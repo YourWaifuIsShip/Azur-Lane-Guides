@@ -848,7 +848,7 @@ That said, you will need to deploy a few carriers to get the full experience and
 Your big guns in particular will thank her for her support.
 
 
-![CL](/Images-for-the-Guide/KinuKai.png "Kinu Kai") - **[IJN Kinu Kai](https://azurlane.koumakan.jp/Kinu#retrofit)**
+![CL](/Images-for-the-Guide/KinuKaiChibi.png "Kinu Kai") - **[IJN Kinu Kai](https://azurlane.koumakan.jp/Kinu#retrofit)**
 * Skill: 
   * Gain +15% FP, AA and ASW; also, decrease Damage sustained by SS and SSV by 15%.
   * Deal +30% Torpedo Damage; also, when launching a torpedo spread, 30% chance to launch a second one.
