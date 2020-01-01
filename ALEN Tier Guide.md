@@ -851,7 +851,7 @@ Your big guns in particular will thank her for her support.
 ![CL](/Images-for-the-Guide/KinuKaiChibi.png "Kinu Kai") - **[IJN Kinu Kai](https://azurlane.koumakan.jp/Kinu#retrofit)**
 * Skill: 
   * Gain +15% FP, AA and ASW; also, decrease Damage sustained by SS and SSV by 15%.
-  * Deal +30% Torpedo Damage; also, when launching a torpedo spread, 30% chance to launch a second one.
+  * Deal +15% Torpedo Damage; also, when launching a torpedo spread, 30% chance to launch a second one.
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
@@ -2059,7 +2059,7 @@ She also has a few torps to throw out every now and then, but they're fairly lac
 
 ![BC](/Images-for-the-Guide/SurugaChibi.png "Horny Waifu") - **[IJN Suruga](https://azurlane.koumakan.jp/Suruga)**
 * Skill: 
-  * Every 20s, 70% chance to launch a [barrage](http://p2.qhimg.com/dr/400__/t01865159fd89fcb4e4.gif)
+  * Every 20s, 60% chance to launch a [barrage](http://p2.qhimg.com/dr/400__/t01865159fd89fcb4e4.gif)
     * The 4 AIMED TORPEDOES deal 96 bdmg with 80/110/130 mods; the 10 SHELLS deal 130 bdmg with 70/100/90 mods; the 36 PELLETS deal 20 bdmg with 100/80/70; the 24 PVP PELLETS deal 20 bdmg with 100/80/60 mods. Their damages are modified by 100% of the respective stats.
   * When a backliner takes damage, 70% chance to reduce the damage dealt to backliners by 12% for 15s (with a 20s cooldown between activations); also, once per battle and upon falling below 20% HP, restore 10% of her max HP.
 
