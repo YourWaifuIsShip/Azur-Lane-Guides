@@ -2188,9 +2188,8 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
 
 * Desc: Consistently bad.
 >One really has to wonder what has Izumo ever done to developers to warrant such a treatment.
-As awful in AL as she is in WoWS, Izumo is bad by any standard - her barrage barely scratches Light Armour while being unable to bypass it due to the parallel shots, her 'defensive' skill harms her much more than it does protect her due to the complete absence of enemy BB AP (and prevalence of BB HE), and worse still, as a barrage boat she needs flagship slot... while sharing Mikasa and Nagato's nation.
-Her sole saving grace is her exceptional statline, and even then it is marred by high Oil costs, comparatively low Efficiencies and is far from making any significant difference.  
-The improvements to her barrage brought by a full Fate Sim aren't just an addition - they are a necessity in order to make it work.
+As awful in AL as she is in WoWS, Izumo is bad by any standard - her barrage barely scratches Light Armour while being unable to bypass it due to the parallel shots, her 'defensive' skill harms her much more than it does protect her due to the complete absence of enemy BB AP (and prevalence of BB HE) and worse still, as a barrage boat she needs flagship slot... while sharing Mikasa and Nagato's nation.  
+Her only saving grace is the Dev35 barrage upgrade, turning it from a Bad Seven variant into an actual damage source, but the time and resources one must spend in order to acquire it - to say nothing about the higher Oil costs and comparatively poor efficiencies - make her an absolutely atrocious value proposition, especially when compared to the other AP specialists out there (Monarch, Georgia, Littorio, Alabama).
 Bad not just by PR standards but as a whole, there is little to no reason to ever use her over any other barrage boat.
 
 ![BC](/Images-for-the-Guide/MikasaChibi.png "Mikasa") - **[IJN Mikasa](https://azurlane.koumakan.jp/Mikasa)** **(T0 if deployed w/ IJN BB/BC/gunships)**
