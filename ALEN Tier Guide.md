@@ -2408,7 +2408,7 @@ Formidable also happens to have a barrage if her Albacore tax is paid, but expec
 * Skill: 
   * The first three airstrikes launched by Ryuuhou heal the most damaged target in the fleet 3 times over 3s for 3% of Ryuuhou's max HP (if the unit being healed stops being the most damaged, the new most damaged one will be healed by the next healing tick instead): if Ryuuhou is deployed in a full backline, increase the heal potency to 6% of Ryuuhou's max HP.
   * Decrease the damage the vanguard takes from enemy submarines by -12%; upon submarine fleet arrival in battle, heals them by 20% of their max HP; finally, whenever your submarines sink an enemy unit, gain a +3.5% damage stack up to a max of 6 stacks (+21% dmg total).
-  * Has a 0/3/3 loadout.
+  * Has a 3/0/3 loadout.
 
 * Recommended Loadouts:
   * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
