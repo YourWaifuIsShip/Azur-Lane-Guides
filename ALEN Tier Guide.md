@@ -2566,7 +2566,7 @@ Her Kai skill, just like her gunfire skill, is best regarded as a bit of free ad
 > One of the hardiest and most well-rounded carriers in the game, Yorktown can cover any role admirably well, courtesy of her balanced plane loadout, her frontline buff, her self-heal and her personal SBD squadron, ready to bust the heads of whoever thought she was easy pickings.
 Do NOT think she can solo backline past W6, though. Carriers aren't made for that and she's no exception.
 
-![CV](/Images-for-the-Guide/HiryuuKaiChibi.png "Usagi Yojimbo") ![CV](/Images-for-the-Guide/SouryuuKaiChibi.png "Long Legs Monster") - **[IJN Hiryu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Soryu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)** **(T0 when together)**
+![CV](/Images-for-the-Guide/HiryuuKaiChibi.png "Usagi Yojimbo") ![CV](/Images-for-the-Guide/SouryuuKaiChibi.png "Long Legs Monster") - **[IJN Hiryuu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Souryuu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)** **(T0 when together)**
 * Skill (Hiryu): 
   * Once per battle and upon taking lethal damage, Hiryu becomes invincible for 15s and immediately launches a full airstrike.
   * When paired with Soryu, gain +35% Aviation.
