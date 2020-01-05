@@ -1759,10 +1759,11 @@ If one were to look really hard for any chinks in her Plot Armour it could be sa
   * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
   * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
   
-- Desc:
+- Desc: The best progression BB you'll never use for progression.
 >As befitting a mecha musume, Gascogne is shockingly efficient and stable - and it's not even entirely the heal's doing.  
 No, while the heal (and the defensive buff it comes stock with) are definitely very appreciated, the real stars of the show here are both the guaranteed barrage fired every 20s and the way in which her main guns fire, ensuring that every shell will land on priority target no matter how fast it moves.  
-These are all very desirable characteristics for a mob fleet flagships, but don't forget that her gunnery is more than good enough to earn her a place in a boss fleet as well if need be - an effective 220%+ Efficiency is horrifyingly devastating, all you have to do is take the shot yourself.
+These are all very desirable characteristics for a mob fleet flagships, but don't forget that her gunnery is more than good enough to earn her a place in a boss fleet as well if need be - an effective 220%+ Efficiency is horrifyingly devastating, all you have to do is take the shot yourself.  
+If all this sounds like perfection for a newer player who would just love a strong battleship that is certain to shell what needs shelling and not whiff barrages, it's because she is - but a newer player would never be able to unlock her until this amazing kit loses its lustre, since KMS backliners are hard to come by.  
 
  
 ### Tier 0.5:
