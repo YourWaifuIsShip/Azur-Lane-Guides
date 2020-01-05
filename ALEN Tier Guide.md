@@ -2347,7 +2347,7 @@ In short, they're by all accounts a downgrade over their BB forms. Avoid like th
  ![CV](/Images-for-the-Guide/EssexChibi.png "USS Essex") - **[USS Essex](https://azurlane.koumakan.jp/Essex)**
 * Skill: 
   * Upon airstrike launch, launches a tight horizontal line of eight additional TBDs armed with parallel, Flooding-inflicting torps; also, deal +10% damage vs BBs.
-  * Increases her own AA and Airpower by 5% for every USS CV/L in the fleet, and increases her own Airpower by 3% whenever her planes shoot down an enemy aircraft (to a maximum of +15% Airpower).
+  * Increases her own AA and Aviation by 5% for every USS CV/L in the fleet, and increases her own Aviation by 3% whenever her planes shoot down an enemy aircraft (to a maximum of +15% Aviation).
   * If the fleet contains 4 or more USS ships, the entire fleet has a 12% chance to reduce incoming aircraft torpedo and bomb damage to 1.
   * Has a 3/3/2 loadout.
 
@@ -2367,7 +2367,7 @@ All that said, when she's good, she's REALLY good.
   * [Poverty] F4U Corsair; F4U Corsair; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: Centaur is the best generalist the game has to offer among its backliners.
->Aircraft got you down? Here's 4 Figthers, backed up by high Airpower and good efficiencies.  
+>Aircraft got you down? Here's 4 Figthers, backed up by high Aviation and good efficiencies.  
 Need to squeeze out some more damage? Her Swordfishes and 'conventional' torp bombers are pretty brutal.  
 Backline could use some buffs or packing BBV? Whether it's carriers or battleships OR BOTH, she's got them (and herself) covered.  
 Enemy ships are zipping around too much for your liking? Her Swordfishes inflict Slow and throw out two walls of crisscrossing torps, so they can have fun with that.  
@@ -2489,7 +2489,7 @@ On a side-note, that's a B-17's shadow and not a B-25's. Irritating.
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 - Desc: The Foxes launched first.
->Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Airpower and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
+>Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Aviation and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
 As is customary for IJN sister ships, they truly shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch (and extra screenclear) is.
 
 ![CV](https://azurlane.koumakan.jp/w/images/e/ea/TaihouChibi.png "Taihou") - **[IJN Taihou](https://azurlane.koumakan.jp/Taihou)**
@@ -2546,7 +2546,7 @@ Beware her near-total lack of anti-air presence, though; without Fighters or AA 
 
 ![CV](/Images-for-the-Guide/SaratogaKaiChibi.png "Saratoga Kai") - **[USS Saratoga Kai](https://azurlane.koumakan.jp/Saratoga#retrofit)**
 * Skill: 
-  * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Airpower).
+  * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Aviation).
   * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
   * Upon airstrike launch, 70% chance to deploy 3 aimed torps inflicting Ignition and Flooding from three planes.
   * Has a 2/6/0 loadout.
@@ -2595,7 +2595,7 @@ Exceptional.
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
->More support-based than her sister and frailer than she when her other half is around, but more than makes up for it thanks to the +30% Airpower she gets as well as the buffs she throws out (which incidentally also partially negate the debuff).  
+>More support-based than her sister and frailer than she when her other half is around, but more than makes up for it thanks to the +30% Aviation she gets as well as the buffs she throws out (which incidentally also partially negate the debuff).  
 Her buffs and layout are good enough to warrant usage even solo.
 
 
@@ -2618,7 +2618,7 @@ If stacking AS is what you need but you'd rather not focus on carriers, look no 
 ![CV](h/Images-for-the-Guide/LexingtonChibi.png "USS Lexington") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)**
 
 * Skill: 
-  * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Airpower).
+  * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Aviation).
   * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
   * Have a 2/6/0 loadout.
 
