@@ -2440,7 +2440,7 @@ Can't match Unicorn in air superiority, lacking fighters, but decisively asserts
  ### Tier 0.5:
  ---
  
- ![CVL](/Images-for-the-Guide/BataanChibi.png "Arminsky") - **[USS Bataan](https://azurlane.koumakan.jp/Bataan)** **(T0 if not deployed as flag)
+ ![CVL](/Images-for-the-Guide/BataanChibi.png "Arminsky") - **[USS Bataan](https://azurlane.koumakan.jp/Bataan)** **(T0 if not deployed as flag)**
 * Skill: 
   * Gain +30% Fighter Efficiency if using a F6F Hellcat; also, 70% chance to launch three more F6F when airstriking.
     * The 6 500lb BOMBS carried by the F6F deal 380 bdmg with 80/90/110 mods. They are modified by 80% of the unit's Aviation stat.
