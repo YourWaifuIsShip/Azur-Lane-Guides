@@ -2416,7 +2416,7 @@ Formidable also happens to have a barrage if her Albacore tax is paid, but expec
 
 * Desc: 
 >Lo and behold, at long last a new healer! A **real** one, this time around, and capable of fixing up backliners as well!  
-The way she heals is highly unconventional, not just because it draws from her own HP pool rather than the healed's but also because it only affects one unit at a time: as a result she won't heal as much as Shouhou or Unicorn do (unless you're running an undersized vanguard or a DD-heavy one) but she won't be overhealing either, and of course she'll be able to target the back too.  
+The way she heals is highly unconventional, not just because it is based on her own HP pool rather than the healed's but also because it only affects one unit at a time: as a result she won't heal as much as Shouhou or Unicorn do (unless you're running an undersized vanguard or a DD-heavy one) but she won't be overhealing either, and of course she'll be able to target the back too.  
 The boost her healing gets when sortied in a full backline is substantial, but so will be your oil costs; evaluate carefully whether you do need that help or you can manage without it.  
 Her armament strikes a nice middle ground between offence and support, sporting 130% Fighters and 145% Torpedo Bombers; not as powerful as Shouhou, but she won't be up a creek without a paddle when planes come a-knockin'.  
 As for the submarines... she has those skills? It's a good set of skills, to be sure, but it's unlikely to see much usage. Still, better with than without.
