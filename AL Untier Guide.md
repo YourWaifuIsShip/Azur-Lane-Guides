@@ -10,8 +10,12 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 [06/01/2020]
 > Due to popular request, here is why IJN Atago is untiered.
 - In short: Atago is Takao but outright worse due to skillset (Focused Fire is a lot better than Arsonist) and statline.
-- Takao's Focused Fire grants +100% Main Gun damage on a 30% chance, which considering she has only one Main Gun means she enjoys a +30% Main Gun Damage overall; Atago's Arsonist grants +15% HE damage passively, which coupled with her higher (135% vs 125%) Main Gun Efficiency more or less results in a +30% Main Gun damage for her as well. 
-The issue stems from the fact that the buff only applies to HE, and a mere +15% HE damage doesn't nearly offset the benefits of AP versus Medium Armour (to the point where Atago should still use AP if appropriate); Takao has no such limitation and always enjoys her +30%.
+- Takao's Focused Fire grants +100% Main Gun damage on a 30% chance, which considering she has only one Main Gun means she enjoys a +30%
+Main Gun Damage overall; Atago's Arsonist grants +15% HE damage passively, which coupled with her higher (135% vs 125%) Main Gun
+Efficiency more or less results in a +30% Main Gun damage for her as well. 
+The issue stems from the fact that the buff only applies to HE, and a mere +15% HE damage doesn't nearly offset the benefits of AP
+versus Medium Armour (to the point where Atago should still use AP if appropriate); Takao has no such limitation and always enjoys her
++30%.
 - A minor point, but Takao's higher Luck (65 vs 48) results in her being tougher than her sister.
 - In either case, the Furutaka-class can easily replace both.
 
