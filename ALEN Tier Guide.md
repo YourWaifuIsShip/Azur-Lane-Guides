@@ -1771,7 +1771,8 @@ If all this sounds like perfection for a newer player who would just love a stro
 
 ![BC](/Images-for-the-Guide/HoodChibi.png "The Mighty Hood") - **[HMS Hood](https://azurlane.koumakan.jp/Hood)**
 * Skill: 
-  * 70% chance upon Main Gun fire to launch a special barrage and grant +40% Reload to the backline for 8s.
+  * 70% chance upon Main Gun fire to launch an [arcing barrage](http://p8.qhimg.com/dr/400__/t01c83095ed25b82e28.gif) and grant +40% Reload to the backline for 8s.
+    * The 13 SHELLS deal 173 bdmg with 70/100/90 mods. The damage is modified by 100% of the unit's FP.
 
 * Recommended Loadouts:
   * [Lategame Bossing] Twin 381mm Advanced Main Gun; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
@@ -1802,7 +1803,8 @@ On the bright side, Warspite's newfound strength lets her be competitive there o
 ![BB](/Images-for-the-Guide/NagatoChibi.png "Nagato") - **[IJN Nagato](https://azurlane.koumakan.jp/Nagato)**
 * Skill: 
   * When sortied as Flagship, grant all IJN units +10% Firepower, +20% Reload/Accuracy, and +20% damage output to all IJN carriers.
-  * 40% chance on Main Gun fire, launch a fixed linear HE barrage.
+  * 40% chance on Main Gun fire, launch a (barrage)[http://p4.qhimg.com/dr/400__/t012fd5d78db44ba7d1.gif].
+    * The 16 LINEAR HE SHELLS deal 125 bdmg with 90/120/70 modifiers (and a 30% Ignition chance); the 44 NEEDLES deal 125 bdmg with 120/100/80 modifiers (and a 30% Ignition chance). Both are modified by 100% of the unit's FP.
 
 * Recommended Loadouts:
   * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
@@ -1829,7 +1831,8 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
 ![BB](/Images-for-the-Guide/BismarckChibi.png "Bismarck") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)** **(T0 w/ KMS units around)**
 * Skill: 
   * The first salvo of her every volley always crits; also extends the range of any CL gun equipped to 90 units (= white line that pushes you back when approached), but reduces their damage by 35%.
-  * If flagship, 70% chance to fire a weak barrage (4 shots to the centre of the screen, 2 shots to each side, some mid-ranged DD pellets in the middle); also, passively raise KMS carrier damage by 20%.
+  * If flagship, 70% chance to fire a [weak arcing barrage](http://p8.qhimg.com/dr/400__/t01d9d850668c694dd9.gif); also, passively raise KMS carrier damage by 20%.
+    * The 8 SHELLS deal 110 bdmg with 70/100/90 mods; the 14 DD PELLETS deal 20 bdmg with 120/60/60 mods (1% Ignition chance, short range). Both are modified by 100% of the unit's FP.
   * Grant +20% CritRate to the guns/torpedoes/planes used by KMS units, grant +12% Reload to all KMS units, grant Tirpitz +40% Damage.
 
 * Recommended Loadouts:
@@ -2121,7 +2124,8 @@ Still hits damn hard, though, and harder still when she's on a good roll.
 
 ![BB](/Images-for-the-Guide/PennsylvaniaChibi.png "USS Pennsylvania") - **[USS Pennsylvania](https://azurlane.koumakan.jp/Pennsylvania)**
 * Skill: 
-  * 20s 60% chance, fires a special barrage (4 salvo of 3 shots barraging bombarding the middle of the screen, Normal modifiers)
+  * Every 20s, 60% chance to launch a [focused barrage](http://p0.qhimg.com/dr/400__/t014b861d5b4b972e2f.gif).
+    * The 12 SHELLS deal 120 bdmg with 70/100/90 mods. Their damage is modified by 100% of the unit's FP.
 
 * Recommended Loadouts:
   * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
@@ -2210,7 +2214,7 @@ Nevertheless, her low HP and AA do prove a liability later on and you will have 
 
 ![BC](/Images-for-the-Guide/MutsuChibi.png "Mutsu") - **[IJN Mutsu](https://azurlane.koumakan.jp/Mutsu)**
 * Skill: 
-  * 40% chance on Main Gun fire, launch a fixed linear HE barrage.
+  * 40% chance on Main Gun fire, launch Nagato's barrage. It's exactly the same.
 
 * Recommended Loadouts:
   * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
