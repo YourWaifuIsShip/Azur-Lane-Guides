@@ -736,7 +736,7 @@ Most, if not all, Cruiser compositions will benefit by her presence.
   * Can mount a CL gun or an AA gun as secondary.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun or Seattle Gun (if boss); Prototype Triple 152mm Main Gun or Seattle Gun (if boss) or 40mm Quad Bofors (if extra AA is needed); 40mm Quad Bofors; Toolbox; SG Radar
+  * [General Purpose] Prototype Triple 152mm Main Gun or Prototype Triple 152mm Main Gun (DP MK17) (if boss); Prototype Triple 152mm Main Gun or Prototype Triple 152mm Main Gun (DP MK17) (if boss) or 40mm Quad Bofors (if extra AA is needed); 40mm Quad Bofors; Toolbox; SG Radar
   * [Poverty] Twin 150mm tbtsk c/36; Twin 150mm tbtsk c/36 or 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Scuttlefish.
@@ -960,7 +960,7 @@ She'll only buff herself, but a +40% FP never really goes amiss.
   * 10s after battle starts and on a 20% chance every 20s aftewards, create a special smokescreen (+35% Evasion Rate and-35% damage from planes while inside) that lasts 10s.
 
 * Recommended Loadouts:
-  * [General Purpose] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun (DP MK17); 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Triple 155mm Mounted Gun; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Hot honeytrap maid.
@@ -1509,7 +1509,7 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
   * Can take a CL gun, but shouldn't UNLESS it's the Seattle Gun.
 
 * Recommended Loadouts:
-  * [General Purpose] Seattle Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun (DP MK17); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
