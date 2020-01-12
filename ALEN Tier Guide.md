@@ -736,7 +736,8 @@ Most, if not all, Cruiser compositions will benefit by her presence.
   * Can mount a CL gun or an AA gun as secondary.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun or Prototype Triple 152mm Main Gun (DP MK17) (if boss); Prototype Triple 152mm Main Gun or Prototype Triple 152mm Main Gun (DP MK17) (if boss) or 40mm Quad Bofors (if extra AA is needed); 40mm Quad Bofors; Toolbox; SG Radar
+  * [General Purpose] Prototype Triple 152mm Main Gun or Prototype Triple 152mm Main Gun (DP MK17) (if boss); Prototype Triple 152mm Main Gun or Prototype Triple 152mm Main Gun (DP MK17) (if boss); 40mm Quad Bofors; Toolbox; Improved Hydraulic Rudder
+  * [AA Shenanigans] Prototype Triple 152mm Main Gun (DP MK17); 40mm Quad Bofors; Prototype 40mm AA Gun (Type 5); High Performance Anti-Air Radar; High Performance Anti-Air Radar
   * [Poverty] Twin 150mm tbtsk c/36; Twin 150mm tbtsk c/36 or 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Scuttlefish.
