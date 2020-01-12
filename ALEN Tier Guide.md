@@ -513,7 +513,7 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
 * Desc: 
 >Slippery little bastard, despite her CA-like movement speed. Her offensive stats are somewhat lacklustre, but she makes up for it with her skill - it might be RNG and her high Evasion works against it, but 10s of invulnerability is nothing to scoff at. Make sure to have her eat weak shots to minimise exposure to danger.
 
-![DD](/Images-for-the-Guide/FletcherChibi.pngg "USS Fletcher") - **[USS Fletcher](https://azurlane.koumakan.jp/Fletcher)** **(T0.5 w/ Charles Ausburne and Nicholas)**
+![DD](/Images-for-the-Guide/FletcherChibi.png "USS Fletcher") - **[USS Fletcher](https://azurlane.koumakan.jp/Fletcher)** **(T0.5 w/ Charles Ausburne and Nicholas)**
 * Skill:
   * Increases Firepower and Evasion of all Fletcher-Class in fleet by 30%
   * Increases Firepower, Torpedo, and Reload of DDs in the fleet by 10%
