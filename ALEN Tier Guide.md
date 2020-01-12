@@ -489,7 +489,7 @@ Similarly to Laffey, her torps are awful but come out quick; consider patching u
 
 ### Tier 2:
 ---
-![DD](/Images-for-the-Guide/CharlesAusburneChibi.png "Charles Ausburne") - **[USS Charles Ausburne](https://azurlane.koumakan.jp/Charles_Ausburne)** **(T1.5 w/ CA, T0.5 w/ Fletcher)** 
+![DD](/Images-for-the-Guide/Charles_AusburneChibi.png "Charles Ausburne") - **[USS Charles Ausburne](https://azurlane.koumakan.jp/Charles_Ausburne)** **(T1.5 w/ CA, T0.5 w/ Fletcher)** 
 * Skill:
   * 4% activation upon firing, increases Fleet movement speed, and Escort evasion by 40% for 8s
   * 60% activation every 20s, increases own FP by 40% for 10s.
