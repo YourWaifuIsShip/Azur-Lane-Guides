@@ -2498,7 +2498,7 @@ On a side-note, that's a B-17's shadow and not a B-25's. Irritating.
 >Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Aviation and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
 As is customary for IJN sister ships, they truly shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch (and extra screenclear) is.
 
-![CV](https://azurlane.koumakan.jp/w/images/e/ea/TaihouChibi.png "Taihou") - **[IJN Taihou](https://azurlane.koumakan.jp/Taihou)**
+![CV](/Images-for-the-Guide/TaihouChibi.png "Taihou") - **[IJN Taihou](https://azurlane.koumakan.jp/Taihou)**
 * Skill: 
   * Upon completion of an airstrike cooldown, she has a 40% chance to launch a Saiun (increases own backline's Damage by 10% for 8s but deals no damage of its own), a 40% chance to launch a Suisei carpet bombing and a 40% chance to launch a Ryusei targeted torpedo strike.
   * Take -20% HE and Aviation damage.
@@ -2513,11 +2513,15 @@ On a sidenote, she's also one of the carriers least affected by enemy AA boats d
 
 ### Tier 1:
 ---
-![CVL](https://azurlane.koumakan.jp/w/images/9/9f/Bunker_HillChibi.png "Bunker Hill") - **[USS Bunker Hill](https://azurlane.koumakan.jp/Bunker_Hill)** (T0.5 w/ USS BBs as flagship, T0.5 w/ CV/L)
+![CVL](/Images-for-the-Guide/Bunker_HillChibi.png "Bunker Hill") - **[USS Bunker Hill](https://azurlane.koumakan.jp/Bunker_Hill)** (T0.5 w/ USS BBs as flagship, T0.5 w/ CV/L)
 * Skill: 
   * Gain +15% Aviation; if flagship, grant +15% Firepower to USS BBs; if not, grant +15% Firepower and AA to USS DDs.
   * If there are no other CV/L in the backline, grant +12% AA to it; upon launching an airstrike, launch a plane barrage whose pattern differs according to the number of CV/Ls in the fleet.
   * Has a 3/3/2 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Homing Beacon
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Homing Beacon
 
 * Desc: USS, AUGmented.
 >A very peculiar beast, this first USS sort-of-national-booster, but a very effective one nonetheless.  
@@ -2543,8 +2547,8 @@ Tip - if you don't have the VT-8, resist the temptation to give her the regular 
   * Has a 0/6/2 loadout.
 
 * Recommended Loadouts:
-  * [General Purpose] Barracuda or Ryusei; SB2C Helldiver; SB2C Helldiver; Hydraulic Catapult; Hydraulic Catapult
-  * [Poverty] Tenzan; SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] Barracuda or Ryusei; SB2C Helldiver; SB2C Helldiver; Hydraulic Catapult; Homing Beacon
+  * [Poverty] Tenzan; SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Homing Beacon
 
 * Desc: 
 >Also referred to as RNGer for obvious reasons, and infamous because of her potentially infinite damage, you need luck on your side to get the most out of her; even without the procs, though, very few carriers get close to the sheer damage output she can unleash thanks to her 8 sea-attacking planes and high Efficiencies, and none of them can manage it at her rock-bottom 9 Oil cost.  
