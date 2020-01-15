@@ -253,7 +253,7 @@ Bit RNG still, but there's nobody cheaper than them in their class.
   * [Poverty] F4U Corsair; F4U Corsair; Fairey Fulmar; Hydraulic Catapult; Hydraulic Catapult
 
 * Availability:
- * Basically everywhere from W3 onwards.
+  * Basically everywhere from W3 onwards.
  
 * Post-early-game relevance:
   * Average until W12 and Very High afterwards. Her complement of 6 fighters and 2 dive bombers is tailor-made to make enemy plane formations' lives hell, but there are barely any (if at all) planes on the stretch leading to W12 and her surface DPS is somewhat lacking; nevertheless, she's a very cheap way to bolster your Air Control value and her lighter payloads will still do work against adds.
