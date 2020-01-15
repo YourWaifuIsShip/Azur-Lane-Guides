@@ -1878,8 +1878,8 @@ While she can work on boss fleets, so long as she gets some kills before it spaw
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloaders (mobs)
 
 - Desc: WAIT DON'T LEAVE JUST YET. 
->Healing on a cointoss sounds pretty bad, yes, but ask yourself this - how many units can properly heal at all, and how many of them pack the Firepower, sturdiness and self-defence capabilities of a BB?
->Yup, that's just her - and while her heal isn't as reliable as that of Unicorn or Shouhou, she's an excellent fit for a vanguard who doesn't strictly need the heals to stay alive and keep fighting.
+>Healing on a cointoss sounds pretty bad, yes, but ask yourself this - how many units can properly heal at all, and how many of them pack the Firepower, sturdiness and self-defence capabilities of a BB?  
+Yup, that's just her - and while her heal isn't as reliable as that of Unicorn or Shouhou, she's an excellent fit for a vanguard who doesn't strictly need the heals to stay alive and keep fighting.
 
 ![BB](/Images-for-the-Guide/NevadaKaiChibi.png "Nevada Kai") ![BB](/Images-for-the-Guide/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
 * Skill: 
