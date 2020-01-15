@@ -13,7 +13,7 @@ Intended as a scaled-down, tier-less, early-game version of the full Tier Guide 
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Availability:
-  * 1-3, 1-4; ***2-1**, ***2-2***, 2-3; ***3-2***, 3-3, 3-4; 4-3, 4-4
+  * 1-3, 1-4; ***2-1***, ***2-2***, 2-3; ***3-2***, 3-3, 3-4; 4-3, 4-4
 
 * Post-early-game relevance:
   * High, both as a 0LB bubblewrap for cheap early-game map farming and as a MLB Kai mini-tank for Hardmode locks and later-game map farming.
