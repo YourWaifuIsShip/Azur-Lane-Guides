@@ -141,7 +141,7 @@ Give her a decent gun and stick someone in front to take hits for her and she'll
 Often unfairly overlooked but there's few better Torp-CAs, especially at their cost.
 
 
-## BB/BC ![BB/BC](/Images-for-the-Guide/45px-CL_img40.png "BB/BC Icon")
+## BB/BC ![BB/BC](/Images-for-the-Guide/45px-BC_img40.png "BB/BC Icon")
 
 ![BB](/Images-for-the-Guide/ArizonaChibi.png "USS Arizona") - **[USS Arizona](https://azurlane.koumakan.jp/Arizona)**
 * Skill: 
