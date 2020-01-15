@@ -9,6 +9,10 @@ If you happen to have questions for me, want to discuss tierings or would like t
 
 ## Featured news and Changelog
 ```
+[15/01/2020]
+Created the AL Common Compbuilding Coqups Compilation to steer new Commanders away from typical early mistakes.
+Alliteration is fun!
+
 [30/12/2019]
 TIER GUIDE UPDATED
 Swirling Cherry Blossoms units have been added, a few tierings have been revised, the images are now all fine!
