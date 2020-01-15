@@ -1353,7 +1353,7 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
 
 ![CA](/Images-for-the-Guide/PortlandKaiChibi.png "Portland Kai") - **[USS Portland Kai](https://azurlane.koumakan.jp/Portland#retrofit)**
 * Skill: 
-  * When sortied w/ Indianapolis, gain +15% Firepower, AA and Evasion
+  * When sortied w/ Indianapolis, gain +15% Firepower, AA and Evasion. Do not do this.
   * 25% chance every 20s, +15% damage resistance to the entire fleet for 8s
 
 * Recommended Loadouts:
@@ -1361,7 +1361,8 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
   * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
->Exceptional HP, twice the base Evasion other CAs get, high Firepower and high AA - in a similar fashion to Cleveland, her stats alone justify her rating and the skills are just icing on the cake. She won't hit as often as Wichita or as hard as Chicago, but she's more consistent and much harder to kill.
+>Exceptional HP, twice the base Evasion other CAs get, good Firepower and high AA: in a similar fashion to Cleveland, her stats alone justify her rating and the skills are just window dressing, with the Indianapolis-related buff in particular being wholly irrelevant (as her sister is way too weak to be worth consideration).    
+She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn hard to kill and consistent.
 
 ![CA](/Images-for-the-Guide/WichitaChibi.png "USS Wichita") - **[USS Wichita](https://azurlane.koumakan.jp/Wichita)**
 * Skill: 
