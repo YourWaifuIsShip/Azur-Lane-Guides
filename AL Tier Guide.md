@@ -1935,9 +1935,7 @@ A very solid defensive pick, further helped by the fact her Sanshikidan barrage 
   * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
->The second most cost-effective BBs in the game, owing to their remarkable statline, Kai nodes and comparatively low Oil costs.  
-Their Kai is unique in that it is a sidegrade rather than an upgrade: when turned into BBV, they trade their CL guns and 1/3 of their BB salvo for seaplanes, letting them launch airstrikes as if they were carriers.  
-A steep price to pay, especially considering how weak the seaplanes are in comparison to 'proper' bombers, how slow the launches are in comparison to 'proper' carriers and how much better are Ise and Hyuuga as BBVs.
+>Your first *good* bearers of CL secondaries, owing to their high Firepower and Main Gun Efficiency (once partially retrofitted, that is; just DO NOT take the last two nodes). All they do is stop fireships well and craterise hard targets; it ain't much, but it's honest work and do you really need more for now?
 
 ![BB](/Images-for-the-Guide/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** **(T2 with BB/BC, T0 with Bismarck)**
 * Skill: 
@@ -2545,8 +2543,8 @@ Tip - if you don't have the VT-8, resist the temptation to give her the regular 
 
 ![CVL](/Images-for-the-Guide/RangerKaiChibi.png "USS Ranger Kai") - **[USS Ranger Kai](https://azurlane.koumakan.jp/Ranger)**
 * Skill: 
-  * 15% activation when launching an airstrike, the next airstrike becomes available immediately
-  * 25% chance of inflicting double damage with airstrike
+  * 15% chance upon airstrike launch, next airstrike becomes available immediately.
+  * 25% chance of inflicting double damage with airstrike.
   * Has a 0/6/2 loadout.
 
 * Recommended Loadouts:
