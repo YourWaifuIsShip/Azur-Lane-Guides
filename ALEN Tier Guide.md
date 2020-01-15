@@ -806,7 +806,8 @@ Not entirely as powerful as her older self, but she's up there without being for
   * [General Purpose] Prototype Triple 152mm Main Gunn; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
-* Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
+* Desc: A very solid statline, a bargain basement price tag, a Firepower buff for cruisers, a smokescreen that won't accomplish much (but is better than Belfast's) and a smile to melt your heart.  
+What's not to like? 
 
 ![CL](/Images-for-the-Guide/SiriusChibi.png "Sirius") - **[HMS Sirius](https://azurlane.koumakan.jp/Sirius)** **(T0 w/ carriers)**
 * Skill:
@@ -1432,12 +1433,12 @@ Nevertheless, she's still a very accomplished Hybrid-CA and one that is very har
   * Upon firing the Main Gun, 30% chance to have it deal +100% Damage. (Has an internal cooldown of 5s; do not give her the 203Mle as the gun will reload in under 5s.)
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [General Purpose]  Prototype 203mm Type 3 Mounted Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
   * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
->What was said about Wichita applies to Chicago as well. Slightly frailer than she is and needing RNG to get the most out of her, she will nonetheless punch very hard - and harder than anyone else when she procs.
-Also worth mentioning, if she procs on her first salvo, the buff affects the second one too - which means that all in all, her actual procrate is 49%!
+>The quintessential Glass Cannon, Chicago is deceptively fragile (being one of the poster girls for 'CAs not necessarily being tanks') and unassumingly devastating due to the maths involved in her skill - if she procs on her first salvo, the buff affects the second one too, meaning that that all in all her actual double damage procrate is 49%!  
+Give her a decent gun and stick someone in front to take hits for her and she'll cut through the opposition like butter at a very modest 10 Oil price tag.  
 
 ![CA](/Images-for-the-Guide/HoustonChibi.png "USS Houston") - **[USS Houston](https://azurlane.koumakan.jp/Houston)**
 * Skill: 
@@ -1502,7 +1503,8 @@ Just as frail as Wichita, though, and she's still a Torp-CA at heart.
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
->Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
+>Think Takao, except a bit frailer and marginally less powerful with their skills but much more reliable and inexpensive.  
+Often unfairly overlooked but there's few better Torp-CAs, especially at their cost.
 
 ![CA](/Images-for-the-Guide/SuzuyaChibi.png "Suzuya") - **[IJN Suzuya](https://azurlane.koumakan.jp/Suzuya)** **(T1 with the Seattle Gun)**
 * Skill:
