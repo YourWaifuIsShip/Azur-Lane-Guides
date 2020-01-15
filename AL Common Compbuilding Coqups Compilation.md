@@ -5,10 +5,14 @@ Here is a compilation of those issues, to be expanded as they come up during my 
 Prinz Eugen, Illustrious, Victorious, Atago, Belfast... the list of units with a shiny gold finish and without the quality you'd expect from it goes on; conversely, Langley, Ranger, Nevada, Leander and more all provide great examples of excellent units despite their bottom-of-the-barrel rarity.  
 Don't get scammed by golds, don't scrap your grays before you're sure they are no good.  
 
-## DO NOT THINK IN TERMS OF HULL CLASS. EVER.
+## DO NOT THINK IN TERMS OF HULL CLASS.
 The question you should ask yourself isn't "which class of ship do I need", but "what is this ship good/bad at?" and "will it work with the others?"; that is because every faction has its own spin on the various hull classes, and often enough there are multiple spins in the same nation, making sweeping generalisations hilariously inaccurate.  
 Laffey (USS DD) and Ayanami (IJN DD) are nothing alike; and neither are Laffey and Maury (also a USS DD).  
 Consider each unit its own thing, check its statline/skillset, and seek to answer those two questions above.  
+
+## YOU DON'T SAVE OIL BY USING A FULL FLEET OF 0LB GRAYS.
+You save Oil by using 1 MLB backliner, possibly a BBarrager (BB/BC/BM with a barrage); and 1 MLB vanguard, possibly one with a self-heal (like Cassin/Downes/Phoenix).  
+It'll be cheaper and more effective.  
 
 ## **DO NOT USE MORE THAN 1 HEALER / SELF-HEALER (unless it's W13)**  
 While a 'full healing fleet' sounds like a fun meme, it isn't; the non-event self/healers you get, as sturdy as they are, are also lacking in DPS and Azur Lane is slanted significantly towards offence, not defence.  
