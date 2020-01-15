@@ -1,0 +1,1 @@
+While there already is a [compbuilding guide](https://github.com/guroteske/al-guides/blob/master/Fleet%20Composition.md), it has occurred to me that many people still commit the same mistakes over and over again
