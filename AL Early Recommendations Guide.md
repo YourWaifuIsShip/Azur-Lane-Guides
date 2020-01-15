@@ -22,6 +22,27 @@ Intended as a scaled-down, tier-less, early-game version of the full Tier Guide 
 >Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous burst damage output of their IJN counterparts but they can and will outlast them many times over while still being able to assist with AA.  
 As it is for Phoenix, they are best used in mobbing fleets.
 
+![DD](/Images-for-the-Guide/KagerouKaiChibi.png "Lil Miss Paperbag") - **[IJN Kagerou Kai](https://azurlane.koumakan.jp/Kagerou#Retrofit)**
+* Skill:
+  * Grant +15% Torpedo to the entire vanguard.
+  * Upon launching a torpedo spread, 30% chance to launch a second one.
+  * Every 20s, 30% chance to lower an enemy's Reload by -30% and Damage by -15% for 10s (targets humanoid ships first). (Kai)
+
+* Recommended Loadouts:
+  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
+* Availability:
+  * 3-3, 3-4; 4-3
+
+* Post-early-game relevance:
+  * Very high. As one of the extremely rare sources of vanguard-wide torpedo buffs she is one of the best friends your Torp-Cruisers (and Torp-CA especially, Ibuki in primis) could possibly have, and she's a very accomplished torpedo platform herself; just don't expect her to destroy anything while the torps are down. IJN DD like her (ie. most of them) ddon't really ddo that.
+
+* Desc: 
+>Widely available early on and blessed with both excellent skills and a very solid statline, Kagerou has a place in every torp-heavy frontline (torp-CA in particular, as they typically do not have access to torpedo buffs).  
+Her Kai is more of a slight upgrade than a massive change, with her skill being middling at best, but the extra stats are appreciated nonetheless.
+
 
 ## Light Cruisers ![CL](/Images-for-the-Guide/45px-CL_img40.png "CL Icon")
 
@@ -37,7 +58,7 @@ As it is for Phoenix, they are best used in mobbing fleets.
 4-1
 
 * Post-early-game relevance:
-  * Very high; Phoenix offers exceptional healer-free staying power at a bargain and that's relevant throughout the game, although if the going gets tough (or you want to clear faster), you'll want to tag in Minneapolis instead.
+  * Very high. Phoenix offers exceptional healer-free staying power at a bargain and that's relevant throughout the game, although if the going gets tough (or you want to clear faster), you'll want to tag in Minneapolis instead.
 
 * Desc: 
 >Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
