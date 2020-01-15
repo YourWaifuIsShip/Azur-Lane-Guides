@@ -7,6 +7,7 @@ Don't get scammed by golds, don't scrap your grays before you're sure they are n
 
 ## DO NOT THINK IN TERMS OF HULL CLASS. EVER.
 The question you should ask yourself isn't "which class of ship do I need", but "what is this ship good/bad at?" and "will it work with the others?"; that is because every faction has its own spin on the various hull classes, and often enough there are multiple spins in the same nation, making sweeping generalisations hilariously inaccurate.  
+Laffey (USS DD) and Ayanami (IJN DD) are nothing alike; and neither are Laffey and Maury (also a USS DD).  
 Consider each unit its own thing, check its statline/skillset, and seek to answer those two questions above.  
 
 ## **DO NOT USE MORE THAN 1 HEALER / SELF-HEALER (unless it's W13)**  
