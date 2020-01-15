@@ -1,6 +1,14 @@
 While there already is a [compbuilding guide](https://github.com/guroteske/al-guides/blob/master/Fleet%20Composition.md), courtesy of Gurosebe, it has occurred to me that many people still commit the same mistakes over and over again.  
 Here is a compilation of those issues, to be expanded as they come up during my #help activities.
 
+## GOLD DOES NOT NECESSARILY MEAN GOOD; GRAY OR BLUE DOES NOT NECESSARILY MEAN BAD.
+Prinz Eugen, Illustrious, Victorious, Atago, Belfast... the list of units with a shiny gold finish and without the quality you'd expect from it goes on; conversely, Langley, Ranger, Nevada, Leander and more all provide great examples of excellent units despite their bottom-of-the-barrel rarity.  
+Don't get scammed by golds, don't scrap your grays before you're sure they are no good.  
+
+## DO NOT THINK IN TERMS OF HULL CLASS. EVER.
+The question you should ask yourself isn't "which class of ship do I need", but "what is this ship good/bad at?" and "will it work with the others?"; that is because every faction has its own spin on the various hull classes, and often enough there are multiple spins in the same nation, making sweeping generalisations hilariously inaccurate.  
+Consider each unit its own thing, check its statline/skillset, and seek to answer those two questions above.  
+
 ## **DO NOT USE MORE THAN 1 HEALER / SELF-HEALER (unless it's W13)**  
 While a 'full healing fleet' sounds like a fun meme, it isn't; the non-event self/healers you get, as sturdy as they are, are also lacking in DPS and Azur Lane is slanted significantly towards offence, not defence.  
 Turtling doesn't win you games in RTS and it certainly doesn't here, as later on doing that means the backline will get blown to bits or planed to bits; offence truly is the best defence, as never forget, dead enemies deal no damage.
