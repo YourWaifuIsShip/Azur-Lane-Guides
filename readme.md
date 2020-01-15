@@ -10,8 +10,9 @@ If you happen to have questions for me, want to discuss tierings or would like t
 ## Featured news and Changelog
 ```
 [15/01/2020]
-Created the AL Common Compbuilding Coqups Compilation to steer new Commanders away from typical early mistakes.
-Alliteration is fun!
+Created the AL Common Compbuilding Coqups Compilation to steer new Commanders away from typical early mistakes and the Early Recommendations Guide for pretty much the same reason.  
+The JP Tier Guide has been merged with the EN Tier Guide for good, as the various regions have now pretty much the same units and the same retrofits; if something is still missing from EN point it out and I will appropriately mark it in the Guide.
+PSA: Alliteration is fun.
 
 [30/12/2019]
 TIER GUIDE UPDATED
