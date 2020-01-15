@@ -25,6 +25,23 @@ As it is for Phoenix, they are best used in mobbing fleets.
 
 ## Light Cruisers ![CL](/Images-for-the-Guide/45px-CL_img40.png "CL Icon")
 
+![CL](/Images-for-the-Guide/PhoenixChibi.png "Phoenix") - **[USS Phoenix](https://azurlane.koumakan.jp/Phoenix)**
+* Skill:
+  * Once per fight and upon falling below 20% HP, restore 25% HP and +30% FP for 15s.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
+  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Availability:
+4-1
+
+* Post-early-game relevance:
+  * Very high; Phoenix offers exceptional healer-free staying power at a bargain and that's relevant throughout the game, although if the going gets tough (or you want to clear faster), you'll want to tag in Minneapolis instead.
+
+* Desc: 
+>Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
+
 ![CL](/Images-for-the-Guide/LeanderKaiChibi.png "Leander Kai") - **[HMS Leander Kai](https://azurlane.koumakan.jp/Leander)**
 * Skill: 
   * Grant +15% Firepower to CL/CA.
@@ -88,7 +105,7 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
   * Upon firing the Main Gun, 30% chance to have it deal +100% Damage. (Has an internal cooldown of 5s; do not give her the 203Mle as the gun will reload in under 5s.)
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [General Purpose]  Prototype 203mm Type 3 Mounted Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
   * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Availability:
@@ -100,3 +117,42 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
 * Desc: 
 >The quintessential Glass Cannon, Chicago is deceptively fragile (being one of the poster girls for 'CAs not necessarily being tanks') and unassumingly devastating due to the maths involved in her skill - if she procs on her first salvo, the buff affects the second one too, meaning that that all in all her actual double damage procrate is 49%!  
 Give her a decent gun and stick someone in front to take hits for her and she'll cut through the opposition like butter at a very modest 10 Oil price tag.  
+
+![CA](/Images-for-the-Guide/FurutakaKaiChibi.png "IJN Furutaka Kai") ![CA](/Images-for-the-Guide/KakoKaiChibi.png "IJN Kako Kai") - **[IJN Furutaka Kai](https://azurlane.koumakan.jp/Furutaka)** & **[IJN Kako Kai](https://azurlane.koumakan.jp/Kako)**
+* Skill: 
+  * 60% chance every 20s, gain +40% Firepower for 10s.
+  * Every torpedo launch has a 30.0% chance to launch another spread. (Kai)
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+* Availability:
+3-3; 4-4
+
+* Post-early-game relevance:
+  * Subjective. Do you like what Takao does? If so, they'll be relevant; if not, skip away.
+
+* Desc: 
+>Think Takao, except a bit frailer and marginally less powerful with their skills but much more reliable and inexpensive.  
+Often unfairly overlooked but there's few better Torp-CAs, especially at their cost.
+
+
+## BB/BC ![BB/BC](/Images-for-the-Guide/45px-CL_img40.png "BB/BC Icon")
+
+![BB](/Images-for-the-Guide/ArizonaChibi.png "USS Arizona") - **[USS Arizona](https://azurlane.koumakan.jp/Arizona)**
+* Skill: 
+  * 50% chance on Main Gun fire to heal the vanguard by 10% of their max HP.
+
+* Recommended Loadouts:
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloaders (mobs)
+
+* Availability:
+2-2
+
+
+
+- Desc:
+>Healing on a cointoss sounds pretty bad, yes, but ask yourself this - how many units can properly heal at all, and how many of them pack the Firepower, sturdiness and self-defence capabilities of a BB?  
+Yup, that's just her - and while her heal isn't as reliable as that of Unicorn or Shouhou, she's an excellent fit for a vanguard who doesn't strictly need the heals to stay alive and keep fighting.
