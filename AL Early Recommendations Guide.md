@@ -2,7 +2,7 @@ Intended as a scaled-down, tier-less, early-game version of the full Tier Guide 
 
 
 ## Destroyers ![DD](/Images-for-the-Guide/45px-DD_img40.png "DD Icon")
-
+---
 ![DD](/Images-for-the-Guide/CassinChibi.png "Cassin Kai") ![DD](/Images-for-the-Guide/DownesChibi.png "Downes Kai")- **[USS Cassin Kai](https://azurlane.koumakan.jp/Cassin#Retrofit)** **[USS Downes Kai](https://azurlane.koumakan.jp/Downes#Retrofit)**
 * Skill:
   * When HP falls under 20%, heals 25% of max HP once per battle
@@ -13,7 +13,7 @@ Intended as a scaled-down, tier-less, early-game version of the full Tier Guide 
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Availability:
-  * 1-3, 1-4; ***2-1***, ***2-2***, 2-3; ***3-2***, 3-3, 3-4; 4-3, 4-4
+  * 1-3, 1-4; 2-1, 2-2, 2-3; 3-2, 3-3, 3-4; 4-3, 4-4.
 
 * Post-early-game relevance:
   * High, both as a 0LB bubblewrap for cheap early-game map farming and as a MLB Kai mini-tank for Hardmode locks and later-game map farming.
@@ -34,7 +34,7 @@ As it is for Phoenix, they are best used in mobbing fleets.
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Availability:
-  * 3-3, 3-4; 4-3
+  * 3-3, 3-4; 4-3.
 
 * Post-early-game relevance:
   * Very high. As one of the extremely rare sources of vanguard-wide torpedo buffs she is one of the best friends your Torp-Cruisers (and Torp-CA especially, Ibuki in primis) could possibly have, and she's a very accomplished torpedo platform herself; just don't expect her to destroy anything while the torps are down. IJN DD like her (ie. most of them) ddon't really ddo that.
@@ -45,7 +45,7 @@ Her Kai is more of a slight upgrade than a massive change, with her skill being 
 
 
 ## Light Cruisers ![CL](/Images-for-the-Guide/45px-CL_img40.png "CL Icon")
-
+---
 ![CL](/Images-for-the-Guide/PhoenixChibi.png "Phoenix") - **[USS Phoenix](https://azurlane.koumakan.jp/Phoenix)**
 * Skill:
   * Once per fight and upon falling below 20% HP, restore 25% HP and +30% FP for 15s.
@@ -55,7 +55,7 @@ Her Kai is more of a slight upgrade than a massive change, with her skill being 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Availability:
-4-1
+4-1.
 
 * Post-early-game relevance:
   * Very high. Phoenix offers exceptional healer-free staying power at a bargain and that's relevant throughout the game, although if the going gets tough (or you want to clear faster), you'll want to tag in Minneapolis instead.
@@ -73,7 +73,7 @@ Her Kai is more of a slight upgrade than a massive change, with her skill being 
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Availability:
-  * 1-4; ***2-1**, ***2-2***, 2-3, 2-4; 3-1, ***3-2***; 4-1, 4-2, 4-3
+  * 1-4; 2-1, 2-2, 2-3, 2-4; 3-1, 3-2; 4-1, 4-2, 4-3.
 
 * Post-early-game relevance:
   * Average, as London Kai takes over her buffing duties while being considerably tougher and a lot more powerful. She does remain very  cheap, though, and fits snugly in those CL hardmode locks.  
@@ -83,7 +83,7 @@ Her Kai is more of a slight upgrade than a massive change, with her skill being 
 What's not to like? 
 
 ## Heavy Cruisers ![CA](/Images-for-the-Guide/45px-CL_img40.png "CA Icon")
-
+---
 ![CA](/Images-for-the-Guide/LondonKaiChibi.png "London Kai") - **[HMS London Kai](https://azurlane.koumakan.jp/London#retrofit)**
 * Skill: 
   * Increases Firepower of the entire vanguard by 15%.
@@ -95,7 +95,7 @@ What's not to like?
   * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Availability:
-  * 2-1; 4-2
+  * 2-1; 4-2.
 
 * Post-early-game relevance:
   * **Yes.**
@@ -133,7 +133,7 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
   * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Availability:
-  * 3-1; 4-3, 4-4
+  * 3-1; 4-3, 4-4.
 
 * Post-early-game relevance:
   * Average. Her DPS only gets better as better gear becomes available to you, but she'll remain very squishy; an excellent and cheap pick regardless, provided you can keep her alive (and you're not lacking in options to do that).  
@@ -152,7 +152,7 @@ Give her a decent gun and stick someone in front to take hits for her and she'll
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Availability:
-  * 3-3; 4-4
+  * 3-3; 4-4.
 
 * Post-early-game relevance:
   * Subjective. Do you like what Takao does? If so, they'll be relevant; if not, skip away.
@@ -162,8 +162,8 @@ Give her a decent gun and stick someone in front to take hits for her and she'll
 Often unfairly overlooked but there's few better Torp-CAs, especially at their cost.
 
 
-## BB/BC ![BB/BC](/Images-for-the-Guide/45px-BC_img40.png "BB/BC Icon")
-
+## Battleships and Battlecruisers ![BB/BC](/Images-for-the-Guide/45px-BC_img40.png "BB/BC Icon")
+---
 ![BB](/Images-for-the-Guide/ArizonaChibi.png "USS Arizona") - **[USS Arizona](https://azurlane.koumakan.jp/Arizona)**
 * Skill: 
   * 50% chance on Main Gun fire to heal the vanguard by 10% of their max HP.
@@ -173,7 +173,7 @@ Often unfairly overlooked but there's few better Torp-CAs, especially at their c
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloaders (mobs)
 
 * Availability:
-  * 2-2
+  * 2-2.
 
 * Post-early-game relevance:
   * High; she's the only healer BB in the game, after all, and has her place in a fleet justified the moment you feel the need for a little healing on top of the usual BB DPS.
@@ -192,6 +192,12 @@ It's also worth remembering that you only need as much healing as the damage you
   * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
+* Availability:
+  * Yes.
+  
+* Post-early-game relevance:
+  * High. They're often overlooked, perhaps because they're grays or perhaps because they're not very flashy, but they put out major league DPS while being the absolute cheapest in their hull class.
+
 * Desc: 
 >Similar in form, statline and function to their bigger, blacker cousin - AA aside - these cowgirls operate at a fraction of South Dakota's cost while providing similarly good results, courtesy of their better Efficiency and uncharacteristically high Accuracy.
 Bit RNG still, but there's nobody cheaper than them in their class.
@@ -207,10 +213,93 @@ Bit RNG still, but there's nobody cheaper than them in their class.
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Availability:
-  * 2-2
+  * 2-2.
 
 * Post-early-game relevance:
   * Average. There are a lot of BBarragers out there, either more powerful or more useful than she is and not a lot more expensive, so you'll probably phase her out; she does remain the cheapest of the bunch, however, and a solid pick regardless. 
 
 * Desc: 
 >Your first proper BBarrager, Pennsylvania has an okay statline and very nice barrage for both mobbing and bossing fleets (but preferably mobbing); since said barrage is timed you don't need to worry about giving her a fast gun to proc it often, with the added benefit of it being able to dispatch enemies on its own so you can point the main guns towards something else.  
+
+
+![BB](/Images-for-the-Guide/YamashiroChibi.png "Yamashiro") ![BB](/Images-for-the-Guide/FusouChibi.png "Fusou") - **[IJN Yamashiro](https://azurlane.koumakan.jp/Yamashiro)** **[IJN Fusou](https://azurlane.koumakan.jp/Fusou)**
+* Skill: 
+  * +20% FP to self.
+
+* Recommended Loadouts:
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Availability:
+  * Visitor Dyed In Red (War Archives event); A-1, A-2, A-3.
+  
+* Post-early-game relevance:
+  * Low. The value of CL secondaries decreases steadily over time as more and more BB with it become available to you, and while a lot of Firepower doesn't really go amiss it's also all these two are offering; there's no shortage of nasty damage dealers out there, and most of them have more to their name than just that.
+
+* Desc: 
+>Your first *good* bearers of CL secondaries, owing to their high Firepower and Main Gun Efficiency (once partially retrofitted, that is; just DO NOT take the last two nodes). All they do is stop fireships well and craterise hard targets; it ain't much, but it's honest work and do you really need more for now?
+
+
+## CV/CVL ![CV(L)](/Images-for-the-Guide/45px-CVL_img.png "CV/L Icon")
+---
+#### ![CVL](/Images-for-the-Guide/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
+* Skill: 
+  * Increases experience gained by CV/L by 15%
+  * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. (Kai)
+  * Has a 6/2/0 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; F6F Hellcat; Fairey Firefly; Hydraulic Catapult; Homing Beacon
+  * [Poverty] F4U Corsair; F4U Corsair; Fairey Fulmar; Hydraulic Catapult; Hydraulic Catapult
+
+* Availability:
+ * Basically everywhere from W3 onwards.
+ 
+* Post-early-game relevance:
+  * Average until W12 and Very High afterwards. Her complement of 6 fighters and 2 dive bombers is tailor-made to make enemy plane formations' lives hell, but there are barely any (if at all) planes on the stretch leading to W12 and her surface DPS is somewhat lacking; nevertheless, she's a very cheap way to bolster your Air Control value and her lighter payloads will still do work against adds.
+
+* Desc:
+>Once considered a liability due to the much reviled F/F/B loadout and an exp boost as a primary skill, Langley Kai's fortunes changed drastically with the advent of Air Superiority mechanics; not only do those fighters contribute almost or over twice the amount other types of planes do, but they're also extraordinarily cost-effective as well as slightly more readily available than usual.
+If stacking ACV is what you need but you'd rather not focus on carriers or you need some air superiority on the quick, look no further.
+
+
+![CVL](/Images-for-the-Guide/RangerKaiChibi.png "USS Ranger Kai") - **[USS Ranger Kai](https://azurlane.koumakan.jp/Ranger)**
+* Skill: 
+  * 15% chance upon airstrike launch, next airstrike becomes available immediately.
+  * 25% chance of inflicting double damage with airstrike. (Kai)
+  * Has a 0/6/2 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] Ryusei; SB2C Helldiver; SB2C Helldiver; Hydraulic Catapult; Homing Beacon
+  * [Poverty] Tenzan; SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Homing Beacon
+
+* Availability:
+  * Basically everywhere from 3-1 onwards.
+
+* Post-early-game relevance:
+  * High until W12 and Low afterwards. This is for the same reasons that have Langley become more relevant later on; her plane loadout is excellent against surface targets and woefully inadequate at tackling the massed plane swarms of the latest worlds, making her a liability rather than an asset.
+
+* Desc: 
+>Also referred to as RNGer for obvious reasons, and infamous because of her potentially infinite damage, you need luck on your side to get the most out of her; even without the procs, though, few carriers get close to the sheer damage output she can unleash thanks to her 8 sea-attacking planes and high Efficiencies, and none of them can manage it at her rock-bottom 9 Oil cost.  
+Beware her near-total lack of anti-air presence, though; without Fighters or AA guns to speak of, there's very little she can do about enemy planes.
+
+
+![CVL](/Images-for-the-Guide/ShouhouKaiChibi.png "It's Shohtime") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)**
+* Skill: 
+  * On launching an airstrike, heals the escort fleet by 8% of their HP.
+  * On launching an airstrike, grant +15% Aviation to all CV/L for 8s. (Kai)
+  * Has a 0/3/3 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] SB2C Helldiver; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Homing Beacon
+  * [Poverty] SB2C Helldiver or JU87 Stuka; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
+
+* Availability:
+  * 2-2, 2-3, 2-4.
+
+* Post-early-game relevance:
+  * High before W12 and Average afterwards. While her plane loadout allows her some rather impressive DPS for a CVL, it also proves to be her downfall as it is sorely lacking in plane-stopping power, which the plane-infested latest worlds strongly encourage.
+
+* Desc: 
+>Your first real healer and probably also one of your first real CVL options. A nasty beatstick of an airstrip, she provides lots of fire and regular support for your vanguard; her lack of fighters will not be a problem until much later on, so enjoy the explosions for now (or raise Unicorn if you happen to have her and want something more future-proof).
+
