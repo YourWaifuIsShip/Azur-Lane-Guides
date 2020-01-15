@@ -57,7 +57,8 @@ As it is for Phoenix, they are best used in mobbing fleets.
 * Post-early-game relevance:
   * Average, as London Kai takes over her buffing duties while being considerably tougher and a lot more powerful. She does remain very  cheap, though, and fits snugly in those CL hardmode locks.  
 
-* Desc: A very solid statline, a bargain basement price tag, a Firepower buff for cruisers, a smokescreen that won't accomplish much (but is better than Belfast's) and a smile to melt your heart.  
+* Desc: 
+>A very solid statline, a bargain basement price tag, a Firepower buff for cruisers, a smokescreen that won't accomplish much (but is better than Belfast's) and a smile to melt your heart.  
 What's not to like? 
 
 ## Heavy Cruisers ![CA](/Images-for-the-Guide/45px-CL_img40.png "CA Icon")
@@ -81,6 +82,7 @@ What's not to like?
 * Desc:
 >Stock London isn't particularly worth writing home about. Like most HMS CA she has good weaponry and a good skill bolted onto a fragile frame, and the purple CA (11 Oil) price tag is nasty... especially when Leander Kai would do most of her job for much cheaper (8 Oil).  
 If you can hang on until her retrofit though, and you should, you get one of the absolute best CAs in the game - consistent, useful and powerful (in this order), London Kai augments any fleet she's in and shreds adds like few others can while enjoying okay survivability.  
+
 ![CA](/Images-for-the-Guide/PortlandKaiChibi.png "Portland Kai") - **[USS Portland Kai](https://azurlane.koumakan.jp/Portland#retrofit)**
 * Skill: 
   * When sortied w/ Indianapolis, gain +15% Firepower, AA and Evasion. Do not do this.
@@ -100,6 +102,7 @@ If you can hang on until her retrofit though, and you should, you get one of the
 >Exceptional HP, twice the base Evasion other CAs get once you get her the appropriate retrofit nodes, good Firepower and high AA: in a similar fashion to Cleveland, her stats alone justify her rating and the skills are just window dressing, with the Indianapolis-related buff in particular being wholly irrelevant (as her sister is way too weak to be worth consideration).    
 She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn hard to kill and consistent.
 
+
 ![CA](/Images-for-the-Guide/ChicagoChibi.png "USS Chicago") - **[USS Chicago](https://azurlane.koumakan.jp/Chicago)**
 * Skill: 
   * Upon firing the Main Gun, 30% chance to have it deal +100% Damage. (Has an internal cooldown of 5s; do not give her the 203Mle as the gun will reload in under 5s.)
@@ -109,7 +112,7 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
   * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Availability:
-3-1; 4-3, 4-4
+  * 3-1; 4-3, 4-4
 
 * Post-early-game relevance:
   * Average. Her DPS only gets better as better gear becomes available to you, but she'll remain very squishy; an excellent and cheap pick regardless, provided you can keep her alive (and you're not lacking in options to do that).  
@@ -128,7 +131,7 @@ Give her a decent gun and stick someone in front to take hits for her and she'll
   * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Availability:
-3-3; 4-4
+  * 3-3; 4-4
 
 * Post-early-game relevance:
   * Subjective. Do you like what Takao does? If so, they'll be relevant; if not, skip away.
@@ -149,10 +152,44 @@ Often unfairly overlooked but there's few better Torp-CAs, especially at their c
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloaders (mobs)
 
 * Availability:
-2-2
+  * 2-2
 
-
+* Post-early-game relevance:
+  * High; she's the only healer BB in the game, after all, and has her place in a fleet justified the moment you feel the need for a little healing on top of the usual BB DPS.
 
 - Desc:
->Healing on a cointoss sounds pretty bad, yes, but ask yourself this - how many units can properly heal at all, and how many of them pack the Firepower, sturdiness and self-defence capabilities of a BB?  
-Yup, that's just her - and while her heal isn't as reliable as that of Unicorn or Shouhou, she's an excellent fit for a vanguard who doesn't strictly need the heals to stay alive and keep fighting.
+>One of the first healers you'll have access too and probably one of the first proper battleships as well; her DD secondary guns will keep your backline safe-ish from incoming fireships and her heal, while unreliable, will keep your vanguard alive and kicking for longer than no heal at all.  
+It's also worth remembering that you only need as much healing as the damage you're taking; Shouhou or Unicorn do heal better, yes, but if your vanguard doesn't risk dying that much anyway there is little reason to pick them.  
+
+
+![BB](/Images-for-the-Guide/NevadaKaiChibi.png "Nevada Kai") ![BB](/Images-for-the-Guide/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
+* Skill: 
+  * Upon taking damage, 8% chance to halve that damage.
+  * Upon main gun fire, 30% chance to double the volley damage. (Kai)
+
+* Recommended Loadouts:
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc: 
+>Similar in form, statline and function to their bigger, blacker cousin - AA aside - these cowgirls operate at a fraction of South Dakota's cost while providing similarly good results, courtesy of their better Efficiency and uncharacteristically high Accuracy.
+Bit RNG still, but there's nobody cheaper than them in their class.
+
+
+![BB](/Images-for-the-Guide/PennsylvaniaChibi.png "Penny") - **[USS Pennsylvania](https://azurlane.koumakan.jp/Pennsylvania)**
+* Skill: 
+  * Every 20s, 60% chance to launch a [focused barrage](http://p0.qhimg.com/dr/400__/t014b861d5b4b972e2f.gif).
+    * The 12 SHELLS deal 120 bdmg with 70/100/90 mods. Their damage is modified by 100% of the unit's FP.
+
+* Recommended Loadouts:
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Availability:
+  * 2-2
+
+* Post-early-game relevance:
+  * Average. There are a lot of BBarragers out there, either more powerful or more useful than she is and not a lot more expensive, so you'll probably phase her out; she does remain the cheapest of the bunch, however, and a solid pick regardless. 
+
+* Desc: 
+>Your first proper BBarrager, Pennsylvania has an okay statline and very nice barrage for both mobbing and bossing fleets (but preferably mobbing); since said barrage is timed you don't need to worry about giving her a fast gun to proc it often, with the added benefit of it being able to dispatch enemies on its own so you can point the main guns towards something else.  
