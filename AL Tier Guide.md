@@ -1371,7 +1371,7 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
   * 25% chance when firing main guns to fire another salvo. (Has an internal cooldown of 5s; do not give her the 203Mle as the gun will reload in under 5s.)
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [General Purpose] Prototype 203mm Type 3 Mounted Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
   * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
