@@ -7,6 +7,18 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 ## _VERY IMPORTANT OPENING NOTE_ 
 
 ```
+[27/01/2020]
+> USS Halsey Powell did not join the Tier Guide, on account of her being useless.
+- Doesn't have the ASW prowess of Laffey, despite the ASW buff, and definitely not the DPS.
+- Doesn't have the AA to compete with any AA DD, let alone AA CLs.
+
+> IJN Uranami did not join the Tier Guide, on account of her being useless and overcosted.
+- The statline (very average IJN DD) is not good enough to warrant the purple Oil costs.
+- The skills are terrible, with one being geared towards hunting DDs (something a DD with IJN-standard atrocious guns should not be
+doing) and the other being a minor heal whenever an ally dies (you NEVER want any of your units to die, not even in PvP).
+
+> HMS Amazon Kai does not join the Tier Guide, on account of her still being too weak to compensate for the exp boost.
+
 [06/01/2020]
 > Due to popular request, here is why IJN Atago is untiered.
 - In short: Atago is Takao but outright worse due to skillset (Focused Fire is a lot better than Arsonist) and statline.
