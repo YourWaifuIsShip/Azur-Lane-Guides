@@ -1012,7 +1012,7 @@ Still, there's very few more reliable frontline tanks than she - and that's a de
 - Desc: Answering the question nobody asked.
 >Hey you! Yes, you! Did you ever wonder how much easier would clearing mobs be if you could just reduce the Out of Ammo debuff, maybe by taking one ship that could do it?  
 No? Well me neither, but there she is anyway.  
-To be clear, Glasgow isn't a bad CL: she's on par with your average HMS CL, in fact, which is a fairly good place to be in, and taking her will not hamper your progress... however, the usefulness of that skill is a matter of fierce debate.
+To be clear, Gloucester isn't a bad CL: she's on par with your average HMS CL, in fact, which is a fairly good place to be in, and taking her will not hamper your progress... however, the usefulness of that skill is a matter of fierce debate.
 As the common method of dealing with the Out of Ammo thing is to have a comp capable of handling those multiple fights, usually reliant on healing of some sort, in order not to take casualties and potentially reduce overall costs; Gloucester's skill grows 'stronger' the more units you take, however, which is something you'd rather avoid in a mob fleet because the costs would increase.  
 She's in a weird position, all in all, and whether you'll take her or not will most likely depend on whether you find her skill useful; she's good enough to pull her own weight, either way, and that's good enough.
 
