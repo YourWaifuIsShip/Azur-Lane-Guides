@@ -745,6 +745,23 @@ Most, if not all, Cruiser compositions will benefit by her presence.
 and endure a shocking amount of abuse in the process.  
 Weird but potentially very good. Watch out for her loadout.
 
+![CL](/Images-for-the-Guide/DidoChibi.png "Dildo") - **[HMS Dido](https://azurlane.koumakan.jp/Sirius)** **(T0 w/ 3+ other HMS units)**
+* Skill:
+  * Grant +15% FP/Torp/AA to all Dido-class cruisers in the fleet; also, upon battle start, gain +15% AA/Evasion for 30s.
+  * Gain a stack of +6% FP/AA/Reload for every HMS unit in the fleet (herself included, max 4 stacks); if QE is in the fleet, grant QE +7% FP/Evasion/Reload and +20% CritRate.
+  * Can use DD guns, and should.
+
+* Recommended Loadouts:
+  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 100mm twin; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: Easy Access to Monkey Business.
+> It was to be expected that the Dido-class flagship would be good; what was not expected is that she'd also make Queen Elizabeth not terrible anymore (still not a first pick though, alas; her base statline is too poor to be fixed *that* easily).  
+As a standalone unit, she's an overall improved Sirius: the barrage is more powerful and easier to land, the statline is better across the board, the AA is actually good-to-excellent this time around and the buffs she gets are very significant, more so than those she grants.
+On the flipside, the buffs can be unwieldy: while the Dido+3HMS requirements is easily filled and so is taking the chimpanQE along, exploiting the Dido-class buff will result in at least *someone* not getting to use part of their kit (Dido would want QE, Sirius wants carriers, Black Prince wants 1 USS unit). You have options with Dido, but trying to fit all in isn't one of them. 
+
+
+
 ### Tier 1: 
 ---
 ![CL](/Images-for-the-Guide/HelenaChibi.png "Esugee") - **[USS Helena](https://azurlane.koumakan.jp/Helena)** **(T0 vs bosses)**
@@ -983,6 +1000,23 @@ Her place is mostly PvP, as there are many other CL who will do what she does - 
 The difference lies in how 'safe' they play things, as Edinburgh gets a passive boost to AP damage inflicted, an even bulkier HP pool (4.1k is amazing for both varieties of Cruiser) and no AA skill to burn her FP, but doesn't get that lone shot at the fleetwide buff and her DPS is still par for the course for a CL.  
 Still, there's very few more reliable frontline tanks than she - and that's a definite plus.
 
+![CL](/Images-for-the-Guide/GloucesterChibi.png "Gloster") - **[HMS Gloucester](https://azurlane.koumakan.jp/Gloucester)**
+* Skill: 
+  * Decrease the Out of Ammo debuff potency to -35% damage (from -50% damage) for the fleet Gloucester is in.
+  * Gain +5% FP/Accuracy; also, gain a +2% FP/Accuracy stack upon sinking an enemy (max 5 stacks).
+  
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
+- Desc: Answering the question nobody asked.
+>Hey you! Yes, you! Did you ever wonder how much easier would clearing mobs be if you could just reduce the Out of Ammo debuff, maybe by taking one ship that could do it?  
+No? Well me neither, but there she is anyway.  
+To be clear, Glasgow isn't a bad CL: she's on par with your average HMS CL, in fact, which is a fairly good place to be in, and taking her will not hamper your progress... however, the usefulness of that skill is a matter of fierce debate.
+As the common method of dealing with the Out of Ammo thing is to have a comp capable of handling those multiple fights, usually reliant on healing of some sort, in order not to take casualties and potentially reduce overall costs; Gloucester's skill grows 'stronger' the more units you take, however, which is something you'd rather avoid in a mob fleet because the costs would increase.  
+She's in a weird position, all in all, and whether you'll take her or not will most likely depend on whether you find her skill useful; she's good enough to pull her own weight, either way, and that's good enough.
+
+
 ![CL](/Images-for-the-Guide/NewcastleKaiChibi.png "Newcastle Kai") - **[HMS Newcastle Kai](https://azurlane.koumakan.jp/Newcastle#retrofit)** **(T1 in Plane Hells)**
 * Skill: 
   * Upon firing AA guns, 25% chance to gain +40% AA and lose -20% FP for 3s.
@@ -1038,6 +1072,20 @@ Her retaliatory barrage is pretty strong, but you should try *not* to proc it; l
 
 ### Tier 2:
 ---
+![CL](/Images-for-the-Guide/BiloxiChibi.png "Bluepunzel") - **[USS Biloxi](https://azurlane.koumakan.jp/Biloxi)**
+* Skill: 
+  * If equipped with a Twin 127mm MK12 Dual Gun, gain +15% AA and lose -5% FP; if NOT equipped with it, gain +15% FP and lose -5% AA.
+  * Once per fight and upon any ally falling below 50% HP, gain +15% AA and reduce the damage taken by that unit by -15% for 12s.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
+
+*  Desc: 
+>The worst the Cleveland-class has to offer, Biloxi has the same average statline of her peers but lacks the skills to improve or ignore it.  
+As a result, she can't out-AA any of her colleagues; she can't outDPS any of them but Columbia and Cleveland (by a small margin and while lacking the AA skill); and she can't outsupport any of them (all of them have better AA, Columbia protects the most important unit in the fleet better, Montpelier supports the vanguard better). In short, she's just worse.  
+Still, she's a Cleveland-class, and even at its worst the Cleveland-class offers a bulky warm body to catch bullets with.
+
 ![CL](/Images-for-the-Guide/HonoluluChibi.png "Honolulu") - **[USS Honolulu](https://azurlane.koumakan.jp/Honolulu)**
 * Skill: 
   * 60% chance every 20s, +40% FP for 8s.
