@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's highly opinionated and extra-biased AL Untier Guide (WHOTUBER EDITION)
+# Your Waifu is SHIP's highly opinionated and extra-biased AL Untier Guide (EASY ACCESS MAIDS EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 "Hey, hang on a second! Where's MY waifu? I looked at the Guides and yet she's not there!"  
