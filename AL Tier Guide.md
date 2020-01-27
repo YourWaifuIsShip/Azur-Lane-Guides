@@ -61,20 +61,15 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (30/12/2019)
+## Changelog as of last update (27/01/2020)
 
-- IJN Noshiro joins the Guide as T0;
-- IJN Ryuuhou joins the Guide as T0;
-- IJN Kinu joins the Guide as T1;
-- IJN Suruga joins the Guide as T1.5.
+- HMS Dido joins the Guide as a T0.5 (T0 with 3+ other HMS units)
+- HMS Gloucester joins the Guide as T1.5
+- USS Biloxi joins the Guide as T2
 
-- USS Bataan has been promoted to T0.5; given her un-CVL-like DPS and impressive support suite, she's amply deserved it.
-- IJN Kirishima has been promoted to T1; a very accomplished BC, well suited to mulching trash mobs and airstrikes while still pummeling enemy battleships, and one of the only big guns capable of barraging from the sidelines as well as she does from the middle.
-- IJN Kaga (BB) has been demoted to T1.5; way too much competition in T1 for her to still be worth a place there, the demotion brings her more in line with the original sidegrade she was to, Washington.
-- HMS Illustrious has been demoted to T2; she's too expensive and too weak to compete with other carriers, Langley and Bataan in primis, and her Air Superiorty isn't nearly enough to make up for it.
-
-
-- ALL IMAGES HAVE BEEN RESTORED. FINALLY.
+- USS Halsey Powell joins the Untier Guide as Irrelevant.
+- IJN Uranami joins the Untier Guide as Terrible.
+- HMS Amazon Kai joins the Untier Guide as Irrelevant.
 
 <br/><br/>
 ---
