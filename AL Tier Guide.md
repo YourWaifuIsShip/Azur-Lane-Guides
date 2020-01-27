@@ -757,7 +757,7 @@ Weird but potentially very good. Watch out for her loadout.
 
 * Desc: Easy Access to Monkey Business.
 > It was to be expected that the Dido-class flagship would be good; what was not expected is that she'd also make Queen Elizabeth not terrible anymore (still not a first pick though, alas; her base statline is too poor to be fixed *that* easily).  
-As a standalone unit, she's an overall improved Sirius: the barrage is more powerful and easier to land, the statline is better across the board, the AA is actually good-to-excellent this time around and the buffs she gets are very significant, more so than those she grants.
+As a standalone unit, she's an overall improved Sirius: the barrage is more powerful and easier to land, the statline is better across the board, the AA is actually good-to-excellent this time around and the buffs she gets are very significant, more so than those she grants.  
 On the flipside, the buffs can be unwieldy: while the Dido+3HMS requirements is easily filled and so is taking the chimpanQE along, exploiting the Dido-class buff will result in at least *someone* not getting to use part of their kit (Dido would want QE, Sirius wants carriers, Black Prince wants 1 USS unit). You have options with Dido, but trying to fit all in isn't one of them. 
 
 
