@@ -740,7 +740,7 @@ Most, if not all, Cruiser compositions will benefit by her presence.
 and endure a shocking amount of abuse in the process.  
 Weird but potentially very good. Watch out for her loadout.
 
-![CL](/Images-for-the-Guide/DidoChibi.png "Dildo") - **[HMS Dido](https://azurlane.koumakan.jp/Sirius)** **(T0 w/ 3+ other HMS units)**
+![CL](/Images-for-the-Guide/DidoChibi.png "Dildo") - **[HMS Dido](https://azurlane.koumakan.jp/Dido)** **(T0 w/ 3+ other HMS units)**
 * Skill:
   * Grant +15% FP/Torp/AA to all Dido-class cruisers in the fleet; also, upon battle start, gain +15% AA/Evasion for 30s.
   * Gain a stack of +6% FP/AA/Reload for every HMS unit in the fleet (herself included, max 4 stacks); if QE is in the fleet, grant QE +7% FP/Evasion/Reload and +20% CritRate.
@@ -1231,7 +1231,7 @@ All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and a
 
  
 ### Pro Team Players:
-#### ![CL](/Images-for-the-Guide/Ping_HaiKaiChibi.png "Ping Hai Kai") ![CL](/Images-for-the-Guide/Ning_HaiKaiChibi.png "Ning Hai Kai") ![CL](/Images-for-the-Guide/ Yat_SenChibi.png "Yat Sen") - [ROC Ping Hai Kai](https://azurlane.koumakan.jp/Ping_Hai#retrofit), [ROC Ning Hai Kai](https://azurlane.koumakan.jp/Ning_Hai#retrofit), [ROC Yat Sen](https://azurlane.koumakan.jp/Yat_Sen) **(T1)**
+#### ![CL](/Images-for-the-Guide/Ping_HaiKaiChibi.png "Ping Hai Kai") ![CL](/Images-for-the-Guide/Ning_HaiKaiChibi.png "Ning Hai Kai") ![CL](/Images-for-the-Guide/Yat_SenChibi.png "Yat Sen") - [ROC Ping Hai Kai](https://azurlane.koumakan.jp/Ping_Hai#retrofit), [ROC Ning Hai Kai](https://azurlane.koumakan.jp/Ning_Hai#retrofit), [ROC Yat Sen](https://azurlane.koumakan.jp/Yat_Sen) **(T1)**
 * Skill (Ping Hai Kai): 
   * If the vanguard contains Ning Hai, +35% FP.
   * +25% Damage vs IJN units.
