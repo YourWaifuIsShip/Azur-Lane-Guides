@@ -1,4 +1,5 @@
-Intended as a scaled-down, tier-less, early-game version of the full Tier Guide for new commanders, the listings here will focus on specific early-game concerns and only include units from W1 to W4, as that is where most newbies struggle and where most of the relevant droppable units can be found.  
+Intended as a scaled-down, tier-less, early-game version of the full Tier Guide for new commanders, the listings here will focus on specific early-game concerns and only include units from W1 to W4, as that is where most newbies struggle and where most of the relevant droppable units can be found.   
+While the entries all use the Kai chibi and cover their Kai versions, **all of these are worth dropping and raising even as a new player.** If they weren't, they wouldn't be here.
 
 
 ## Destroyers ![DD](/Images-for-the-Guide/45px-DD_img40.png "DD Icon")
