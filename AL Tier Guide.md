@@ -782,20 +782,6 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
 * Desc: 
 >Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
 
-![CL](/Images-for-the-Guide/St._LouisChibi.png "Lewdis") - **[USS St. Louis](https://azurlane.koumakan.jp/St._Louis)**
-* Skill: 
-  * 60% chance every 20s to boost her own Firepower, Reload, and Evasion by 30% for 10s
-  * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
-
-* Recommended Loadouts:
-  * [Full Atk] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Autoloader; Autoloader
-  * [Full Def] Prototype Triple 152mm Main Gun; 100mm twin; 40mm Quad Bofors; PR Hydraulic Gear; Gold SG Radar
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
-
-* Desc: It's not luck, it's all skill.
->Lewdis' rather impressive statline goes exceedingly well with a solid set of self-buffs to all relevant stats for a Gun-CL like herself, letting her withstand amounts of punishment that would fell a lesser CL or fire harder and faster than much of her competition.
-
 ![CL](/Images-for-the-Guide/Little_BelChibi.png "Belchan") - **[HMS Belchan](https://azurlane.koumakan.jp/Little_Bel)**
 * Skill:
   * +8 Speed and +25% Evasion.
@@ -967,6 +953,19 @@ All the utility of her skills with the sturdiness and DPS of the Cleveland-class
 *  Desc: 
 >The most selfish of the Solomon Cavaliers - not a good look for a CL, but she's still rather okay.  
 She'll only buff herself, but a +40% FP never really goes amiss.
+
+![CL](/Images-for-the-Guide/St._LouisChibi.png "Lewdis") - **[USS St. Louis](https://azurlane.koumakan.jp/St._Louis)**
+* Skill: 
+  * 60% chance every 20s to boost her own Firepower, Reload, and Evasion by 30% for 10s
+  * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
+  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: 
+>Lewdis' remarkable statline goes exceedingly well with a solid set of self-buffs to all relevant stats for a Gun-CL like herself, letting her withstand amounts of punishment that would fell a lesser CL or gun harder and faster than much of her competition.  
+Beware the lack of support, though; while her AA isn't Helena-tier bad, it is still bad by CL standards, and her buffs only affect herself.
 
 ![CL](/Images-for-the-Guide/BelfastChibi.png "Belfast") - **[HMS Belfast](https://azurlane.koumakan.jp/Belfast)**
 * Skill: 
