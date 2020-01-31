@@ -63,13 +63,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ## Changelog as of last update (27/01/2020)
 
-- HMS Dido joins the Guide as a T0.5 (T0 with 3+ other HMS units)
-- HMS Gloucester joins the Guide as T1.5
-- USS Biloxi joins the Guide as T2
-
-- USS Halsey Powell joins the Untier Guide as Irrelevant.
-- IJN Uranami joins the Untier Guide as Terrible.
-- HMS Amazon Kai joins the Untier Guide as Irrelevant.
+- USS St. Louis tiers down from T1 to T1.5, on account of her lacking support.
 
 <br/><br/>
 ---
