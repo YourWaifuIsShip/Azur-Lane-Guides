@@ -2338,7 +2338,7 @@ Outgunned, outskilled, outcosted. With no hyperbole, they ARE among the worst BB
 <br/><br/>
 ---
 <br/><br/>
-## BBV ![BBV](/Images-for-the-Guide/45px-BBV_img.png "BBV Icon")
+## BBV ![BBV](/Images-for-the-Guide/45px-BBV_img40.png "BBV Icon")
 ### Tier 0:
 ---
 
@@ -2630,7 +2630,7 @@ Do NOT think she can solo backline past W6, though. Carriers aren't made for tha
 >Once criminally underrated and now outshining even the Foxes in terms of raw damage, Hiryuu focuses on Torpedo Bombers and stubbornly refusing to roll over and die (by becoming invincible for 15s and launching an airstrike); not the most useful skill under the majority of circumstances, though her sister makes up for it with the always handy vanguard buff, but the real deal is the +35% Aviation buff that is further bolstered by the slew of extra stats the Kai brought, as well as the neat timed barrage (which is, despite its inconsistency, still free damage).  
 Exceptional.
 
-![CV](h/Images-for-the-Guide/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0.5 w/ Zuikaku)**
+![CV](/Images-for-the-Guide/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0.5 w/ Zuikaku)**
 * Skill: 
   * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
   * When paired, increases Air Power by 30% and INCREASES damage taken by 10%
@@ -2662,7 +2662,7 @@ Her buffs and layout are good enough to warrant usage even solo.
 >Once considered a liability due to the much reviled F/F/B loadout and an exp boost as a primary skill, Langley Kai's fortunes changed drastically with the advent of Air Superiority mechanics; not only do those fighters contribute almost or over twice the amount other types of planes do, but they're also extraordinarily cost-effective as well as slightly more readily available than usual.
 If stacking AS is what you need but you'd rather not focus on carriers, look no further.
 
-![CV](h/Images-for-the-Guide/LexingtonChibi.png "USS Lexington") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)**
+![CV](/Images-for-the-Guide/LexingtonChibi.png "USS Lexington") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)**
 
 * Skill: 
   * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Aviation).
