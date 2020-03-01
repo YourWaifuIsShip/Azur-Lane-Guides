@@ -935,7 +935,7 @@ Nice.
 
 ![CL](/Images-for-the-Guide/ChapayevChibi.png "Pale Rider") - **[NP Chapayev](https://azurlane.koumakan.jp/Chapayev)**
 * Skill:
-  * Every 15, 70% chance to fire a (https://cdn.discordapp.com/attachments/362117088136921090/683576119945068565/Screenshot_2020-03-01-08-25-48-082_com.YoStarJP.AzurLane.jpg)[barrage].
+  * Every 15, 70% chance to fire a [barrage](https://cdn.discordapp.com/attachments/362117088136921090/683576119945068565/Screenshot_2020-03-01-08-25-48-082_com.YoStarJP.AzurLane.jpg).
     * The 12 SHELLS deal 26 bdmg with 125/85/85 modifiers and has a 100% Ignition chance; their damage is modified by 100% of the unit's FP stat.
   * Gain +15% CritRate, deal +20% damage to DDs and gain +15% Main Gun shell speed; also, reduce enemy DDs' Evasion Rate by 10%.
   * Costs +1 Oil.
@@ -2102,7 +2102,7 @@ Just don't ask her to handle boss fights if you can help it, and if you do, make
 
 ![BB](/Images-for-the-Guide/Sovetskaya_RossiyaChibi.png "Whittorio") - **[NP Sovetskaya Rossiya](https://azurlane.koumakan.jp/Sovetskaya_Rossiya)** 
 * Skill:
-  * On main gun fire, 75% chance to fire a (https://streamable.com/38l58)[barrage].
+  * On main gun fire, 75% chance to fire a [barrage](https://streamable.com/38l58).
     * The 9 SHELLS deal 170 bdmg with 40/120/125 mods; the 20 ICICLES deal 20 bdmg with 120/60/60 mods; the 9 ICEBERGS deal 56 bdmg with 80/90/110 and inflicts -40% Speed *and* a very minor 2x23 Flood DoT. The damage of all of these is modified by 100% of the unit's FP.
   * For her first two fights of the sortie, gain +5% Firepower and Accuracy (up to 20%) for every Northern Parliament / Dragon Empery unit in the fleet.
   * Costs +1 Oil.
