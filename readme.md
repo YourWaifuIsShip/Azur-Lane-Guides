@@ -9,6 +9,9 @@ If you happen to have questions for me, want to discuss tierings or would like t
 
 ## Featured news and Changelog
 ```
+[01/03/2019]
+TIER GUIDE UPDATED
+
 [27/01/2019]
 TIER GUIDE UPDATED
 
