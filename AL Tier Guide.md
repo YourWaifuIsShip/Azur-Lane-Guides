@@ -63,7 +63,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ## Changelog as of last update (01/03/2020)
 
-- NP Taskent joins the Tier Guide as T0.
+- NP Tashkent joins the Tier Guide as T0.
 - NP Chapayev joins the Tier Guide as T1.
 - NP Gangut joins the Tier Guide as T1.
 - NP Sovetskaya Rossiya joins the Tier Guide as T1.
