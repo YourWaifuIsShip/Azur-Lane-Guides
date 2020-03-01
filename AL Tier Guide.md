@@ -70,6 +70,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - NP Grozny joins the Tier Guide as T2.
 - NP Minsk joins the Tier Guide as T2.
 
+- HMS Amazon Kai joins the Tier Guide as T2.
+- NP Pamiat Merkuria joins the Untier Guide as Just Why.
+
 <br/><br/>
 ---
 <br/><br/>
@@ -533,6 +536,20 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
 
 * Desc: 
 >Lynchpin of the Fletcher Trio, think of her as an USS Z1 with a greater focus on gunnery as opposed to torps, as befitting her nation's doctrine. Very solid and dependable, but obviously better with other Fletchers.
+
+![DD](/Images-for-the-Guide/AmazonKaiChibi.png "HMS Amazon Kai")- **[HMS Amazon Kai](https://azurlane.koumakan.jp/Amazon#Retrofit)**
+* Skill: 
+  * Allied DDs in the fleet gain +18% experience.
+  * Upon battle start and for 80s afterwards, deal +15% damage, take -8% damage and reduce the damage taken by allied DDs by -12% damage.
+  * Has AAGM+1.
+
+* Recommended Loadouts:
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: 
+>Nobody truly expected this to happen, but somehow Amazon's Kai turned out to be... somewhat alright!  
+Certainly as an AA barge at least, whenever her double AA mount is allowed to do work, but she's also alright in terms of DPS and staying power; still, her niche is of questionable relevance so it's unlikely she'll see much use, but worth keeping in mind nonethless.
 
  ![DD](/Images-for-the-Guide/ArdentKaiChibi.png "HMS Ardent Kai")- **[HMS Ardent Kai](https://azurlane.koumakan.jp/Ardent#Retrofit)**
 * Skill: 
