@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's highly opinionated and extra-biased AL Untier Guide (EASY ACCESS MAIDS EDITION)
+# Your Waifu is SHIP's highly opinionated and extra-biased AL Untier Guide (PAPER BLYATES EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 "Hey, hang on a second! Where's MY waifu? I looked at the Guides and yet she's not there!"  
@@ -7,6 +7,14 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 ## _VERY IMPORTANT OPENING NOTE_ 
 
 ```
+[01/03/2020]
+> NP Pamiat Merkuria did not join the Tier Guide, on account of her being an unmitigated disaster.
+- CL guns, backed by a meagre 120% Efficiency and a truly abysmal 83 FP. There are IJN DD who have more, for the reference; they won't
+outgun her, but they'll also have real torpedoes to lob at enemies.
+- While her bulk isn't bad and the second skill may echo Eldridge's (except it's much worse), Eldridge is stronger and more useful... and
+Eldridge isn't useful to begin with, plagued as she is by low DPS already.
+- Also, costs +1 Oil despite being purple.
+
 [27/01/2020]
 > USS Halsey Powell did not join the Tier Guide, on account of her being useless.
 - Doesn't have the ASW prowess of Laffey, despite the ASW buff, and definitely not the DPS.
