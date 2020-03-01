@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (PAPER BLYATS EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (PAPER BLYATES EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -61,9 +61,14 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (27/01/2020)
+## Changelog as of last update (01/03/2020)
 
-- USS St. Louis tiers down from T1 to T1.5, on account of her lacking support.
+- NP Taskent joins the Tier Guide as T0.
+- NP Chapayev joins the Tier Guide as T1.
+- NP Gangut joins the Tier Guide as T1.
+- NP Sovetskaya Rossiya joins the Tier Guide as T1.
+- NP Grozny joins the Tier Guide as T2.
+- NP Minsk joins the Tier Guide as T2.
 
 <br/><br/>
 ---
