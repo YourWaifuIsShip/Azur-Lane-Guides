@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (EASY ACCESS MAIDS EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (PAPER BLYATS EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -142,6 +142,21 @@ Torps are even more of an afterthought than they are on Laffey, however, and unl
 * Desc: San DDiego, is that you?
 >The last word in terms of DD AA and well capable of going toe-to-toe with most CL on their own field of expertise, while being vastly superior in terms of damage output, survivability, ASW prowess and - most importantly - barrage quality.  
 Proud owner of a quick-firing, high-volume, AP conal barrage with four homing torpedoes to the side that is boosted both by her own +APdmg skill (do not take AP DD guns unless you hate her) and her high torp stat, she puts every other standard DD barrage in the game to shame and is the main reason for her astounding effectiveness; the AA proficiency is a nice cherry on top, but not her main draw.
+
+![DD](/Images-for-the-Guide/TashkentChibi.png "Ypa 1") - **[NP Tashkent](https://azurlane.koumakan.jp/Tashkent#Retrofit)**
+* Skill:
+  * Upon battle start, gain +10% FP and summon ~~Navi~~ an ice fairy for 50s, whose shots inflict 1 stack of -1.5% Speed for 4s (max 10 stacks; each icicle refreshes the 4s duration).
+    * The 6 ICICLES deal 24 bdmg with 100/50/20 modifiers and a 125% Coefficient; the icicles are fired every 2s in two three-icicle bursts, which can be aimed at two different targets.
+  * Upon battle start, grant +10% Main Gun Efficiency and +15% Accuracy to all Northern Parliament DDs armed with Northern Parliament guns.
+  
+* Recommended Loadouts:
+  * [General Purpose] 130x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Intel Report
+  * [Poverty] 130x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Intel Report
+
+- Desc: L'incrociatore blu.
+>Also known as the "Blue Cruiser", this Italian-born destroyer leader entirely deserves her moniker; her statline is hilariously stacked, with an eHP well capable of rivaling even the tough Cleveland-class light cruisers and a Firepower that actually overtakes them (to a not insignificant degree, when factoring both her Efficiencies and DD guns).  
+The historical records are curiously silent on the subject of suspiciously familiar-looking guardian faeries, but one cannot fault her effectiveness nonetheless: for all the 50s she's active it puts out a shocking amount of DPS, roughly equivalent to that of a second gun mount backed by her stats, and also doles out a little bit of slows along the way (not too relevant, but it's better than nothing anyway).  
+Impressive as she is, Tashkent does have a couple of drawbacks; first of all is her damage output, heavily slanted towards Light (both her ideal gun and the fairy have Normal DD ammo modifiers), and secondly is the simple fact her DPS does drop quite significantly once the fairy pops. While this does not exactly force her into a mob fleet role, it is nevertheless where she is bound to be most effectively deployed.  
 
 ### Tier 0.5:
 ---
@@ -565,7 +580,33 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
 
 - Desc:
 >New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly great at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down. Solid even when planes aren't around, better when there are.
- 
+
+![DD](/Images-for-the-Guide/GroznyChibi.png "Ypa 2") - **[NP Grozny](https://azurlane.koumakan.jp/Grozny#Retrofit)**
+* Skill:
+  * Every 20s, 60% chance to gain +40% FP for 10s.
+  * Gain +15% AA.
+  * Costs +1 Oil.
+  
+* Recommended Loadouts:
+  * [General Purpose] 120x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Autoloader
+
+- Desc: 
+>Standard russian DD, which means she has remarkable bulk, good guns and terrible torpedoes. She deviates from said norm by having slightly better AA than her peers, but not by much.
+
+![DD](/Images-for-the-Guide/MinskChibi.png "Ypa 3") - **[NP Minsk](https://azurlane.koumakan.jp/Minsk#Retrofit)**
+* Skill:
+  * Take -10% damage from DD guns and torpedoes; also, every 20s, gain +5 Speed and +20% FP for 10s.
+  * Upon battle start and on a 30% chance every 15s afterwards, deploy a smokescreen (+40% Evasion Rate for those in the cloud; lasts 5s).
+  * Costs +1 Oil.
+  
+* Recommended Loadouts:
+  * [General Purpose] 120x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Autoloader
+
+- Desc: 
+>Standard russian DD, which means she has remarkable bulk, good guns and terrible torpedoes. Slightly bulkier than Grozny, slightly weaker, has a little bit more support.
+
 ### Pro Team Players:
 ---
 #### ![DD](/Images-for-the-Guide/An_ShanChibi.png "Anshan") ![DD](/Images-for-the-Guide/Chang_ChunChibi.png "Changchun") ![DD](/Images-for-the-Guide/Fu_ShunChibi.png "Fushun") ![DD](/Images-for-the-Guide/Tai_YuanChibi.png "Taiyuan") - [PRAN Anshan](https://azurlane.koumakan.jp/An_Shan), [PRAN Changchun](https://azurlane.koumakan.jp/Chang_Chun), [PRAN Fushun](https://azurlane.koumakan.jp/Fu_Shun) [PRAN Taiyuan](https://azurlane.koumakan.jp/Tai_Yuan) **(T1.5)**
@@ -869,6 +910,21 @@ Accept no substitute, but do consider a Jintsuu or Noshiro to boost even further
 > More of the same good, old, flexible cruiser buffing action - but on a much more capable platform.  
 Ziggy's Kai gave her the statline she needed to compete favourably with the other big-name CL supporters, even if the second skill is kinda lacklustre. Her torps in particular have shot up a fair few notches, going from an afterthought to her main source of damage, while also making adequate gains in staying power.  
 Nice.  
+
+![CL](/Images-for-the-Guide/ChapayevChibi.png "Pale Rider") - **[NP Chapayev](https://azurlane.koumakan.jp/Chapayev)**
+* Skill:
+  * Every 15, 70% chance to fire a (https://cdn.discordapp.com/attachments/362117088136921090/683576119945068565/Screenshot_2020-03-01-08-25-48-082_com.YoStarJP.AzurLane.jpg)[barrage].
+    * The 12 SHELLS deal 26 bdmg with 125/85/85 modifiers and has a 100% Ignition chance; their damage is modified by 100% of the unit's FP stat.
+  * Gain +15% CritRate, deal +20% damage to DDs and gain +15% Main Gun shell speed; also, reduce enemy DDs' Evasion Rate by 10%.
+  * Costs +1 Oil.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
+  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: 
+>Tough, reliable and prodigal of bullets workhorse of the Northern Parliament, Chapayev sweeps the field with both her regular barrage and her special one; neither is especially powerful, per se, but the volume of fire is considerable and the patterns are just about the right size to land damage on enemy waves. The Ignitions are the same as her regular Ignitions, and therefore risk being overridden by stronger ones; still, free damage is free damage for as long as it lasts.  
+Her anti-DD kit is alright and likely to draw (fair) comparisons to HMS Aurora, but about as relevant now as it was then.
 
 
 ### Tier 1.5:
@@ -2005,6 +2061,38 @@ However, all this becomes quickly irrelevant as soon as she loses her +30% damag
 Blessed with an overall very good statline (Accuracy aside), a strong AP barrage and a hefty FP buff for the first three fights in a sortie, Littorio looks similar enough to Alabama but approaches mobbing in a different way - whereas Alabama gets stronger with each fight and therefore benefits from chewing up easier nodes first, Littorio wants to demolish the toughest opposition first and then move onto easier stuff.  
 The anti-torp shields are nice enough too, but not much of a gamechanger considering her job description - speaking of which, unlike Alabama you *could* use her as a boss fleet flag without throwing away part of her skillset, but the less concentrated barrage means she's at her best whem she's fighting more mobile Medium/Heavy bosses who may or may not have adds too.  
 *About her gun...* it's an interesting piece of kit, with its +10% Damage for the first two volleys, but it only really works on Littorio or when hunting Sirens (assuming you don't have BB with preloaded/accelerated volleys).
+
+![BB](/Images-for-the-Guide/GangutChibi.png "REVOLUTSIYA") - **[NP Gangut](https://azurlane.koumakan.jp/Gangut)**
+* Skill: 
+  * Upon Main Gun fire, grant +18% FP/Torp/AA/Reload to all Northern Parliament units in the fleet for 10s; also, when this unit is equipped with the 305x3 M1907 Main Gun, gain +80% Main Gun Efficiency and shorten the Main Gun cooldown by -35% for the first 4 salvo of the fight.
+  * Once per fight when this unit's HP falls below 30%, reduce the damage taken by Gangut by -15% and allied DDs by -10%.
+  * Costs +1 Oil.
+
+* Recommended Loadouts:
+  * [General Purpose] 305x3 M1907; Seattle Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 305x3 M1907; Tbtsk; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc: Old but still RED gold.
+>A true veteran of the Russian Revolution, Gangut - Oktyabrskaya Revolyutsiya, if you will - is an old WW1-era dreadnought come to rekindle the flames of the revolution in the bosoms of her fellow contrywomen, and does it ever show!  
+Her rigging is severely outdated and her statline makes it blindingly obvious, as she has the dubious distinction of being by far the weakest proper big gun in the entire game; but she does manage to pull through by virtue of the ludicrous buffs she heaps upon her unique and historical gun, to the point of actually outgunning even some WW2-era hard hitters like Tirpitz, while buffing her comrades in the process... at least as long as the four salvo last (she runs dry at about the 70s mark).
+As such, despite her comparatively frail constitution and otherwise pathetic statline, Gangut manages to make for both an excellent warship in her own right and a great faction buffer.  
+Just don't ask her to handle boss fights if you can help it, and if you do, make sure it's against a DD/CL; she can't afford to swap guns and her DD escort is meant to take on those anyway.
+
+![BB](/Images-for-the-Guide/Sovetskaya_RossiyaChibi.png "Whittorio") - **[NP Sovetskaya Rossiya](https://azurlane.koumakan.jp/Sovetskaya_Rossiya)** 
+* Skill:
+  * On main gun fire, 75% chance to fire a (https://streamable.com/38l58)[barrage].
+    * The 9 SHELLS deal 170 bdmg with 40/120/125 mods; the 20 ICICLES deal 20 bdmg with 120/60/60 mods; the 9 ICEBERGS deal 56 bdmg with 80/90/110 and inflicts -40% Speed *and* a very minor 2x23 Flood DoT. The damage of all of these is modified by 100% of the unit's FP.
+  * For her first two fights of the sortie, gain +5% Firepower and Accuracy (up to 20%) for every Northern Parliament / Dragon Empery unit in the fleet.
+  * Costs +1 Oil.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Izumo Gun; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+- Desc: 
+>One of Wargaming's famed paper boats(tm), Sovetskaya Rossiya was historically inspired by Littorio's blueprints and her Azur Lane incarnation makes it blindingly obvious: both have very similar barrages (though Rossiya's also has the slowing icebergs falling in a checkers pattern), both have almost the same statlune (though Rossiya has much worse Luck), both have a weird limited-time power-up (though Rossiya's lasts one battle less, affects Accuracy and requires three more Russians around).  
+What does this mean in practice? It means that Rossiya is very comparable to Littorio overall but is slightly less flexible while being potentially a bit more powerful, so long as her conditions are met.
 
 ![BB](/Images-for-the-Guide/Super_Gamer_Kizuna_AIChibi.png "BBakyu") - **[Super Gamer Kizuna AI](https://azurlane.koumakan.jp/Super_Gamer_Kizuna_AI)**
 * Skill:
