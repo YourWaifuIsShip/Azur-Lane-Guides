@@ -945,7 +945,8 @@ Nice.
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
->Tough, reliable and prodigal of bullets workhorse of the Northern Parliament, Chapayev sweeps the field with both her regular barrage and her special one; neither is especially powerful, per se, but the volume of fire is considerable and the patterns are just about the right size to land damage on enemy waves. The Ignitions are the same as her regular Ignitions, and therefore risk being overridden by stronger ones; still, free damage is free damage for as long as it lasts.  
+>Tough, reliable and prodigal of bullets workhorse of the Northern Parliament, Chapayev sweeps the field with both her regular barrage and her special one; neither is especially powerful, per se, but the volume of fire is considerable and the patterns are just about the right size to land damage on enemy waves, meaning it can and will add up if given the chance.  
+The Ignitions are the same as her regular Ignitions, and therefore risk being overridden by stronger ones; still, free damage is free damage for as long as it lasts.  
 Her anti-DD kit is alright and likely to draw (fair) comparisons to HMS Aurora, but about as relevant now as it was then.
 
 
