@@ -11,6 +11,7 @@ If you happen to have questions for me, want to discuss tierings or would like t
 ```
 [01/03/2019]
 TIER GUIDE UPDATED
+Also a correction; our wiki made a mess and had the new units cost 1 more than they actually do, their prices are in line with everyone else. This does not affect the tierings in any way, for the record.
 
 [27/01/2019]
 TIER GUIDE UPDATED
