@@ -2100,7 +2100,7 @@ Just don't ask her to handle boss fights if you can help it, and if you do, make
 ![BB](/Images-for-the-Guide/Sovetskaya_RossiyaChibi.png "Whittorio") - **[NP Sovetskaya Rossiya](https://azurlane.koumakan.jp/Sovetskaya_Rossiya)** 
 * Skill:
   * On main gun fire, 75% chance to fire a [barrage](https://streamable.com/38l58).
-    * The 9 SHELLS deal 170 bdmg with 40/120/125 mods; the 20 ICICLES deal 20 bdmg with 120/60/60 mods; the 9 ICEBERGS deal 56 bdmg with 80/90/110 and inflicts -40% Speed *and* a very minor 2x23 Flood DoT. The damage of all of these is modified by 100% of the unit's FP.
+    * The 9 SHELLS deal 170 bdmg with 40/120/125 mods; the 20 ICICLES deal 20 bdmg with 120/60/60 mods; the 9 ICEBERGS deal 56 bdmg with 80/90/110 and inflicts -40% Speed *and* a very minor 2x23 Flood DoT. The damage of all of these is modified by 100% of the unit's FP, except for the Flood (no scaling).
   * For her first two fights of the sortie, gain +5% Firepower and Accuracy (up to 20%) for every Northern Parliament / Dragon Empery unit in the fleet.
 
 * Recommended Loadouts:
@@ -2109,7 +2109,7 @@ Just don't ask her to handle boss fights if you can help it, and if you do, make
   * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: 
->One of Wargaming's famed paper boats(tm), Sovetskaya Rossiya was historically inspired by Littorio's blueprints and her Azur Lane incarnation makes it blindingly obvious: both have very similar barrages (though Rossiya's also has the slowing icebergs falling in a checkers pattern), both have almost the same statlune (though Rossiya has much worse Luck), both have a weird limited-time power-up (though Rossiya's lasts one battle less, affects Accuracy and requires three more Russians around).  
+>One of Wargaming's famed paper boats(tm), Sovetskaya Rossiya was historically inspired by Littorio's blueprints and her Azur Lane incarnation makes it blindingly obvious: both have very similar barrages (though Rossiya's also has the slowing icebergs falling in a checkers pattern), both have almost the same statline (though Rossiya has much worse Luck), both have a weird limited-time power-up (though Rossiya's lasts one battle less, affects Accuracy and requires three more Russians around).  
 What does this mean in practice? It means that Rossiya is very comparable to Littorio overall but is slightly less flexible while being potentially a bit more powerful, so long as her conditions are met.
 
 ![BB](/Images-for-the-Guide/Super_Gamer_Kizuna_AIChibi.png "BBakyu") - **[Super Gamer Kizuna AI](https://azurlane.koumakan.jp/Super_Gamer_Kizuna_AI)**
