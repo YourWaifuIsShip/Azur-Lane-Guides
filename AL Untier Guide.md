@@ -13,7 +13,6 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 outgun her, but they'll also have real torpedoes to lob at enemies.
 - While her bulk isn't bad and the second skill may echo Eldridge's (except it's much worse), Eldridge is stronger and more useful... and
 Eldridge isn't useful to begin with, plagued as she is by low DPS already.
-- Also, costs +1 Oil despite being purple.
 
 [27/01/2020]
 > USS Halsey Powell did not join the Tier Guide, on account of her being useless.
