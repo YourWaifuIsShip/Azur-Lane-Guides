@@ -607,7 +607,6 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
 * Skill:
   * Every 20s, 60% chance to gain +40% FP for 10s.
   * Gain +15% AA.
-  * Costs +1 Oil.
   
 * Recommended Loadouts:
   * [General Purpose] 120x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
@@ -620,7 +619,6 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
 * Skill:
   * Take -10% damage from DD guns and torpedoes; also, every 20s, gain +5 Speed and +20% FP for 10s.
   * Upon battle start and on a 30% chance every 15s afterwards, deploy a smokescreen (+40% Evasion Rate for those in the cloud; lasts 5s).
-  * Costs +1 Oil.
   
 * Recommended Loadouts:
   * [General Purpose] 120x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
@@ -938,7 +936,6 @@ Nice.
   * Every 15, 70% chance to fire a [barrage](https://cdn.discordapp.com/attachments/362117088136921090/683576119945068565/Screenshot_2020-03-01-08-25-48-082_com.YoStarJP.AzurLane.jpg).
     * The 12 SHELLS deal 26 bdmg with 125/85/85 modifiers and has a 100% Ignition chance; their damage is modified by 100% of the unit's FP stat.
   * Gain +15% CritRate, deal +20% damage to DDs and gain +15% Main Gun shell speed; also, reduce enemy DDs' Evasion Rate by 10%.
-  * Costs +1 Oil.
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
@@ -2089,7 +2086,6 @@ The anti-torp shields are nice enough too, but not much of a gamechanger conside
 * Skill: 
   * Upon Main Gun fire, grant +18% FP/Torp/AA/Reload to all Northern Parliament units in the fleet for 10s; also, when this unit is equipped with the 305x3 M1907 Main Gun, gain +80% Main Gun Efficiency and shorten the Main Gun cooldown by -35% for the first 4 salvo of the fight.
   * Once per fight when this unit's HP falls below 30%, reduce the damage taken by Gangut by -15% and allied DDs by -10%.
-  * Costs +1 Oil.
 
 * Recommended Loadouts:
   * [General Purpose] 305x3 M1907; Seattle Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
@@ -2106,7 +2102,6 @@ Just don't ask her to handle boss fights if you can help it, and if you do, make
   * On main gun fire, 75% chance to fire a [barrage](https://streamable.com/38l58).
     * The 9 SHELLS deal 170 bdmg with 40/120/125 mods; the 20 ICICLES deal 20 bdmg with 120/60/60 mods; the 9 ICEBERGS deal 56 bdmg with 80/90/110 and inflicts -40% Speed *and* a very minor 2x23 Flood DoT. The damage of all of these is modified by 100% of the unit's FP.
   * For her first two fights of the sortie, gain +5% Firepower and Accuracy (up to 20%) for every Northern Parliament / Dragon Empery unit in the fleet.
-  * Costs +1 Oil.
 
 * Recommended Loadouts:
   * [Lategame Bossing] Izumo Gun; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
