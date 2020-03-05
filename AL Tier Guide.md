@@ -2768,7 +2768,7 @@ Her buffs and layout are good enough to warrant usage even solo.
 >Once considered a liability due to the much reviled F/F/B loadout and an exp boost as a primary skill, Langley Kai's fortunes changed drastically with the advent of Air Superiority mechanics; not only do those fighters contribute almost or over twice the amount other types of planes do, but they're also extraordinarily cost-effective as well as slightly more readily available than usual.
 If stacking AS is what you need but you'd rather not focus on carriers, look no further.
 
-![CV](h/Images-for-the-Guide/LexingtonChibi.png "USS Lexington") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)**
+![CV](/Images-for-the-Guide/LexingtonChibi.png "USS Lexington") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)**
 
 * Skill: 
   * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Aviation).
