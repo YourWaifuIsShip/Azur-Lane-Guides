@@ -1811,9 +1811,10 @@ Bear in mind that despite her having a barrage, she isn't *really* one - it's at
   * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
   
 - Desc: 
->It'd be easy to regard Monarch as a straight upgrade to Hood. She mounts CL guns, Her FP is much higher, her Efficiencies are better, her barrage is AP and she can even heal herself... what more could one possibly want from a battleship?
-The truth isn't quite so simple, though. While Monarch's statline is indeed superior (with the glaring exception of AA) and the self-heal greatly extends her operational time even beyond Hood's already impressive one, Monarch's barrage will neither quicken the backline's pace nor can it be used with the same reckless abandon due to the AP modifiers; while she won't fall flat against Light Armour, courtesy of her excellent regular shelling, she doesn't quite match Hood's supportive capabilities and weight of fire.
-As a result, it would be wise to pick your sovereign of choice with an eye to battlefield conditions - if enemy BB/C are out for blood or Medium/Heavy Armour is getting you down, Monarch will weather their storm and put them in their place with staggering ease.
+>It'd be easy to regard Monarch as a straight upgrade to Hood - and for the most part, she kind of is.
+She mounts CL guns (for a greater FP boost and better anti-fireship prowess), her FP and Efficiencies are much better, her barrage is AP (great for handling lategame priority targets and bosses) and she can even heal herself, extending her operational time well beyond that of her 'predecessor' while gaining Reload for every % of missing HP... what more could one possibly want from a battleship?  
+Not a whole lot, all in all, but one would best remember that both AA and Armour Modifiers are something to take into account: while Monarch will indeed mop the floor with light and hard targets alike, Hood does still possess a superior rate of fire married to a Reload-boosting powerful barrage, both helpful things to have during mob fleet engagements (as well as the Normal BB ammo mods) where sheer, brutal damage output may bot be the best course of action at any time.  
+In short, have Monarch handle Medium/Heavy bosses while Hood (or someone else) handles the mobs; you'll be glad you did, when her AP deluge, 145% Efficiency main guns and mounting Reload all spell doom to your unfortunate opponent.
 
 ![BC](/Images-for-the-Guide/AmagiChibi.png "Amagi") - **[IJN Amagi](https://azurlane.koumakan.jp/Amagi)**
 * Skill: 
