@@ -783,7 +783,7 @@ Most, if not all, Cruiser compositions will benefit by her presence.
 * Skill: 
   * If an aircraft is shot down within the AA circle, gain +15% FP/AA for 8s; if more than 15 aircraft have been shot down throughout the battle, gain +15% FP and +20% Reload until the end of the battle.
   * If mounting a CL gun as secondary, gain +15% AA Efficiency; if mounting an AA gun as secondary, gain +15% Main Gun Efficiency; if placed as Vanguard Rear, take -15% less damage.
-    * No, sortieing alone doesn't work. There is no leftmost position when you're on your own, after all.
+    * No, sortieing Seattle alone doesn't work. There is no vanguard rear when you're on your own, after all.
   * Can mount a CL gun or an AA gun as secondary.
 
 * Recommended Loadouts:
