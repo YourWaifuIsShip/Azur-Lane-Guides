@@ -51,7 +51,7 @@ Good reading, and godspeed cap'n!
 - The asterisk next to a name in the Priority List means the Kai is tied to some sort of event and may not be available right now; also, if you do not see a name in it, it's because it is not worth prioritizing.
 - If you're wondering why carriers are judged differently from the rest, consider the following - they have no self-defence capabilities against suicide boats and are inherently worse than big guns at handling hard targets due to ordnance scatter and unhelpful anti-Heavy modifiers, but their AoE damage dispatches waves better than big guns usually do and come stock with screen clears.
 tldr; BB/BC and CV/CVL do different things, holding them to the same standards makes little sense.  
-- READ THE DAMN DESCRIPTIONS OR GHOSTLY HORSES WILL HAUNT YOU IN YOUR SLEEP.
+- **READ THE DAMN DESCRIPTIONS OR GHOSTLY HORSES WILL HAUNT YOU IN YOUR SLEEP.**
   
 ## Table of Contents 
 - ### [DD ![DD](/Images-for-the-Guide/45px-DD_img40.png "DD Icon")](#dd--1)
