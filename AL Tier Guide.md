@@ -3,7 +3,8 @@
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
 
-Indeed, you could even interpret the tiers as a relative measure of how much investment is needed to get these units to perform, if you wish - a T0 would be a beast almost right out of the gate, whereas aFn untiered unit would require disproportionate amounts of effort - but I'd recommend treating the tiers as they're meant to be, according to the criteria below.
+Indeed, you could interpret the tiers as a relative measure of how much investment is needed to get these units to perform rather than a definitive measure of how good they are - a T0 would be a beast almost right out of the gate, whereas an untiered unit would require disproportionate amounts of effort - but I'd recommend treating the tiers as they're meant to be, according to the criteria below.
+The descriptions are by far more important than the tierings themselves; a T0 used improperly will be laughed at by a T2 used properly, for instance.
 
 Whatever the case and however you choose to read this guide, I want to stress this - ALL units are viable, SOME are better than others, NONE of them will work if you don't know how to use them.
 Good reading, and godspeed cap'n!
@@ -50,6 +51,7 @@ Good reading, and godspeed cap'n!
 - The asterisk next to a name in the Priority List means the Kai is tied to some sort of event and may not be available right now; also, if you do not see a name in it, it's because it is not worth prioritizing.
 - If you're wondering why carriers are judged differently from the rest, consider the following - they have no self-defence capabilities against suicide boats and are inherently worse than big guns at handling hard targets due to ordnance scatter and unhelpful anti-Heavy modifiers, but their AoE damage dispatches waves better than big guns usually do and come stock with screen clears.
 tldr; BB/BC and CV/CVL do different things, holding them to the same standards makes little sense.  
+- READ THE DAMN DESCRIPTIONS OR GHOSTLY HORSES WILL HAUNT YOU IN YOUR SLEEP.
   
 ## Table of Contents 
 - ### [DD ![DD](/Images-for-the-Guide/45px-DD_img40.png "DD Icon")](#dd--1)
