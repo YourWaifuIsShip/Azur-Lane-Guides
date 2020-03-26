@@ -2758,7 +2758,7 @@ Her buffs and layout are good enough to warrant usage even solo.
 
 ### Tier 1.5:
 ---
-#### ![CVL](/Images-for-the-Guide/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
+#### ![CVL](/Images-for-the-Guide/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley) **(T0 in Plane Hells)**
 * Skill: 
   * Increases experience gained by CV by 15%
   * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
