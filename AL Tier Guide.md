@@ -360,7 +360,7 @@ Maury does things differently from many of her colleagues, but she does them wel
   * 70% chance every 20s to fire a special barrage and boost torpedo stat by 30% for 5s
 
 * Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Manual Only (ie. as you should use her)] 100x2 Gold; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
