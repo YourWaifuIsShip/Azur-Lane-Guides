@@ -256,7 +256,7 @@ As it is for Phoenix, they are best used in mobbing fleets.
 >Nicholas is a rarity among destroyers, in that she boasts both enough Firepower to face off with the best in her class and very solid defensive capabilities; a true generalist, even more so than Laffey considering her actually good torpedoes.  
 With no real weakness on display, beyond simply not being quite as good as more specialised units, Nicholas is a worthy addition in pretty much any escort fleet - especially one with Helena or Fletcher.
 
-![DD](https://azurlane.koumakan.jp/w/images/f/fe/ShigureKaiChibi.png "Shigure Kai") - **[IJN Shigure Kai](https://azurlane.koumakan.jp/Shiranui#Retrofit)**
+![DD](/Images-for-the-Guide/ShigureKaiChibi.png "Shigure Kai") - **[IJN Shigure Kai](https://azurlane.koumakan.jp/Shiranui#Retrofit)**
 * Skill:
   * Upon Main Gun fire, 5% chance to gain +60% Evasion for 8s.
   * If deployed with Yukikaze, gain +15% Torpedo and a 70% chance every 20s to launch a special barrage; if NOT deployed with Yukikaze, grant a -5% fleetwide damage reduction and, once per battle when any unit falls below 20% HP, restore 10% of that unit's max HP.  
@@ -666,7 +666,7 @@ Still, if you're willing to field a full french vanguard (and you do have good o
  
 ### Honourable Mentions:
 ---
-#### ![DD](https://azurlane.koumakan.jp/w/images/7/7c/CassinChibi.png "USS Cassin") ![DD](https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png "USS Downes") [USS Cassin](https://azurlane.koumakan.jp/Cassin) & [USS Downes](https://azurlane.koumakan.jp/Downes)
+#### ![DD](/Images-for-the-Guide/CassinChibi.png "USS Cassin") ![DD](/Images-for-the-Guide/DownesChibi.png "USS Downes") [USS Cassin](https://azurlane.koumakan.jp/Cassin) & [USS Downes](https://azurlane.koumakan.jp/Downes)
 * Skill:
   * Once per fight, restore 25% max HP upon falling under 20% HP.
 
@@ -674,21 +674,21 @@ Still, if you're willing to field a full french vanguard (and you do have good o
 >While their Kai does augment their DPS somewhat, it's fair to say that the star of the show is still their self-rescue skill and their pretty good base HP; therefore, if all you want are some ablative wounds for a more valuable unit or just something to stall with while the backline does all the work, there are no better options than a 0LB Cassin and Downes.
 
 
-#### ![DD](https://azurlane.koumakan.jp/w/images/d/dc/AmazonChibi.png "HMS Amazon") [HMS Amazon](https://azurlane.koumakan.jp/Amazon)
+#### ![DD](/Images-for-the-Guide/AmazonChibi.png "HMS Amazon") [HMS Amazon](https://azurlane.koumakan.jp/Amazon)
 * Skill:
   * +18% Exp gain for DDs.
 
 * Desc: 
 >The first real DD to hit the seas, and boy does it show. Her barely combat-worthy statline and lack of any skill beyond the XP boost makes her a very poor candiate for Limit Breaks, and a very good candidate for 0LB shenanigans.
 
-#### ![DD](https://azurlane.koumakan.jp/w/images/f/f3/ShiranuiChibi.png "IJN Shiranui") [IJN Shiranui](https://azurlane.koumakan.jp/Shiranui)
+#### ![DD](/Images-for-the-Guide/ShiranuiChibi.png "IJN Shiranui") [IJN Shiranui](https://azurlane.koumakan.jp/Shiranui)
 * Skill:
   * 30% chance upon launching a torpedo spread to launch a second one.
 
 * Desc: 
 >One of the top DD choices for a 0LB min-cost farm fleet due to her high torpedo stat, low fuel usage, and chain torpedo skill.
 
-![DD](https://azurlane.koumakan.jp/w/images/0/0f/Kizuna_AIChibi.png "DDakyu") - **[Kizuna AI](https://azurlane.koumakan.jp/Kizuna_AI)**
+![DD](/Images-for-the-Guide/Kizuna_AIChibi.png "DDakyu") - **[Kizuna AI](https://azurlane.koumakan.jp/Kizuna_AI)**
 * Skill:
   * Every 20s, initiate RNG fiesta. (35% chance for -8% FP/Torp/Aviation to all enemies; 35% chance for -6%; 18% chance for -4%; 12% chance for +4% instead).
   * Upon taking damage, 12% chance to launch a torpedo barrage, become invincible for 3s and gain +40% Eva for 3s afterwards. This skill may only activate thrice per battle.
@@ -1691,7 +1691,7 @@ Her DPS starts out low but - given enough time and luck - grows to respectable l
 >The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
 Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
 
-![CA](https://azurlane.koumakan.jp/w/images/8/89/NorthamptonChibi.png "USS Northampton") - **[USS Northampton](https://azurlane.koumakan.jp/Northampton)**
+![CA](/Images-for-the-Guide/NorthamptonChibi.png "USS Northampton") - **[USS Northampton](https://azurlane.koumakan.jp/Northampton)**
 * Skill: 
   * +15% FP to all CL/CA in the fleet.
 
@@ -1768,7 +1768,7 @@ If you're looking that something that won't die anytime soon, look no further; i
 <br/><br/>
 ---
 <br/><br/>
-## BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")
+## BB/BC ![BB/BC](/Images-for-the-Guide/BB_img.png "BB/BC Icon")
 ### Tier 0:
 ---
 ![BB](/Images-for-the-Guide/GeorgiaChibi.png "Georgia") - **[USS Georgia](https://azurlane.koumakan.jp/Georgia)**
@@ -2448,7 +2448,7 @@ Outgunned, outskilled, outcosted. With no hyperbole, they ARE among the worst BB
 <br/><br/>
 ---
 <br/><br/>
-## BBV ![BBV](/Images-for-the-Guide/45px-BBV_img.png "BBV Icon")
+## BBV ![BBV](/Images-for-the-Guide/45px-BBV_img40.png "BBV Icon")
 ### Tier 0:
 ---
 
@@ -2631,7 +2631,7 @@ It's not all bombs and sunshine, though - while her proc rate is high, she is ne
 The F6F-induced barrage won't see usage in PvE, but never fear - the stacking buffs will, and they'll be signficant.
 On a side-note, that's a B-17's shadow and not a B-25's. Irritating.
  
-![CV](/Images-for-the-Guide/AkagiChibi.png "IJN Akagi") ![CV](https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)**
+![CV](/Images-for-the-Guide/AkagiChibi.png "IJN Akagi") ![CV](/Images-for-the-Guide/KagaChibi.png "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)**
 * Skill: 
   * First Airstrike launches 50% faster
   * When paired, increase Air Power by 35%
@@ -2740,7 +2740,7 @@ Do NOT think she can solo backline past W6, though. Carriers aren't made for tha
 >Once criminally underrated and now outshining even the Foxes in terms of raw damage, Hiryuu focuses on Torpedo Bombers and stubbornly refusing to roll over and die (by becoming invincible for 15s and launching an airstrike); not the most useful skill under the majority of circumstances, though her sister makes up for it with the always handy vanguard buff, but the real deal is the +35% Aviation buff that is further bolstered by the slew of extra stats the Kai brought, as well as the neat timed barrage (which is, despite its inconsistency, still free damage).  
 Exceptional.
 
-![CV](h/Images-for-the-Guide/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0.5 w/ Zuikaku)**
+![CV](/Images-for-the-Guide/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0.5 w/ Zuikaku)**
 * Skill: 
   * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
   * When paired, increases Air Power by 30% and INCREASES damage taken by 10%
@@ -2962,7 +2962,7 @@ While definitely usable, her only real use case would be plugging Hard Mode enfo
 >Smol Akagi is an interesting little thing, with those invincibility-granting airstrikes of hers - but lacking a real purpose in an environment crowded with excellent IJN DPS carriers, not least of which Akagi proper (against which her barrage really can't stack up), and a better vanguard protection in the form of Illustrious' bubble.
 However, invincibility *can* go where no bubble has gone before in EX maps...
 
-#### ![CV](https://azurlane.koumakan.jp/w/images/3/32/Akagi_%28Muse%29Chibi.png "Musikagi") - [Muse Akagi](https://azurlane.koumakan.jp/Akagi_(Muse))
+#### ![CV](/Images-for-the-Guide/Akagi_(Muse)Chibi.png "Musikagi") - [Muse Akagi](https://azurlane.koumakan.jp/Akagi_(Muse))
 * Skill: 
   * 10s after launching her first airstrike and depending on the amount (odd/even) of Muse units in the fleet, launch a dive bomber/torpedo bomber barrage.
     * The 3 500lb BOMBS deal 226bdmg w/ 80/90/110 mods; the 6 100lb BOMBS deal 96 bdmg w/ 80/85/100 mods. Both are modified by 80% of the unit's Aviation stat.
@@ -3014,7 +3014,7 @@ Here's a quick rundown of how they work.
 Given these premises, it quickly becomes apparent that **submarine fleets are meant to be fielded as a trio**; whether it be mauling nodes on the map or providing heavy torpedo support, they only reach peak efficiency as a full fleet, and in the case of map strikes such efficiency comes at no oil cost whatsoever.
 As such, this section *does not contain tiers* but specific recommendations and groupings - let's get to them.
 
-#### ![SS](/Images-for-the-Guide/U-47Chibi.png "U-47") ![SS](/Images-for-the-Guide/U-73Chibi.png "U-73") ![SS](/Images-for-the-Guide/U-81Chibi.png "U-81") ![SS](https://azurlane.koumakan.jp/w/images/5/5d/U-101Chibi.png "U-101") ![SS](/Images-for-the-Guide/U-110Chibi.png "U-110") ![SS](/Images-for-the-Guide/U-522Chibi.png "U-522") ![SS](/Images-for-the-Guide/U-556Chibi.png/132px-U-556Chibi.png "U-556") ![SS](/Images-for-the-Guide/U-557Chibi.png "U-557") - [KMS U-47](https://azurlane.koumakan.jp/U-73), [KMS U-73](https://azurlane.koumakan.jp/U-73), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-101](https://azurlane.koumakan.jp/U-101), [KMS U-110](https://azurlane.koumakan.jp/U-110), [KMS U-522](https://azurlane.koumakan.jp/U-522), [KMS U-556](https://azurlane.koumakan.jp/U-556), [KMS U-557](https://azurlane.koumakan.jp/U-557)
+#### ![SS](/Images-for-the-Guide/U-47Chibi.png "U-47") ![SS](/Images-for-the-Guide/U-73Chibi.png "U-73") ![SS](/Images-for-the-Guide/U-81Chibi.png "U-81") ![SS](/Images-for-the-Guide/U-101Chibi.png "U-101") ![SS](/Images-for-the-Guide/U-110Chibi.png "U-110") ![SS](/Images-for-the-Guide/U-522Chibi.png "U-522") ![SS](/Images-for-the-Guide/U-556Chibi.png "U-556") ![SS](/Images-for-the-Guide/U-557Chibi.png "U-557") - [KMS U-47](https://azurlane.koumakan.jp/U-73), [KMS U-73](https://azurlane.koumakan.jp/U-73), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-101](https://azurlane.koumakan.jp/U-101), [KMS U-110](https://azurlane.koumakan.jp/U-110), [KMS U-522](https://azurlane.koumakan.jp/U-522), [KMS U-556](https://azurlane.koumakan.jp/U-556), [KMS U-557](https://azurlane.koumakan.jp/U-557)
 * Skill (U-47): 
   * Enemies hit by U-47's torpedoes take +40% damage from U-47's next torpedo.
   * If sortied solo, deal +20% damage to BB, gain +1 Hunting Range and +2 Ammo.
@@ -3148,7 +3148,7 @@ Despite the quirks, she's still a powerful sub and one you need not fear will cr
 <br/><br/>
 ---
 <br/><br/>
-## AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon")
+## AR ![AR](/Images-for-the-Guide/AR_img.png "AR Icon")
 ### A few notes, and Vestal
 
 "Repair Ship" is a misnomer for these crafts, to say the least. Here are the reasons why ---> https://pastebin.com/RucY4TwC  
