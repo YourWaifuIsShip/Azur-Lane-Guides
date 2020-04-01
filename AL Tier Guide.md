@@ -63,7 +63,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last update (01/03/2020)
+## Changelog as of last update (01/04/2020)
 
 - USS Bremerton joins the Tier Guide as T0.
 - USS Reno joins the Tier Guide as T1 (T0.5 w/ CV/L).
