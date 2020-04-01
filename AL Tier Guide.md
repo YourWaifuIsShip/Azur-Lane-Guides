@@ -74,6 +74,8 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 - USS Marblehead joins the Untier Guide as Worst CL In The Game.
 
+- Added a Role field to the new entries. Depending on reception, may become a feature for all new and older entries as well.
+
 <br/><br/>
 ---
 <br/><br/>
