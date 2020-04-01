@@ -1424,7 +1424,7 @@ That said, don't make the mistake of thinking Heavy Armour makes her invincible 
 
 ![CA](/Images-for-the-Guide/BremertonChibi.png "Bremerthot") - **[USS Bremerton](https://azurlane.koumakan.jp/Bremerton)**
 * Role: 
-  * mob fleet main tank and DPS; mob/boss fleet light AA carry and DPS.
+  * Mob fleet main tank OR mob/boss light AA carry with heavy DPS.
 
 * Skill: 
   * Upon Main Gun fire, 30% chance to deal +30% dmg for 3s (with 5s internal cooldown); also, 70% chance to fire a [special barrage](https://streamable.com/srnlj) (with 10s internal cooldown).
@@ -1436,9 +1436,9 @@ That said, don't make the mistake of thinking Heavy Armour makes her invincible 
   * [Poverty] Louis Gun or Roon Gun; 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: Warrior of Likes.
->Another excellent showing from the Baltimore-class, Bremerton brings unprecedented amounts of AA fire from a Heavy Cruiser without compromising staying power or damage output in the process.  
+>Another excellent showing from the Baltimore-class, Bremerton brings impressive amounts of AA fire from a Heavy Cruiser without compromising staying power or damage output in the process.  
 Sharing the same high-end gunship CA statline of her sister Baltimore (with the notable exception of the enhanced AA, a staggering 140% Efficiency), Bremerton can roughly dish out and take the same punishment of her sibling - with the crucial difference that Bremerton may mount either HE or AP guns and have her damage boost fill the gap between the two's anti-Medium performance, whereas Baltimore is locked into AP shelling.  
-Depending on where you place her, Bremerton may either be a vanguard tank or a light AA carry; in all likelihood she'll be fulfilling the former role until W12+, where the plane presence and tough opposition warrant both her firepower and AA.
+Depending on where you place her, Bremerton can either be a vanguard tank or a light AA carry; in all likelihood she'll be fulfilling the former role until W12+, where the heavy plane presence and tough enemies warrant both her firepower and AA.
 One last note - despite what her skill description says, the special barrage DOES NOT ignite targets. No biggie, the damage would've been minimal anyway, but unfortunate.
 
  ![CA](/Images-for-the-Guide/MinneapolisChibi.png "USS Minneapolis") - **[USS Minneapolis](https://azurlane.koumakan.jp/Minneapolis)**
