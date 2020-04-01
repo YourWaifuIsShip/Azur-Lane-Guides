@@ -7,6 +7,10 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 ## _VERY IMPORTANT OPENING NOTE_ 
 
 ```
+[01/04/2020]
+> USS Marblehead did not join the Tier Guide, on account of her being - basically - a reskin of the worst CL in the game, Concord.
+- The tagline says it all, pretty much. Atrocious DPS, low staying power, poor and generic skill, no redeeming feature.
+
 [01/03/2020]
 > NP Pamiat Merkuria did not join the Tier Guide, on account of her being an unmitigated disaster.
 - CL guns, backed by a meagre 120% Efficiency and a truly abysmal 83 FP. There are IJN DD who have more, for the reference; they won't
