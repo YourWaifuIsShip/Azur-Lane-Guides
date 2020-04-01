@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (PAPER BLYATES EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (FUCK PLANES 2: ELECTRIC BOOGALOO EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -65,15 +65,14 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ## Changelog as of last update (01/03/2020)
 
-- NP Taskent joins the Tier Guide as T0.
-- NP Chapayev joins the Tier Guide as T1.
-- NP Gangut joins the Tier Guide as T1.
-- NP Sovetskaya Rossiya joins the Tier Guide as T1.
-- NP Grozny joins the Tier Guide as T2.
-- NP Minsk joins the Tier Guide as T2.
+- USS Bremerton joins the Tier Guide as T0.
+- USS Reno joins the Tier Guide as T1 (T0.5 w/ CV/L).
+- USS Casablanca joins the Tier Guide as T1 (T0.5 to T0 depending on carrier presence).
+- USS Intrepid joins the Tier Guide as T1.5.
+- USS Cooper joins the Tier Guide as T2.
+- USS Bluegill joins the Tier Gudide as a O2 Submarine.
 
-- HMS Amazon Kai joins the Tier Guide as T2.
-- NP Pamiat Merkuria joins the Untier Guide as Just Why.
+- USS Marblehead joins the Untier Guide as Worst CL In The Game.
 
 <br/><br/>
 ---
@@ -516,6 +515,25 @@ Similarly to Laffey, her torps are awful but come out quick; consider patching u
 >Another slippery little bastard, obsessed with justice and GOING FAST.  
 Her torps are fairly worthless, but her guns are decent and her skill is absolutely amazing - not only does she increase your whole frontline's survivability, she also fixes whatever movement issues you might have at hand. The best DD friend your CAs could ever have.
 
+![DD](/Images-for-the-Guide/CooperChibi.png "Smoltimore") - **[USS Cooper](https://azurlane.koumakan.jp/Cooper)**
+* Role:
+  * Dedicated ASW DD.
+  
+* Skill:
+  * Every 20s, gain +15% FP, reveal all enemy submarines for 10s and launch an ASW airstrike; also, if equipped with PBY-5A Catalina and HP falls below 40%, launch a special airstrike. Only works once for battle.
+    * (20s Airstrike) The 1 BOMB deals 84 bdmg w/ 100/50/20 armour modifiers. The damage is modified by 100% of Cooper's ASW stat.
+    * (Spc Airstrike) The 4 BOMBS deal 456 bdmg w/ 70/105/125 armour modifiers. The damage is modified by 120% of Cooper's Torp stat.
+  
+* Recommended Loadouts:
+  * [ASW memes] 120x2 HMS; 533x5 conventional torpedoes; 40mm Quad Bofors; Depth Charge; PBY-5A Catalina
+  * [General Purpose] 120x2 HMS; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120x2 HMS; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Autoloader
+
+- Desc: 
+>Fairly competent ASW DD with the same jack-of-all-trades-ish statline most USS DD get, plus a minor FP boost; as per usual, it makes for a decently rounded performance with relatively good AA to boot.  
+Make no mistake, though, her main job is ASW: and in that regard she's fortunate not to have to use a sonar to reveal submarines, an aux slot that may be filled with a Catalina if you wish to give her some more ASW prowess and/or a sucker punch to whatever managed to drop her HP low enough (an unlikely prospect, and an unwanted one to boot). The regular ASW airstrike is just a single Catalina dropping one bomb, so expect little from it.  
+Meme but alright.
+
 ![DD](/Images-for-the-Guide/EldridgeChibi.png "Pikachu")- **[USS Eldridge](https://azurlane.koumakan.jp/Eldridge)**
 * Skill:
   * Upon taking damage, 15% chance to make entire escort fleet to evade all attacks for 10s. DoT and Ramming damage still apply. CAN'T PROC BEFORE 20s HAVE PASSED (skill starts on cooldown).
@@ -839,6 +857,25 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
 
 * Desc: 
 >Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
+
+![CL](/Images-for-the-Guide/RenoChibi.png "Ireno Man") - **[USS Reno](https://azurlane.koumakan.jp/Reno)** **(T0.5 w/ 1+ CV/L)**
+* Role:
+  * Carrier defender; mob/boss fleet medium DPS and heavy AA carry.
+
+* Skill:
+  * Upon battle start and if there is 1+ alive CV/L in the fleet, gain +15% CritRate. For every alive CV/L in the fleet, deal +6% Dmg to DD/CL. For the first two battles of her fleet, CV/L in her fleet take -10% Dmg.
+  * Upon battle start, gain +15% AA and +12% FP. Every 3rd time the backline takes damage, gain a stack of +3% AA/FP until the end of the fight (can gain 2 stacks max).
+  * +10% Main Gun Efficiency if wielding a DD gun.
+
+* Recommended Loadouts:
+  * [Full AA] 100x2 IJN; 533x5 conventional torpedoes; 113mm or Pom-Pom; PR AA Radar; PR AA Radar
+  * [General Purpose] 138x1 IJN; 533x5 conventional torpedoes; 113mm or Pom-Pom; Toolbox; PR Hydraulic Gear
+  * [Poverty] 120x2 HMS; 533x5 conventional torpedoes; 113mm or Pom-Pom; Toolbox; Toolbox
+
+* Desc: Protector of mAAnkind.
+>Another great entry in the ever-expanding roster of USS flyswatters, Reno is a dedicated AA CL sporting surprisingly high DPS - not far off from a San Diego Kai in fact, which is no mean feat - and an overwhelming urge to protect carriers.  
+Her entire kit more or less revolves around carriers, in fact - she gains substantial boosts with them around and can defend them remarkably well with her boosted guns, an armour-modifiers-ignoring (100/100/100) barrage and a nifty damage reduction for the first few engagements she's in, something better suited to a boss fleet than a mob fleet.  
+Wherever there are planes to shred and carriers to protect, Reno is at home - and the more there is of both, the better.
 
 ![CL](/Images-for-the-Guide/Little_BelChibi.png "Belchan") - **[HMS Belchan](https://azurlane.koumakan.jp/Little_Bel)**
 * Skill:
@@ -1383,6 +1420,24 @@ In short, she isn't tough and she isn't powerful - in fact she's really *really*
 Close in firing mechanics, damage output, bulk and price tag - a staggering *16 oil* - to a proper battlecruiser, Azuma is at her best in lategame engagements, where her AoE-capable guns and barrage are able to shoot over the uncomfortably common shields from a distance and smash the clusters of tightly-packed mobs as she weathers almost effortlessly the incoming hailstorm of bullets thanks to her Heavy Armour (if she's wielding the VH Plate, that is).  
 That said, don't make the mistake of thinking Heavy Armour makes her invincible - while regular gunfire will now only scratch some paint off of her, torpedoes and aerial ordnance are now much more lethal threats you will have to manoeuvre out of the way of (or have tanked by someone slimmer), lest you see your precious 'frontline battleship' meet the same fate enemy Kongous usually do.
 
+![CA](/Images-for-the-Guide/BremertonChibi.png "Bremerthot") - **[USS Bremerton](https://azurlane.koumakan.jp/Bremerton)**
+* Role: 
+  * mob fleet main tank and DPS; mob/boss fleet light AA carry and DPS.
+
+* Skill: 
+  * Upon Main Gun fire, 30% chance to deal +30% dmg for 3s (with 5s internal cooldown); also, 70% chance to fire a [special barrage](https://streamable.com/srnlj) (with 10s internal cooldown).
+    * The 12 SHELLS deal 20 bdmg with 135/95/70 armour modifiers. The damage is modified by 100% of Bremerton's FP. IT DOES NOT IGNITE, despite what the skill text says.
+  * Upon battle start and if deployed as vanguard lead, take -20% dmg for 30s; if not deployed as lead, gain +25% AA until the end of the battle.
+
+* Recommended Loadouts:
+  * [General Purpose] Louis Gun or Roon Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] Louis Gun or Roon Gun; 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+* Desc: Warrior of Likes.
+>Another excellent showing from the Baltimore-class, Bremerton brings unprecedented amounts of AA fire from a Heavy Cruiser without compromising staying power or damage output in the process.  
+Sharing the same high-end gunship CA statline of her sister Baltimore (with the notable exception of the enhanced AA, a staggering 140% Efficiency), Bremerton can roughly dish out and take the same punishment of her sibling - with the crucial difference that Bremerton may mount either HE or AP guns and have her damage boost fill the gap between the two's anti-Medium performance, whereas Baltimore is locked into AP shelling.  
+Depending on where you place her, Bremerton may either be a vanguard tank or a light AA carry; in all likelihood she'll be fulfilling the former role until W12+, where the plane presence and tough opposition warrant both her firepower and AA.
+One last note - despite what her skill description says, the special barrage DOES NOT ignite targets. No biggie, the damage would've been minimal anyway, but unfortunate.
 
  ![CA](/Images-for-the-Guide/MinneapolisChibi.png "USS Minneapolis") - **[USS Minneapolis](https://azurlane.koumakan.jp/Minneapolis)**
 * Skill:
@@ -2675,6 +2730,19 @@ On a sidenote, she's also one of the carriers least affected by enemy AA boats d
 While at first glance her skills may look like a schizophrenic mess, and to a certain extent they are, on closer inspection it's fairly easy to see what their intent is - boosting either dual battleship comps or full carrier ones as well as herself, in a remarkable display of versatility.  
 You may have to rethink your fleet to accommodate her eccentricities, but she'll make sure it'll be worth it.
 
+![CVL](/Images-for-the-Guide/CasablancaChibi.png "Casablanda") - **[USS Casablanca](https://azurlane.koumakan.jp/Casablanca)** **(T0.5 to T0 depending on how many carriers she can boost)**
+* Role:
+  * Mob-to-boss fleet carrier support; mob fleet carrier support, light AA support, light DPS.
+
+* Skill: 
+  * Upon airstrike launch, 15% chance to instantly charge another one.
+  * Upon battle start, grant +12% Aviation and +10% Reload to every CV/L in Casablanca's fleet and her first airstrike's cooldown is -25% shorter; also grants +8% Aviation and +8% Reload to every CV/L in the fleet Casablanca is NOT in.
+  * Has a 3/0/3 loadout.
+
+* Desc: Here's to you, CVs.
+>A support carrier through and through, Casablanca's damage output may be somewhat limited but compensates for it with staggering amounts of utility.  
+Whether it's the entirely unique carrier buff working across fleets, the more standard carrier buff for her own fleet, the relatively strong AA gun or the accelerated first airstrike, there's almost everything for everyone here - though she is definitely at her best when supporting carriers.
+
 
 ![CVL](/Images-for-the-Guide/IndependenceChibi.png "Independence") - **[USS Independence](https://azurlane.koumakan.jp/Independence)** (T0.5 w/ 1+ Cleveland-class around)
 * Skill: 
@@ -2712,16 +2780,6 @@ Beware her near-total lack of anti-air presence, though; without Fighters or AA 
 >Saratoga's Kai doesn't significantly change her playstyle: she's still the powerful DB-focused CV she's always been, but with a considerably improved statline that further emphasises her strengths. Extremely solid, even from a HP standpoint.  
 Her Kai skill, just like her gunfire skill, is best regarded as a bit of free additional damage than a reliable contribution to the fight - the extra planes have aimed torpedoes and the DoTs they inflict are fairly weak, but it's still better than most CV do in their downtime.
 
-![CV](/Images-for-the-Guide/YorktownChibi.png "USS Yorktown") - **[USS Yorktown](https://azurlane.koumakan.jp/Yorktown)**
-* Skill: 
-  * Once per battle, if Yorktown's HP falls below 20% she heals herself by 25%
-  * Upon receiving damage and on a 20s cooldown, launches three special SBD dive bombers (x1 2000lb, x2 100lb); 
-  * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
-  * Has a 3/3/2 loadout.
-
-- Desc: "Putting the 'fleet' in 'fleet carrier'".
-> One of the hardiest and most well-rounded carriers in the game, Yorktown can cover any role admirably well, courtesy of her balanced plane loadout, her frontline buff, her self-heal and her personal SBD squadron, ready to bust the heads of whoever thought she was easy pickings.
-Do NOT think she can solo backline past W6, though. Carriers aren't made for that and she's no exception.
 
 ![CV](/Images-for-the-Guide/HiryuuKaiChibi.png "Usagi Yojimbo") ![CV](/Images-for-the-Guide/SouryuuKaiChibi.png "Long Legs Monster") - **[IJN Hiryuu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Souryuu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)** **(T0 when together)**
 * Skill (Hiryu): 
@@ -2758,6 +2816,27 @@ Her buffs and layout are good enough to warrant usage even solo.
 
 ### Tier 1.5:
 ---
+![CV](/Images-for-the-Guide/IntrepidChibi.png "Intepid") - **[USS Intrepid](https://azurlane.koumakan.jp/Intrepid)**
+* Role: 
+  * ~~Disappointment~~ Mob/Boss anti-BB/BC DPS, flagship tank.
+
+* Skill: 
+  * Upon airstrike relolad, launch a [SB2C barrage](https://streamable.com/9nkbb); the bombs inflict Armour Break on struck BC/BB/BBV for 6s.
+    * The 3 2000lb bombs deal 380 bdmg with 70/105/125 armour modifiers; the 6 500lb bombs deal 220 bdmg with 80/90/110 armour modifiers. Both are modified by 100% of Intrepid's Aviation stat.
+  * On her 1st, 3rd and 5th battle of the sortie, gain +15% Aviation. On her 2nd, 4th and 6th battle of the sortie, take -12% dmg.
+  * Once per battle and upon falling below 20% HP, take -25% dmg for 20s and reduce Ignition damage sustained to 0 for 30s.
+  * Has a 3/3/2 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>Worst of the Essex-class by a fairly significant margin, Intrepid may not be weak in the conventional sense - her DPS is fine, assuming her bombs land where they can hurt - but her kit is all over the place and lacks any semblance of support beyond the fairly insubstantial Armour Break.
+Half of her skills push her in the direction of a proper attack carrier, and the other half tries to force her in a position almost no carrier would ever want to be placed in, that of flagship - at best this robs you of a precious BBarrager slot, at worst this robs you of that slot, of secondary defensive guns *and* exposed her to significant danger.  
+Her best skill, a strong SB2C 'barrage' (two weaker dive bombers behaving just like regular ones), is also needlessly janky - the planes launch as soon as an airstrike comes off cooldown, meaning they may very well launch to an empty sea and do nothing, waste their payloads on something that's already half-dead, or get shot apart by enemy AA in W13.  
+A very confused creature. Not irredeemable, quite strong, but very unwieldy.  
+
 #### ![CVL](/Images-for-the-Guide/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley) **(T0 in Plane Hells)**
 * Skill: 
   * Increases experience gained by CV by 15%
@@ -2773,7 +2852,6 @@ Her buffs and layout are good enough to warrant usage even solo.
 If stacking AS is what you need but you'd rather not focus on carriers, look no further.
 
 ![CV](/Images-for-the-Guide/LexingtonChibi.png "USS Lexington") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)**
-
 * Skill: 
   * Every 10s, fires a 3x2-bullet HE salvo (dmg scales with Aviation).
   * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
@@ -2785,6 +2863,17 @@ If stacking AS is what you need but you'd rather not focus on carriers, look no 
 
 * Desc: 
 >Identical in use to Saratoga, both her pre- and post-Kai version; the only difference is she doesn't get a Kai, on account of not being a loli.  
+ 
+![CV](/Images-for-the-Guide/YorktownChibi.png "USS Yorktown") - **[USS Yorktown](https://azurlane.koumakan.jp/Yorktown)**
+* Skill: 
+  * Once per battle, if Yorktown's HP falls below 20% she heals herself by 25%
+  * Upon receiving damage and on a 20s cooldown, launches three special SBD dive bombers (x1 2000lb, x2 100lb); 
+  * Upon airstrike launch, grants +15% damage output to the vanguard for 8s.
+  * Has a 3/3/2 loadout.
+
+- Desc: "Putting the 'fleet' in 'fleet carrier'".
+> One of the hardiest carriers in the game, Yorktown can cover any role fairly well courtesy of her balanced plane loadout, her frontline buff, her self-heal and her retaliatory SBD dive bombers; the price she pays for such sturdiness is DPS, however.
+Do NOT think she can solo backline past W6, though. Carriers aren't made for that and she's no exception.
  
  ![CV](/Images-for-the-Guide/Ark_RoyalChibi.png "Lolicon Royal") - **[HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)**
 * Skill: 
@@ -3076,10 +3165,14 @@ Highly synergistic, they all benefit from hanging out with each other but are fr
 About I-56... notice how it only says "AC Denial/Incapability"? Yes, this does mean she still procs in EN, where there is no Airspace Control at all.
 About all of them... don't mind the slower torpedoes, it's actually a benefit rather than a detriment! Fast torpedoes may well zip past the intended target if it moved, but slow ones have a good chance to strike that target on the way back.
 
-#### ![SS](/Images-for-the-Guide/AlbacoreChibi.png "Albacore") ![SS](/Images-for-the-Guide/CavallaChibi.png "Delet This") ![SS](/Images-for-the-Guide/DaceChibi.png "USS Cameltoe") ![SS](/Images-for-the-Guide/I-26Chibi.png "I-26") ![SS](/Images-for-the-Guide/I-58Chibi.png "I-58") - [USS Albacore](https://azurlane.koumakan.jp/Albacore), [USS Cavalla](https://azurlane.koumakan.jp/Cavalla), [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
+#### ![SS](/Images-for-the-Guide/AlbacoreChibi.png "Albacore") ![SS](/Images-for-the-Guide/BluegillChibi.png "USS Bluegill") ![SS](/Images-for-the-Guide/CavallaChibi.png "Delet This") ![SS](/Images-for-the-Guide/DaceChibi.png "USS Cameltoe") ![SS](/Images-for-the-Guide/I-26Chibi.png "I-26") ![SS](/Images-for-the-Guide/I-58Chibi.png "I-58") - [USS Albacore](https://azurlane.koumakan.jp/Albacore), [USS Bluegill](https://azurlane.koumakan.jp/Bluegill), [USS Cavalla](https://azurlane.koumakan.jp/Cavalla), [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
 * Skill (Albacore): 
   * Deal +10% Damage to DD, CL and CV.
   * Launches a special torpedo barrage with 70% Ignition chance upon surfacing.
+
+* Skill (Bluegill):
+  * Deal +15% Damage to DD/CL.
+  * Gain +40 Oxygen.
 
 * Skill (Cavalla): 
   * Lower the damage taken by subs by -15%; also, upon leaving the fight, heals 8% of her max HP.
