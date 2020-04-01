@@ -875,7 +875,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
   * [Poverty] 120x2 HMS; 533x5 conventional torpedoes; 113mm or Pom-Pom; Toolbox; Toolbox
 
 * Desc: Protector of mAAnkind.
->Another great entry in the ever-expanding roster of USS flyswatters, Reno is a dedicated AA CL sporting surprisingly high DPS - not far off from a San Diego Kai in fact, which is no mean feat - and an overwhelming urge to protect carriers.  
+>Another great entry in the ever-expanding roster of USS flyswatters, Reno is a dedicated AA CL sporting surprisingly high DPS - not too far off from a San Diego Kai in fact, which is no mean feat - and an overwhelming urge to protect carriers.  
 Her entire kit more or less revolves around carriers, in fact - she gains substantial boosts with them around and can defend them remarkably well with her boosted guns, an armour-modifiers-ignoring (100/100/100) barrage and a nifty damage reduction for the first few engagements she's in, something better suited to a boss fleet than a mob fleet.  
 Wherever there are planes to shred and carriers to protect, Reno is at home - and the more there is of both, the better.
 
