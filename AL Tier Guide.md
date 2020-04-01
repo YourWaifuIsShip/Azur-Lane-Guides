@@ -1,7 +1,6 @@
 # Your Waifu is SHIP's opinionated & extra-biased Tier Guide (FUCK PLANES 2: ELECTRIC BOOGALOO EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
-Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
 
 Indeed, you could interpret the tiers as a relative measure of how much investment is needed to get these units to perform rather than a definitive measure of how good they are - a T0 would be a beast almost right out of the gate, whereas an untiered unit would require disproportionate amounts of effort - but I'd recommend treating the tiers as they're meant to be, according to the criteria below.
 The descriptions are by far more important than the tierings themselves; a T0 used improperly will be laughed at by a T2 used properly, for instance.
@@ -1432,7 +1431,7 @@ That said, don't make the mistake of thinking Heavy Armour makes her invincible 
   * Upon battle start and if deployed as vanguard lead, take -20% dmg for 30s; if not deployed as lead, gain +25% AA until the end of the battle.
 
 * Recommended Loadouts:
-  * [General Purpose] Atago Gun or Roon Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Type 3 Gun or Roon Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
   * [Poverty] 203x2 IJN (HE) or 203x2 KMS (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: Warrior of Likes.
