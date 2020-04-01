@@ -70,7 +70,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - USS Casablanca joins the Tier Guide as T1 (T0.5 to T0 depending on carrier presence).
 - USS Intrepid joins the Tier Guide as T1.5.
 - USS Cooper joins the Tier Guide as T2.
-- USS Bluegill joins the Tier Gudide as a O2 Submarine.
+- USS Bluegill joins the Tier Guide as a O2 Submarine.
 
 - USS Marblehead joins the Untier Guide as Worst CL In The Game.
 
@@ -1432,8 +1432,8 @@ That said, don't make the mistake of thinking Heavy Armour makes her invincible 
   * Upon battle start and if deployed as vanguard lead, take -20% dmg for 30s; if not deployed as lead, gain +25% AA until the end of the battle.
 
 * Recommended Loadouts:
-  * [General Purpose] Louis Gun or Roon Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] Louis Gun or Roon Gun; 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * [General Purpose] Atago Gun or Roon Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [Poverty] 203x2 IJN (HE) or 203x2 KMS (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: Warrior of Likes.
 >Another excellent showing from the Baltimore-class, Bremerton brings impressive amounts of AA fire from a Heavy Cruiser without compromising staying power or damage output in the process.  
@@ -2820,8 +2820,7 @@ Her buffs and layout are good enough to warrant usage even solo.
 ---
 ![CV](/Images-for-the-Guide/IntrepidChibi.png "Intepid") - **[USS Intrepid](https://azurlane.koumakan.jp/Intrepid)**
 * Role: 
-  * ~~Disappointment~~ Mob/Boss anti-BB/BC DPS, flagship tank.
-
+  * ~~Disappointment~~ Mob/Boss anti-BB/CL heavy bomb DPS; flagship tank.
 * Skill: 
   * Upon airstrike relolad, launch a [SB2C barrage](https://streamable.com/9nkbb); the bombs inflict Armour Break on struck BC/BB/BBV for 6s.
     * The 3 2000lb bombs deal 380 bdmg with 70/105/125 armour modifiers; the 6 500lb bombs deal 220 bdmg with 80/90/110 armour modifiers. Both are modified by 100% of Intrepid's Aviation stat.
