@@ -3146,7 +3146,7 @@ Highly synergistic, they all benefit from hanging out with each other but are fr
 *About U-101...* being able to close the distance with the enemy drastically lowers the chance to physically miss the target, but it is also somewhat suicidal if she's not equipped with a Snorkel. Not that it matters much.  
 *About U-110...* COMMENCE RNG FIESTA! Or don't, the buffs are minimal and there's no guarantee you'll get the ones you want when you actually need them. Still better than 556 though.  
 *About U-522...* the call-in from across the map is a bit of a meme since you can move your fleet around anyway, but the extra O2 is just enough to let her skip Snorkels in favour of another Oxytorp.  
-*About U-556...* yes, having someone reach critical HP is a terrible condition, and now she's not the only option for a full KMS fleet anymore she's the worst sub in the game. Sorry.  
+*About U-556...* yes, having someone reach critical HP is a terrible condition for a barrage and there is no real upside to it.
 *About all of them...* their barrages are semi-homing, just like regular acoustic torps. Have fun.  
 
 #### ![SS](/Images-for-the-Guide/I-19Chibi.png "I-19") ![SS](/Images-for-the-Guide/I-56Chibi.png "I-56") ![SS](/Images-for-the-Guide/I-168Chibi.png "I-168") - [IJN I-19](https://azurlane.koumakan.jp/I-19), [IJN I-56](https://azurlane.koumakan.jp/I-56), [IJN I-168](https://azurlane.koumakan.jp/I-168) 
@@ -3164,7 +3164,6 @@ Highly synergistic, they all benefit from hanging out with each other but are fr
   
 * Desc: Large and Discharge.
 >Much larger and better supplied than their KMS counterparts, this line of IJN attack submarines trade synergy for heavy duty torpedoes, torpedo barrages and somewhat thicker hulls.  
-About I-56... notice how it only says "AC Denial/Incapability"? Yes, this does mean she still procs in EN, where there is no Airspace Control at all.
 About all of them... don't mind the slower torpedoes, it's actually a benefit rather than a detriment! Fast torpedoes may well zip past the intended target if it moved, but slow ones have a good chance to strike that target on the way back.
 
 #### ![SS](/Images-for-the-Guide/AlbacoreChibi.png "Albacore") ![SS](/Images-for-the-Guide/BluegillChibi.png "USS Bluegill") ![SS](/Images-for-the-Guide/CavallaChibi.png "Delet This") ![SS](/Images-for-the-Guide/DaceChibi.png "USS Cameltoe") ![SS](/Images-for-the-Guide/I-26Chibi.png "I-26") ![SS](/Images-for-the-Guide/I-58Chibi.png "I-58") - [USS Albacore](https://azurlane.koumakan.jp/Albacore), [USS Bluegill](https://azurlane.koumakan.jp/Bluegill), [USS Cavalla](https://azurlane.koumakan.jp/Cavalla), [USS Dace](https://azurlane.koumakan.jp/Dace), [IJN I-26](https://azurlane.koumakan.jp/I-26), [IJN I-58](https://azurlane.koumakan.jp/I-58)
