@@ -870,7 +870,7 @@ While the power of her debuff is unparalled, it's hard to make sure she will pro
 
 * Recommended Loadouts:
   * [Full AA] 100x2 IJN; 533x5 conventional torpedoes; 113mm or Pom-Pom; PR AA Radar; PR AA Radar
-  * [General Purpose] 138x1 IJN; 533x5 conventional torpedoes; 113mm or Pom-Pom; Toolbox; PR Hydraulic Gear
+  * [General Purpose] 138x1; 533x5 conventional torpedoes; 113mm or Pom-Pom; Toolbox; PR Hydraulic Gear
   * [Poverty] 120x2 HMS; 533x5 conventional torpedoes; 113mm or Pom-Pom; Toolbox; Toolbox
 
 * Desc: Protector of mAAnkind.
