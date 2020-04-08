@@ -2911,7 +2911,7 @@ Whether it's boss-busting or wave-clearing, give her the appropriate planes and 
 
 * Recommended Loadouts:
   * [Optimal] F6F Hellcat or ME155 (if W12+); JU87 Stuka; JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
-  * [Poverty] F4U Corsai or ME155 (if W12+); SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair or ME155 (if W12+); SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: IT'S NOT JUST A PHASE, MEIN KOMMANDANT!
 >The single toughest CV in the game, courtesy of her ludicrous HP pool (6.8k), the flat damage cut she extends to every KMS unit in the fleet (herself included) and the couple of 150% ME155s she can field to keep the skies clear; and as for the offence, she's no slouch either with her remarkable six 160% Efficiency Stukas.  
