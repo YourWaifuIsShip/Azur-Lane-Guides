@@ -1560,7 +1560,7 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
 * Desc: 
 >The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
  
-![CA](/Images-for-the-Guide/IbukiChibi.png "Fat DD") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)** **(TO vs Sirens/Bosses)**
+![CA](/Images-for-the-Guide/IbukiChibi.png "Fat DD") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)** **(T0 vs Sirens/Bosses)**
 * Skill:
   * Gain +40% Torpedo CritRate and +65% Torpedo CritDmg.
   * Upon launching torpedoes, 30% chance to launch a special torpedo barrage.
