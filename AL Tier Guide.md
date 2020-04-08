@@ -100,6 +100,7 @@ The DPS monster to AyaKai's DPH.
 * Skill:
   * Main Gun modifiers are fixed to 115/115/115; also, gain +15% Main Gun Efficiency if using an IJN DD gun.
   * If sortied as Vanguard Lead, launch a torpedo barrage 10s after the start of the battle; also, upon hitting with 10 NON-BARRAGE torpedoes, launch the same torpedo barrage.
+  * Deal +15% dmg to Sirens.
   * Has MGM+1.
 
 * Recommended Loadouts:
@@ -805,6 +806,7 @@ Most, if not all, Cruiser compositions will benefit by her presence.
   * If an aircraft is shot down within the AA circle, gain +15% FP/AA for 8s; if more than 15 aircraft have been shot down throughout the battle, gain +15% FP and +20% Reload until the end of the battle.
   * If mounting a CL gun as secondary, gain +15% AA Efficiency; if mounting an AA gun as secondary, gain +15% Main Gun Efficiency; if placed as Vanguard Rear, take -15% less damage.
     * No, sortieing Seattle alone doesn't work. There is no vanguard rear when you're on your own, after all.
+  * Deal +15% dmg to Sirens.
   * Can mount a CL gun or an AA gun as secondary.
 
 * Recommended Loadouts:
@@ -1486,7 +1488,8 @@ Despite her relatively low staying power, courtesy of her abysmal Luck, Mogami K
 * Skill:
   * +35% HE damage and -3% Ignition chance
   * Upon battle start, gain +8 Speed (permanent) and +30% Evasion (for 40s)
-  * +15% damage vs Sirens.
+  * Deal +15% damage to Sirens.
+  * Has MGM+1 and torpedoes.
 
 - Desc: DESU VULT!
 > Historically praised by multiple navies as one of the absolute best heavy cruiser designs but robbed of its chance to shine due to the fall of France in WW2, Azur Lane's Saint Louis has come to set the record straight - and does she ever.  
@@ -1564,7 +1567,7 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
 * Skill:
   * Gain +40% Torpedo CritRate and +65% Torpedo CritDmg.
   * Upon launching torpedoes, 30% chance to launch a special torpedo barrage.
-  * +15% damage vs Sirens.
+  * Deal +15% damage to Sirens.
   * Has TWO preloaded torpedo spreads.
 
 * Recommended Loadouts:
@@ -1582,8 +1585,8 @@ Still, as long as you employ her for the surgical strikes she's made for, she ha
 * Skill:
   * Main Gun cycles between HE and AP every 2 salvo, then gains a +3.5% Reload stack for every Main Gun salvo fired. Max 12 stacks.
   * Every 30s, generates 4 orbiting shields (two on a very narrow orbit, one on a medium orbit, one on a wide orbit) lasting 8 shots or 15s.
-  * +15% damage vs Sirens.
-  * Has MGM+1 and torpedoes.
+  * Deal +15% damage to Sirens.
+  * Has MGM+1 and torpedoes. Really, *really* bad torpedoes.
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Autoloader
@@ -1863,6 +1866,7 @@ Bear in mind that despite her having a barrage, she isn't *really* one - it's at
 * Skill:
   * 70% chance on Main Gun fire, fire a fixed AP slowing (-40% Speed for 6s) barrage (Hood-like)
   * Once per battle and upon falling below 20% HP, restore 3% HP every 2s for 8s; also, for every 1% HP lost during the fight, her Reload increases by 1.
+  * Deal +15% dmg to Sirens.
 
 * Recommended Loadouts:
   * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
@@ -1928,6 +1932,7 @@ If one were to look really hard for any chinks in her Plot Armour it could be sa
   * Upon falling below half HP, gain +50% Evasion and regenerate 8% of max HP over 8s. Works twice per battle.
   * Manually aimed volleys deal +40% Damage; also, every 20s, launch a [special barrage](http://p9.qhimg.com/dr/400__/t0135d3754023d7df8a.gif).
     * The 10 RED ARROWS deal 54 bdmg with 120/80/80 mods; the 10 WHITE ARROWS deal 54 bdmg with 80/120/80 mods; the 10 BLUE ARROWS deal 54 bdmg with 80/80/120 mods. All are modified by 100% of the unit's FP.
+  * Deal +15% dmg to Sirens.
   * Main Gun salvo are split into separate volleys, and has only two Main Gun Mounts.
  
 * Recommended Loadouts:
@@ -2388,7 +2393,7 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
   * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p4.qhimg.com/t0127a2b079a4ccebab.gif)
     * The 36 NEEDLES deal 104 base damage with 50/135/120 modifiers. Their damage is modified by 120% of the unit's FP.
   * Take -35% AP damage, but is Ignited +6% more often and extends Ignition duration by 3s.
-  * Deal +15% damage vs Sirens.
+  * Deal +15% damage to Sirens.
 
 * Recommended Loadouts:
   * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
