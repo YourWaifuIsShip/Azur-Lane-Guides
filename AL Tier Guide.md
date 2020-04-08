@@ -2687,7 +2687,8 @@ It's not all bombs and sunshine, though - while her proc rate is high, she is ne
 The F6F-induced barrage won't see usage in PvE, but never fear - the stacking buffs will, and they'll be signficant.
 On a side-note, that's a B-17's shadow and not a B-25's. Irritating.
  
-![CV](/Images-for-the-Guide/AkagiChibi.png "IJN Akagi") ![CV](https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)**
+![CV](/Images-for-the-Guide/AkagiChibi.png "IJN Akagi") ![CV](Azur-Lane-Guides/Images-for-the-Guide/KagaChibi.png
+ "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)**
 * Skill: 
   * First Airstrike launches 50% faster
   * When paired, increase Air Power by 35%
