@@ -9,15 +9,18 @@ If you happen to have questions for me, want to discuss tierings or would like t
 
 ## Featured news and Changelog
 ```
-[01/03/2019]
+[08/04/2020]
+Minor fixes all over the place, nothing big.
+
+[01/04/2020]
 TIER GUIDE UPDATED
 Experimenting with the 'role' field in the new entries; depending on how well or poorly received it is, it may become a permament feature or be removed entirely.
 
-[01/03/2019]
+[01/03/2020]
 TIER GUIDE UPDATED
 Also a correction; our wiki made a mess and had the new units cost 1 more than they actually do, their prices are in line with everyone else. This does not affect the tierings in any way, for the record.
 
-[27/01/2019]
+[27/01/2020]
 TIER GUIDE UPDATED
 
 [15/01/2020]
