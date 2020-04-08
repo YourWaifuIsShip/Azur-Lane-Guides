@@ -2408,9 +2408,9 @@ Bad not just by PR standards but as a whole, there is little to no reason to eve
   * If equipping the "Z Flag" auxiliary item, grant +5% Firepower/Accuracy to the entire fleet.
 
 * Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Twin 100mm; Twin 100mm; Research AA Radar; Research AA Radar
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 120mm Main Gun; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Twin 100mm; Twin 100mm; Research AA Radar; Z Flag
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 120mm Main Gun; Type 1 Shell; Z Flag
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 100x2; Type 91 Shell; Z Flag
 
 * Desc: Pint-size dai-senpai.
 >Don't be fooled by the seemingly low statline - Mikasa has a lot more Firepower and Reload than meets the eye, courtesy of her truly astounding buff suite, and is the premiere flagship for a gun-focused IJN fleets.
