@@ -3012,8 +3012,8 @@ Her skill barely contributes to most battles, and without her sister ship she's 
   * Has a 3/2/3 loadout.
 
 * Recommended Loadouts:
-  * [General Purpose] F6F Hellcat; Ryusei; Twin 40mm STAAG; Hydraulic Catapult; Hydraulic Catapult
-  * [Poverty] F4U Corsair; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
+  * [General Purpose] F6F Hellcat; SB2C Helldiver; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
 >An adequate carrier with no readily distinguishable quality, she doesn't DPS particularly hard (or much, for that matter) nor does she support particularly well; she's competent enough at her job and flings some extra planes about on airstike, but that's kind of it.  
