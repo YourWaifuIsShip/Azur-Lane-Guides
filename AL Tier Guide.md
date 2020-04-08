@@ -257,7 +257,7 @@ As it is for Phoenix, they are best used in mobbing fleets.
 >Nicholas is a rarity among destroyers, in that she boasts both enough Firepower to face off with the best in her class and very solid defensive capabilities; a true generalist, even more so than Laffey considering her actually good torpedoes.  
 With no real weakness on display, beyond simply not being quite as good as more specialised units, Nicholas is a worthy addition in pretty much any escort fleet - especially one with Helena or Fletcher.
 
-![DD](https://azurlane.koumakan.jp/w/images/f/fe/ShigureKaiChibi.png "Shigure Kai") - **[IJN Shigure Kai](https://azurlane.koumakan.jp/Shiranui#Retrofit)**
+![DD](Images-for-the-Guide/ShigureKaiChibi.png "Shigure Kai") - **[IJN Shigure Kai](https://azurlane.koumakan.jp/Shiranui#Retrofit)**
 * Skill:
   * Upon Main Gun fire, 5% chance to gain +60% Evasion for 8s.
   * If deployed with Yukikaze, gain +15% Torpedo and a 70% chance every 20s to launch a special barrage; if NOT deployed with Yukikaze, grant a -5% fleetwide damage reduction and, once per battle when any unit falls below 20% HP, restore 10% of that unit's max HP.  
@@ -1750,7 +1750,7 @@ Her DPS starts out low but - given enough time and luck - grows to respectable l
 >The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
 Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
 
-![CA](https://azurlane.koumakan.jp/w/images/8/89/NorthamptonChibi.png "USS Northampton") - **[USS Northampton](https://azurlane.koumakan.jp/Northampton)**
+![CA](Images-for-the-Guide/NorthamptonChibi.png.png "USS Northampton") - **[USS Northampton](https://azurlane.koumakan.jp/Northampton)**
 * Skill: 
   * +15% FP to all CL/CA in the fleet.
 
