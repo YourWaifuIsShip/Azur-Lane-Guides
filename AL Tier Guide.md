@@ -3052,7 +3052,7 @@ While definitely usable, her only real use case would be plugging Hard Mode enfo
 >Smol Akagi is an interesting little thing, with those invincibility-granting airstrikes of hers - but lacking a real purpose in an environment crowded with excellent IJN DPS carriers, not least of which Akagi proper (against which her barrage really can't stack up), and a better vanguard protection in the form of Illustrious' bubble.
 However, invincibility *can* go where no bubble has gone before in EX maps...
 
-#### ![CV](https://azurlane.koumakan.jp/w/images/3/32/Akagi_%28Muse%29Chibi.png "Musikagi") - [Muse Akagi](https://azurlane.koumakan.jp/Akagi_(Muse))
+#### ![CV](/Images-for-the-Guide/Akagi_(Muse)Chibi.png "Musikagi") - [Muse Akagi](https://azurlane.koumakan.jp/Akagi_(Muse))
 * Skill: 
   * 10s after launching her first airstrike and depending on the amount (odd/even) of Muse units in the fleet, launch a dive bomber/torpedo bomber barrage.
     * The 3 500lb BOMBS deal 226bdmg w/ 80/90/110 mods; the 6 100lb BOMBS deal 96 bdmg w/ 80/85/100 mods. Both are modified by 80% of the unit's Aviation stat.
