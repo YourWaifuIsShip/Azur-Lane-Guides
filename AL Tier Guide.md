@@ -843,7 +843,7 @@ On the flipside, the buffs can be unwieldy: while the Dido+3HMS requirements is 
   * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
+  * [General Purpose] Seattle Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
