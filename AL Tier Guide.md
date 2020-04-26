@@ -65,7 +65,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 ## Changelog as of last major update (26/04/2020)
 
 - IJN Tosa joins the Tier Guide as T1 (T0 as non-flag).
-- IJN Naganami joins the Tier Guide as T0.5.
+- IJN Naganami joins the Tier Guide as T1.5 (T0.5 w/ full vanguard).
 - IJN Isuzu Kai is promoted from a Honourable Mention to T1.5 (T0 in Plane Hells).
 - IJN Hanazuki joins the Tier Guide as a T2.
 - HMS Little Renown joins thte Tier Guide as a T2 (T1.5 w/ 3+ HMS units).
@@ -210,23 +210,6 @@ The DPH monster to LafKai's DPS.
 * Desc: Black Not Shooter.
 >A veritable turncoat of a DD, Kawakaze's main purpose is making Light Armoured units' lives hell by drilling right through it with her torps and her stellar torpedo-armed barrage - and she accomplishes it beautifully.  
 Terrifyingly effective against her intended targets, to the point of overtaking even Ayanami Kai - but she does still lose to her when faced with Heavy Armour, against which her skill puts her at a disadvantage.
-
-![DD](/Images-for-the-Guide/NaganamiChibi.png "Skunk") - **[IJN Naganami](https://azurlane.koumakan.jp/Naganami)**
-* Role:
-  * IJN DD/CL torpedo vanguard buffer, high torpedo DPS.
-
-* Skill:
-  * 10s after the start of the battle, launch a torpedo spread; every 20s afterwards and on a 25% chance, launch a torpedo spread. The torpedoes' power and amount are the same as that of those currently equipped.
-  * Upon battle start, if Naganami is sortied in the middle of a full vanguard, grant +15% Torp and +10% Torp CritRate to DD/CL and +15% Eva to DDs.
-
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
-* Desc: 
->By and large an alternative to Kagerou Kai, as their statlines are almost identical but their focus differs slightly.  
-Whereas Kagerou Kai buffs the entire vanguard regardless of amount of members and hull class, CAs included, Naganami buffs DD/CL more (and especially DDs, though the +Eva is mostly negligible on units with such a high Eva stat already); the 'free' torpedo spreads aren't as reliable as the Chain Torpedo Kagerou brings, as they are timer-based rather than on-launch, but are still fairly good.
 
 ![DD](/Images-for-the-Guide/YuudachiChibi.png "Poi") - **[IJN Yuudachi](https://azurlane.koumakan.jp/Yuudachi)**
 * Skill:
@@ -410,6 +393,22 @@ Maury does things differently from many of her colleagues, but she does them wel
 An interesting proposition but one that is for the most part only going to appeal to dedicated torp-heavy vanguards, as the Mahans are much cheaper and much more effective in their role of unshiftable-yet-adequately-armed bubblewrap, but she can be put to good use if one is willing to manual and invest on torp buffers.  
 Forget about the self-buff if sortied with Akatsuki-class DDs, they aren't worth using in the first place unless you particularly like them.  
 
+![DD](/Images-for-the-Guide/NaganamiChibi.png "Skunk") - **[IJN Naganami](https://azurlane.koumakan.jp/Naganami)** **(T0.5 if deployed w/ full torp-focused vanguard)**
+* Role:
+  * IJN DD/CL torpedo vanguard buffer, high torpedo DPS.
+
+* Skill:
+  * 10s after the start of the battle, launch a torpedo spread; every 20s afterwards and on a 25% chance, launch a torpedo spread. The torpedoes' power and amount are the same as that of those currently equipped.
+  * Upon battle start, if Naganami is sortied in the middle of a full vanguard, grant +15% Torp and +10% Torp CritRate to DD/CL and +15% Eva to DDs.
+
+* Recommended Loadouts:
+  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
+* Desc: 
+>By and large an alternative to Kagerou Kai, as their statlines are almost identical but their focus differs slightly.  
+Whereas Kagerou Kai buffs the entire vanguard regardless of amount of members and hull class, CAs included, Naganami buffs DD/CL more (and especially DDs, though the +Eva is mostly negligible on units with such a high Eva stat already); the 'free' torpedo spreads aren't as reliable as the Chain Torpedo Kagerou brings, as they are timer-based rather than on-launch, but are still fairly good.
 
 ![DD](/Images-for-the-Guide/TanikazeKaiChibi.png "Tinykaze") - **[IJN Tanikaze Kai](https://azurlane.koumakan.jp/Tanikaze#Retrofit)**
 * Skill:
