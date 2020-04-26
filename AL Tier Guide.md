@@ -64,16 +64,14 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ## Changelog as of last major update (01/04/2020)
 
-- USS Bremerton joins the Tier Guide as T0.
-- USS Reno joins the Tier Guide as T1 (T0.5 w/ CV/L).
-- USS Casablanca joins the Tier Guide as T1 (T0.5 to T0 depending on carrier presence).
-- USS Intrepid joins the Tier Guide as T1.5.
-- USS Cooper joins the Tier Guide as T2.
-- USS Bluegill joins the Tier Guide as a O2 Submarine.
+- IJN Tosa joins the Tier Guide as T1 (T0 as non-flag).
+- IJN Naganami joins the Tier Guide as T0.5.
+- IJN Isuzu Kai is promoted from a Honourable Mention to T1.5 (T0 in Plane Hells).
+- IJN Hanazuki joins the Tier Guide as a T2.
+- HMS Little Renown joins thte Tier Guide as a T2 (T1.5 w/ 3+ HMS units).
 
-- USS Marblehead joins the Untier Guide as Worst CL In The Game.
-
-- Added a Role field to the new entries. Depending on reception, may become a feature for all new and older entries as well.
+- IJN Izumo is demoted to Untiered, on account of her being an utter waste of time and resources; has been ever since PR1, the recent-ish influx of strong/unique BBarragers, AP-focused or otherwise, just makes her position untenable.
+- IJN Kiyonami is demoted to Untiered, on account of Naganami entirely obsoleting her.
 
 <br/><br/>
 ---
@@ -213,7 +211,10 @@ The DPH monster to LafKai's DPS.
 >A veritable turncoat of a DD, Kawakaze's main purpose is making Light Armoured units' lives hell by drilling right through it with her torps and her stellar torpedo-armed barrage - and she accomplishes it beautifully.  
 Terrifyingly effective against her intended targets, to the point of overtaking even Ayanami Kai - but she does still lose to her when faced with Heavy Armour, against which her skill puts her at a disadvantage.
 
-![DD](/Images-for-the-Guide/NaganamiChibi.png "Skunk") - **[IJN Kagerou Kai](https://azurlane.koumakan.jp/Kagerou#Retrofit)**
+![DD](/Images-for-the-Guide/NaganamiChibi.png "Skunk") - **[IJN Naganami](https://azurlane.koumakan.jp/Naganami)**
+* Role:
+  * IJN DD/CL torpedo vanguard buffer, high torpedo DPS.
+
 * Skill:
   * 10s after the start of the battle, launch a torpedo spread; every 20s afterwards and on a 25% chance, launch a torpedo spread. The torpedoes' power and amount are the same as that of those currently equipped.
   * Upon battle start, if Naganami is sortied in the middle of a full vanguard, grant +15% Torp and +10% Torp CritRate to DD/CL and +15% Eva to DDs.
@@ -615,6 +616,9 @@ A hard sell, but perhaps your carriers may appreciate the buffs while someone pi
 Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Efficiency let her deal constant, solid damage regardless; she's no KMS or USS Gun-DD, but she puts up a good showing and still retains serviceable torps, as well as an unreliable but decent fleetwide buff.
 
 #### ![DD](/Images-for-the-Guide/HanazukiChibi.png "Hanazuki") ![DD](/Images-for-the-Guide/HarutsukiChibi.png "Harutsuki") ![DD](/Images-for-the-Guide/YoizukiChibi.png "Yoizuki")- **[IJN Hanazuki](https://azurlane.koumakan.jp/Hanazuki)** **[IJN Harutsuki](https://azurlane.koumakan.jp/Harutsuki)** **[IJN Yoizuki](https://azurlane.koumakan.jp/Yoizuki)**
+* Role:
+  * AA support, light hybrid DPS with solid staying power.
+
 * Skill:
   * When planes are shot down within the AA circle, +25% own AA and Firepower for 8s.
 
@@ -1150,6 +1154,9 @@ She's in a weird position, all in all, and whether you'll take her or not will m
 Not too flashy, but sturdy enough and dependable.
 
 ![CL](/Images-for-the-Guide/IsuzuKaiChibi.png "Isuzu Kai") - **[IJN Isuzu Kai](https://azurlane.koumakan.jp/Isuzu#retrofit)** **(T0 in Plane Hells)**
+* Role:
+  * AA monster or light mixed DPS.
+
 * Skill: 
   * Upon firing her AA guns, 25% chance to gain +40% AA and lose -20% FP for 3s.
   * If mounting an IJN DD gun, take -12% damage; if mounting a non-IJN DD gun, lose -50% AA Efficiency but gain +20% Main Gun Efficiency, +50% Torpedo Efficiency and launch a special torpedo barrage alongside the regular barrage.
@@ -1339,7 +1346,7 @@ While she isn't a bad unit on her own by any stretch, her competitors are more p
 >Yuubari, ever the tinkerer, has an impressive array of tools at her disposal - shame she's an indecisive bastard and has to roll a die to decide which to crack out.
 Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outcomes are desirable (namely the two heals, one intentionally meant to be bad and one that is bad merely because Yuubari has barely more HP than the average DD without their Evasion), but the complete inability to control the results makes her a tough sell for anyone but the most compulsive gamblers - or the most squeamish about oil costs (8 Oil at MLB).
 
-![CL](/Images-for-the-Guide/AvroraChibi.png "Avrora") - **[SN Avrora](https://azurlane.koumakan.jp/Avrora)**
+![CL](/Images-for-the-Guide/AvroraChibi.png "Avrora") - **[NP Avrora](https://azurlane.koumakan.jp/Avrora)**
 * Skill: 
   * +35% Damage to the entire vanguard.
   * Has MGM+1 and Torpedoes.
@@ -2123,6 +2130,9 @@ A very solid defensive pick, further helped by the fact her Sanshikidan barrage 
 >Your first *good* bearers of CL secondaries, owing to their high Firepower and Main Gun Efficiency (once partially retrofitted, that is; just DO NOT take the last two nodes). All they do is stop fireships well and craterise hard targets; it ain't much, but it's honest work and do you really need more for now?
 
 ![BB](/Images-for-the-Guide/TosaChibi.png "Toss") - **[IJN Tosa](https://azurlane.koumakan.jp/Tosa)** **(T0 as not-flagship)**
+* Role:
+  * Off-flag BBarrager.
+
 * Skill: 
   * 75% chance upon Main Gun fire, a [magical barrage](https://streamable.com/xj4rxu) is fired from the centre of the backline regardless of Tosa's position.
     * The 4 AIMED SHELLS deal 156 bdmg with 90/120/70 amods; the 6 UNAIMED SHELLS deal 156 bdmg with 90/120/70 amods; the 48 NEEDLES deal 20 bdmg with 100/80/60 amods; the 4 TORPEDOES deal 96 bdmg with 80/110/130 amods and a 110% Coefficient. Their damage is modified by 100% of the unit's relevant stats.
@@ -2388,6 +2398,24 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
 While KGV is yet another sovereign that doesn't buff back her fellow countrywomen, there's no denying the buff she receives from them is both quite simple to attain (the HMS is spoiled for good backline choices) and substantial; not only that, her damage buff is hardly ever out of a job considering 99% of the enemies in PvE are IJN.  
 As for the 356mm, long story short - it only overtakes the good ol' 406MK6 if her first volley lands most of its shots and hits something valuable, otherwise the long cooldown and the subpar damage eventually catch up to her; it won't cripple her but she won't benefit a whole lot from it either, and her barrage is fairly anaemic anyway so buffing it isn't too desirable a prospect.  
 In short, she's a big burly beatstick that'll benefit from having some HMS cheerleaders around. Only let her be the flag if nobody else has a better barrage.
+
+![BC](/Images-for-the-Guide/Little_RenownChibi.png "Renown Kai") - **[HMS Little Renown](https://azurlane.koumakan.jp/Little_Renown)** **(T1.5 if deployed w/ 3+ HMS units)**
+* Role:
+  * Regular shelling BB.
+
+* Skill: 
+  * The first bombardment takes -40% to load, but deals only 40% damage; the second bombardment takes -40% to load, but deals only 80% of the damage; the third bombardment takes -40% to load and deals 120% damage. All following bombardments deal 120% damage.
+  * Gain a stack of +5% Firepower, Reload and Accuracy for every HMS units deployed in the fleet. up to a maximum of 4 stacks.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc: 
+>An interesting little thing. Starts out weak and fast, likely only able to take on weak adds, and ends up surprisingly powerful - powerful enough to compete with some hard shellers in the tiers above, in fact, assuming you did sortie her with enough HMS units.  
+Doing so is harder than it sounds, as the HMS has many superb backline options and she does not compare favourably to those.  
+Still, competent and capable if catered to.  
 
 ![BB](/Images-for-the-Guide/Queen_ElizabethChibi.png "HMS Queen Elizabeth")- **[HMS Queen Elizabeth](https://azurlane.koumakan.jp/Queen_Elizabeth)** **(T1.5 w/ FULL HMS fleet, the less HMS units the lower the tier; T1 w/ FULL HMS fleet AND Dido)**
 * Skill: 
