@@ -9,6 +9,9 @@ If you happen to have questions for me, want to discuss tierings or would like t
 
 ## Featured news and Changelog
 ```
+[26/04/2020]
+TIER GUIDE UPDATED.
+
 [08/04/2020]
 Minor fixes all over the place, nothing big.
 
