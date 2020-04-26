@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's highly opinionated and extra-biased AL Untier Guide (FUCK PLANES 2: ELECTRIC BOOGALOO EDITION)
+# Your Waifu is SHIP's highly opinionated and extra-biased AL Untier Guide (NIGHT OF THE LIVING DEAD FOXES EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 "Hey, hang on a second! Where's MY waifu? I looked at the Guides and yet she's not there!"  
@@ -7,6 +7,17 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 ## _VERY IMPORTANT OPENING NOTE_ 
 
 ```
+[26/04/2020]
+> IJN Kiyonami has been removed from the Tier Guide, on account of being entirely obsoleted by IJN Naganami.
+- Not much to say here. She's just better, as the +FP boost on a IJN DD was more of a cruel joke than an asset.
+
+> IJN Izumo has been removed from the Tier Guide, on account of her being a total waste of time and resources.
+- Quoting from her old entry in the Tier Guide:
+"One really has to wonder what has Izumo ever done to developers to warrant such a treatment.
+As awful in AL as she is in WoWS, Izumo is bad by any standard - her barrage barely scratches Light Armour while being unable to bypass it due to the parallel shots, her 'defensive' skill harms her much more than it does protect her due to the complete absence of enemy BB AP (and prevalence of BB HE) and worse still, as a barrage boat she needs flagship slot... while sharing Mikasa and Nagato's nation.  
+Her only saving grace is the Dev35 barrage upgrade, turning it from a Bad Seven variant into an actual damage source, but the time and resources one must spend in order to acquire it - to say nothing about the higher Oil costs and comparatively poor efficiencies - make her an absolutely atrocious value proposition, especially when compared to the other AP specialists out there (Monarch, Georgia, Littorio, Alabama).
+Bad not just by PR standards but as a whole, there is little to no reason to ever use her over any other barrage boat."
+
 [01/04/2020]
 > USS Marblehead did not join the Tier Guide, on account of her being - basically - a reskin of the worst CL in the game, Concord.
 - The tagline says it all, pretty much. Atrocious DPS, low staying power, poor and generic skill, no redeeming feature.
