@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (FUCK PLANES 2: ELECTRIC BOOGALOO EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (NIGHT OF THE LIVING DEAD FOXES EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 
@@ -212,6 +212,20 @@ The DPH monster to LafKai's DPS.
 * Desc: Black Not Shooter.
 >A veritable turncoat of a DD, Kawakaze's main purpose is making Light Armoured units' lives hell by drilling right through it with her torps and her stellar torpedo-armed barrage - and she accomplishes it beautifully.  
 Terrifyingly effective against her intended targets, to the point of overtaking even Ayanami Kai - but she does still lose to her when faced with Heavy Armour, against which her skill puts her at a disadvantage.
+
+![DD](/Images-for-the-Guide/NaganamiChibi.png "Skunk") - **[IJN Kagerou Kai](https://azurlane.koumakan.jp/Kagerou#Retrofit)**
+* Skill:
+  * 10s after the start of the battle, launch a torpedo spread; every 20s afterwards and on a 25% chance, launch a torpedo spread. The torpedoes' power and amount are the same as that of those currently equipped.
+  * Upon battle start, if Naganami is sortied in the middle of a full vanguard, grant +15% Torp and +10% Torp CritRate to DD/CL and +15% Eva to DDs.
+
+* Recommended Loadouts:
+  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+
+* Desc: 
+>By and large an alternative to Kagerou Kai, as their statlines are almost identical but their focus differs slightly.  
+Whereas Kagerou Kai buffs the entire vanguard regardless of amount of members and hull class, CAs included, Naganami buffs DD/CL more (and especially DDs, though the +Eva is mostly negligible on units with such a high Eva stat already); the 'free' torpedo spreads aren't as reliable as the Chain Torpedo Kagerou brings, as they are timer-based rather than on-launch, but are still fairly good.
 
 ![DD](/Images-for-the-Guide/YuudachiChibi.png "Poi") - **[IJN Yuudachi](https://azurlane.koumakan.jp/Yuudachi)**
 * Skill:
@@ -587,20 +601,6 @@ Certainly as an AA barge at least, whenever her double AA mount is allowed to do
 >Carrier mascotte adequate. While the buffs she provides are undeniably good, they also come packaged with a typically HMS DD statline (ie. poor HP, middling gunnery and torpedoes, high Evasion) that makes her almost worthless in an actual fight.  
 A hard sell, but perhaps your carriers may appreciate the buffs while someone picks up the slack?
 
-![DD](/Images-for-the-Guide/KiyonamiChibi.png "Kiyonami") - **[IJN Kiyonami](https://azurlane.koumakan.jp/Kiyonami)**
-* Skill: 
-  * Every 20s, 60% chance to gain +40% Firepower for 10s.
-  * 10s after the start of the battle and every 20s afterwards, 25% chance to launch a torpedo spread (the amount of torps depends on the currently equipped ones).
-
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-  
-* Desc:  
->What's with IJN DD thinking they can actually shoot worth anything?
-At any rate, she's not much different from many other IJN DD in statline and behaviour (unusually high HP aside) - her main feature is her chance to drop a torpedo spread on her own accord every 20s, which is unwieldy but fairly interesting, and if nothing else allows her to drop full spreads more often than most. If she procs, that is.  
-
 ![DD](/Images-for-the-Guide/NiizukiChibi.png "IJN Niizuki")- **[IJN Niizuki](https://azurlane.koumakan.jp/Niizuki)**
 * Skill:
   * 25% chance every 20s, Increase entire fleet's Reload by 25% for 8s (does not stack with multiple instances of the same skill)
@@ -614,7 +614,7 @@ At any rate, she's not much different from many other IJN DD in statline and beh
 >An oddity among DDs and especially IJN ones, Niizuki focuses on AA and guns over torps - and does so with a decent measure of success, too.   
 Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Efficiency let her deal constant, solid damage regardless; she's no KMS or USS Gun-DD, but she puts up a good showing and still retains serviceable torps, as well as an unreliable but decent fleetwide buff.
 
-#### ![DD](/Images-for-the-Guide/HarutsukiChibi.png "Harutsuki") ![DD](/Images-for-the-Guide/YoizukiChibi.png "Yoizuki")- **[IJN Harutsuki](https://azurlane.koumakan.jp/Harutsuki)** **[IJN Yoizuki](https://azurlane.koumakan.jp/Yoizuki)**
+#### ![DD](/Images-for-the-Guide/HanazukiChibi.png "Hanazuki") ![DD](/Images-for-the-Guide/HarutsukiChibi.png "Harutsuki") ![DD](/Images-for-the-Guide/YoizukiChibi.png "Yoizuki")- **[IJN Hanazuki](https://azurlane.koumakan.jp/Hanazuki)** **[IJN Harutsuki](https://azurlane.koumakan.jp/Harutsuki)** **[IJN Yoizuki](https://azurlane.koumakan.jp/Yoizuki)**
 * Skill:
   * When planes are shot down within the AA circle, +25% own AA and Firepower for 8s.
 
@@ -623,7 +623,7 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc:
->New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly great at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down. Solid even when planes aren't around, better when there are.
+>New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly good at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down. Decent even when planes aren't around, better when there are and surprisingly tough.
 
 ![DD](/Images-for-the-Guide/GroznyChibi.png "Ypa 2") - **[NP Grozny](https://azurlane.koumakan.jp/Grozny#Retrofit)**
 * Skill:
@@ -1149,6 +1149,19 @@ She's in a weird position, all in all, and whether you'll take her or not will m
 >Abukuma is the IJN's very own Leander, now with 30% more torpedoes: out go the FP buff and the smokescreen, in come the DD Torp buff and a decent chance to fire her rather excellent torpedo launchers twice.  
 Not too flashy, but sturdy enough and dependable.
 
+![CL](/Images-for-the-Guide/IsuzuKaiChibi.png "Isuzu Kai") - **[IJN Isuzu Kai](https://azurlane.koumakan.jp/Isuzu#retrofit)** **(T0 in Plane Hells)**
+* Skill: 
+  * Upon firing her AA guns, 25% chance to gain +40% AA and lose -20% FP for 3s.
+  * If mounting an IJN DD gun, take -12% damage; if mounting a non-IJN DD gun, lose -50% AA Efficiency but gain +20% Main Gun Efficiency, +50% Torpedo Efficiency and launch a special torpedo barrage alongside the regular barrage.
+    * The 4 TORPEDOES deal 54 bdmg with 70/90/120 armour modifiers. The damage is modified by 100% of the unit's Torp stat.
+  * Can take DD guns (and should), and has AAGM+1.
+  
+- Desc: Crybaby no more.
+>Isuzu's retrofit went a long way towards cementing her position as the strongest solo AA powerhouse in the game, while also bolstering her thin hull - and giving her something to do when her monstrous AA isn't actually needed, in the form of some sizeable buffs to weapon efficiencies and some free torpedoes.  
+The 'assault mode' she goes into when taking non-IJN guns raises her DPS to fairly respectable levels, roughly on par with your average HMS CL, while also bringing down her AA to less obscene levels (which are still considerably higher than most of the competition's).  
+That said, Isuzu Kai's main calling is that of the AA monster; it's nice you can now use her outside of that one role, but you have better DPS options. Consider her if you need significant AA on top of some DPS.  
+
+
 ![CL](/Images-for-the-Guide/SendaiKaiChibi.png "Sendai Kai") - **[IJN Sendai Kai](https://azurlane.koumakan.jp/Sendai#retrofit)**
 * Skill: 
   * +15% Torp and Reload to all DD/CL in the fleet.
@@ -1387,16 +1400,6 @@ Her one job is being immensely irritating/powerful in the arena, and dying for y
 *  Desc: 
 >Somewhat less rescued from ignonimy by a timely Kai, Curacoa may be a little more powerful than Curlew in terms of gunnery and AA - but she does forfeit the quite significant carrier buff her sister comes packed with, very much welcome in the Plane Hells they're designed to tackle.  
 Still, she's alright and what goes for Curlew, goes for her.
-
-![CL](/Images-for-the-Guide/IsuzuChibi.png "Isuzu") - **[IJN Isuzu](https://azurlane.koumakan.jp/Isuzu)**
-* Skill: 
-  * Upon firing her AA guns, 25% chance to gain +40% AA and lose -20% FP for 3s.
-  * Can take DD guns (and should), and has AAGM+1.
-  
-- Desc:
->Second only to San Diego in terms of sheer AA prowess, she is rather similar in many regards to her pre-Kai iteration.  
-Weak gunnery with access to DD guns, weak torpedoes, an AA-focused skill - the differences start with the *two* very high-efficiency AA guns she carries (deftly pushing her over Sandy base as a flyswatter), the way the AA-focused skill works (being more somewhat more reliable but also a lot more selfish) and the much weaker barrage.  
-In short, she isn't tough and she isn't powerful - in fact she's really *really* wimpy - but she's an exceptionally accomplished and cheap sky clearer. Worth having around if enemy planes got you down.
   
 
 
@@ -1490,6 +1493,10 @@ Despite her relatively low staying power, courtesy of her abysmal Luck, Mogami K
   * Upon battle start, gain +8 Speed (permanent) and +30% Evasion (for 40s)
   * Deal +15% damage to Sirens.
   * Has MGM+1 and torpedoes.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: DESU VULT!
 > Historically praised by multiple navies as one of the absolute best heavy cruiser designs but robbed of its chance to shine due to the fall of France in WW2, Azur Lane's Saint Louis has come to set the record straight - and does she ever.  
@@ -1845,7 +1852,8 @@ If you're looking that something that won't die anytime soon, look no further; i
 
 * Desc: 
 >Georgia is a simple woman - she sees a big gun, she barrages.  
-There's really not much to say about her. Very straightforward USS BB, sporting the characteristically excellent AA of her peers and their same DD guns; her most remarkable feature the fact her barrage is both absolute murder *and* aimed, meaning it can be used from the sidelines with no loss in performance whatsoever, as well as her lacking one Main Gun Mount (which is partially made up for by the high Main Gun Efficiency, and partially by the devastating barrage).
+There's really not much to say about her. Very straightforward USS BB, sporting the characteristically excellent AA of her peers, albeit improved, and their same DD guns; her most remarkable feature the fact her barrage is both absolute murder *and* partially aimed, meaning it can be used from the sidelines with just a minor loss in performance, as well as her lacking one Main Gun Mount (which is partially made up for by the high Main Gun Efficiency, and partially by the devastating barrage).  
+That said, while the SHS shots are the ones that'll be most relevant to you, the DD HE shower is no joke and shouldn't be discounted, especially when you need to bring all the guns to bear and/or the boss has Light Armour.  
 
 
 ![BB](/Images-for-the-Guide/Duke_of_YorkChibi.png "Dork") - **[HMS Duke of York](https://azurlane.koumakan.jp/Duke_of_York)**
@@ -2113,6 +2121,25 @@ A very solid defensive pick, further helped by the fact her Sanshikidan barrage 
 
 * Desc: 
 >Your first *good* bearers of CL secondaries, owing to their high Firepower and Main Gun Efficiency (once partially retrofitted, that is; just DO NOT take the last two nodes). All they do is stop fireships well and craterise hard targets; it ain't much, but it's honest work and do you really need more for now?
+
+![BB](/Images-for-the-Guide/TosaChibi.png "Toss") - **[IJN Tosa](https://azurlane.koumakan.jp/Tosa)** **(T0 as not-flagship)**
+* Skill: 
+  * 75% chance upon Main Gun fire, a [magical barrage](https://streamable.com/xj4rxu) is fired from the centre of the backline regardless of Tosa's position.
+    * The 4 AIMED SHELLS deal 156 bdmg with 90/120/70 amods; the 6 UNAIMED SHELLS deal 156 bdmg with 90/120/70 amods; the 48 NEEDLES deal 20 bdmg with 100/80/60 amods; the 4 TORPEDOES deal 96 bdmg with 80/110/130 amods and a 110% Coefficient. Their damage is modified by 100% of the unit's relevant stats.
+  * Upon taking damage or when an enemy surface unit enters close range, and on a 15s cooldown, fire a [proximity barrage](https://streamable.com/qk57z2); also, if it's the 3rd/4th/5th battle in a sortie and the other fleet has a BB as flagship, fire a [very weak support barrage](https://streamable.com/vh5ym5) from the centre of the backline.
+    * (PROXIMITY BARRAGE) The 2 AIMED SHELLS deal 93 bdmg with 140/110/90 amods and a 30% Ignition chance; the 24 NEEDLES deal 20 bdmg with 100/100/100 amods. Their damage is modified by 100% of the unit's Firepower.
+    * (SUPPORT BARRAGE) The 12 NEEDLES deal 36 bdmg with 100/100/100 amods. Their damage is modified by 100% of the unit's Firepower.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] Prototype Twin 406mm Main Gun (SK C/34); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 410x2 purple; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc: 
+>You want barrages? Tosa's got barrages. Lots of barrages, in fact, though only the main one is any good.  
+If it weren't for the gimmick attached to her powerful main barrage, Tosa would be yet another competent but unremarkable BBarrager, hampered by a near-total lack of supportive capabilities; however, through the wonders of IJN magicks, that barrage holds the unique ability to fire from the flagship slot regardless of whether she's actually in there or not, a massive boon for every BBarrager as that's where barrages deal the most damage.  
+While Tosa has two more barrages, as mentioned, only the main one is worth much credit. The proximity barrage, while alright and decent enough at putting some fire downrange, needs her to be the flagship to make the most of it (which goes against her role as off-flag BBarrager) and the support barrage is so pitifully weak and limited it's simply better to pretend it doesn't exist at all.
+
 
 ![BB](/Images-for-the-Guide/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** **(T2 with BB/BC, T0 with Bismarck)**
 * Skill: 
@@ -2387,24 +2414,6 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
 
 * Desc: 
 >Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself properly.
-
-![BC](/Images-for-the-Guide/IzumoChibi.png "Izumo") - **[IJN Izumo](https://azurlane.koumakan.jp/Izumo)** **(T1.5 if at full Fate)**
-* Skill: 
-  * Upon firing the Main Gun, 70% chance to launch a [barrage](http://p4.qhimg.com/t0127a2b079a4ccebab.gif)
-    * The 36 NEEDLES deal 104 base damage with 50/135/120 modifiers. Their damage is modified by 120% of the unit's FP.
-  * Take -35% AP damage, but is Ignited +6% more often and extends Ignition duration by 3s.
-  * Deal +15% damage to Sirens.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
-
-* Desc: Consistently bad.
->One really has to wonder what has Izumo ever done to developers to warrant such a treatment.
-As awful in AL as she is in WoWS, Izumo is bad by any standard - her barrage barely scratches Light Armour while being unable to bypass it due to the parallel shots, her 'defensive' skill harms her much more than it does protect her due to the complete absence of enemy BB AP (and prevalence of BB HE) and worse still, as a barrage boat she needs flagship slot... while sharing Mikasa and Nagato's nation.  
-Her only saving grace is the Dev35 barrage upgrade, turning it from a Bad Seven variant into an actual damage source, but the time and resources one must spend in order to acquire it - to say nothing about the higher Oil costs and comparatively poor efficiencies - make her an absolutely atrocious value proposition, especially when compared to the other AP specialists out there (Monarch, Georgia, Littorio, Alabama).
-Bad not just by PR standards but as a whole, there is little to no reason to ever use her over any other barrage boat.
 
 ![BC](/Images-for-the-Guide/MikasaChibi.png "Mikasa") - **[IJN Mikasa](https://azurlane.koumakan.jp/Mikasa)** **(T0 if deployed w/ IJN BB/BC/gunships)**
 * Skill: 
