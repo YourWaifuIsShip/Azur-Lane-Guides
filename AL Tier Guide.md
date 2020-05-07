@@ -35,21 +35,23 @@ Good reading, and godspeed cap'n!
   
   
   
-#### Retrofit/Kai Priority List:
+#### Retrofit/Kai Priority List and PRiority list:
 - DD                  : Laffey > Ayanami = Z23 > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
 - CL                  : San Diego* > Jintsuu > Leipzig = Leander > Kinu = Emile Bertin > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
 - CA                  : London > Mogami > Portland > Furutaka/Kako > Suffolk
 - BB/C                : Hyuuga > Warspite* > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) = Nevada/Oklahoma
 - CV/L                : Hiryu/Soryu > Shouhou > Langley > Ranger = Saratoga
-  
-  
+ 
+ - PR1                : Monarch > Ibuki > Saint Louis > Neptune > Roon (unless focusing on KMS) 
+ - PR2                : Georgia > Kitakaze = Gascogne > Seattle > Azuma > Friedrich der Grobe (unless focusing on KMS)
   
 #### Assorted notes:
 - Read the VERY IMPORTANT OPENING NOTE at the top.
 - The 'loadout' listed under CV/L entries details the number of planes each unit gets; eg. Unicorn gets 3 Fighters / 0 Dive Bombers / 3 Torpedo Bombers.
 - The asterisk next to a name in the Priority List means the Kai is tied to some sort of event and may not be available right now; also, if you do not see a name in it, it's because it is not worth prioritizing.
 - If you're wondering why carriers are judged differently from the rest, consider the following - they have no self-defence capabilities against suicide boats and are inherently worse than big guns at handling hard targets due to ordnance scatter and unhelpful anti-Heavy modifiers, but their AoE damage dispatches waves better than big guns usually do and come stock with screen clears.
-tldr; BB/BC and CV/CVL do different things, holding them to the same standards makes little sense.  
+tldr; BB/BC and CV/CVL do different things, holding them to the same standards makes little sense.
+- No, Izumo isn't missing from the PRiority list. She's just worthless.
 - **READ THE DAMN DESCRIPTIONS OR GHOSTLY HORSES WILL HAUNT YOU IN YOUR SLEEP.**
   
 ## Table of Contents 
