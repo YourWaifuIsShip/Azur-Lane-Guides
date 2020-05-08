@@ -9,6 +9,9 @@ If you happen to have questions for me, want to discuss tierings or would like t
 
 ## Featured news and Changelog
 ```
+[08/05/2020]
+Nagato is now fixed. 
+
 [04/05/2020]
 So this isn't exactly related to the Guide itself, but there is a relevant bit of news - IJN Nagato's currently broken and her IJN-boosting passive only applies to herself. The coqup apparently happened two weeks ago, with the last patch, and applies to every single region (CN/JP/EN/KR/TW).
 This is most assuredly a bug, but there's no telling when - or if - it will be fixed.
