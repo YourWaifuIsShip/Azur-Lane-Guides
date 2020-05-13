@@ -4,9 +4,9 @@
 "Hey, hang on a second! Where's MY waifu? I looked at the Guides and yet she's not there!"  
 Well, dear reader, barring an accidental deletion on my part I am sorry to say that she didn't make it on the Tier Guides; whether it is because she failed to meet the evaluation criteria or has proven to be entirely irrelevant outside of waifu purposes, the end result is this.  
 Not to despair, though! As mentioned in the Tier Guides, even untiered units can be put to use (though they won't make it easy on you), but if you'd like to have a clearer picture of who didn't make the cut and why, here's a shortlist for it.
-## _VERY IMPORTANT OPENING NOTE_ 
+---
 
-```
+
 [26/04/2020]
 > IJN Kiyonami has been removed from the Tier Guide, on account of being entirely obsoleted by IJN Naganami.
 - Not much to say here. She's just better, as the +FP boost on a IJN DD was more of a cruel joke than an asset.
@@ -72,4 +72,3 @@ versus Medium Armour (to the point where Atago should still use AP if appropriat
 > Murasaki Shion did not join the Tier Guide, on account of her atrocious DPS and very poor skillset. 
 - damage reduction is very low-impact and suffers from the same pitfalls all screenwides debuffs do;
 - barrage damage is low.
-```
