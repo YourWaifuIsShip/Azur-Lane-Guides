@@ -1,9 +1,11 @@
 # Your Waifu is SHIP's highly opinionated and extra-biased AL Untier Guide (NIGHT OF THE LIVING DEAD FOXES EDITION)
 
-## _VERY IMPORTANT OPENING NOTE_ 
+## _VERY IMPORTANT OPENING NOTE_  
+
 "Hey, hang on a second! Where's MY waifu? I looked at the Guides and yet she's not there!"  
 Well, dear reader, barring an accidental deletion on my part I am sorry to say that she didn't make it on the Tier Guides; whether it is because she failed to meet the evaluation criteria or has proven to be entirely irrelevant outside of waifu purposes, the end result is this.  
 Not to despair, though! As mentioned in the Tier Guides, even untiered units can be put to use (though they won't make it easy on you), but if you'd like to have a clearer picture of who didn't make the cut and why, here's a shortlist for it.
+
 ---
 
 
