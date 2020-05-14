@@ -47,6 +47,7 @@ Good reading, and godspeed cap'n!
   
 #### Assorted notes:
 - Read the VERY IMPORTANT OPENING NOTE at the top.
+- Gear isn't an afterthought; good units with bad gear fail where bad units with good gear succeed. Learn what's good and why [here](https://github.com/Meowrin/al-guides), and if you don't know the nicknames for the various pieces of gear, look [here](https://imgur.com/a/4wEvTQo).
 - The 'loadout' listed under CV/L entries details the number of planes each unit gets; eg. Unicorn gets 3 Fighters / 0 Dive Bombers / 3 Torpedo Bombers.
 - The asterisk next to a name in the Priority List means the Kai is tied to some sort of event and may not be available right now; also, if you do not see a name in it, it's because it is not worth prioritizing.
 - No, Izumo isn't missing from the PRiority list. She's just worthless. More details on why [here](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/AL%20Untier%20Guide.md).
