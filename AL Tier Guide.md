@@ -65,16 +65,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (26/04/2020)
+## Changelog as of last major update (14/05/2020)
 
-- IJN Tosa joins the Tier Guide as T1 (T0 as non-flag).
-- IJN Naganami joins the Tier Guide as T1.5 (T0.5 w/ full vanguard).
-- IJN Isuzu Kai is promoted from a Honourable Mention to T1.5 (T0 in Plane Hells).
-- IJN Hanazuki joins the Tier Guide as a T2.
-- HMS Little Renown joins thte Tier Guide as a T2 (T1.5 w/ 3+ HMS units).
-
-- IJN Izumo is demoted to Untiered, on account of her being an utter waste of time and resources; has been ever since PR1, the recent-ish influx of strong/unique BBarragers, AP-focused or otherwise, just makes her position untenable.
-- IJN Kiyonami is demoted to Untiered, on account of Naganami entirely obsoleting her.
+- Added a couple of useful notes in the section above.
 
 <br/><br/>
 ---
