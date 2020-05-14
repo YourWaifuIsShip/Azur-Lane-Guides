@@ -1,4 +1,4 @@
-While there already is a [compbuilding guide](https://github.com/guroteske/al-guides/blob/master/Fleet%20Composition.md), courtesy of Guroteske, it has occurred to me that many people still commit the same mistakes over and over again.  
+While there already is a [compbuilding guide](https://github.com/Meowrin/al-guides), courtesy of Guroteske, it has occurred to me that many people still commit the same mistakes over and over again.  
 Here is a compilation of those issues, to be expanded as they come up during my #help activities.
 
 ## GOLD DOES NOT NECESSARILY MEAN GOOD; GRAY OR BLUE DOES NOT NECESSARILY MEAN BAD.
