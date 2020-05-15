@@ -944,7 +944,7 @@ That said, you will need to deploy a few carriers to get the full experience and
 
 * Desc:
 > A jack-of-all-tradeish unit whose skillset betrays her obvious Plane Hell oriented design, but who still packs a significant enough punch and remarkably useful enough support to put up a good showing for herself even outside the boundaries of W12 and W13.  
-Your big guns in particular will thank her for her support.
+Your backline in particular will thank her for her support - they are desperately lacking in Accuracy, carriers even more so, and a flat -EvaRate cut improves their chance to actually deal damage by a considerable margin.
 
 
 ![CL](/Images-for-the-Guide/KinuKaiChibi.png "Kinu Kai") - **[IJN Kinu Kai](https://azurlane.koumakan.jp/Kinu#retrofit)**
