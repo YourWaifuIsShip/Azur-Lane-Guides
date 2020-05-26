@@ -78,6 +78,8 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - MNF Vauquelin joins the Untier Guide.
 - MNF Tartu joins the Untier Guide.
 
+- TESTING THE WATERS WITH THE TIERLESS APPROACH. LET ME KNOW IF IT'S GOOD OR BAD FOR YOU.
+
 <br/><br/>
 ---
 <br/><br/>
