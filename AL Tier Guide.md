@@ -242,7 +242,7 @@ Torps are even more of an afterthought than they are on Laffey, however, and unl
 >The last word in terms of DD AA and well capable of going toe-to-toe with most CL on their own field of expertise, while being vastly superior in terms of damage output, survivability, ASW prowess and - most importantly - barrage quality.  
 Proud owner of a quick-firing, high-volume, AP conal barrage with four homing torpedoes to the side that is boosted both by her own +APdmg skill (do not take AP DD guns unless you hate her) and her high torp stat, she puts every other standard DD barrage in the game to shame and is the main reason for her astounding effectiveness; the AA proficiency is a nice cherry on top, but not her main draw.
 
-![DD](/Images-for-the-Guide/TashkentChibi.png "Ypa 1") - **[NP Tashkent](https://azurlane.koumakan.jp/Tashkent#Retrofit)**
+![DD](/Images-for-the-Guide/TashkentChibi.png "Ypa 1") - **[SN Tashkent](https://azurlane.koumakan.jp/Tashkent#Retrofit)**
 * Skill:
   * Upon battle start, gain +10% FP and summon ~~Navi~~ an ice fairy for 50s, whose shots inflict 1 stack of -1.5% Speed for 4s (max 10 stacks; each icicle refreshes the 4s duration).
     * The 6 ICICLES deal 24 bdmg with 100/50/20 modifiers and a 125% Coefficient; the icicles are fired every 2s in two three-icicle bursts, which can be aimed at two different targets.
@@ -718,7 +718,7 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
 - Desc:
 >New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly good at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down. Decent even when planes aren't around, better when there are and surprisingly tough.
 
-![DD](/Images-for-the-Guide/GroznyChibi.png "Ypa 2") - **[NP Grozny](https://azurlane.koumakan.jp/Grozny#Retrofit)**
+![DD](/Images-for-the-Guide/GroznyChibi.png "Ypa 2") - **[SN Grozny](https://azurlane.koumakan.jp/Grozny#Retrofit)**
 * Skill:
   * Every 20s, 60% chance to gain +40% FP for 10s.
   * Gain +15% AA.
@@ -730,7 +730,7 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
 - Desc: 
 >Standard russian DD, which means she has remarkable bulk, good guns and terrible torpedoes. She deviates from said norm by having slightly better AA than her peers, but not by much.
 
-![DD](/Images-for-the-Guide/MinskChibi.png "Ypa 3") - **[NP Minsk](https://azurlane.koumakan.jp/Minsk#Retrofit)**
+![DD](/Images-for-the-Guide/MinskChibi.png "Ypa 3") - **[SN Minsk](https://azurlane.koumakan.jp/Minsk#Retrofit)**
 * Skill:
   * Take -10% damage from DD guns and torpedoes; also, every 20s, gain +5 Speed and +20% FP for 10s.
   * Upon battle start and on a 30% chance every 15s afterwards, deploy a smokescreen (+40% Evasion Rate for those in the cloud; lasts 5s).
@@ -1067,7 +1067,7 @@ Accept no substitute, but do consider a Jintsuu or Noshiro to boost even further
 Ziggy's Kai gave her the statline she needed to compete favourably with the other big-name CL supporters, even if the second skill is kinda lacklustre. Her torps in particular have shot up a fair few notches, going from an afterthought to her main source of damage, while also making adequate gains in staying power.  
 Nice.  
 
-![CL](/Images-for-the-Guide/ChapayevChibi.png "Pale Rider") - **[NP Chapayev](https://azurlane.koumakan.jp/Chapayev)**
+![CL](/Images-for-the-Guide/ChapayevChibi.png "Pale Rider") - **[SN Chapayev](https://azurlane.koumakan.jp/Chapayev)**
 * Skill:
   * Every 15, 70% chance to fire a [barrage](https://cdn.discordapp.com/attachments/362117088136921090/683576119945068565/Screenshot_2020-03-01-08-25-48-082_com.YoStarJP.AzurLane.jpg).
     * The 12 SHELLS deal 26 bdmg with 125/85/85 modifiers and has a 100% Ignition chance; their damage is modified by 100% of the unit's FP stat.
@@ -1435,7 +1435,7 @@ While she isn't a bad unit on her own by any stretch, her competitors are more p
 >Yuubari, ever the tinkerer, has an impressive array of tools at her disposal - shame she's an indecisive bastard and has to roll a die to decide which to crack out.
 Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outcomes are desirable (namely the two heals, one intentionally meant to be bad and one that is bad merely because Yuubari has barely more HP than the average DD without their Evasion), but the complete inability to control the results makes her a tough sell for anyone but the most compulsive gamblers - or the most squeamish about oil costs (8 Oil at MLB).
 
-![CL](/Images-for-the-Guide/AvroraChibi.png "Avrora") - **[NP Avrora](https://azurlane.koumakan.jp/Avrora)**
+![CL](/Images-for-the-Guide/AvroraChibi.png "Avrora") - **[SN Avrora](https://azurlane.koumakan.jp/Avrora)**
 * Skill: 
   * +35% Damage to the entire vanguard.
   * Has MGM+1 and Torpedoes.
@@ -2273,7 +2273,7 @@ Blessed with an overall very good statline (Accuracy aside), a strong AP barrage
 The anti-torp shields are nice enough too, but not much of a gamechanger considering her job description - speaking of which, unlike Alabama you *could* use her as a boss fleet flag without throwing away part of her skillset, but the less concentrated barrage means she's at her best whem she's fighting more mobile Medium/Heavy bosses who may or may not have adds too.  
 *About her gun...* it's an interesting piece of kit, with its +10% Damage for the first two volleys, but it only really works on Littorio or when hunting Sirens (assuming you don't have BB with preloaded/accelerated volleys).
 
-![BB](/Images-for-the-Guide/GangutChibi.png "REVOLUTSIYA") - **[NP Gangut](https://azurlane.koumakan.jp/Gangut)**
+![BB](/Images-for-the-Guide/GangutChibi.png "REVOLUTSIYA") - **[SN Gangut](https://azurlane.koumakan.jp/Gangut)**
 * Skill: 
   * Upon Main Gun fire, grant +18% FP/Torp/AA/Reload to all Northern Parliament units in the fleet for 10s; also, when this unit is equipped with the 305x3 M1907 Main Gun, gain +80% Main Gun Efficiency and shorten the Main Gun cooldown by -35% for the first 4 salvo of the fight.
   * Once per fight when this unit's HP falls below 30%, reduce the damage taken by Gangut by -15% and allied DDs by -10%.
@@ -2288,7 +2288,7 @@ Her rigging is severely outdated and her statline makes it blindingly obvious, a
 As such, despite her comparatively frail constitution and otherwise pathetic statline, Gangut manages to make for both an excellent warship in her own right and a great faction buffer.  
 Just don't ask her to handle boss fights if you can help it, and if you do, make sure it's against a DD/CL; she can't afford to swap guns and her DD escort is meant to take on those anyway.
 
-![BB](/Images-for-the-Guide/Sovetskaya_RossiyaChibi.png "Whittorio") - **[NP Sovetskaya Rossiya](https://azurlane.koumakan.jp/Sovetskaya_Rossiya)** 
+![BB](/Images-for-the-Guide/Sovetskaya_RossiyaChibi.png "Whittorio") - **[SN Sovetskaya Rossiya](https://azurlane.koumakan.jp/Sovetskaya_Rossiya)** 
 * Skill:
   * On main gun fire, 75% chance to fire a [barrage](https://streamable.com/38l58).
     * The 9 SHELLS deal 170 bdmg with 40/120/125 mods; the 20 ICICLES deal 20 bdmg with 120/60/60 mods; the 9 ICEBERGS deal 56 bdmg with 80/90/110 and inflicts -40% Speed *and* a very minor 2x23 Flood DoT. The damage of all of these is modified by 100% of the unit's FP, except for the Flood (no scaling).
