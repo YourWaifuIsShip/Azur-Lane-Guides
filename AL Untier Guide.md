@@ -8,6 +8,11 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 
 ---
 [26/05/2020]
+> Due to popular request, HMS Victorious joins the Untier Guide for a variety of reasons.
+- A kit that's suited to taking on BBs... by facetanking their shots, which a carrier can't do for long (PvE BBs pack HE, and enemy Ignitions melt HP regardless of armour class), and by taking a poor generalist loadout, which does not synergise well with any specific supporter and simply lacks in Efficiency compared to many other options.
+- The damage boost ONLY applies to BBs, leaving BC as well as any other hull class completely ignored; the 25% chance for +100% damage is a poor excuse for an actual skill, and yet is better than her main one.
+- Worst Reload out of any carrier in the game. She's exceptionally slow with nothing to show for it.
+
 > MNF La Galissonniere joins the Untier Guide, on account of her proving below-average CL DPS, average staying power and no support.
 - Not much to add here.
 > MNF Vauquelin joins the Untier Guide, on account of her sharing Tartu's poor statline and her boost not doing enough to rescue it.
