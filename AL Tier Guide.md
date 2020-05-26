@@ -104,7 +104,7 @@ Jeanne d'Arc one-ups Sheffield in the 'vanguard protector' role, as her shields 
 The heal on shield expiration is nice too, but hardly going to make a difference later on (they'll just break first, but DDs could still appreciate the help when the pressure is lower); the +HMS damage is a funny historical reference and about as relevant as the damage she takes from her immolation (a meagre 80 damage after 30s of battle, entirely negligible).
 
 
-![CL](/Images-for-the-Guide/Algerie.png "The first e is accented") - **[MNF Algerie](https://azurlane.koumakan.jp/Algérie)**
+![CL](/Images-for-the-Guide/Algérie.png "The first e is accented") - **[MNF Algerie](https://azurlane.koumakan.jp/Algérie)**
 * Role:
   * **Heavy Gun/Torpedo Torp-CA DPS** (w/ extra damage vs DD/BB), **heavy tank** (w/ extra torpedo defence).
 
