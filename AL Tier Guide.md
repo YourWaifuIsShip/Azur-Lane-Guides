@@ -104,7 +104,7 @@ Jeanne d'Arc one-ups Sheffield in the 'vanguard protector' role, as her shields 
 The heal on shield expiration is nice too, but hardly going to make a difference later on (they'll just break first, but DDs could still appreciate the help when the pressure is lower); the +HMS damage is a funny historical reference and about as relevant as the damage she takes from her immolation (a meagre 80 damage after 30s of battle, entirely negligible).
 
 
-![CL](/Images-for-the-Guide/Algerie.png "The first e is accented") - **[MNF Algerie](https://azurlane.koumakan.jp/Algérie)**
+![CL](/Images-for-the-Guide/AlgérieChibi.png "The first e is accented") - **[MNF Algerie](https://azurlane.koumakan.jp/Algérie)**
 * Role:
   * **Heavy Gun/Torpedo Torp-CA DPS** (w/ extra damage vs DD/BB), **heavy tank** (w/ extra torpedo defence).
 
@@ -130,7 +130,7 @@ Her staying power is also impressive, in part because of the excellent statline,
 * Skill: 
   * If flagship, grant +15% FP/Torp/Accuracy/Reload and +6% damage dealt to FFNF units; grant +15% FP/Torp/Accuracy/Reload and -6% damage taken to MNF units.
   * Upon Main Gun fire, 75% chance to launch a [special barrage](https://streamable.com/v9bmej).
-    * The 8 HE SHELLS deal 170 bdmg with 100/80/60 mods; the 30 TRICOLOUR ARROWS deal 54 bdmg with 100/80/60 mods. All are modified by 100% of the unit's FP. The HE SHELLS have a 70% chance to specially Ignite the targets struck, debuffing their FP/Torp/Aviation by -5% for 30s. 
+    * The 8 HE SHELLS deal 170 bdmg with 100/80/60 mods; the 30 TRICOLOUR ARROWS deal 54 bdmg with 100/80/60 mods. All are modified by 100% of the unit's FP. The HE SHELLS have a 70% chance to specially Ignite the targets struck, dealing 117 flat damage every 3s and debuffing their FP/Torp/Aviation by -5% for as long as the Ignition lasts (30s).
   * When mounting a HE Main Gun, deal +12% damage; also, the first volley of the battle automatically crits.
   * Has only two Main Gun Mounts and starts the battle with them off cooldown.
  
