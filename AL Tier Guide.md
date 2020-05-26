@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (NIGHT OF THE LIVING DEAD FOXES EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (LA MARSILLAISE 2: THIS TIME IT'S PERSONAL EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -67,9 +67,98 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (14/05/2020)
+## Changelog as of last major update (26/05/2020)
 
-- Added a couple of useful notes in the section above.
+- FFNF Jeanne d'Arc joins the Guide.
+- MNF Algérie joins the Guide.
+- FFNF Richelieu joins the Guide.
+- FFNF Béarn joins the Guide.
+
+- MNF La Galissonniere joins the Untier Guide.
+- MNF Vauquelin joins the Untier Guide.
+- MNF Tartu joins the Untier Guide.
+
+<br/><br/>
+---
+<br/><br/>
+
+## SURPRISE SURPRISE, IT'S THE TIERLESS GUIDE!
+
+![CL](/Images-for-the-Guide/Jeanne_d'ArcChibi.png "Saber 3") - **[FFNF Jeanne d'Arc](https://azurlane.koumakan.jp/Jeanne_d%27Arc)**
+* Role:
+  * **Best vanguard protector**, slightly above average CL DPS.
+  
+* Skill:
+  * Deal +10% damage to HMS units; upon battle start, self-inflict a very weak Ignition (30s long burn, 10 x 3s ticks, each dealing 8 damage, non-scaling) with a 10% refresh chance whenever Jeanne is hit, and gain +20% FP/Torp/AA/Evasion whenever she's Ignited.
+    * Regular Ignitions stack with this Ignition and deal damage as if she were not Ignited.
+  * 10s after battle start and every 20s afterwards, grant every vanguard unit a personal shield. The shield blocks up to 6% of Jeanne's max HP and lasts 8s; if the shield breaks before then, the unshielded unit gains 2s of total invincibility, and if the shield survives, the unshielded unit heals 70HP.
+  
+* Recommended Loadouts:
+  * [Shields Up] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+- Desc: Toasty!
+>Setting yourself on fire usually isn't a great way to start a fight, but apparently Jeanne d'Arc - this one, at least - never got the memo. Or maybe it's *holy* fire and that's what lets her get considerably stronger while she's blazing?  Anyway.  
+Jeanne d'Arc one-ups Sheffield in the 'vanguard protector' role, as her shields apply to every ship regardless of HP and are proper shields instead of a damage reduction, meaning at least some damage will be blocked entirely; better yet, if the personal shields were to break (as they are wont do during enemy bursts), the subsequent 2s of invulnerability let those units evade even more damage.  
+The heal on shield expiration is nice too, but hardly going to make a difference later on (they'll just break first, but DDs could still appreciate the help when the pressure is lower); the +HMS damage is a funny historical reference and about as relevant as the damage she takes from her immolation (a meagre 80 damage after 30s of battle, entirely negligible).
+
+
+![CL](/Images-for-the-Guide/Algerie.png "The first e is accented") - **[MNF Algerie](https://azurlane.koumakan.jp/Algérie)**
+* Role:
+  * **Heavy Gun/Torpedo Torp-CA DPS** (w/ extra damage vs DD/BB), **heavy tank** (w/ extra torpedo defence).
+
+* Skill:
+  * Deal +15% damage to Ignited enemies. 20s after battle start, launch an Igniting [barrage](https://streamable.com/i5zks9); this barrage is also launched on a 70% chance on Main Gun fire, with a 10s internal cooldown.
+    * The 18 HE CA shots deal 20 bdmg with 135/95/70 armour modifiers. They are modified by 100% of the unit's FP.
+  * Upon battle start, gain a frontal torpedo shield; the shield lasts 20s and is respawned every 30s. The shield can block up to 5 torpedo hits; while the shield is active, Algérie gains +15% FP and deals +12% damage to DD/BB. Also, if auto mode has been off for more than 5s, gain +8 Speed and +15% Evasion.
+  
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+- Desc: Torp-CA done right.
+>Torp-CA have a very poor reputation in Azur Lane, one that's mostly deserved at that - with the stats to gun hard but without the weight of fire required, without the stats to torpedo hard but with the mounts for it, they're in almost all cases the worst kind of hybrid, the bad-of-all-trades, master of none.  
+Algérie rectifies this unfortunate situation by, amusingly, leaning more into the gun side of her kit - her shelling, aided by the barrage, is strong enough to be somewhat competitive with dedicated Gun-CAs, while her torpedoes are well-capable of taking out hard targets (BB in primis).  
+Her staying power is also impressive, in part because of the excellent statline, in part because of the +Evasion, and in part because of the anti-torpedo shield (which counterintuitively you want to *keep safe*, as it increases her damage output).
+
+
+ ![BB](/Images-for-the-Guide/RichelieuChibi.png "Riche") - **[FFNF Richelieu](https://azurlane.koumakan.jp/Richelieu)**
+* Role:
+  * **FFNF/MNF flagship; super heavy DPS (w/ focus on HE)**; light debuffer.
+
+* Skill: 
+  * If flagship, grant +15% FP/Torp/Accuracy/Reload and +6% damage dealt to FFNF units; grant +15% FP/Torp/Accuracy/Reload and -6% damage taken to MNF units.
+  * Upon Main Gun fire, 75% chance to launch a [special barrage](https://streamable.com/v9bmej).
+    * The 8 HE SHELLS deal 170 bdmg with 100/80/60 mods; the 30 TRICOLOUR ARROWS deal 54 bdmg with 100/80/60 mods. All are modified by 100% of the unit's FP. The HE SHELLS have a 70% chance to specially Ignite the targets struck, debuffing their FP/Torp/Aviation by -5% for 30s. 
+  * When mounting a HE Main Gun, deal +12% damage; also, the first volley of the battle automatically crits.
+  * Has only two Main Gun Mounts and starts the battle with them off cooldown.
+ 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406x2 DRH; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406x2 DRH; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 410x2 purple; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  
+- Desc:
+>Richelieu confidently strides her way across the DPS charts and reaches for the top, sitting comfortably alongside super heavy hitters such as Georgia or Freidrich der Grobe - all the while providing exceptional support for all her countrywomen, herself included, and debuffing those who had the ill fortune of being set ablaze by a BB with a statline such as hers.  
+Like all other French big guns (Gascogne aside), she too has only two Main Gun Mounts and starts the battle with them pre-loaded.  
+A fairly straightforward unit, all in all, but one that's absolutely stellar at everything you'd ask a BB and a factional flagship to do.
+
+#### ![CV](/Images-for-the-Guide/BéarnChibi.png "The e is also accented") - [FFNF Bearn](https://azurlane.koumakan.jp/Béarn)
+* Role:
+  * **Self-defence and long-range supportive fire capable mob fleet carrier**; fast airstrike carrier; average CV DPS; universal Hardmode stat padder.
+
+* Skill: 
+  * If mounting a CL gun in the third slot, gain +45% Efficiency for that slot (55% -> 100%), extend the gun's range to 80 and launch a [barrage](https://streamable.com/5mf5w7) every 24s. If mounting a Dive Bomber in the third slot, halve the cooldown on Béarn's first airstrike.
+    * The 14 AP SHOTS deal 28 bdmg with 40/125/120 armour modifiers; the 44 HE SHOTS deal 20 bdmg with 120/60/60 armour modifiers. Both are modified by 100% of the unit's FP.
+  * 5s after Béarn's airstrike has come off cooldown, launch a [plane and torpedo barrage](https://streamable.com/zmbrst). This barrage can only be launched up to three times per battle.
+    * The 6 BOMBS deal 380 bdmg with 80/90/110 armour modifiers; the 4 TORPEDOES deal 96 bdmg with 70/90/120 armour modifiers. The bombs are modified by 100% of the unit's Aviation, while the torpedoes are modified by 80% of the unit's Torpedo stat.
+  * Has a 3/0*/3 loadout; her 3rd slot may be filled with a Dive Bomber (launches two planes) or a CL gun (fires twice).
+
+* Desc: 
+>What's better than a carrier that's decked head to toe in guns? One that's decked head to toe in guns *and* has torpedoes, of course!  
+One of the most *peculiar* examples of carrier the war has birthed, Béarn is a very unconventional creature focusing on providing semi-costant fire support, be it through her barrage and CL guns or the accelerated airstrike and the post-cooldown extra airstrikes.   
+Her damage output is very average by CV standards, however, and shouldn't be relied upon against bosses; her kit is better suited to acting as a mob fleet flagship of sorts anyway.
 
 <br/><br/>
 ---
@@ -900,7 +989,7 @@ Not entirely as powerful as her older self, but she's up there without being for
   * Upon battle start and on a 30% chance every 15s, creates a smokescreen (+40% Evasion Rate while inside) for 5s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gunn; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: A very solid statline, a bargain basement price tag, a Firepower buff for cruisers, a smokescreen that won't accomplish much (but is better than Belfast's) and a smile to melt your heart.  
