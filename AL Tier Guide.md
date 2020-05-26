@@ -133,7 +133,7 @@ Her staying power is also impressive, in part because of the excellent statline,
 * Skill: 
   * If flagship, grant +15% FP/Torp/Accuracy/Reload and +6% damage dealt to FFNF units; grant +15% FP/Torp/Accuracy/Reload and -6% damage taken to MNF units.
   * Upon Main Gun fire, 75% chance to launch a [special barrage](https://streamable.com/v9bmej).
-    * The 8 HE SHELLS deal 170 bdmg with 100/80/60 mods; the 30 TRICOLOUR ARROWS deal 54 bdmg with 100/80/60 mods. All are modified by 100% of the unit's FP. Both SHELLS and ARROWS have a 70% chance to specially Ignite the targets struck, dealing 117 flat damage every 3s and debuffing their FP/Torp/Aviation by -5% for as long as the Ignition lasts (30s).
+    * The 8 HE SHELLS deal 170 bdmg with 100/80/60 mods; the 30 TRICOLOUR ARROWS deal 54 bdmg with 100/80/60 mods. All are modified by 100% of the unit's FP. Both SHELLS and ARROWS have a 70% chance to specially Ignite the targets struck, dealing 119 flat damage every 3s and debuffing their FP/Torp/Aviation by -5% for as long as the Ignition lasts (30s).
   * When mounting a HE Main Gun, deal +12% damage; also, the first manually aimed volley of the battle automatically crits.
   * Has only two Main Gun Mounts and starts the battle with them off cooldown.
  
