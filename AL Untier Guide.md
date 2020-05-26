@@ -7,7 +7,10 @@ Well, dear reader, barring an accidental deletion on my part I am sorry to say t
 Not to despair, though! As mentioned in the Tier Guides, even untiered units can be put to use (though they won't make it easy on you), but if you'd like to have a clearer picture of who didn't make the cut and why, here's a shortlist for it.
 
 ---
-
+[26/05/2020]
+> MNF La Galissonniere joins the Untier Guide, on account of her proving below-average CL DPS, average staying power and no support.
+> MNF Vauquelin joins the Untier Guide, on account of her sharing Tartu's poor statline and her boost not doing enough to rescue it.
+> MNF Tartu joins the Untier Guide, on account of her having a poor statline and a CL/CA buff that's nowhere near impactful enough to make her worth taking.
 
 [26/04/2020]
 > IJN Kiyonami has been removed from the Tier Guide, on account of being entirely obsoleted by IJN Naganami.
