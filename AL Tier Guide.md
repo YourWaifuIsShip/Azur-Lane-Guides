@@ -1853,7 +1853,7 @@ Her DPS starts out low but - given enough time and luck - grows to respectable l
 >The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
 Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
 
-![CA](Images-for-the-Guide/NorthamptonChibi.png.png "USS Northampton") - **[USS Northampton](https://azurlane.koumakan.jp/Northampton)**
+![CA](Images-for-the-Guide/NorthamptonChibi.png "USS Northampton") - **[USS Northampton](https://azurlane.koumakan.jp/Northampton)**
 * Skill: 
   * +15% FP to all CL/CA in the fleet.
 
