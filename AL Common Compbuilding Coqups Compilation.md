@@ -34,10 +34,11 @@ Battleships and Battlecruisers all do, and often enough also happen to have barr
 - 3CV/L comps are another exception, in which case you'll want the toughest carrier as flagship.  
 - 2BB 1CV USS comps are an uncommon sight but can be quite effective, and the reason for the flagship being in the middle lies in the DD secondaries carried by those American barrage-less Battleships; if they DO happen to have a barrage, however, you'll still have the BBarrager as the flagship as you'll benefit more from the barrage than from the improved coverage.
 
-## **DO NOT USE MORE THAN 1 BBARRAGER. (unless the other one/s are Georgia and Kirishima)**
+## **DO NOT USE MORE THAN 1 BBARRAGER. (unless the other one/s are Georgia, Kirishima, Tosa)**
 Related to the point above. The vast majority of proper Battleship/Battlecruiser/Monitor barrages fire directly forward and will neither aim nor curve towards enemy units; this means that to operate properly, the BBarrager will have to sit in the flagship slot, and that if that is not the case most of the barrage will splash harmlessly into the water (or all of it, in Pennsylvania / Washington / Alabama's case).  
 If you insist on taking two BBarragers at once, make sure to have the stronger barrage at the flagship spot and the weaker one to the sides.  
-- Georgia and Kirishima are not subject to this rule as their barrages are aimed, heading straight for the 'appropriate' targets regardless of the respective positions.
+- Georgia and Kirishima are not subject to this rule as their barrages are aimed, heading straight for the 'appropriate' targets regardless of the respective positions. That said, Georgia's barrage is only partially aimed; the AP shots aim, the HE rain doesn't.  
+- Tosa is also an exception, as her barrage always launches from the flagship slot regardless of whether she's in there or not.  
 
 
 <br/><br/>
