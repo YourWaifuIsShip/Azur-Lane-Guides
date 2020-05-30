@@ -2796,7 +2796,7 @@ Can't match Unicorn in air superiority, lacking fighters, but decisively asserts
   * [Poverty] F6F Hellcat; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
->More independent than Indepence and rolling in Hellcats, Bataan provides shocking amounts of DPS for her class and excellent support - be it air support with her F6F storms, fire support with their bombs and her own powerful torpedo bombers or support support with the Reload and AA buffs, Bataan has something to offer to every carrier comp out there and nothing short of hell to enemy airwings.
+>More independent than Independence and rolling in Hellcats, Bataan provides shocking amounts of DPS for her class and excellent support - be it air support with her F6F storms, fire support with their bombs and her own powerful torpedo bombers or support support with the Reload and AA buffs, Bataan has something to offer to every carrier comp out there and nothing short of hell to enemy airwings.
  
 ![CV](/Images-for-the-Guide/EnterpriseChibi.png "USS Enterprise") - **[USS Enterprise](https://azurlane.koumakan.jp/Enterprise)**
 * Skill: 
