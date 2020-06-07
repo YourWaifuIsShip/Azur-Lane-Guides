@@ -25,6 +25,15 @@ Good reading, and godspeed cap'n!
   
   
   
+#### Role Explanations:
+- The Role field seeks to explain at a glance what's the purpose of a unit, how it should be employed, and how does it compare in those roles to other units in her hull class. A **bold** role means that should be the unit's main purpose; an absent role means the unit cannot be relied upon to perform said role in any significant capacity.
+- DPS can be Gun, Torp, Plane or Barrage focused, and can be Low / Below Average / Medium / Above Average / High / Extreme.
+- Tank can be Light / Medium / Heavy.
+- AA can be either Carry (will spearhead the fleet's AA damage) or Support (will assist significatively to the fleet's AA damage but should not be expected to handle things on its own), with both having Light / Medium / Heavy variants.
+- Support is too varied a field and thus simply references how the unit supports others via heals, buffs or debuffs.
+ 
+ 
+  
 #### Tier Explanations:
 - Tier 0                : The best of the best, rivaled by few and matched by none. They set the bar for everyone else in one or more specific areas, without their excellence being marred by some other flaw.
 - Tier 0.5              : Terrifyingly effective units with little to no real competition in their class or function, usually by virtue of exceptionally strong skills and statlines.
@@ -34,7 +43,6 @@ Good reading, and godspeed cap'n!
 - Not Tiered            : Ships that range from 'usable' to 'bottom of the barrel', but in both cases not good enough to make it on the list.
 - Pro Team Players      : Ships that, while unremarkable on their own, become exceedingly good when deployed with each other. They are tiered as a single unit.
 - Honourable Mentions   : Ships that, while too weak or unwieldy for general usage, nonetheless possess some interesting or useful quirk that may warrant attention.
-  
   
   
 #### Retrofit/Kai Priority List and PRiority list:
@@ -79,7 +87,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - MNF Tartu joins the Untier Guide.
 - HMS Victorious joins the Untier Guide.
 
-- TESTING THE WATERS WITH THE TIERLESS APPROACH. LET ME KNOW IF IT'S GOOD OR BAD FOR YOU.
+- STILL TESTING THE WATERS WITH THE TIERLESS APPROACH. LET ME KNOW IF IT'S GOOD OR BAD FOR YOU.
 
 <br/><br/>
 ---
