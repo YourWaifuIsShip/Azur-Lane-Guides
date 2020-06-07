@@ -7,6 +7,12 @@ Well, dear reader, barring an accidental deletion on my part I am sorry to say t
 Not to despair, though! As mentioned in the Tier Guides, even untiered units can be put to use (though they won't make it easy on you), but if you'd like to have a clearer picture of who didn't make the cut and why, here's a shortlist for it.
 
 ---
+[07/06/2020]
+> HMS Little Illustrious joins the Untier Guide on account of her abysmal damage and inferior support compared to her already very questionable predecessor.
+- As it turns out, taking away the high efficiency of her fighters from a severely underpowered fighter-focused CVs causes more issues than the gifting of a middling barrage does; though the damage output is rather similar on paper regardless, the unreliability of the barrage puts her convincingly behind.  
+- The flash attack sounds nice on paper, but is riddled with issues. The damage is abysmal and fixed (96 dmg), its potency quickly decreases over the course of the already short active time (4s) and it's even proc-based, just to make matters even worse.
+- The statline is inferior too, compared to Illustrious. In short, hard pass.  
+
 [26/05/2020]
 > Due to popular request, HMS Victorious joins the Untier Guide for a variety of reasons.
 - A kit that's suited to taking on BBs... by facetanking their shots, which a carrier can't do for long (PvE BBs pack HE, and enemy Ignitions melt HP regardless of armour class), and by taking a poor generalist loadout, which does not synergise well with any specific supporter and simply lacks in Efficiency compared to many other options.
