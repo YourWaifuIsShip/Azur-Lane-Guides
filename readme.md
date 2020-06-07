@@ -9,6 +9,9 @@ If you happen to have questions for me, want to discuss tierings or would like t
 
 ## Featured news and Changelog
 ```
+[07/06/2020]
+Tier Guide updated and temporarily renamed to Experimental Tier Guide. We're doing this live, folks.
+
 [26/05/2020]
 TIER GUIDE UPDATES, NOW WITH JUST A LITTLE LESS TIERS!
 Okay it's just for the new additions, really, but it's the thought that counts! And the thought is, "I want to gauge the reactions to this approach", so do let me know how good or bad is this.
