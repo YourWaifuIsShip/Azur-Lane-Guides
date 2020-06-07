@@ -12,6 +12,10 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 - As it turns out, taking away the high efficiency of her fighters from a severely underpowered fighter-focused CVs causes more issues than the gifting of a middling barrage does; though the damage output is rather similar on paper regardless, the unreliability of the barrage puts her convincingly behind.  
 - The flash attack sounds nice on paper, but is riddled with issues. The damage is abysmal and fixed (96 dmg), its potency quickly decreases over the course of the already short active time (4s) and it's even proc-based, just to make matters even worse.
 - The statline is inferior too, compared to Illustrious. In short, hard pass.  
+  
+> USS Astoria, Quincy and Vincennes join the Untier Guide after a revision, on account on their terrible statlines and poor kits.
+- Even the most competent of the bunch, Astoria, barely manages to DPS as hard as Portland Kai (not a DPS monster by any stretch) while being horrifyingly frail due to the truly atrocious Luck and low-ish Evasion.
+- The AA boost could be interested, on units that were capable of exploiting it to a greater degree (and more importantly, survive the battle in worlds where AA does matter).
 
 [26/05/2020]
 > Due to popular request, HMS Victorious joins the Untier Guide for a variety of reasons.
