@@ -92,7 +92,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ![CL](/Images-for-the-Guide/HelenaKaiChibi.png "Esugee") - **[USS Helena Kai](https://azurlane.koumakan.jp/Helena#retrofit)**
 * Role:
-  * **Boss debuffer supreme**, average CL Gun DPS, average CL tank, average AA support.
+  * **Boss debuffer supreme**, high CL Gun DPS, average CL tank, average AA support.
 
 * Skill:
   * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen. If mounting a SG Radar, gain +10% Evasion and the first proc attempt occurs at 16s instead of 20s.
