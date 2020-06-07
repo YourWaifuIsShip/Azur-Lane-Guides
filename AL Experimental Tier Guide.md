@@ -1757,19 +1757,6 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
 ### Tier 1.5:
 ---
 
-![CA](/Images-for-the-Guide/AstoriaChibi.png "Astoria") - **[USS Astoria](https://azurlane.koumakan.jp/Astoria)**
-* Skill: 
-  * When sortied w/ at least 1 New Orleans-class CA (Quincy / Vincennes / Minneapolis), gain and grant them +10% Firepower, +20% Accuracy and AA.
-  * Take -20% damage from DD/CL gun attacks.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
-* Desc: 
->Leader of the New Orleans class, she emphasises their strengths and shares their reinforced armour plating.  
-Solid and dependable, if unremarkable. No reason not to take her if you're going to field them at all, but Minneapolis has better things to do than hang out with her sisters.
-
 ![CA](/Images-for-the-Guide/SuffolkKaiChibi.png "HMS Suffolk Kai") - **[HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk)**
 * Skill: 
   * 25% chance when firing main guns to fire another salvo.
