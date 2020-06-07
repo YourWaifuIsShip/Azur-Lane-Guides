@@ -75,17 +75,12 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (26/05/2020)
+## Changelog as of last major update (07/06/2020)
 
-- FFNF Jeanne d'Arc joins the Guide.
-- MNF Algérie joins the Guide.
-- FFNF Richelieu joins the Guide.
-- FFNF Béarn joins the Guide.
+- HMS Eskimo joins the Tierless Guide.
+- USS Helena Kai's entry has been updated and moved in the Tierless Guide.
 
-- MNF La Galissonniere joins the Untier Guide.
-- MNF Vauquelin joins the Untier Guide.
-- MNF Tartu joins the Untier Guide.
-- HMS Victorious joins the Untier Guide.
+- HMS Little Illustrious joins the Untier Guide.
 
 - STILL TESTING THE WATERS WITH THE TIERLESS APPROACH. LET ME KNOW IF IT'S GOOD OR BAD FOR YOU.
 
@@ -94,6 +89,39 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 <br/><br/>
 
 ## SURPRISE SURPRISE, IT'S THE TIERLESS GUIDE!
+
+![CL](/Images-for-the-Guide/HelenaKaiChibi.png "Esugee") - **[USS Helena Kai](https://azurlane.koumakan.jp/Helena#retrofit)**
+* Role:
+  * **Boss debuffer supreme**, average Gun DPS, average CL tank, average AA support.
+
+* Skill:
+  * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen. If mounting a SG Radar, gain +10% Evasion and the first proc attempt occurs at 16s instead of 20s.
+  * Take -15% Torpedo damage. Upon battle start, if there are three units in the vanguard and the last unit in it is USS, grant it +12% Evasion.
+
+* Recommended Loadouts:
+  * [General Purpose] Seattle Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
+  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: 
+>Helena Kai is exceedingly good against bosses and merely alright everywhere else.  
+While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use, so long as you can make sure the fleet will be ready to strike when she does.  
+Do not give her a SG Radar, as it will severely hinder your fleet's ability to exploit the burst windows Helena creates and the +10% Evasion barely makes up for the loss in Evasion she would suffer by not taking the usual PR Rudder.
+
+![DD](/Images-for-the-Guide/EskimoChibi.png "Pingu") - **[HMS Eskimo](https://azurlane.koumakan.jp/Eskimo)**
+* Role:
+  * **Light self-healing DD tank**, average Gun DPS, below average Torp DPS.
+  
+* Skill:
+  * Every 30s, launch a special barrage; upon falling below 30% HP, heal 10% of max HP back and launch a special barrage (only one proc per battle).
+    * The 17 shots deal 24 bdmg with 100/100/100 armour mods. They are modified by 100% of the unit's FP.
+    * Post-heal barrage data TBA.
+  
+* Recommended Loadouts:
+  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+- Desc: 
+>Finally, a competent enough HMS DD! Sure, her staying power is somewhat questionable if exposed to heavy fire and its damage output is just alright, but a self-heal is always appreciated and if you main HMS, you don't really get to be picky with your DD choices.
 
 ![CL](/Images-for-the-Guide/Jeanne_d'ArcChibi.png "Saber 3") - **[FFNF Jeanne d'Arc](https://azurlane.koumakan.jp/Jeanne_d%27Arc)**
 * Role:
@@ -939,17 +967,6 @@ On the flipside, the buffs can be unwieldy: while the Dido+3HMS requirements is 
 
 ### Tier 1: 
 ---
-![CL](/Images-for-the-Guide/HelenaChibi.png "Esugee") - **[USS Helena](https://azurlane.koumakan.jp/Helena)** **(T0 vs bosses)**
-* Skill:
-  * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
-
-* Desc: 
->Helena is exceedingly good against bosses and merely alright everywhere else.  
-While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
 
 ![CL](/Images-for-the-Guide/PhoenixChibi.png "Phoenix") - **[USS Phoenix](https://azurlane.koumakan.jp/Phoenix)**
 * Skill:
