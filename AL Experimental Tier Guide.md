@@ -1877,19 +1877,6 @@ Her poor damage output brings her down in the long run, though, and is usually d
 >What you use when you don't have Wichita but still want a powerful, buff-capable CA.  
 She will be phased out eventually, alas, but she's good while she's there and you can still use her to augment a second fleet.
 
-![CA](/Images-for-the-Guide/QuincyChibi.png "Quincy") ![CA](/Images-for-the-Guide/VincennesChibi.png "Vincennes") - **[USS Quincy](https://azurlane.koumakan.jp/Quincy)** **[USS Vincennes](https://azurlane.koumakan.jp/Vincennes)**
-* Skill: 
-  * 60% chance every 20s, gain +40% Firepower for 10s.
-  * Take -20% damage from DD/CL gun attacks.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
-* Desc: 
->Sporting a matching set of Medium Armour, anti-DD/CL gunfire skills and considerable AA capabilities, the New Orleans-class CAs focus more on the defence than the offence, unlike almost every other CA in the USS.  
-A good fit for mob- as well as boss-hunting, considering how frequent are DD and CL bosses, but beware their weaker guns and the need to take Astoria to make the most out of them.
-
 ![CA](/Images-for-the-Guide/YorkKaiChibi.png "HMS York Kai") - **[HMS York Kai](https://azurlane.koumakan.jp/York#retrofit)**
 * Skill: 
   * Upon performing ANY attack (autoguns, main guns, torpedoes; AA does not count), 40% chance to gain +40% FP for 8s.
