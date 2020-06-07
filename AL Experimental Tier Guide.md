@@ -92,7 +92,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ![CL](/Images-for-the-Guide/HelenaKaiChibi.png "Esugee") - **[USS Helena Kai](https://azurlane.koumakan.jp/Helena#retrofit)**
 * Role:
-  * **Boss debuffer supreme**, average Gun DPS, average CL tank, average AA support.
+  * **Boss debuffer supreme**, average CL Gun DPS, average CL tank, average AA support.
 
 * Skill:
   * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen. If mounting a SG Radar, gain +10% Evasion and the first proc attempt occurs at 16s instead of 20s.
@@ -109,7 +109,7 @@ Do not give her a SG Radar, as it will severely hinder your fleet's ability to e
 
 ![DD](/Images-for-the-Guide/EskimoChibi.png "Pingu") - **[HMS Eskimo](https://azurlane.koumakan.jp/Eskimo)**
 * Role:
-  * **Light self-healing DD tank**, average Gun DPS, below average Torp DPS.
+  * **Light self-healing DD tank**, average DD Gun DPS, below average DD Torp DPS.
   
 * Skill:
   * Every 30s, launch a special barrage; upon falling below 30% HP, heal 10% of max HP back and launch a special barrage (only one proc per battle).
