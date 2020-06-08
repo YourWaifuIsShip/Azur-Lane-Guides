@@ -9,7 +9,7 @@ If you happen to have questions for me, want to discuss tierings or would like t
 
 ## Featured news and Changelog
 ```
-[07/06/2020]
+[08/06/2020]
 THAT WAS A MISTAKE. All bookmarks broke, name has been restored. The experimentation goes on though.
 
 [07/06/2020]
