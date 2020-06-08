@@ -10,6 +10,9 @@ If you happen to have questions for me, want to discuss tierings or would like t
 ## Featured news and Changelog
 ```
 [07/06/2020]
+THAT WAS A MISTAKE. All bookmarks broke, name has been restored. The experimentation goes on though.
+
+[07/06/2020]
 Tier Guide updated and temporarily renamed to Experimental Tier Guide. We're doing this live, folks.
 
 [26/05/2020]
