@@ -27,7 +27,7 @@ Good reading, and godspeed cap'n!
   
 #### Role Explanations:
 - The Role field seeks to explain at a glance what's the purpose of a unit, how it should be employed, and how does it compare in those roles to other units in her hull class. A **bold** role means that should be the unit's main purpose; an absent role means the unit cannot be relied upon to perform said role in any significant capacity.
-- DPS can be Gun, Torp, Plane or Barrage focused, and can be Low / Below Average / Medium / Above Average / High / Extreme.
+- DPS can be Gun, Torp, Plane or Barrage focused, and can be Light / Below Average / Medium / Above Average / Heavy / Extreme.
 - Tank can be Light / Medium / Heavy.
 - AA can be either Carry (will spearhead the fleet's AA damage) or Support (will assist significatively to the fleet's AA damage but should not be expected to handle things on its own), with both having Light / Medium / Heavy variants.
 - Support is too varied a field and thus simply references how the unit supports others via heals, buffs or debuffs.
@@ -92,7 +92,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ![CL](/Images-for-the-Guide/HelenaKaiChibi.png "Esugee") - **[USS Helena Kai](https://azurlane.koumakan.jp/Helena#retrofit)**
 * Role:
-  * **Boss debuffer supreme**, high CL Gun DPS, average CL tank, average AA support.
+  * **Boss debuffer supreme**, heavy CL Gun DPS, medium CL tank, medium AA support.
 
 * Skill:
   * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen. If mounting a SG Radar, gain +10% Evasion and the first proc attempt occurs at 16s instead of 20s.
@@ -109,7 +109,7 @@ Do not give her a SG Radar, as it will severely hinder your fleet's ability to e
 
 ![DD](/Images-for-the-Guide/EskimoChibi.png "Pingu") - **[HMS Eskimo](https://azurlane.koumakan.jp/Eskimo)**
 * Role:
-  * **Light self-healing DD tank**, average DD Gun DPS, below average DD Torp DPS.
+  * **Light self-healing DD tank**, medium DD Gun DPS, below average DD Torp DPS.
   
 * Skill:
   * Every 30s, launch a special barrage; upon falling below 30% HP, heal 10% of max HP back and launch a special barrage (only one proc per battle).
@@ -164,7 +164,7 @@ Her staying power is also impressive, in part because of the excellent statline,
 
  ![BB](/Images-for-the-Guide/RichelieuChibi.png "Riche") - **[FFNF Richelieu](https://azurlane.koumakan.jp/Richelieu)**
 * Role:
-  * **FFNF/MNF flagship; super heavy DPS (w/ focus on HE)**; light debuffer.
+  * **FFNF/MNF flagship; extreme DPS (w/ focus on HE)**; light debuffer.
 
 * Skill: 
   * If flagship, grant +15% FP/Torp/Accuracy/Reload and +6% damage dealt to FFNF units; grant +15% FP/Torp/Accuracy/Reload and -6% damage taken to MNF units.
