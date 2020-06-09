@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's highly opinionated and extra-biased AL Untier Guide (NIGHT OF THE LIVING DEAD FOXES EDITION)
+# Your Waifu is SHIP's highly opinionated and extra-biased AL Untier Guide (SNOWY CRUMPETS EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_  
 
