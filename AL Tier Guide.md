@@ -228,8 +228,8 @@ The DPS monster to AyaKai's DPH.
   * Has MGM+1.
 
 * Recommended Loadouts:
-  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
+  * [General Purpose] 130x2 or 100mm twin; 533mm quintuple conventional torpedoes; Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 100mm twin; 533mm quintuple conventional torpedoes; Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >Always liked the Akizuki-class's DDakka and disliked their lack of anything resembling proper firepower?  
@@ -862,7 +862,7 @@ Still, if you're willing to field a full french vanguard (and you do have good o
 
 * Recommended Loadouts:
   * [Full AA] 100mm twin; 533mm quintuple conventional torpedoes; 113mm twin; Research AA Radar; Research AA Radar
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 113mm twin; Toolbox; Oxytorp
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 113mm twin; Toolbox; PR Rudder
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 113mm twin or Pom-Pom; Toolbox; Toolbox
 
 - Desc: WATASHI WA NUMBA WAN!
@@ -891,7 +891,8 @@ Armed with an excellent AP barrage and a very powerful AP boosting passive, and 
   * +20% Reload and Torpedo to all DD/CL in Fleet
   
 * Recommended Loadouts:
-  * [General Purpose] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Manual Only] 150SKC single; 610x4; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 150SKC single (Manual only) or Seattle Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: The fox says 'torp'.
@@ -905,7 +906,7 @@ With no real weakness to speak of beyond a somewhat flimsy hull, her one signifi
   * Deal +20% Damage to CV/Ls; grant +20% Torpedo to the entire vanguard; grant +12% CritRate to the entire vanguard.
   
 * Recommended Loadouts:
-  * [General Purpose] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 150SKC single (Manual only) or Seattle Gun; 610x4; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] 150SKC single (Manual only) or Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: 
@@ -922,7 +923,7 @@ About the only flaw she has, if we're feeling nitpicky, is not being as helpful 
   * 25% chance upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Rudder
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc:
@@ -939,8 +940,8 @@ Most, if not all, Cruiser compositions will benefit by her presence.
   * Can mount a CL gun or an AA gun as secondary.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun or Prototype Triple 152mm Main Gun (DP MK17) (if boss); Prototype Triple 152mm Main Gun or Prototype Triple 152mm Main Gun (DP MK17) (if boss); 40mm Quad Bofors; Toolbox; Improved Hydraulic Rudder
-  * [AA Shenanigans] Prototype Triple 152mm Main Gun (DP MK17); 40mm Quad Bofors; Prototype 40mm AA Gun (Type 5); High Performance Anti-Air Radar; High Performance Anti-Air Radar
+  * [Full AA] Prototype Triple 152mm Main Gun (DP MK17); 40mm Quad Bofors; Prototype 40mm AA Gun (Type 5); High Performance Anti-Air Radar; High Performance Anti-Air Radar
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; Seattle Gun (best) or Neptune Gun; 40mm Quad Bofors; Toolbox; PR Rudder
   * [Poverty] Twin 150mm tbtsk c/36; Twin 150mm tbtsk c/36 or 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Scuttlefish.
@@ -955,6 +956,7 @@ Weird but potentially very good. Watch out for her loadout.
   * Can use DD guns, and should.
 
 * Recommended Loadouts:
+  * [HMS Boosted] 100mm twin; 533mm quintuple conventional torpedo; 113mm Twin; Toolbox; Oxytorp
   * [General Purpose] 100mm twin; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
@@ -973,7 +975,7 @@ On the flipside, the buffs can be unwieldy: while the Dido+3HMS requirements is 
   * Once per fight and upon falling below 20% HP, restore 25% HP and +30% FP for 15s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -1003,8 +1005,8 @@ Wherever there are planes to shred and carriers to protect, Reno is at home - an
   * +8 Speed and +25% Evasion.
   * Upon battle start, heals the fleet by 3.5% of her max HP.
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+* Recommended Loadouts:  
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 * Desc: 
@@ -1017,7 +1019,7 @@ Not entirely as powerful as her older self, but she's up there without being for
   * Upon battle start and on a 30% chance every 15s, creates a smokescreen (+40% Evasion Rate while inside) for 5s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: A very solid statline, a bargain basement price tag, a Firepower buff for cruisers, a smokescreen that won't accomplish much (but is better than Belfast's) and a smile to melt your heart.  
@@ -1044,7 +1046,7 @@ That said, you will need to deploy a few carriers to get the full experience and
   * +12% CritRate and +30% CritDmg to self.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Amazing how some spit and polish can enhance decimetres thick armour, isn't it?
@@ -1056,7 +1058,7 @@ That said, you will need to deploy a few carriers to get the full experience and
   * Gain +30% CritRate and +10% Accuracy vs DD/CL; also, enemies hit by her Main Gun fire have a 10% chance to have their EvaRate reduced by 10% for 6s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc:
@@ -1070,7 +1072,7 @@ Your backline in particular will thank her for her support - they are desperatel
   * Deal +15% Torpedo Damage; also, when launching a torpedo spread, 30% chance to launch a second one.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Torpblade.
@@ -1084,7 +1086,7 @@ Accept no substitute, but do consider a Jintsuu or Noshiro to boost even further
   * Grant +3 Speed to all units in the vanguard and reduce the ramming damage they sustain by -25%; once per battle and when below 30% HP, become Intangible (100% EvaRate) for 5s and gain +15% Damage for the rest of the battle.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Not Fishy at all!
@@ -1099,7 +1101,7 @@ Nice.
   * Gain +15% CritRate, deal +20% damage to DDs and gain +15% Main Gun shell speed; also, reduce enemy DDs' Evasion Rate by 10%.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -1115,7 +1117,7 @@ Her anti-DD kit is alright and likely to draw (fair) comparisons to HMS Aurora, 
   * +15% Firepower to CL/CA.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -1127,7 +1129,7 @@ Her anti-DD kit is alright and likely to draw (fair) comparisons to HMS Aurora, 
   * Upon taking damage (and on a 8s internal cooldown), 10% chance to gain +40% Evasion for 5s; once per battle and upon falling below 30% HP, lock EvaRate to 100% for 5s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc: 
@@ -1140,7 +1142,7 @@ Not much to say about her, she's solid and unremarkable like the rest of her cla
   * 25% upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc: Original Dadster.
@@ -1152,7 +1154,7 @@ Not much to say about her, she's solid and unremarkable like the rest of her cla
   * Whenever a plane is shot down, gain a +8% AA stack for 8s; can gain up to 4 stacks.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Rudder
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc:
@@ -1165,7 +1167,7 @@ She's okay.
   * 25% upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Rudder 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc:
@@ -1178,7 +1180,7 @@ All the utility of her skills with the sturdiness and DPS of the Cleveland-class
   * 25% upon firing AA guns, -20% FP and +40% own AA for 3s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Rudder 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 *  Desc: 
@@ -1191,7 +1193,7 @@ She'll only buff herself, but a +40% FP never really goes amiss.
   * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; SG Radar
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Rudder
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -1204,7 +1206,7 @@ Beware the lack of support, though; while her AA isn't Helena-tier bad, it is st
   * 10s after battle starts and on a 20% chance every 20s aftewards, create a special smokescreen (+35% Evasion Rate and-35% damage from planes while inside) that lasts 10s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun (DP MK17); 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Triple 155mm Mounted Gun; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Hot honeytrap maid.
@@ -1217,7 +1219,7 @@ Her place is mostly PvP, as there are many other CL who will do what she does - 
   * Deal +25% AP damage.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; PR Rudder
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc: Worth her weight in gold.
@@ -1231,7 +1233,7 @@ Still, there's very few more reliable frontline tanks than she - and that's a de
   * Gain +5% FP/Accuracy; also, gain a +2% FP/Accuracy stack upon sinking an enemy (max 5 stacks).
   
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: Answering the question nobody asked.
@@ -1249,7 +1251,8 @@ She's in a weird position, all in all, and whether you'll take her or not will m
   * Grant +15% FP to the entire vanguard.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [AA Build] Seattle Gun; 533mm quintuple conventional torpedo; 113mm or Pom-Pom; Toolbox; PR AA Radar
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: The advent of Plane Hells earned this previously inferior version of Leander a spot on the Tier Guide, as she patches the glaring AA-shaped hole in the HMS vanguard lineup. Her skillset isn't particularly remarkable and focusing on gunnery as a Torp-CL is somewhat questionable, but she does the job legitimately well - especially with planes to shoot at.
@@ -1260,7 +1263,7 @@ She's in a weird position, all in all, and whether you'll take her or not will m
   * 30% chance to launch a second salvo on torpedo launch
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -1276,7 +1279,12 @@ Not too flashy, but sturdy enough and dependable.
   * If mounting an IJN DD gun, take -12% damage; if mounting a non-IJN DD gun, lose -50% AA Efficiency but gain +20% Main Gun Efficiency, +50% Torpedo Efficiency and launch a special torpedo barrage alongside the regular barrage.
     * The 4 TORPEDOES deal 54 bdmg with 70/90/120 armour modifiers. The damage is modified by 100% of the unit's Torp stat.
   * Can take DD guns (and should), and has AAGM+1.
-  
+ 
+ * Recommended Loadouts:
+  * [Full AA] 100x2mm; 533mm quintuple conventional torpedo; 113mm or Pom-Pom; Toolbox; PR AA Radar
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedo; 113mm or Pom-Pom; Toolbox; Oxytorp
+  * [Poverty] 100x2mm; 533mm quadruple conventional torpedo; 113mm or Pom-Pom; Toolbox; Toolbox
+ 
 - Desc: Crybaby no more.
 >Isuzu's retrofit went a long way towards cementing her position as the strongest solo AA powerhouse in the game, while also bolstering her thin hull - and giving her something to do when her monstrous AA isn't actually needed, in the form of some sizeable buffs to weapon efficiencies and some free torpedoes.  
 The 'assault mode' she goes into when taking non-IJN guns raises her DPS to fairly respectable levels, roughly on par with your average HMS CL, while also bringing down her AA to less obscene levels (which are still considerably higher than most of the competition's).  
@@ -1289,7 +1297,7 @@ That said, Isuzu Kai's main calling is that of the AA monster; it's nice you can
   * 10s after battle start and on a 40% chance every 20s afterwards, deploys a flare (-25% Evasion Rate in the area) for 10s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 40mm Quad Bofors; Oxytorp; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -1304,7 +1312,7 @@ Her statline is still damn good, though, and their buffs can stack - as do the -
     * The 12 SHOTS deal 62 bdmg with 100/80/60 mods; the 12 TORPEDOES deal 72 bdmg with 80/100/130 mods. Their damage is modified by 100% of their relevant stat.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: La merveilleuse DDanseuse!
@@ -1319,7 +1327,7 @@ Her retaliatory barrage is pretty strong, but you should try *not* to proc it; l
   * Once per fight and upon any ally falling below 50% HP, gain +15% AA and reduce the damage taken by that unit by -15% for 12s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 *  Desc: 
@@ -1332,12 +1340,12 @@ Still, she's a Cleveland-class, and even at its worst the Cleveland-class offers
   * 60% chance every 20s, +40% FP for 8s.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 *  Desc: 
 >More Firepower and better Efficiency than what Denver gets and doesn't need to worry about planes mugging her precious FP, but at the cost of a much flimsier hull.  
-A solid pick regardless, especially if you expect aircraft.
+Not bad, but hardly could be called good either.
 
 ![CL](/Images-for-the-Guide/LenaChibi.png "Lolena") - **[USS Lena](https://azurlane.koumakan.jp/Lena)**
 * Skill: 
@@ -1345,7 +1353,7 @@ A solid pick regardless, especially if you expect aircraft.
   * Upon firing AA guns, gain +25% AA for 5s; once per battle, if sortied with Lil Sandy or Cleveland and either falls under 40% HP, gain +25% FP/Acc.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: The lolifying beam spares nobody!
@@ -1372,8 +1380,8 @@ It goes without saying that she'll severely underperform if she's not going to a
   * Increases damage dealt to CAs by 25%
 
 * Recommended Loadouts:
-  * [Full Atk] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Full Atk] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
@@ -1386,7 +1394,7 @@ While powerful for their class, they are also dangerously frail and lacking in s
   * While alive, -20% Evasion Rate for enemy DD/CL.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 *  Desc: 
@@ -1427,7 +1435,7 @@ All things considered she's a fairly good deal, providing stable and solid DPS w
   * Upon battle start, when deployed as the last member of the vanguard and when part of a vanguard with 2+ units, grant the vanguard a 24% chance to reduce incoming damage by 32%.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -1439,7 +1447,7 @@ All things considered she's a fairly good deal, providing stable and solid DPS w
   * While alive, CV/L in the fleet take -15% damage.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -1453,7 +1461,7 @@ While she isn't a bad unit on her own by any stretch, her competitors are more p
   * Every 12s, commence RNG FIESTA! (17% chance for gun barrage; 17% chance for torpedo barrage; 14% chance for a sprinkler-shot grenade; 14% chance to erect a 60-shots-tough shield for 18s; 14% chance to erect a 99-shots-tough shield for 6s; 14% chance to heal the entire fleet for 2.4% of Yuubari's max HP; 10% chance to heal the entire fleet for 9HP).
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
@@ -1466,7 +1474,7 @@ Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outco
   * Has MGM+1 and Torpedoes.
 
 * Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Boiler
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; PR Rudder
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Boiler
 
 - Desc: "Союз нерушимый республик свободных~ ♪♫♬"
