@@ -26,12 +26,13 @@ Good reading, and godspeed cap'n!
   
   
 #### Role Explanations:
-- The Role field seeks to explain at a glance what's the purpose of a unit, how it should be employed, and how does it compare in those roles to other units in her hull class. A **bold** role means that should be the unit's main purpose; an absent role means the unit cannot be relied upon to perform said role in any significant capacity.
+- The Role field seeks to explain at a glance what's the purpose of a unit, how it should be employed, and how does it compare in those roles to other units in her hull class. A **bold** role means that should be the unit's main purpose; an absent role means the unit cannot be relied upon to perform said role at all.
 - DPS can be Gun, Torp, Plane or Barrage focused, and can be Light / Below Average / Medium / Above Average / Heavy / Extreme.
 - Tank can be Light / Medium / Heavy.
 - AA can be either Carry (will spearhead the fleet's AA damage) or Support (will assist significatively to the fleet's AA damage but should not be expected to handle things on its own), with both having Light / Medium / Heavy variants.
 - Support is too varied a field and thus simply references how the unit supports others via heals, buffs or debuffs.
- 
+- If you'd like to know individual numbers, feel free to ask me on Discord (or Issues if you truly must).
+
  
   
 #### Tier Explanations:
