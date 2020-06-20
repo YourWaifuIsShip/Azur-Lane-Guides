@@ -113,9 +113,8 @@ Do not give her a SG Radar, as it will severely hinder your fleet's ability to e
   * **Light self-healing DD tank**, medium DD Gun DPS, below average DD Torp DPS.
   
 * Skill:
-  * Every 30s, launch a special barrage; upon falling below 30% HP, heal 10% of max HP back and launch a special barrage (only one proc per battle).
+  * Every 30s, launch a special [barrage](https://cdn.discordapp.com/attachments/367307557796053002/723803781321457733/unknown.png); upon falling below 30% HP, heal 10% of max HP back and launch a special barrage (only one proc per battle). Those barrages are the same.
     * The 17 shots deal 24 bdmg with 100/100/100 armour mods. They are modified by 100% of the unit's FP.
-    * Post-heal barrage data TBA.
   
 * Recommended Loadouts:
   * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
