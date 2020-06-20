@@ -76,14 +76,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (07/06/2020)
+## Changelog as of last major update (20/06/2020)
 
-- HMS Eskimo joins the Tierless Guide.
-- USS Helena Kai's entry has been updated and moved in the Tierless Guide.
-
-- HMS Little Illustrious joins the Untier Guide.
-
-- STILL TESTING THE WATERS WITH THE TIERLESS APPROACH. LET ME KNOW IF IT'S GOOD OR BAD FOR YOU.
+- HMS Eskimo's barrage now has a glorious... screencap of what it looks like. Sorry folks, no .gifs here, nobody seems to care enough about her to provide one.
 
 <br/><br/>
 ---
