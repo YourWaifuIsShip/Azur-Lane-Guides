@@ -34,12 +34,14 @@ Battleships and Battlecruisers all do, and often enough also happen to have barr
 - 3CV/L comps are another exception, in which case you'll want the toughest carrier as flagship.  
 - 2BB 1CV USS comps are an uncommon sight but can be quite effective, and the reason for the flagship being in the middle lies in the DD secondaries carried by those American barrage-less Battleships; if they DO happen to have a barrage, however, you'll still have the BBarrager as the flagship as you'll benefit more from the barrage than from the improved coverage.
 
-## **DO NOT USE MORE THAN 1 BBARRAGER. (unless the other one/s are Georgia, Kirishima, Tosa)**
+## **DO NOT USE MORE THAN 1 BBARRAGER. (unless the other one/s are the units listed below)**
 Related to the point above. The vast majority of proper Battleship/Battlecruiser/Monitor barrages fire directly forward and will neither aim nor curve towards enemy units; this means that to operate properly, the BBarrager will have to sit in the flagship slot, and that if that is not the case most of the barrage will splash harmlessly into the water (or all of it, in Pennsylvania / Washington / Alabama's case).  
-If you insist on taking two BBarragers at once, make sure to have the stronger barrage at the flagship spot and the weaker one to the sides.  
-- Georgia and Kirishima are not subject to this rule as their barrages are aimed, heading straight for the 'appropriate' targets regardless of the respective positions. That said, Georgia's barrage is only partially aimed; the AP shots aim, the HE rain doesn't.  
-- Tosa is also an exception, as her barrage always launches from the flagship slot regardless of whether she's in there or not.  
+If you insist on taking two BBarragers at once, make sure to have the stronger barrage at the flagship spot and the weaker one to the sides; alternatively, consider the following...  
 
+- Georgia and Amagi have strong barrages with two main components: an aimed one that can strike whatever is on the field, and a frontal one that can strike only in front of them.
+- Kirishima's barrage is fully aimed, with the Sanshikidan shells attempting to head for the nearest target; that said it's Sanshikidan, the damage will be scattered over a large area and in planes' dumb faces.
+- Tosa is also an exception, as her barrage always launches from the flagship slot regardless of whether she's in there or not. This CAN be an issue, as in some very specific cases you may want to barrage at something that's not in the centre (eg. 13-4)
+- Gascogne's barrage works best when she's in the flagship position, but if she happens to sit on the sides, it's wide enough to strike the entire upper/lower half of the screen.
 
 <br/><br/>
 ---
