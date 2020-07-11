@@ -902,7 +902,8 @@ With no real weakness to speak of beyond a somewhat flimsy hull, her one signifi
   * Deal +20% Damage to CV/Ls; grant +20% Torpedo to the entire vanguard; grant +12% CritRate to the entire vanguard.
   
 * Recommended Loadouts:
-  * [General Purpose] 150SKC single (Manual only) or Seattle Gun; 610x4; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [Manual Only] 150SKC single; 610x4; 40mm Quad Bofors; Oxytorp; Oxytorp
+  * [General Purpose] 150SKC single (Manual only) or Seattle Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 150SKC single (Manual only) or Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: 
