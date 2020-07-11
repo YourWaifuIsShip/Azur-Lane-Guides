@@ -872,7 +872,8 @@ You'll still want to give her an Oxygen Torpedo or two, though - her torp stat r
   * +15% damage to Sirens.
   
 * Recommended Loadouts:
-  * [General Purpose] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Manual (ie. how you're supposed to use her)] 150SKC single; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; PR Rudder
+  * [General Purpose] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; PR Rudder
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: Insistent termaidology.
