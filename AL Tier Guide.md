@@ -2939,7 +2939,7 @@ Her Kai skill, just like her gunfire skill, is best regarded as a bit of free ad
 >Once criminally underrated and now outshining even the Foxes in terms of raw damage, Hiryuu focuses on Torpedo Bombers and stubbornly refusing to roll over and die (by becoming invincible for 15s and launching an airstrike); not the most useful skill under the majority of circumstances, though her sister makes up for it with the always handy vanguard buff, but the real deal is the +35% Aviation buff that is further bolstered by the slew of extra stats the Kai brought, as well as the neat timed barrage (which is, despite its inconsistency, still free damage).  
 Exceptional.
 
-![CV](/Images-for-the-Guide/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(T0.5 w/ Zuikaku)**
+![CV](/Images-for-the-Guide/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)**
 * Skill: 
   * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
   * When paired, increases Air Power by 30% and INCREASES damage taken by 10%
@@ -2952,7 +2952,8 @@ Exceptional.
 
 * Desc: 
 >More support-based than her sister and frailer than she when her other half is around, but more than makes up for it thanks to the +30% Aviation she gets as well as the buffs she throws out (which incidentally also partially negate the debuff).  
-Her buffs and layout are good enough to warrant usage even solo.
+Her buffs and layout are good enough to warrant usage even solo; so good, in fact, that you don't want to use her with Zuikaku.  
+As a duo the Cranes just don't work at all if you consider the following: the damage ramp takes two whole minutes to allow them to outdamage either IJN duo, meaning the fight will be already over by then (or you'll have lost the S rank) and the AA coverage is poor (only 4 fighters across 2 carriers).  
 
 
 ### Tier 1.5:
@@ -3129,7 +3130,7 @@ All things considered - pretty okay, and very cheap to boot.
 >A very defensive-focused CV with double fighter slots, a shield generator and staggering amounts of Air Superiority. To this day, her low DPS is the stuff of legend.    
 Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo strikes.
 
-#### ![CV](/Images-for-the-Guide/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(T0.5 w/ Shoukaku)**
+#### ![CV](/Images-for-the-Guide/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** 
 * Skill: 
   * Increases next airstrike damage by 20% on launching airstrike, stacks up to 3 times
   * When paired, increases Air Power by 20% and takes 20% less damage
@@ -3141,7 +3142,8 @@ Her niche is providing air superiority and protecting the frontline from harm th
 
 * Desc: 
 >An extra-tough carrier designed for prolonged fights, which basically means 'boss battles only'.  
-Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be.
+Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be.  
+If this sounds like a "don't use her"... well, yeah. Don't, she'll only drag everyone down.
 
 #### ![CV](/Images-for-the-Guide/Ookami_MioChibi.png "stando doggo") - [Ookami Mio](https://azurlane.koumakan.jp/Ookami_Mio)
 * Skill: 
