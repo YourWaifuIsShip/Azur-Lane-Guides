@@ -9,6 +9,9 @@ If you happen to have questions for me, want to discuss tierings or would like t
 
 ## Featured news and Changelog
 ```
+[20/07/2020]
+Added a couple usage notes on Zuikaku and Shoukaku. Also, we know PR3 have been released - and just like the others, we're waiting for people to start actually using them before passing definitive judgement. Have patience, it's not like you'll get any of these in a working state anytime soon anyway~
+
 [08/06/2020]
 THAT WAS A MISTAKE. All bookmarks broke, name has been restored. The experimentation goes on though.
 
