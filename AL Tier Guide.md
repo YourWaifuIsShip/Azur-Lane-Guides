@@ -92,7 +92,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 * Skill:
   * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen. If mounting a SG Radar, gain +10% Evasion and the first proc attempt occurs at 16s instead of 20s.
-  * Take -15% Torpedo damage. Upon battle start, if there are three units in the vanguard and the last unit in it is USS, grant it +12% Evasion.
+  * Take -15% Torpedo damage. Upon battle start, if there are three units in the vanguard and the last unit in it is USS (and isn't her), grant it +12% Evasion.
 
 * Recommended Loadouts:
   * [General Purpose] Seattle Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
