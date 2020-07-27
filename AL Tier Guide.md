@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (SNOWY CRUMPETS EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (MS. AMAZON KAI NI'S WILD RIDE EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -76,9 +76,10 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (20/06/2020)
+## Changelog as of last major update (28/07/2020)
 
-- HMS Eskimo's barrage now has a glorious... screencap of what it looks like. Sorry folks, no .gifs here, nobody seems to care enough about her to provide one.
+- HMS Icarus joined the Honourable Mentions.
+- HMS Howe, Valiant, Perseus, Eagle and Hermione joined the Tierless guide.
 
 <br/><br/>
 ---
