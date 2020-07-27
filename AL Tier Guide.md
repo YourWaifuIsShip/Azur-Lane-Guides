@@ -122,7 +122,7 @@ Do not give her a SG Radar, as it will severely hinder your fleet's ability to e
 
 ![CL](/Images-for-the-Guide/HermioneChibi.png "Maid no.???") - **[HMS Hermione](https://azurlane.koumakan.jp/Hermione)**
 * Role:
-  * High DD Gun and Barrage DPS (if not vanguard lead).
+  * High DD Gun and Barrage DPS (if not vanguard lead *and* managing to land both barrages).
   
 * Skill:
   * On battle start and every 15s, fire a [special long-range, straight barrage](https://streamable.com/jxco4l); if no enemies are within 30 units (eg. your average Quad Bofors+113mm setup), also fires a special mid-range, arcing, aimed(?) barrage.
