@@ -120,7 +120,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use, so long as you can make sure the fleet will be ready to strike when she does.  
 Do not give her a SG Radar, as it will severely hinder your fleet's ability to exploit the burst windows Helena creates and the +10% Evasion barely makes up for the loss in Evasion she would suffer by not taking the usual PR Rudder.
 
-![CL](/Images-for-the-Guide/Hermione.png "Maid no.???") - **[HMS Hermione](https://azurlane.koumakan.jp/Hermione)**
+![CL](/Images-for-the-Guide/HermioneChibi.png "Maid no.???") - **[HMS Hermione](https://azurlane.koumakan.jp/Hermione)**
 * Role:
   * High DD Gun and Barrage DPS (if not vanguard lead).
   
