@@ -86,6 +86,22 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ## SURPRISE SURPRISE, IT'S THE TIERLESS GUIDE!
 
+![DD](/Images-for-the-Guide/EskimoChibi.png "Pingu") - **[HMS Eskimo](https://azurlane.koumakan.jp/Eskimo)**
+* Role:
+  * **Light self-healing DD tank**, medium DD Gun DPS, below average DD Torp DPS.
+  
+* Skill:
+  * Every 30s, launch a special [barrage](https://cdn.discordapp.com/attachments/367307557796053002/723803781321457733/unknown.png); upon falling below 30% HP, heal 10% of max HP back and launch a special barrage (only one proc per battle). Those barrages are the same.
+    * The 17 shots deal 24 bdmg with 100/100/100 armour mods. They are modified by 100% of the unit's FP.
+  
+* Recommended Loadouts:
+  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+- Desc: 
+>Finally, a competent enough HMS DD! Sure, her staying power is somewhat questionable if exposed to heavy fire and its damage output is just alright, but a self-heal is always appreciated and if you main HMS, you don't really get to be picky with your DD choices.
+
+
 ![CL](/Images-for-the-Guide/HelenaKaiChibi.png "Esugee") - **[USS Helena Kai](https://azurlane.koumakan.jp/Helena#retrofit)**
 * Role:
   * **Boss debuffer supreme**, heavy CL Gun DPS, medium CL tank, medium AA support.
@@ -103,20 +119,25 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use, so long as you can make sure the fleet will be ready to strike when she does.  
 Do not give her a SG Radar, as it will severely hinder your fleet's ability to exploit the burst windows Helena creates and the +10% Evasion barely makes up for the loss in Evasion she would suffer by not taking the usual PR Rudder.
 
-![DD](/Images-for-the-Guide/EskimoChibi.png "Pingu") - **[HMS Eskimo](https://azurlane.koumakan.jp/Eskimo)**
+![CL](/Images-for-the-Guide/Hermione.png "Maid no.???") - **[HMS Hermione](https://azurlane.koumakan.jp/Hermione)**
 * Role:
-  * **Light self-healing DD tank**, medium DD Gun DPS, below average DD Torp DPS.
+  * High DD Gun and Barrage DPS (if not vanguard lead).
   
 * Skill:
-  * Every 30s, launch a special [barrage](https://cdn.discordapp.com/attachments/367307557796053002/723803781321457733/unknown.png); upon falling below 30% HP, heal 10% of max HP back and launch a special barrage (only one proc per battle). Those barrages are the same.
-    * The 17 shots deal 24 bdmg with 100/100/100 armour mods. They are modified by 100% of the unit's FP.
+  * On battle start and every 15s, fire a [special long-range, straight barrage](https://streamable.com/jxco4l); if no enemies are within 30 units (eg. your average Quad Bofors+113mm setup), also fires a special mid-range, arcing, aimed(?) barrage.
+    * The 20 pellets deal 20 bdmg with 120/80/60 armour modifiers. Both barrages use these values, and both are modified by 100% of the unit's FP.
+  * If NOT deployed as vanguard lead, gain +20% FP/Torp/AA/Reload; if there are any other HMS units, also deal +8% damage.
+  * Can and should equip DD guns.
   
 * Recommended Loadouts:
-  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
   * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
-- Desc: 
->Finally, a competent enough HMS DD! Sure, her staying power is somewhat questionable if exposed to heavy fire and its damage output is just alright, but a self-heal is always appreciated and if you main HMS, you don't really get to be picky with your DD choices.
+- Desc: what if black prince but good
+>A fairly standard Dido-class CL, she comes with the expected solid-but-unremarkable DD gun DPS, passable AA and atrocious torpedoes.  
+As a Dido-class, the barrages should be the main attraction here... except they're implemented in just about the stupidest way possible: the arcing, short-range barrage only fires when she's 30+ units away from any enemy, meaning she has to gingerly skirt the edge of the 30-35 units mark for it to fire (no guarantee of it landing on target either), whereas the non-conditional one just fires straight... which doesn't mesh with the supposed aiming on the arcing barrage.  
+It's a mess, but if you actually do jump through the hoops she forces you to, the damage *is* there and it's *mostly* worth it.
+
 
 ![CL](/Images-for-the-Guide/Jeanne_d'ArcChibi.png "Saber 3") - **[FFNF Jeanne d'Arc](https://azurlane.koumakan.jp/Jeanne_d%27Arc)**
 * Role:
@@ -156,10 +177,48 @@ The heal on shield expiration is nice too, but hardly going to make a difference
 Algérie rectifies this unfortunate situation by, amusingly, leaning more into the gun side of her kit - her shelling, aided by the barrage, is strong enough to be somewhat competitive with dedicated Gun-CAs, while her torpedoes are well-capable of taking out hard targets (BB in primis).  
 Her staying power is also impressive, in part because of the excellent statline, in part because of the +Evasion, and in part because of the anti-torpedo shield (which counterintuitively you want to *keep safe*, as it increases her damage output).
 
+![BB](/Images-for-the-Guide/HoweChibi.png "Amazon Kai Ni") - **[HMS Howe](https://azurlane.koumakan.jp/Howe)**
+* Role:
+  * **BB/BC/BBV Accuracy** and Reload **buffer; aimed BBarrager;** very high DPS (very high Gun DPS, average but aimed Barrage DPS) w/ 1 KGV-class or 3+ HMS units.
+
+* Skill: 
+  * Every 15s, fire an [aimed barrage](https://streamable.com/g97ciy) at a random enemy; when this barrage fires, all BB/BC/BBV in the fleet gain +20% Reload and Accuracy for 8s.
+    * The 4 SHELLS deal 156 bdmg with 140/110/90 armour modifiers, and have a 50% Ignition chance; they are modified by 100% of the unit's FP.
+  * Gain +12% FP and Reload; if sortied with KGV / Monarch / Duke of York / Prince of Wales / 3+ HMS units, gain a further +12% FP and AA.
+ 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 or Champagne Gun; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 or Champagne Gun; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  
+- Desc:
+>Another excellent supporter to pad the already excessively stacked roster of great HMS backliners, Howe's line of work mirrors somewhat that of Duke of York's; while the latter's debuff potential is rivaled only by Helena, Howe focuses on supporting big guns with much needed Accuracy and dealing a lot of damage herself via powerful aimed barrages, self FP buffs and 140% Efficiency Main Guns.  
+The self-FP buffs are granted via easily achieved conditions, considering both Duke of York and Monarch are mainstays in most boss fleets anyway; worse comes to worst, there's no shortage of HMS units favouring having more HMS units around.  
+Straightforward but very, very effective.  
+
+![BB](/Images-for-the-Guide/ValiantChibi.png "Valiant") - **[HMS Valiant](https://azurlane.koumakan.jp/Valiant)**
+* Role:
+  * **Universal Armour Breaker**; average DPS (average Gun DPS, average Barrage DPS w/ weak aimed part).
+  
+* Skill: 
+  * 10s after the Main Guns fire, launch an [aimed, special armour-breaking barrage](https://streamable.com/42ika0) at a random enemy.
+    * The 2 SHELLS deal 108 bdmg with 40/150/130 armour modifiers, and have a 100% Armour Break chance; they are modified by 80% of the unit's FP.
+  * Upon Main Gun fire, 50% chance to launch a [frontal, sprinkly barrage](https://streamable.com/42ika0).
+    * The 8 SHELLS deal 108 bdmg with 135/95/70 armour modifiers; the 24 PELLETS deal 20 bdmg with 100/80/70 armour modifiers.
+ 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406x2 DRh or Champagne Gun; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406x2 DRh or Champagne Gun; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 410x2 purple; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  
+- Desc:
+>Valiant doesn't really stack up to most high-end BB in their own playing field, be it shelling or barraging or supporting, but she does provide easy access to a special (ie. applies to any unit) Armour Break; the duration is long enough to allow her to permabreak a boss, which translates in a +8% fleetwide damage.  
+It's pretty good, all things considered, even if her damage output is fairly mediocre.
+
 
  ![BB](/Images-for-the-Guide/RichelieuChibi.png "Riche") - **[FFNF Richelieu](https://azurlane.koumakan.jp/Richelieu)**
 * Role:
-  * **FFNF/MNF flagship; extreme DPS (w/ focus on HE)**; light debuffer.
+  * **FFNF/MNF flagship; extreme DPS (very high Gun DPS, very high Barrage DPS) w/ focus on HE**; light debuffer; preloaded.
 
 * Skill: 
   * If flagship, grant +15% FP/Torp/Accuracy/Reload and +6% damage dealt to FFNF units; grant +15% FP/Torp/Accuracy/Reload and -6% damage taken to MNF units.
@@ -178,6 +237,47 @@ Her staying power is also impressive, in part because of the excellent statline,
 Like all other French big guns (Gascogne aside), she too has only two Main Gun Mounts and starts the battle with them pre-loaded.  
 A fairly straightforward unit, all in all, but one that's absolutely stellar at everything you'd ask a BB and a factional flagship to do.
 
+#### ![CV](/Images-for-the-Guide/EagleChibi.png "Not Bearn") - [HMS Eagle](https://azurlane.koumakan.jp/Eagle)
+* Role:
+  * **Self-defence and long-range supportive fire capable mob fleet carrier**; fast airstrike carrier; average CV DPS.
+
+* Skill: 
+  * If mounting a CL gun in the third slot, gain +45% Efficiency for that slot (55% -> 100%), extend the gun's range to 80 and launch a [barrage](https://streamable.com/5mf5w7) every 24s. If mounting a Dive Bomber in the third slot, halve the cooldown on Eagle's first airstrike.
+    * The 14 AP SHOTS deal 28 bdmg with 40/125/120 armour modifiers; the 44 HE SHOTS deal 20 bdmg with 120/60/60 armour modifiers. Both are modified by 100% of the unit's FP.
+  * Upon airstrike, launch three Swordfishes dropping two parallel torpedoes each.
+    * The 6 TORPEDOES deal 288 bdmg 80/110/130 armour modifiers; they are modified by 100% of the unit's Aviation stat.
+  * Has a 3/2*/3 loadout; her 3rd slot may be filled with a Dive Bomber (launches two planes) or a CL gun (fires twice).
+
+* Recommended Loadouts:
+  * [General Purpose] VF17; Ryusei; Fulmar or Seattle Gun; Hydraulic Catapult; Homing Beacon
+  * [Poverty] F4U Corsair; Ryusei; Fulmar or 150x2 Tbtsk; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>Béarn but HMS and overall worse.  
+Dropping the VF17-like bombs and the torp line for six parallels was a poor deal, as was losing the rather absurd torp stats she could use to pad Hardmode requirements; the +41FP she gets in return are just not enough to make the trade worthwhile, and the one benefit she may have over Béarn is her being HMS and thus synergising with many want-HMS skills.  
+P.S.: I know it's Béarn's barrage in the gif, but it's also the exact same barrage. They didn't put in the effort to give her something unique, so why should I? c:  
+
+#### ![CVL](/Images-for-the-Guide/PerseusChibi.png "Perseus") - [HMS Perseus](https://azurlane.koumakan.jp/Perseus)
+* Role:
+  * **Fleetwide healer, inter-fleet healer;** low DPS (low Airstrike damage, average Barrage damage); preloaded.
+
+* Skill: 
+  * Commence the battle with two preloaded airstrikes, but have airstrike cooldowns slowed by -90%; on airstrike launch, heal vanguards by 7% of their max HP and backliners by 3.5% of their max HP.
+  * Every 12s, randomly launch a flight of 2 Hornets / 2 Fireflies / 2 Avengers.
+    * The 4 HORNET BOMBS deal 335 bdmg with 80/95/115 armour modifiers; the 4 FIREFLY BOMBS deal 402 bdmg with 80/95/115 armour modifiers; the 6 AVENGER PARALLELS deal 342 bdmg with 80/110/130 armour modifiers. All are modified by 100% of the unit's Aviation stat.
+  * Increase max amount of stored airstrikes by +1; every 20s, heal all units in the fleet by 1% of their max HP; when the fleet in which Perseus is not in fights, heal their units by 3% of their max HP after 20s since the start of the battle.
+  * Has a 3/0/3 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] VF17; Ryusei; Quad Bofors; Hydraulic Catapult; Homing Beacon
+  * [Poverty] F4U Corsair; Ryusei; Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>By both healer and carrier standards, Perseus stands out as very unconventional - no other carrier frontloads her entire kit, after all.  
+Perseus, unlike all other carriers in the game, starts with two whole airstrikes already primed: as her main heals are tied to the airstrikes, this means she'll be able to patch up an ailing fleet almost immediatelty and thus prevent (at least for a bit) timely demises while her early strikes damage the first waves of mobs. Past that, however, her fleet will be stuck with a very low intensity passive fleetwide regen; better than nothing, but won't save anyone on its own.  
+To some extent, this applies to her damage as well; once the airstrikes are out, she's forced to rely almost entirely on her random 12s planes for DPS, which may be nice but aren't a proper airstrike, nor do they have a strong Aviation stat to bolster them. Again, better than nothing, but won't destroy much on its own.  
+Lastly, she can lob a heal over to the fleet in which she isn't; helpful for patching up pre-boss battle damage.  
+
 #### ![CV](/Images-for-the-Guide/BéarnChibi.png "The e is also accented") - [FFNF Bearn](https://azurlane.koumakan.jp/Béarn)
 * Role:
   * **Self-defence and long-range supportive fire capable mob fleet carrier**; fast airstrike carrier; average CV DPS; universal Hardmode stat padder.
@@ -187,7 +287,12 @@ A fairly straightforward unit, all in all, but one that's absolutely stellar at 
     * The 14 AP SHOTS deal 28 bdmg with 40/125/120 armour modifiers; the 44 HE SHOTS deal 20 bdmg with 120/60/60 armour modifiers. Both are modified by 100% of the unit's FP.
   * 5s after Béarn's airstrike has come off cooldown, launch a [plane and torpedo barrage](https://streamable.com/zmbrst). This barrage can only be launched up to three times per battle.
     * The 6 BOMBS deal 380 bdmg with 80/90/110 armour modifiers; the 4 TORPEDOES deal 96 bdmg with 70/90/120 armour modifiers. The bombs are modified by 100% of the unit's Aviation, while the torpedoes are modified by 80% of the unit's Torpedo stat.
-  * Has a 3/0*/3 loadout; her 3rd slot may be filled with a Dive Bomber (launches two planes) or a CL gun (fires twice).
+  * Has a 3/2*/3 loadout; her 3rd slot may be filled with a Dive Bomber (launches two planes) or a CL gun (fires twice).
+
+
+* Recommended Loadouts:
+  * [General Purpose] VF17; Ryusei; Fulmar or Seattle Gun; Hydraulic Catapult; Homing Beacon
+  * [Poverty] F4U Corsair; Ryusei; Fulmar or 150x2 Tbtsk; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
 >What's better than a carrier that's decked head to toe in guns? One that's decked head to toe in guns *and* has torpedoes, of course!  
@@ -817,7 +922,6 @@ Still, if you're willing to field a full french vanguard (and you do have good o
 * Desc: Cheap and inexpensive bubblewrap.
 >While their Kai does augment their DPS somewhat, it's fair to say that the star of the show is still their self-rescue skill and their pretty good base HP; therefore, if all you want are some ablative wounds for a more valuable unit or just something to stall with while the backline does all the work, there are no better options than a 0LB Cassin and Downes.
 
-
 #### ![DD](https://azurlane.koumakan.jp/w/images/d/dc/AmazonChibi.png "HMS Amazon") [HMS Amazon](https://azurlane.koumakan.jp/Amazon)
 * Skill:
   * +18% Exp gain for DDs.
@@ -825,13 +929,21 @@ Still, if you're willing to field a full french vanguard (and you do have good o
 * Desc: 
 >The first real DD to hit the seas, and boy does it show. Her barely combat-worthy statline and lack of any skill beyond the XP boost makes her a very poor candiate for Limit Breaks, and a very good candidate for 0LB shenanigans.
 
+#### ![DD](Images-for-the-Guide/IcarusChibi.png "Icarus") [HMS Icarus](https://azurlane.koumakan.jp/Icarus)
+* Skill:
+  * 5s after battle start, launch a weak barrage; every 30s after battle start, 70% chance to launch it again.
+  * Upon battle start and every 20s afterwards, take -20% torpedo damage and change torp launch pattern to LINEAR for 10s.
+
+* Desc: 
+>Oh, Icarus, you were so close to being good... but then you had to be HMS and saddled with their atrocious statline.  
+The best part of her kit is the torp pattern change, a column of torpedoes is a lot more effective at longer ranges than a cone after all; in time, perhaps, an actually good DD will take note.  
+
 #### ![DD](https://azurlane.koumakan.jp/w/images/f/f3/ShiranuiChibi.png "IJN Shiranui") [IJN Shiranui](https://azurlane.koumakan.jp/Shiranui)
 * Skill:
   * 30% chance upon launching a torpedo spread to launch a second one.
 
 * Desc: 
 >One of the top DD choices for a 0LB min-cost farm fleet due to her high torpedo stat, low fuel usage, and chain torpedo skill.
-
 ![DD](https://azurlane.koumakan.jp/w/images/0/0f/Kizuna_AIChibi.png "DDakyu") - **[Kizuna AI](https://azurlane.koumakan.jp/Kizuna_AI)**
 * Skill:
   * Every 20s, initiate RNG fiesta. (35% chance for -8% FP/Torp/Aviation to all enemies; 35% chance for -6%; 18% chance for -4%; 12% chance for +4% instead).
