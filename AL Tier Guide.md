@@ -238,7 +238,7 @@ It's pretty good, all things considered, even if her damage output is fairly med
 Like all other French big guns (Gascogne aside), she too has only two Main Gun Mounts and starts the battle with them pre-loaded.  
 A fairly straightforward unit, all in all, but one that's absolutely stellar at everything you'd ask a BB and a factional flagship to do.
 
-#### ![CV](/Images-for-the-Guide/EagleChibi.png "Not Bearn") - [HMS Eagle](https://azurlane.koumakan.jp/Eagle)
+#### ![CV](/Images-for-the-Guide/EagleChibi.png "I can't believe it's not Bearn!") - [HMS Eagle](https://azurlane.koumakan.jp/Eagle)
 * Role:
   * **Self-defence and long-range supportive fire capable mob fleet carrier**; fast airstrike carrier; average CV DPS.
 
