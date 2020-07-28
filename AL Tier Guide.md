@@ -270,7 +270,7 @@ P.S.: I know it's Béarn's barrage in the gif, but it's also the exact same barr
   * Has a 3/0/3 loadout.
 
 * Recommended Loadouts:
-  * [General Purpose] VF17; Ryusei; Quad Bofors; Hydraulic Catapult; Homing Beacon
+  * [General Purpose] VF17; Ryusei; Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; Ryusei; Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
