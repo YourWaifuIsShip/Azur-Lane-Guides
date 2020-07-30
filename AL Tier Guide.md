@@ -2442,8 +2442,8 @@ The Accuracy and Evasion boosts are nice to have, too, but not exactly worthy of
   * Main Gun ammo is overrideen to SHS (60/135/115, shells fire at extremely high angles and fall from the sky) and salvo damage increases the farther the shots land, up to +30% dmg.
 
 * Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [Lategame Bossing] Prototype Triple 410mm Mounted Gun; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] Prototype Triple 410mm Mounted Gun; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Massachusetts shoots for the stars, but the aim isn't quite there. 
