@@ -23,14 +23,14 @@ Turtling doesn't win you games in RTS and it certainly doesn't here, as later on
 Related to the point above. Treat boss fights as DPS checks, as your healing does not have the potency nor the speed to match the enemies' DPS and this will only become more apparent the farther you progress; the only way you get out of a lategame boss fight is by killing the boss before it kills you, and healers by and large trade their DPS for support.  
 
 ## **A REPAIR SHIP IS NOT A HEALER, IT'S A GLORIFIED AAA.** 
-The point is thoroughly covered in the Tier Guide, but tldr; Repair Ships' healing is pitiful compared to that of proper healers (Unicorn/Shouhou/Ryuuhou/Arizona) and bring no DPS to boot, on account of having no planes nor surface guns to fire. What they do have is two twin AA gun slots with a good (for backliners) 100% Efficiency and three auxiliary slots to fill with AA Radars. 
+The point is thoroughly covered in the Tier Guide, but tldr; Repair Ships' healing is pitiful compared to that of proper healers (Unicorn/Shouhou/Ryuuhou/Arizona/Perseus) and bring no DPS to boot, on account of having no planes nor surface guns to fire. What they do have is two twin AA gun slots with a good (for backliners) 100% Efficiency and three auxiliary slots to fill with AA Radars. 
 This makes for some impressive AA dakka, but before you run off using them in W12 - remember it also comes at a steep cost in support and DPS.  
 Refrain from using them unless you're desperate, and even then go for Vestal, at least she can rescue someone from near-death.  
 
-## **DO NOT PUT A CARRIER AS YOUR FLAGSHIP. (unless it's Zeppy / you're bringing 3 carriers anyway / you're bringing 2 USS BB pre-W12)** 
+## **DO NOT PUT A CARRIER AS YOUR FLAGSHIP. (unless it's CL-armable / you're bringing 3 carriers anyway / you're bringing 2 USS BB pre-W12)** 
 Carriers lack the HP, the armour and - more importantly from W1 to W11 - the secondary guns needed to endure incoming threats.  
 Battleships and Battlecruisers all do, and often enough also happen to have barrages which will be most effective (if at all) only when launched from the flagship position; barrages that work from the sides only come with Georgia and Kirishima.  
-- Zeppy is an exception, as she can be armed with defensive CL guns.  
+- Zeppy/Bearn/Eagle are an exception, as they can be armed with defensive CL guns.  
 - 3CV/L comps are another exception, in which case you'll want the toughest carrier as flagship.  
 - 2BB 1CV USS comps are an uncommon sight but can be quite effective, and the reason for the flagship being in the middle lies in the DD secondaries carried by those American barrage-less Battleships; if they DO happen to have a barrage, however, you'll still have the BBarrager as the flagship as you'll benefit more from the barrage than from the improved coverage.
 
