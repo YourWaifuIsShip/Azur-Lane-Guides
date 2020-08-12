@@ -81,6 +81,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 - HMS Icarus joined the Honourable Mentions.
 - HMS Howe, Valiant, Perseus, Eagle and Hermione joined the Tierless guide.
+- HMS Eskimo now has a barrage gif, courtesy of Poiya#2337!
 
 <br/><br/>
 ---
