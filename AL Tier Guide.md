@@ -93,7 +93,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
   * **Light self-healing DD tank**, medium DD Gun DPS, below average DD Torp DPS.
   
 * Skill:
-  * Every 30s, launch a special [barrage](https://cdn.discordapp.com/attachments/367307557796053002/723803781321457733/unknown.png); upon falling below 30% HP, heal 10% of max HP back and launch a special barrage (only one proc per battle). Those barrages are the same.
+  * Every 30s, launch a special [barrage](https://cdn.discordapp.com/attachments/742730234893172796/742730440154152960/Eskimo-Barrage.gif); upon falling below 30% HP, heal 10% of max HP back and launch a special barrage (only one proc per battle). Those barrages are the same.
     * The 17 shots deal 24 bdmg with 100/100/100 armour mods. They are modified by 100% of the unit's FP.
   
 * Recommended Loadouts:
