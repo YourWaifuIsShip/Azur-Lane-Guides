@@ -2864,7 +2864,7 @@ Formidable also happens to have a barrage if her Albacore tax is paid, but expec
   * [Poverty] F6F Hellcat; Tenzan; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
->Arguably the best support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
+>Easily acquired and packing the ever-valuable standard vanguard heals, between that, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
  
  
  ![CVL](/Images-for-the-Guide/RyuuhouChibi.png "Ryuuhou") - **[IJN Ryuuhou](https://azurlane.koumakan.jp/Ryuuhou)**
