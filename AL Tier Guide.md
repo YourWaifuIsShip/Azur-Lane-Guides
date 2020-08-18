@@ -77,11 +77,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (28/07/2020)
+## Changelog as of last major update (18/08/2020)
 
-- HMS Icarus joined the Honourable Mentions.
-- HMS Howe, Valiant, Perseus, Eagle and Hermione joined the Tierless guide.
-- HMS Eskimo now has a barrage gif, courtesy of Poiya#2337!
+- CA tiers have been removed and Roles have been added in their place. IT BEGINS
 
 <br/><br/>
 ---
