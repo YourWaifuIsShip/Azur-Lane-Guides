@@ -106,6 +106,43 @@ What's not to like?
 >Stock London isn't particularly worth writing home about. Like most HMS CA she has good weaponry and a good skill bolted onto a fragile frame, and the purple CA (11 Oil) price tag is nasty... especially when Leander Kai would do most of her job for much cheaper (8 Oil).  
 If you can hang on until her retrofit though, and you should, you get one of the absolute best CAs in the game - consistent, useful and powerful (in this order), London Kai augments any fleet she's in and shreds adds like few others can while enjoying okay survivability.  
 
+![CA](/Images-for-the-Guide/IndianapolisChibi.png "USS Indianapolis") - **[USS Indianapolis](https://azurlane.koumakan.jp/Indianapolis)**
+* Skill: 
+  * Every 30s, spawns 2 orbiting shields that last 8 shots or 15s; if broken, all nearby enemies take minor damage.
+  * Upon taking damage, 8% chance to halve that damage.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+* Availability:
+  * The game gives you one on day 2.
+
+* Post-early-game relevance:
+  * None, collection aside. You'll have better by then.
+
+* Desc: 
+>The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
+Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
+
+![CA](Images-for-the-Guide/NorthamptonChibi.png "USS Northampton") - **[USS Northampton](https://azurlane.koumakan.jp/Northampton)**
+* Skill: 
+  * +15% FP to all CL/CA in the fleet.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+* Availability:
+  * 3-1, 4-4.
+
+* Post-early-game relevance:
+  * None, collection aside. Wichita and London Kai exist and are vastly superior.
+
+* Desc: 
+>What you use when you don't have Wichita but still want a powerful, buff-capable CA.  
+She will be phased out eventually, alas, but she's good while she's there and you can still use her to augment a second fleet.
+
 ![CA](/Images-for-the-Guide/PortlandKaiChibi.png "Portland Kai") - **[USS Portland Kai](https://azurlane.koumakan.jp/Portland#retrofit)**
 * Skill: 
   * When sortied w/ Indianapolis, gain +15% Firepower, AA and Evasion. Do not do this.
