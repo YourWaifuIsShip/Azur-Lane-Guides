@@ -1631,7 +1631,7 @@ Still, she's alright and what goes for Curlew, goes for her.
 
 ![CA](/Images-for-the-Guide/BaltimoreChibi.png "Baltimore") - **[USS Baltimore](https://azurlane.koumakan.jp/Baltimore)** 
 * Role:
-  * **Extreme Gun DPS (w/ improved AP lock)**, good USS carrier buffer and Light tank (w/ 2+ USS carriers), Medium tank (w/o USS carriers).
+  * **Extreme Gun DPS (AP+-locked) and anti-Heavy Armour Break debuffer** , good USS carrier buffer and Light tank (w/ 2+ USS carriers), Medium tank (w/o USS carriers).
 
 * Skill: 
   * Overrides Main Gun ammo with improved AP (85/120/85 modifiers).
