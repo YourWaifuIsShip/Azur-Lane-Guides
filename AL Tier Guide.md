@@ -1845,7 +1845,7 @@ That said, don't make the mistake of thinking Heavy Armour makes her invincible 
 * Desc: 
 >The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
 
-[CA](/Images-for-the-Guide/IbukiChibi.png "Fat DD") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)** **(T0 vs Sirens/Bosses)**
+![CA](/Images-for-the-Guide/IbukiChibi.png "Fat DD") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)** **(T0 vs Sirens/Bosses)**
 * Roles:
   * **Oversized DD (extreme Torp DPS w/ extra preload, average Gun DPS)**.
 
