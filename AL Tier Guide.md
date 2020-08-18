@@ -159,25 +159,6 @@ It's a mess, but if you actually do jump through the hoops she forces you to, th
 Jeanne d'Arc one-ups Sheffield in the 'vanguard protector' role, as her shields apply to every ship regardless of HP and are proper shields instead of a damage reduction, meaning at least some damage will be blocked entirely; better yet, if the personal shields were to break (as they are wont do during enemy bursts), the subsequent 2s of invulnerability let those units evade even more damage.  
 The heal on shield expiration is nice too, but hardly going to make a difference later on (they'll just break first, but DDs could still appreciate the help when the pressure is lower); the +HMS damage is a funny historical reference and about as relevant as the damage she takes from her immolation (a meagre 80 damage after 30s of battle, entirely negligible).
 
-
-![CL](/Images-for-the-Guide/AlgérieChibi.png "The first e is accented") - **[MNF Algerie](https://azurlane.koumakan.jp/Algérie)**
-* Role:
-  * **Heavy Gun/Torpedo Torp-CA DPS** (w/ extra damage vs DD/BB), **heavy tank** (w/ extra torpedo defence).
-
-* Skill:
-  * Deal +15% damage to Ignited enemies. 20s after battle start, launch an Igniting [barrage](https://streamable.com/i5zks9); this barrage is also launched on a 70% chance on Main Gun fire, with a 10s internal cooldown.
-    * The 18 HE CA shots deal 20 bdmg with 135/95/70 armour modifiers. They are modified by 100% of the unit's FP.
-  * Upon battle start, gain a frontal torpedo shield; the shield lasts 20s and is respawned every 30s. The shield can block up to 5 torpedo hits; while the shield is active, Algérie gains +15% FP and deals +12% damage to DD/BB. Also, if auto mode has been off for more than 5s, gain +8 Speed and +15% Evasion.
-  
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
-- Desc: Torp-CA done right.
->Torp-CA have a very poor reputation in Azur Lane, one that's mostly deserved at that - with the stats to gun hard but without the weight of fire required, without the stats to torpedo hard but with the mounts for it, they're in almost all cases the worst kind of hybrid, the bad-of-all-trades, master of none.  
-Algérie rectifies this unfortunate situation by, amusingly, leaning more into the gun side of her kit - her shelling, aided by the barrage, is strong enough to be somewhat competitive with dedicated Gun-CAs, while her torpedoes are well-capable of taking out hard targets (BB in primis).  
-Her staying power is also impressive, in part because of the excellent statline, in part because of the +Evasion, and in part because of the anti-torpedo shield (which counterintuitively you want to *keep safe*, as it increases her damage output).
-
 ![BB](/Images-for-the-Guide/HoweChibi.png "Amazon Kai Ni") - **[HMS Howe](https://azurlane.koumakan.jp/Howe)**
 * Role:
   * **BB/BC/BBV Accuracy** and Reload **buffer; aimed BBarrager;** very high DPS (very high Gun DPS, average but aimed Barrage DPS) w/ 1 KGV-class or 3+ HMS units.
@@ -1650,7 +1631,7 @@ Still, she's alright and what goes for Curlew, goes for her.
 
 ![CA](/Images-for-the-Guide/BaltimoreChibi.png "Baltimore") - **[USS Baltimore](https://azurlane.koumakan.jp/Baltimore)** 
 * Role:
-  * **High Gun DPS (w/ improved AP lock)**, good USS carrier buffer and Light tank (w/ 2+ USS carriers), Medium tank (w/o USS carriers).
+  * **Extreme Gun DPS (w/ improved AP lock)**, good USS carrier buffer and Light tank (w/ 2+ USS carriers), Medium tank (w/o USS carriers).
 
 * Skill: 
   * Overrides Main Gun ammo with improved AP (85/120/85 modifiers).
@@ -1666,7 +1647,7 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
 
 ![CA](/Images-for-the-Guide/BremertonChibi.png "Bremerthot") - **[USS Bremerton](https://azurlane.koumakan.jp/Bremerton)**
 * Role: 
-  * **High Gun DPS, light AA carry and light tank (if not lead)**, medium tank (if lead).
+  * **Extreme Gun DPS, light AA carry and light tank (if not lead)**, medium tank (if lead).
 
 * Skill: 
   * Upon Main Gun fire, 30% chance to deal +30% dmg for 3s (with 5s internal cooldown); also, 70% chance to fire a [special barrage](https://streamable.com/srnlj) (with 10s internal cooldown).
@@ -1746,7 +1727,7 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
 
 ![CA](/Images-for-the-Guide/WichitaChibi.png "USS Wichita") - **[USS Wichita](https://azurlane.koumakan.jp/Wichita)**
 * Roles:
-  * **Extreme Gun DPS, Cruiser FP booster**.
+  * **Best Gun DPS, Cruiser FP booster**.
 
 * Skill: 
   * Grant +15% Firepower to all CL/CA/CB in the fleet.
@@ -1992,6 +1973,25 @@ Nevertheless, she's still one of your only viable KMS cruiser options, so...
 > Historically praised by multiple navies as one of the absolute best heavy cruiser designs but robbed of its chance to shine due to the fall of France in WW2, Azur Lane's Saint Louis has come to set the record straight - and does she ever.  
 Mightiest of all CA by weight of stats and skills, there is no area where she doesn't excel - her guns absolutely melt opposing Light Armour and punch through Heavy Armour better than most other frontliners' in the game, her Speed is slightly superior to that of CLs and enjoys a hefty boost to her already high Evasion for more than half a minute after the battle starts, her AA is uncharacteristically high for her class and she enjoys all the perks of her Spe-CA peers (Medium Armour, MGM+1 and Torpedoes).  
 The only fault one can find in her would be her barrage - its wide linear pattern helps dispatching multiple weak foes, yes, but also neuters its impact against single targets.
+
+![CL](/Images-for-the-Guide/AlgérieChibi.png "The first e is accented") - **[MNF Algerie](https://azurlane.koumakan.jp/Algérie)**
+* Role:
+  * **High Gun DPS, average Torp DPS** (w/ extra damage vs DD/BB), **heavy tank** (w/ extra torpedo defence).
+
+* Skill:
+  * Deal +15% damage to Ignited enemies. 20s after battle start, launch an Igniting [barrage](https://streamable.com/i5zks9); this barrage is also launched on a 70% chance on Main Gun fire, with a 10s internal cooldown.
+    * The 18 HE CA shots deal 20 bdmg with 135/95/70 armour modifiers. They are modified by 100% of the unit's FP.
+  * Upon battle start, gain a frontal torpedo shield; the shield lasts 20s and is respawned every 30s. The shield can block up to 5 torpedo hits; while the shield is active, Algérie gains +15% FP and deals +12% damage to DD/BB. Also, if auto mode has been off for more than 5s, gain +8 Speed and +15% Evasion.
+  
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
+  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+
+- Desc: Torp-CA done right.
+>Torp-CA have a very poor reputation in Azur Lane, one that's mostly deserved at that - with the stats to gun hard but without the weight of fire required, without the stats to torpedo hard but with the mounts for it, they're in almost all cases the worst kind of hybrid, the bad-of-all-trades, master of none.  
+Algérie rectifies this unfortunate situation by, amusingly, leaning more into the gun side of her kit - her shelling, aided by the barrage, is strong enough to be somewhat competitive with dedicated Gun-CAs, while her torpedoes are well-capable of taking out hard targets (BB in primis).  
+Her staying power is also impressive, in part because of the excellent statline, in part because of the +Evasion, and in part because of the anti-torpedo shield (which counterintuitively you want to *keep safe*, as it increases her damage output).
+
 
 ![CA](/Images-for-the-Guide/ZaraChibi.png "Zara") - **[RN Zara](https://azurlane.koumakan.jp/Zara)**
 * Roles:
