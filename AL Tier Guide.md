@@ -1793,7 +1793,7 @@ All that said, though - she's alright.
 
 ![CB](/Images-for-the-Guide/AzumaChibi.png "Choukai 2.0") - **[IJN Azuma](https://azurlane.koumakan.jp/Azuma)**
 * Role:
-  * **Super Heavy Tank**, High Gun DPS (w/ arcing fire and AoE damage).
+  * **Super Heavy Tank**, **Extreme to Best Gun DPS (HE-locked, Arcing, AoE shells; damage increases with range)**.
 
 * Skill:
   * If equipped with a 280mm+ Main Gun, gains up to +25% Main Gun Damage depending on how far from the enemy she is; also, gain +50% Ignition Damage.
