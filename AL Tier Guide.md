@@ -2237,7 +2237,7 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
 * Desc: 
 >THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
 
-![BB](/Images-for-the-Guide/BismarckChibi.png "Bismarck") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)** **(T0 w/ KMS units around)**
+![BB](/Images-for-the-Guide/BismarckChibi.png "Blond E") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)** **(T0 w/ KMS units around)**
 * Skill: 
   * The first salvo of her every volley always crits; also extends the range of any CL gun equipped to 90 units (= white line that pushes you back when approached), but reduces their damage by 35%.
   * If flagship, 70% chance to fire a [weak arcing barrage](http://p8.qhimg.com/dr/400__/t01d9d850668c694dd9.gif); also, passively raise KMS carrier damage by 20%.
@@ -2250,10 +2250,10 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
   * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Here comes Tutorial Girl!
->At long last the wehraboos can rejoice - Bismarck has arrived, and she's every bit as good as they'd hoped.  
-Positively brimming in buffs for herself as well as her countrywomen, her sole presence is enough to kick all their weaponry into overdrive, having them shoot harder and slightly faster, while their carriers (all one/two of them) enjoy a massive Nagato-like damage injection and Tirpitz finally overcomes her social anxiety with oneesan around.
-Her own guns are no strangers to buffs either, with guaranteed crits on every first salvo of every volley and massively extended CL secondary ranges (at the cost of 1/3 less damage); the former buff easily steals the spotlight, but the range extension allows her to lend a hand to a vanguard that's in over its head (or take potshots at vanguards in PvP).  
-Last and least, she has a barrage too. It's not particularly good, but it's there and no other KMS backliner has a better one, so have her be the flag.  
+>At long last the wehraboos can rejoice - Bismarck has arrived, and she's the flagship buffer they desperately needed.
+Positively brimming in buffs for herself as well as her countrywomen, her sole presence is enough to kick all their weaponry into overdrive, having them shoot harder and slightly faster, while their carriers (all one/two of them) enjoy a sizeable damage injection and Tirpitz finally overcomes her social anxiety with oneesan around and becomes actually useful.
+Her own guns are no strangers to buffs either, with guaranteed crits on every first salvo of every volley and massively extended CL secondary ranges (at the cost of 1/3 less damage); the former buff easily steals the spotlight, but the range extension allows her to lend a hand to a vanguard that's in over its head (or take potshots at vanguards in PvP). Do not expect it to help an actually competent vanguard however.  
+Last and least, she has a barrage too. It has the unique distinction of being so bad it's not worth even taking into consideration when picking gear.
 
 
 ### Tier 1:
