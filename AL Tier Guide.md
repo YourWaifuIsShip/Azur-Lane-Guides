@@ -1031,7 +1031,7 @@ Most Cruiser compositions will benefit by her presence.
 * Desc: 
 >Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
 
-![CL](/Images-for-the-Guide/RenoChibi.png "Ireno Man") - **[USS Reno](https://azurlane.koumakan.jp/Reno)** **(T0.5 w/ 1+ CV/L)**
+![CL](/Images-for-the-Guide/RenoChibi.png "Ireno Man") - **[USS Reno](https://azurlane.koumakan.jp/Reno)** 
 * Role:
   * Carrier defender; mob/boss fleet medium DPS and **heavy AA carry**.
 
@@ -1104,7 +1104,7 @@ It goes without saying that she'll severely underperform if she's not going to a
   * [Poverty] Twin 150mm tbtsk c/36; Twin 150mm tbtsk c/36 or 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Scuttlefish.
->Yet another example of the modular buffing structure the USS displays as a whole, she has the potential to be useful in a variety of situations if outfitted and deployed accordingly; while her AA isn't as strong as San Diego's, her staying power isn't on par with Neptune's and her DPS falls behind that of her T0 peers, Scuttle can nevertheless put up a remarkable show on all accounts
+>Yet another example of the modular buffing structure the USS displays as a whole, she has the potential to be useful in a variety of situations if outfitted and deployed accordingly; while her AA isn't as strong as San Diego's, her staying power isn't on par with Neptune's and her DPS falls behind that of her peers, Scuttle can nevertheless put up a remarkable show on all accounts
 and endure a shocking amount of abuse in the process.  
 Weird but potentially very good. Watch out for her loadout.
 
@@ -1417,7 +1417,7 @@ Your backline in particular will thank her for her support - they are desperatel
 > What do you get when you strip away the Sendai-class's vanguard-wide torpedo buffs, replace them with a massive flat damage boost and a chance for double torpedoes, tack on some extra HP, real AA guns (a first for the IJN) and lob some Firepower onto their above-average main guns? You get the last word in terms of CL torpedo prowess, that's what - Kinu Kai.   
 Accept no substitute, but do consider a Jintsuu or Noshiro to boost even further her obscenely powerful ordnance; also feel free to forget about the ASW stuff, your subs shouldn't be taking damage in the first place.  
 
-![CL](/Images-for-the-Guide/IsuzuKaiChibi.png "Isuzu Kai") - **[IJN Isuzu Kai](https://azurlane.koumakan.jp/Isuzu#retrofit)** **(T0 in Plane Hells)**
+![CL](/Images-for-the-Guide/IsuzuKaiChibi.png "Isuzu Kai") - **[IJN Isuzu Kai](https://azurlane.koumakan.jp/Isuzu#retrofit)**
 * Role:
   * **Best AA carry**, below average Gun DPS, average Torp DPS, light tank.
 
@@ -1524,7 +1524,7 @@ Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outco
 Ziggy's Kai gave her the statline she needed to compete favourably with the other big-name CL supporters, even if the second skill is kinda lacklustre. Her torps in particular have shot up a fair few notches, going from an afterthought to her main source of damage, while also making adequate gains in staying power.  
 Nice.  
 
-![CL](/Images-for-the-Guide/Emile_BertinKaiChibi.png "Emile Bertin Kai") - **[FFNF Emile Bertin Kai](https://azurlane.koumakan.jp/Emile_Bertin#retrofit)** **(T1 w/ DDs, T0.5 w/ FFNF or MNF DDs)**
+![CL](/Images-for-the-Guide/Emile_BertinKaiChibi.png "Emile Bertin Kai") - **[FFNF Emile Bertin Kai](https://azurlane.koumakan.jp/Emile_Bertin#retrofit)**
 * Roles:
   * **French DD vanguard leader**, DD vanguard leader, above average Gun DPS, average Torp DPS, medium tank.
 
