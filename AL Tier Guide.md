@@ -77,9 +77,10 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (18/08/2020)
+## Changelog as of last major update (28/08/2020)
 
-- CA tiers have been removed and Roles have been added in their place. IT BEGINS
+- CL tiers have been removed and Roles have been added in their place. IT CONTINUES!
+- A few CL have been dropped from the guide, check the recent changes to see who didn't make the cut. (Will make a list next time, I promise.)
 
 <br/><br/>
 ---
@@ -102,47 +103,6 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - Desc: 
 >Finally, a competent enough HMS DD! Sure, her staying power is somewhat questionable if exposed to heavy fire and its damage output is just alright, but a self-heal is always appreciated and if you main HMS, you don't really get to be picky with your DD choices.
 
-
-
-
-![CL](/Images-for-the-Guide/HermioneChibi.png "Maid no.???") - **[HMS Hermione](https://azurlane.koumakan.jp/Hermione)**
-* Role:
-  * High DD Gun and Barrage DPS (if not vanguard lead *and* managing to land both barrages).
-  
-* Skill:
-  * On battle start and every 15s, fire a [special long-range, straight barrage](https://streamable.com/jxco4l); if no enemies are within 30 units (eg. your average Quad Bofors+113mm setup), also fires a special mid-range, arcing, aimed(?) barrage.
-    * The 20 pellets deal 20 bdmg with 120/80/60 armour modifiers. Both barrages use these values, and both are modified by 100% of the unit's FP.
-  * If NOT deployed as vanguard lead, gain +20% FP/Torp/AA/Reload; if there are any other HMS units, also deal +8% damage.
-  * Can and should equip DD guns.
-  
-* Recommended Loadouts:
-  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
-- Desc: what if black prince but good
->A fairly standard Dido-class CL, she comes with the expected solid-but-unremarkable DD gun DPS, passable AA and atrocious torpedoes.  
-As a Dido-class, the barrages should be the main attraction here... except they're implemented in just about the stupidest way possible: the arcing, short-range barrage only fires when she's 30+ units away from any enemy, meaning she has to gingerly skirt the edge of the 30-35 units mark for it to fire (no guarantee of it landing on target either), whereas the non-conditional one just fires straight... which doesn't mesh with the supposed aiming on the arcing barrage.  
-It's a mess, but if you actually do jump through the hoops she forces you to, the damage *is* there and it's *mostly* worth it.
-
-
-![CL](/Images-for-the-Guide/Jeanne_d'ArcChibi.png "Saber 3") - **[FFNF Jeanne d'Arc](https://azurlane.koumakan.jp/Jeanne_d%27Arc)**
-* Role:
-  * **Best vanguard protector**, slightly above average CL DPS.
-  
-* Skill:
-  * Deal +10% damage to HMS units; upon battle start, self-inflict a very weak Ignition (30s long burn, 10 x 3s ticks, each dealing 8 damage, non-scaling) with a 10% refresh chance whenever Jeanne is hit, and gain +20% FP/Torp/AA/Evasion whenever she's Ignited.
-    * Regular Ignitions stack with this Ignition and deal damage as if she were not Ignited.
-  * 10s after battle start and every 20s afterwards, grant every vanguard unit a personal shield. The shield blocks up to 6% of Jeanne's max HP and lasts 8s; if the shield breaks before then, the unshielded unit gains 2s of total invincibility, and if the shield survives, the unshielded unit heals 70HP.
-  
-* Recommended Loadouts:
-  * [Shields Up] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-  * [General Purpose] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
-- Desc: Toasty!
->Setting yourself on fire usually isn't a great way to start a fight, but apparently Jeanne d'Arc - this one, at least - never got the memo. Or maybe it's *holy* fire and that's what lets her get considerably stronger while she's blazing?  Anyway.  
-Jeanne d'Arc one-ups Sheffield in the 'vanguard protector' role, as her shields apply to every ship regardless of HP and are proper shields instead of a damage reduction, meaning at least some damage will be blocked entirely; better yet, if the personal shields were to break (as they are wont do during enemy bursts), the subsequent 2s of invulnerability let those units evade even more damage.  
-The heal on shield expiration is nice too, but hardly going to make a difference later on (they'll just break first, but DDs could still appreciate the help when the pressure is lower); the +HMS damage is a funny historical reference and about as relevant as the damage she takes from her immolation (a meagre 80 damage after 30s of battle, entirely negligible).
 
 ![BB](/Images-for-the-Guide/HoweChibi.png "Amazon Kai Ni") - **[HMS Howe](https://azurlane.koumakan.jp/Howe)**
 * Role:
@@ -1305,6 +1265,25 @@ On the flipside, the buffs can be unwieldy: while the Dido+3HMS requirements is 
 The difference lies in how 'safe' they play things, as Edinburgh gets a passive boost to AP damage inflicted, an even bulkier HP pool (4.1k is amazing for both varieties of Cruiser) and no AA skill to burn her FP, but doesn't get that lone shot at the fleetwide buff and her DPS is still par for the course for a CL.  
 Still, there's very few more reliable frontline tanks than she - and that's a definite plus.
 
+![CL](/Images-for-the-Guide/HermioneChibi.png "Maid no.???") - **[HMS Hermione](https://azurlane.koumakan.jp/Hermione)**
+* Role:
+  * High DD Gun and Barrage DPS (if not vanguard lead *and* managing to land both barrages).
+  
+* Skill:
+  * On battle start and every 15s, fire a [special long-range, straight barrage](https://streamable.com/jxco4l); if no enemies are within 30 units (eg. your average Quad Bofors+113mm setup), also fires a special mid-range, arcing, aimed(?) barrage.
+    * The 20 pellets deal 20 bdmg with 120/80/60 armour modifiers. Both barrages use these values, and both are modified by 100% of the unit's FP.
+  * If NOT deployed as vanguard lead, gain +20% FP/Torp/AA/Reload; if there are any other HMS units, also deal +8% damage.
+  * Can and should equip DD guns.
+  
+* Recommended Loadouts:
+  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+- Desc: what if black prince but good
+>A fairly standard Dido-class CL, she comes with the expected solid-but-unremarkable DD gun DPS, passable AA and atrocious torpedoes.  
+As a Dido-class, the barrages should be the main attraction here... except they're implemented in just about the stupidest way possible: the arcing, short-range barrage only fires when she's 30+ units away from any enemy, meaning she has to gingerly skirt the edge of the 30-35 units mark for it to fire (no guarantee of it landing on target either), whereas the non-conditional one just fires straight... which doesn't mesh with the supposed aiming on the arcing barrage.  
+It's a mess, but if you actually do jump through the hoops she forces you to, the damage *is* there and it's *mostly* worth it.
+
 ![CL](/Images-for-the-Guide/GloucesterChibi.png "Gloster") - **[HMS Gloucester](https://azurlane.koumakan.jp/Gloucester)**
 * Roles:
   * **Out of Ammo debuff mitigator**, average Gun DPS, average Torp DPS, medium tank.
@@ -1562,6 +1541,26 @@ Nice.
 * Desc: La merveilleuse DDanseuse!
 >With the retrofit patching up her average statline and further bolstering it when she's doing her job (ie. escorting DDs), Emile Bertin proves herself as a strong DD flotilla leader and an invaluable asset for French DDs specifically.  
 Her retaliatory barrage is pretty strong, but you should try *not* to proc it; les torpeilleures can't patch themselves back up!
+
+![CL](/Images-for-the-Guide/Jeanne_d'ArcChibi.png "Saber 3") - **[FFNF Jeanne d'Arc](https://azurlane.koumakan.jp/Jeanne_d%27Arc)**
+* Role:
+  * **Best vanguard protector**, slightly above average CL DPS.
+  
+* Skill:
+  * Deal +10% damage to HMS units; upon battle start, self-inflict a very weak Ignition (30s long burn, 10 x 3s ticks, each dealing 8 damage, non-scaling) with a 10% refresh chance whenever Jeanne is hit, and gain +20% FP/Torp/AA/Evasion whenever she's Ignited.
+    * Regular Ignitions stack with this Ignition and deal damage as if she were not Ignited.
+  * 10s after battle start and every 20s afterwards, grant every vanguard unit a personal shield. The shield blocks up to 6% of Jeanne's max HP and lasts 8s; if the shield breaks before then, the unshielded unit gains 2s of total invincibility, and if the shield survives, the unshielded unit heals 70HP.
+  
+* Recommended Loadouts:
+  * [Shields Up] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [General Purpose] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+- Desc: Toasty!
+>Setting yourself on fire usually isn't a great way to start a fight, but apparently Jeanne d'Arc - this one, at least - never got the memo. Or maybe it's *holy* fire and that's what lets her get considerably stronger while she's blazing?  Anyway.  
+Jeanne d'Arc one-ups Sheffield in the 'vanguard protector' role, as her shields apply to every ship regardless of HP and are proper shields instead of a damage reduction, meaning at least some damage will be blocked entirely; better yet, if the personal shields were to break (as they are wont do during enemy bursts), the subsequent 2s of invulnerability let those units evade even more damage.  
+The heal on shield expiration is nice too, but hardly going to make a difference later on (they'll just break first, but DDs could still appreciate the help when the pressure is lower); the +HMS damage is a funny historical reference and about as relevant as the damage she takes from her immolation (a meagre 80 damage after 30s of battle, entirely negligible).
+
 
 ![CL](/Images-for-the-Guide/AvroraChibi.png "Avrora") - **[SN Avrora](https://azurlane.koumakan.jp/Avrora)**
 * Roles:
