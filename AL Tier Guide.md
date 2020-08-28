@@ -1143,7 +1143,7 @@ While powerful for their class, they are also dangerously frail and lacking in s
 
 ![CL](/Images-for-the-Guide/AuroraChibi.png "Aurora") - **[HMS Aurora](https://azurlane.koumakan.jp/Aurora)**
 * Roles:
-  * **PvP DD/CLd debuffer**, below average gun DPS, average Torp DPS.
+  * **PvP DD/CL debuffer**, below average gun DPS, average Torp DPS.
 
 * Skill: 
   * +20% own Damage vs cargo ships, torpedo boats, suicide boats and DDs. 
