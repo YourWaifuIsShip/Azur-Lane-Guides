@@ -77,10 +77,10 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (28/08/2020)
+## Changelog as of last major update (10/09/2020)
 
-- CL tiers have been removed and Roles have been added in their place. IT CONTINUES!
-- A few CL have been dropped from the guide, check the recent changes to see who didn't make the cut. (Will make a list next time, I promise.)
+- BB tiers have been removed and Roles have been added in their place. IT CONTINUES!
+- Washington, California, Renown, Scharnhorst and Gneisenau have been removed from the Unit Guide. F.
 
 <br/><br/>
 ---
@@ -2069,7 +2069,7 @@ If you're looking that something that won't die anytime soon, look no further; i
 <br/><br/>
 ## BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")
 ---
-![BB](/Images-for-the-Guide/AlabamaChibi.png "Incest") - **[USS Alabama](https://azurlane.koumakan.jp/Alabama)** **(T0 if mob fleet flagship)**
+![BB](/Images-for-the-Guide/AlabamaChibi.png "Incest") - **[USS Alabama](https://azurlane.koumakan.jp/Alabama)**
 * Roles:
   * **Mob fleet flagship, high DPS (high Gun DPS, average Barrage DPS)**, good anti-Aviation defence.
 
@@ -2338,21 +2338,6 @@ Still, competent and capable if catered to.
 Fielding her in a full HMS fleet is one of her few last semi-practical applications, if you can stomach the rather poor quality of the average HMS vanguard.  
 [Also, her age is starting to show...](https://cdn.discordapp.com/attachments/466250908682944522/526742291193266186/DnCZSPHVAAAQywe.jpg)
 
-![BC](/Images-for-the-Guide/RenownChibi.png "HMS Renown") - **[HMS Renown](https://azurlane.koumakan.jp/Renown)** **(T1.5 if deployed w/ Queen Elizabeth)**
-* Roles:
-  * Easily accessible, competent BC. Above average Gun DPS.
-
-* Skill: 
-  * Upon first Main Gun fire, +15% Damage to all subsequent salvo (does not stack nor reset).
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
-* Desc: 
->Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself properly.
-
 ![BC](/Images-for-the-Guide/AmagiChibi.png "Amagi") - **[IJN Amagi](https://azurlane.koumakan.jp/Amagi)**
 * Roles:
   * **Very high DPS (high Gun DPS, high Barrage DPS; half of Barrage DPS is aimed), fleet protector**.
@@ -2582,44 +2567,6 @@ Last and least, she has a barrage too. It has the unique distinction of being so
 >Freddy is a giant statstick. Moving on.
 What, you want more? Fine. Freddy Mercury is unreasonably strong, fully deserving of her status as a DR (and the disgusting ***19*** Oil cost) brimming as she in the sheer staying power granted by her escalating defence buff and nearly 10k base HP as well as firepower, courtesy of the devastating 160% Main Gun Efficiency she gets without sacrificing gun mounts or an easily-procced, powerful defensive barrage.  
 If one were to look hard for any chinks in her Plot Armour it could be said that her HitRate is abysmal, not that BBs exactly shine in that regard; nevertheless she's uncharacteristically bad in that regard, suffering from the PR standard 0 Luck and a meagre 65 Accuracy, but it's an easily solved issue anyway.
-
-![BC](/Images-for-the-Guide/GneisenauChibi.png "Gneisenau") - **[KMS Gneisenau](https://azurlane.koumakan.jp/Gneisenau)**
-* Roles:
-  * **Hardmode torpedo stat padder**, above average Gun DPS. Cannot defend herself.
-
-* Skill:
-  * +25% FP to self.
-  * 20s, launch 3 weak unguided torpedoes in a cone.
-  * Has SGM+0.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
-* Desc: 
->Think Yamashiro, except outright inferior across the statline, trading two whole secondary CL gun mounts for hilariously poor torpedoes and access to KMS buffs.  
-The one silver lining for this sad girl is having a torpedo stat, which you may find useful in stat padding for hardmodes... but you may as well give Oxygen Torpedoes to a vanguard to achieve the same result for cheaper.
-
- 
-![BC](/Images-for-the-Guide/ScharnhorstChibi.png "Scharnhorst") - **[KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst)** **(T1.5 if deployed with Bismarck)**
-* Roles:
-  * **Hardmode torpedo stat padder**, average DPS (average Gun DPS, low Barrage DPS). Cannot defend herself.
-
-* Skill:
-  * Every 15s, fires a [barrage] at a random target.
-    * The 3 SHELLS deal 103 bdmg with 30/130/110 mods. Their damage is modified by 100% of the unit's FP and a 110% Coefficient.
-  * Every 20s, launch 3 unguided torpedoes in a cone.
-  * Has SGM+0.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
-* Desc: 
->Think Warspite, except with a barrage that actually hits things and weaker across the statline, just like her sister; and just like her sister, she too loses two secondary gun mounts for hilariously awful torpedoes.  
-What was said for her applies to this one.
 
 ![BB](/Images-for-the-Guide/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** **(T2 with BB/BC, T0 with Bismarck)**
 * Roles:
