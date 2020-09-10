@@ -1324,7 +1324,7 @@ What's not to like?
   * **Heavy self-healing tank**, high Gun DPS (AP locked, barrage reliant), average Torp DPS.
 
 * Skill: 
-  * Deal +35% AP damage.
+  * Deal +40% AP damage.
   * Once per fight and upon falling below 20% HP, heals herself for 25% of her max HP and gains +30% Reload.
   * +15% damage to Sirens.
   
@@ -1846,7 +1846,7 @@ That said, don't make the mistake of thinking Heavy Armour makes her invincible 
 
 * Skill:
   * Gain +40% Torpedo CritRate and +65% Torpedo CritDmg.
-  * Upon launching torpedoes, 30% chance to launch a special torpedo barrage.
+  * Upon launching torpedoes, 30% chance to launch a special torpedo barrage and gain +12% Evasion for 6s.
   * Deal +15% damage to Sirens.
   * Has TWO preloaded torpedo spreads.
 
@@ -1955,7 +1955,7 @@ A wrecking ball against small craft, to be sure, but watch out for when they pic
  
 * Skill:
   * Main Gun cycles between HE and AP every 2 salvo, then gains a +3.5% Reload stack for every Main Gun salvo fired. Max 12 stacks.
-  * Every 30s, generates 4 orbiting shields (two on a very narrow orbit, one on a medium orbit, one on a wide orbit) lasting 8 shots or 15s.
+  * Every 30s and upon battle start, generates 4 orbiting shields (two on a very narrow orbit, one on a medium orbit, one on a wide orbit) lasting 8 shots or 15s.
   * Deal +15% damage to Sirens.
   * Has MGM+1 and torpedoes. Really, *really* bad torpedoes.
 
@@ -1975,7 +1975,7 @@ Nevertheless, she's still one of your only viable KMS cruiser options, so...
 
 * Skill:
   * +35% HE damage and -3% Ignition chance
-  * Upon battle start, gain +8 Speed (permanent) and +30% Evasion (for 40/50s)
+  * Upon battle start, gain +8 Speed (permanent) and +30% Evasion (for 50s)
   * Deal +15% damage to Sirens.
   * Has MGM+1 and torpedoes.
 
@@ -2252,7 +2252,7 @@ Remember to have her be the flagship to make the most out of her barrage, and th
 
 * Skill:
   * 70% chance on Main Gun fire, fire a fixed AP slowing (-40% Speed for 6s) barrage (Hood-like)
-  * Once per battle and upon falling below 20% HP, restore 3% HP every 2s for 8s; also, for every 1% HP lost during the fight, her Reload increases by 1.
+  * Once per battle and upon falling below 20% HP, restore 3% HP every 2s for 10s; also, for every 1% HP lost during the fight, her Reload increases by 1.
   * Deal +15% dmg to Sirens.
 
 * Recommended Loadouts:
