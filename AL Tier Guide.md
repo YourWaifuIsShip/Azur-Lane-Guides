@@ -250,7 +250,7 @@ The DPS monster to AyaKai's DPH.
 ![DD](/Images-for-the-Guide/KitakazeChibi.png "Kitakaze") - **[IJN Kitakaze](https://azurlane.koumakan.jp/Kitakaze)**
 * Skill:
   * Main Gun modifiers are fixed to 115/115/115; also, gain +15% Main Gun Efficiency if using an IJN DD gun.
-  * If sortied as Vanguard Lead, launch a torpedo barrage 10s after the start of the battle; also, upon hitting with 10 NON-BARRAGE torpedoes, launch the same torpedo barrage.
+  * 10s after the start of the battle, launch a torpedo barrage and take -6% damage for 50s; also, upon hitting with 8 NON-BARRAGE torpedoes, launch the same torpedo barrage.
   * Deal +15% dmg to Sirens.
   * Has MGM+1.
 
@@ -1092,7 +1092,7 @@ It goes without saying that she'll severely underperform if she's not going to a
   * **Heavy AA carry and high Gun DPS** (if built for AA) or **Medium AA carry and very high Gun DPS** (if built for gunnery), **heavy tank**.
 
 * Skill: 
-  * If an aircraft is shot down within the AA circle, gain +15% FP/AA for 8s; if more than 15 aircraft have been shot down throughout the battle, gain +15% FP and +20% Reload until the end of the battle.
+  * If an aircraft is shot down within the AA circle, gain +15% FP/AA for 8s; if more than 15 aircraft have been shot down throughout the battle *or* if Air Control is at Parity or above, gain +15% FP and +20% Reload until the end of the battle.
   * If mounting a CL gun as secondary, gain +15% AA Efficiency; if mounting an AA gun as secondary, gain +15% Main Gun Efficiency; if placed as Vanguard Rear, take -15% less damage.
     * No, sortieing Seattle alone doesn't work. There is no vanguard rear when you're on your own, after all.
   * Deal +15% dmg to Sirens.
@@ -2109,7 +2109,7 @@ Yup, that's just her - and while her heal isn't as reliable as that of Unicorn o
   * **Off-flag BBarrager, very high DPS (average Gun DPS, high frontal Barrage DPS, high aimed Barrage DPS)**, good anti-Aviation defence.
 
 * Skill: 
-  * Reduce Main Gun Spread by 3; also, deal +20% Damage to CA/CB/BC/BB/BBV.
+  * Reduce Main Gun Spread by 3; also, deal +20% Damage to CA/CB/BC/BB/BBV and +10% Damage to CV/L.
   * Upon Main Gun fire, 80% chance to launch an [100% critrate barrage](http://p8.qhimg.com/dr/400__/t01c2636dff4b0e3906.gif).
     * The 4 SHS SHELLS deal 239 bdmg with 65/135/115 mods; the 36 DD PELLETS deal 35 bdmg with 120/80/60 mods. Both are modified by 100% of the unit's FP.
   * Deal +15% Damage to Sirens.
@@ -2612,9 +2612,9 @@ Solid, all things considered.
   * **Very high DPS (very high Gun DPS, high Barrage DPS; output extremely stable, improves with manual play)**, off-flag BBarrager, self-healer.
 
 * Skill: 
-  * Upon falling below half HP, gain +50% Evasion and regenerate 8% of max HP over 8s. Works twice per battle.
+  * Upon falling below half HP, gain +50% Evasion and regenerate 8% of max HP over 8s; while above 50% HP, gains +12% AA and improves the barrage. Works twice per battle.
   * Manually aimed volleys deal +40% Damage; also, every 20s, launch a [special barrage](http://p9.qhimg.com/dr/400__/t0135d3754023d7df8a.gif).
-    * The 10 RED ARROWS deal 54 bdmg with 120/80/80 mods; the 10 WHITE ARROWS deal 54 bdmg with 80/120/80 mods; the 10 BLUE ARROWS deal 54 bdmg with 80/80/120 mods. All are modified by 100% of the unit's FP.
+    * The 12 RED ARROWS deal 58 bdmg with 120/80/80 mods; the 12 WHITE ARROWS deal 58 bdmg with 80/120/80 mods; the 12 BLUE ARROWS deal 58 bdmg with 80/80/120 mods. All are modified by 100% of the unit's FP.
   * Deal +15% dmg to Sirens.
   * Main Gun salvo are split into separate volleys, and has only two Main Gun Mounts.
  
