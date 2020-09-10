@@ -81,6 +81,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 - BB tiers have been removed and Roles have been added in their place. IT CONTINUES!
 - Washington, California, Renown, Scharnhorst and Gneisenau have been removed from the Unit Guide. F.
+- Updated PR2's skills with the Fate 5 improvements.
 
 <br/><br/>
 ---
