@@ -2084,8 +2084,9 @@ If you're looking that something that won't die anytime soon, look no further; i
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: Washington 2: The Blackening.
->Take Washington, upgrade her barrage to AP and slightly raise its procrate, get rid of the useless synergy and replace it with an actually good set of self-buffs, and voilà - you have Alabama, a steamroller of a mob fleet flagship.  
-While she can work on boss fleets, so long as she gets some kills before it spawns and nobody else wants the flag slot, she's better off playing to her strengths.
+>Meant to take centre place in mob fleets, owing to her strong set of self-buffs that ramp over the course of multiple engagements and a minor but nice backline protection past the fifth fight, Alabama is both strong and reliable.
+While she can work on boss fleets, so long as she gets some kills before it spawns and nobody else wants the flag slot, she's better off playing to her strengths.  
+Also, a W13 tip - her barrage is AP, focused and linear. This means it can be expected to take on those pesky Command Craft and blow them up reliably, all you have to do is place her in the top position.  
 
 ![BB](/Images-for-the-Guide/ArizonaChibi.png "USS Arizona") - **[USS Arizona](https://azurlane.koumakan.jp/Arizona)**
 * Roles:
@@ -2105,7 +2106,7 @@ Yup, that's just her - and while her heal isn't as reliable as that of Unicorn o
 
 ![BB](/Images-for-the-Guide/GeorgiaChibi.png "Georgia") - **[USS Georgia](https://azurlane.koumakan.jp/Georgia)**
 * Roles:
-  * **Off-flag BBarrager, very high DPS (above average Gun DPS, high frontal Barrage DPS, high aimed Barrage DPS)**, good anti-Aviation defence.
+  * **Off-flag BBarrager, very high DPS (average Gun DPS, high frontal Barrage DPS, high aimed Barrage DPS)**, good anti-Aviation defence.
 
 * Skill: 
   * Reduce Main Gun Spread by 3; also, deal +20% Damage to CA/CB/BC/BB/BBV.
@@ -2122,7 +2123,7 @@ Yup, that's just her - and while her heal isn't as reliable as that of Unicorn o
 * Desc: 
 >Georgia is a simple woman - she sees a big gun, she barrages.  
 There's really not much to say about her. Very straightforward USS BB, sporting the characteristically excellent AA of her peers, albeit improved, and their same DD guns; her most remarkable feature the fact her barrage is both absolute murder *and* partially aimed, meaning it can be used from the sidelines with just a minor loss in performance, as well as her lacking one Main Gun Mount (which is partially made up for by the high Main Gun Efficiency, and partially by the devastating barrage).  
-That said, while the SHS shots are the ones that'll be most relevant to you, the DD HE shower is no joke and shouldn't be discounted, especially when you need to bring all the guns to bear and/or the boss has Light Armour.  
+That said, while the SHS shots are the ones that'll be most relevant to you, the DD HE shower is no joke and shouldn't be discounted, especially when you need to bring all the guns to bear and/or the boss has Light Armour; bear in mind that zippier bosses may need some slowing down for the SHS to connect.  
 
 ![BB](/Images-for-the-Guide/MassachusettsChibi.png "USS Massachusetts") - **[USS Massachusetts](https://azurlane.koumakan.jp/Massachusetts)**
 * Roles:
@@ -2417,7 +2418,7 @@ She also has a few torps to throw out every now and then, but they're fairly lac
   * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
   * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
-* Desc: Kongou-class support craft. Not very flashy, but her buffs are anything but unremarkable - the extra Evasion in particular makes a Kongou-class backline powerful and extremely hard to shift.
+* Desc: Kongou-class support craft. Not very flashy, but her buffs are anything but unremarkable - the extra Evasion in particular makes a Kongou-class backline powerful, accurate and hard to shift.
  
 ![BB](/Images-for-the-Guide/IseChibi.png "Ise") - **[IJN Ise](https://azurlane.koumakan.jp/Ise)**
 * Roles:
@@ -2435,7 +2436,7 @@ She also has a few torps to throw out every now and then, but they're fairly lac
 
  ![BB](/Images-for-the-Guide/NagatoChibi.png "Nagato") - **[IJN Nagato](https://azurlane.koumakan.jp/Nagato)**
 * Roles:
-  * **IJN flagship buffer w/ CV focus, very high DPS (high Gun DPS and high Barrage DPS; barrage susceptible to shields).**
+  * **IJN flagship buffer w/ CV focus, very high DPS (high Gun DPS and average Barrage DPS; Barrage unstable and susceptible to shields).**
 
 * Skill: 
   * When sortied as Flagship, grant all IJN units +10% Firepower, +20% Reload/Accuracy, and +20% damage output to all IJN carriers.
@@ -2544,7 +2545,7 @@ Nevertheless, her low HP and AA do prove a liability later on and you will have 
 * Desc: Here comes Tutorial Girl!
 >At long last the wehraboos can rejoice - Bismarck has arrived, and she's the flagship buffer they desperately needed.
 Positively brimming in buffs for herself as well as her countrywomen, her sole presence is enough to kick all their weaponry into overdrive, having them shoot harder and slightly faster, while their carriers (all one/two of them) enjoy a sizeable damage injection and Tirpitz finally overcomes her social anxiety with oneesan around and becomes actually useful.
-Her own guns are no strangers to buffs either, with guaranteed crits on every first salvo of every volley and massively extended CL secondary ranges (at the cost of 1/3 less damage); the former buff easily steals the spotlight, but the range extension allows her to lend a hand to a vanguard that's in over its head (or take potshots at vanguards in PvP). Do not expect it to help an actually competent vanguard however.  
+Her own guns are no strangers to buffs either, with guaranteed crits on every first salvo of every volley and massively extended CL secondary ranges (at the cost of 1/3 less damage); the former buff easily steals the spotlight, but the range extension allows her to lend a hand to a vanguard that's in over its head (or take potshots at vanguards in PvP). Do not expect it to help an actually competent vanguard however... or to stop *anything* at all once the zero ammo kicks in, as those guns will be firing at -85% damage.
 Last and least, she has a barrage too. It has the unique distinction of being so bad it's not worth even taking into consideration when picking gear.
 
 ![BC](/Images-for-the-Guide/Friedrich_der_GrosseChibi.png "Freddy Mercury") - **[KMS Friedrich der Grosse](https://azurlane.koumakan.jp/Friedrich_der_Grosse)**
@@ -2727,7 +2728,7 @@ Just don't ask her to handle boss fights if you can help it, and if you do, make
 
 * Skill:
   * On main gun fire, 75% chance to fire a [barrage](https://streamable.com/38l58).
-    * The 9 SHELLS deal 170 bdmg with 40/120/125 mods; the 20 ICICLES deal 20 bdmg with 120/60/60 mods; the 9 ICEBERGS deal 56 bdmg with 80/90/110 and inflicts -40% Speed *and* a very minor 2x23 Flood DoT. The damage of all of these is modified by 100% of the unit's FP, except for the Flood (no scaling).
+    * The 9 SHELLS deal 170 bdmg with 40/120/125 mods; the 20 ICICLES deal 20 bdmg with 120/60/60 mods; the 9 ICEBERGS deal 56 bdmg with 80/90/110 and inflicts -40% Speed *and* a very minor 2x23 Flood DoT, 4s long. The damage of all of these is modified by 100% of the unit's FP, except for the Flood (no scaling).
   * For her first two fights of the sortie, gain +5% Firepower and Accuracy (up to 20%) for every Northern Parliament / Dragon Empery unit in the fleet.
 
 * Recommended Loadouts:
