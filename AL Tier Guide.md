@@ -77,11 +77,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (10/09/2020)
+## Changelog as of last major update (18/09/2020)
 
-- BB tiers have been removed and Roles have been added in their place. IT CONTINUES!
-- Washington, California, Renown, Scharnhorst and Gneisenau have been removed from the Unit Guide. F.
-- Updated PR2's skills with the Fate 5 improvements.
+- Removed some conditional tierings I missed. Oops!
 
 <br/><br/>
 ---
@@ -1191,7 +1189,7 @@ Not entirely as powerful as her older self, but she's up there without being for
 That said, the recent introduction of a CL HE gun that deigns itself to fire *straight* singlehandedly makes her considerably more combat-effective, if still lacking in support power.  
 Her place is mostly PvP, as there are many other CL who will do what she does - be it DPS or tanking - better for less.
 
-![CL](/Images-for-the-Guide/Black_PrinceChibi.png "Black Prince") - **[HMS Black Prince](https://azurlane.koumakan.jp/Black_Prince)** **(T1 w/ at least 1 USS unit)**
+![CL](/Images-for-the-Guide/Black_PrinceChibi.png "Black Prince") - **[HMS Black Prince](https://azurlane.koumakan.jp/Black_Prince)**
 * Roles:
   * **Above average Gun DPS (conditional)**, low Torp DPS, light tank.
 
@@ -1353,7 +1351,7 @@ Armed with an excellent AP barrage and a very powerful AP boosting passive, and 
 
 * Desc: The advent of Plane Hells earned this previously inferior version of Leander a spot on the Tier Guide, as she patches the glaring AA-shaped hole in the HMS vanguard lineup. Her skillset isn't particularly remarkable and focusing on gunnery as a Torp-CL is somewhat questionable, but she does the job legitimately well - especially with planes to shoot at.
 
-![CL](/Images-for-the-Guide/SiriusChibi.png "Sirius") - **[HMS Sirius](https://azurlane.koumakan.jp/Sirius)** **(T0 w/ carriers)**
+![CL](/Images-for-the-Guide/SiriusChibi.png "Sirius") - **[HMS Sirius](https://azurlane.koumakan.jp/Sirius)** 
 * Roles:
   * **Good carrier buffer (conditional), high Gun DPS (barrage and fleet reliant)**, low Torp DPS.  
 
@@ -2528,7 +2526,7 @@ All in all she's usable, but she's so far behind the real self-healers (Gascogne
 >Don't be fooled by the seemingly low statline - Mikasa has a lot more Firepower and Reload than meets the eye, courtesy of her truly astounding buff suite, and is the premiere flagship for a gun-focused IJN fleets.
 Nevertheless, her low HP and AA do prove a liability later on and you will have to find some ways around that - taking more big guns, AA barges or even carriers, depending on the situation, just don't use her on her own. 
 
-![BB](/Images-for-the-Guide/BismarckChibi.png "Blond E") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)** **(T0 w/ KMS units around)**
+![BB](/Images-for-the-Guide/BismarckChibi.png "Blond E") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)**
 * Roles:
   * **KMS fleet buffer**, above average Gun DPS. Cannot reliably stop fireships.
 
@@ -2570,7 +2568,7 @@ Last and least, she has a barrage too. It has the unique distinction of being so
 What, you want more? Fine. Freddy Mercury is unreasonably strong, fully deserving of her status as a DR (and the disgusting ***19*** Oil cost) brimming as she in the sheer staying power granted by her escalating defence buff and nearly 10k base HP as well as firepower, courtesy of the devastating 160% Main Gun Efficiency she gets without sacrificing gun mounts or an easily-procced, powerful defensive barrage.  
 If one were to look hard for any chinks in her Plot Armour it could be said that her HitRate is abysmal, not that BBs exactly shine in that regard; nevertheless she's uncharacteristically bad in that regard, suffering from the PR standard 0 Luck and a meagre 65 Accuracy, but it's an easily solved issue anyway.
 
-![BB](/Images-for-the-Guide/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** **(T2 with BB/BC, T0 with Bismarck)**
+![BB](/Images-for-the-Guide/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** 
 * Roles:
   * Bismarck fire support.
 
@@ -2649,7 +2647,7 @@ If all this sounds like perfection for a newer player who would just love a stro
 Volume of fire is ultimately maintained by her gun, firing a respectable 8 shots in total, and cooldowns aren't a concern either thanks to her higher-than-normal Reload; whatever she's facing, it's heading straight to Davy Jones' locker.
 Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow dreadnoughts. The Jolliest Roger of them all.
 
-![BB](/Images-for-the-Guide/Gascogne_(Muse)Chibi.png "Muse Gascogne") - **[Muse Gascogne](https://azurlane.koumakan.jp/Gascogne_(Muse))** **(T1 w/ full Muse fleet)**
+![BB](/Images-for-the-Guide/Gascogne_(Muse)Chibi.png "Muse Gascogne") - **[Muse Gascogne](https://azurlane.koumakan.jp/Gascogne_(Muse))**
 * Roles:
   * Poor Man's Gascogne, but still good. See above, without the barrage part.
 
