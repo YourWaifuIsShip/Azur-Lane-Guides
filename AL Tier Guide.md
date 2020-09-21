@@ -68,7 +68,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ## Changelog as of last major update (21/09/2020)
 
-- Removed some conditional tierings I missed. Oops!
+- IJN Suzutsuki and IJN Kii have been written in.
+- Somehow I didn't notice Howe and Valiant weren't in the BB section. Now they are. Yay.
+- IJN Shinano will come tomorrow, there's still a few things to check and compare.
 
 <br/><br/>
 ---
