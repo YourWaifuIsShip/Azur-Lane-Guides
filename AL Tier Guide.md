@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Tier Guide (MS. AMAZON KAI NI'S WILD RIDE EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (WARNING! THE GUIDE WILL SOON CHANGE ITS NAME, AND BECAUSE OF THE WAY GITHUB WORKS, THE LINK WILL CHANGE AS WELL. BOOKMARK THE REPOSITORY, ie. THE LINK YOU USED TO COME IN HERE!)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -33,19 +33,8 @@ Good reading, and godspeed cap'n!
 - Support is too varied a field and thus simply references how the unit supports others via heals, buffs or debuffs.
 - If you'd like to know individual numbers, feel free to ask me on Discord (or Issues if you truly must).
 
- 
-  
-#### Tier Explanations:
-- Tier 0                : The best of the best, rivaled by few and matched by none. They set the bar for everyone else in one or more specific areas, without their excellence being marred by some other flaw.
-- Tier 0.5              : Terrifyingly effective units with little to no real competition in their class or function, usually by virtue of exceptionally strong skills and statlines.
-- Tier 1                : Generally very effective units, albeit marred by some minor flaw that can be easily overlooked or fixed.
-- Tier 1.5              : Niche, quirky or plain but solid, these units can perform their roles well but will need to be handled with care.
-- Tier 2                : Very niche and/or flawed but still noteworthy, these units can nevertheless do you good but will require serious work to get them to.
-- Not Tiered            : Ships that range from 'usable' to 'bottom of the barrel', but in both cases not good enough to make it on the list.
-- Pro Team Players      : Ships that, while unremarkable on their own, become exceedingly good when deployed with each other. They are tiered as a single unit.
-- Honourable Mentions   : Ships that, while too weak or unwieldy for general usage, nonetheless possess some interesting or useful quirk that may warrant attention.
-  
-  
+
+
 #### Retrofit/Kai Priority List and PRiority list:
 - DD                  : Laffey > Ayanami = Z23 > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
 - CL                  : San Diego* > Jintsuu > Leipzig = Leander > Kinu = Emile Bertin > Helena > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
@@ -77,7 +66,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (18/09/2020)
+## Changelog as of last major update (21/09/2020)
 
 - Removed some conditional tierings I missed. Oops!
 
@@ -102,66 +91,23 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - Desc: 
 >Finally, a competent enough HMS DD! Sure, her staying power is somewhat questionable if exposed to heavy fire and its damage output is just alright, but a self-heal is always appreciated and if you main HMS, you don't really get to be picky with your DD choices.
 
-
-![BB](/Images-for-the-Guide/HoweChibi.png "Amazon Kai Ni") - **[HMS Howe](https://azurlane.koumakan.jp/Howe)**
+![DD](/Images-for-the-Guide/SuzutsukiChibi.png "Big Ducc") - **[IJN Suzutsuki](https://azurlane.koumakan.jp/Suzutsuki)**
 * Role:
-  * **BB/BC/BBV Accuracy** and Reload **buffer; aimed BBarrager;** very high DPS (very high Gun DPS, average but aimed Barrage DPS) w/ 1 KGV-class or 3+ HMS units.
-
-* Skill: 
-  * Every 15s, fire an [aimed barrage](https://streamable.com/g97ciy) at a random enemy; when this barrage fires, all BB/BC/BBV in the fleet gain +20% Reload and Accuracy for 8s.
-    * The 4 SHELLS deal 156 bdmg with 140/110/90 armour modifiers, and have a 50% Ignition chance; they are modified by 100% of the unit's FP.
-  * Gain +12% FP and Reload; if sortied with KGV / Monarch / Duke of York / Prince of Wales / 3+ HMS units, gain a further +12% FP and AA.
- 
+  * **Medium self-healing tank**, very high Gun DPS (barrage-reliant), high Torp DPS (barrage-reliant), Light AA support.
+  
+* Skill:
+  * For every IJN unit in the fleet and/or upon shooting down 2 planes in the AA circle, gain a +5% FP/AA stack (up to 6 stacks).
+  * 3s after battle start, deploy a Smokescreen (+40% EvaRate within smoke, 5s duration) and fire a [barrage](https://streamable.com/pqt761); every 15s afterwards, fire the barrage again and on a 30% chance, deploy another Smokescreen; also, upon falling below 20% HP, heal back 15% of max HP (once per battle).
+    * The 40 SHOTS deal 16 bdmg with 100/80/60 armour modifiers; the 8 TORPEDOES deal 54 bdmg with 80/100/130 armour modifiers. Both are modified by 100% of the respective relevant stats.
+  
 * Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 or Champagne Gun; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 or Champagne Gun; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-  
-- Desc:
->Another excellent supporter to pad the already excessively stacked roster of great HMS backliners, Howe's line of work mirrors somewhat that of Duke of York's; while the latter's debuff potential is rivaled only by Helena, Howe focuses on supporting big guns with much needed Accuracy and dealing a lot of damage herself via powerful aimed barrages, self FP buffs and 140% Efficiency Main Guns.  
-The self-FP buffs are granted via easily achieved conditions, considering both Duke of York and Monarch are mainstays in most boss fleets anyway; worse comes to worst, there's no shortage of HMS units favouring having more HMS units around.  
-Straightforward but very, very effective.  
+  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
-![BB](/Images-for-the-Guide/ValiantChibi.png "Valiant") - **[HMS Valiant](https://azurlane.koumakan.jp/Valiant)**
-* Role:
-  * **Universal Armour Breaker**; average DPS (average Gun DPS, average Barrage DPS w/ weak aimed part).
-  
-* Skill: 
-  * 10s after the Main Guns fire, launch an [aimed, special armour-breaking barrage](https://streamable.com/42ika0) at a random enemy.
-    * The 2 SHELLS deal 108 bdmg with 40/150/130 armour modifiers, and have a 100% Armour Break chance; they are modified by 80% of the unit's FP.
-  * Upon Main Gun fire, 50% chance to launch a [frontal, sprinkly barrage](https://streamable.com/42ika0).
-    * The 8 SHELLS deal 108 bdmg with 135/95/70 armour modifiers; the 24 PELLETS deal 20 bdmg with 100/80/70 armour modifiers.
- 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406x2 DRh or Champagne Gun; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406x2 DRh or Champagne Gun; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 410x2 purple; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-  
-- Desc:
->Valiant doesn't really stack up to most high-end BB in their own playing field, be it shelling or barraging or supporting, but she does provide easy access to a special (ie. applies to any unit) Armour Break; the duration is long enough to allow her to permabreak a boss, which translates in a +8% fleetwide damage.  
-It's pretty good, all things considered, even if her damage output is fairly mediocre.
-
-
- ![BB](/Images-for-the-Guide/RichelieuChibi.png "Riche") - **[FFNF Richelieu](https://azurlane.koumakan.jp/Richelieu)**
-* Role:
-  * **FFNF/MNF flagship; extreme DPS (very high Gun DPS, very high Barrage DPS) w/ focus on HE**; light debuffer; preloaded.
-
-* Skill: 
-  * If flagship, grant +15% FP/Torp/Accuracy/Reload and +6% damage dealt to FFNF units; grant +15% FP/Torp/Accuracy/Reload and -6% damage taken to MNF units.
-  * Upon Main Gun fire, 75% chance to launch a [special barrage](https://streamable.com/v9bmej).
-    * The 8 HE SHELLS deal 170 bdmg with 100/80/60 mods; the 30 TRICOLOUR ARROWS deal 54 bdmg with 100/80/60 mods. All are modified by 100% of the unit's FP. Both SHELLS and ARROWS have a 70% chance to specially Ignite the targets struck, dealing 119 flat damage every 3s and debuffing their FP/Torp/Aviation by -5% for as long as the Ignition lasts (30s).
-  * When mounting a HE Main Gun, deal +12% damage; also, the first manually aimed volley of the battle automatically crits.
-  * Has only two Main Gun Mounts and starts the battle with them off cooldown.
- 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406x2 DRH; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406x2 DRH; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 410x2 purple; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-  
-- Desc:
->Richelieu confidently strides her way across the DPS charts and reaches for the top, sitting comfortably alongside super heavy hitters such as Georgia or Freidrich der Grobe - all the while providing exceptional support for all her countrywomen, herself included, and debuffing those who had the ill fortune of being set ablaze by a BB with a statline such as hers.  
-Like all other French big guns (Gascogne aside), she too has only two Main Gun Mounts and starts the battle with them pre-loaded.  
-A fairly straightforward unit, all in all, but one that's absolutely stellar at everything you'd ask a BB and a factional flagship to do.
+- Desc: 
+>An Akizuki-class done properly, at long last, sporting a very tough (and self-repairing) hull for her weight and an impressive array of guns in a neat, IJN-flavoured package well capable of shaming most of the competition. Don't fret about the IJN stack gain condition, either: so long as she has at least a few planes overhead to pop, she'll be gaining those stacks just fine.  
+Do fret, however, about her consistency; while she's nowhere near as unreliable as her fellow IJN self-healer, Hibiki, her impresssive DPS still does come down in significant part to the barrages, and without manual control (which is recommended anyway, this being a DD and all) they may fire off at inopportune times or inopportune places.  
+Truly excellent nevertheless.  
 
 #### ![CV](/Images-for-the-Guide/EagleChibi.png "I can't believe it's not Bearn!") - [HMS Eagle](https://azurlane.koumakan.jp/Eagle)
 * Role:
@@ -2244,6 +2190,25 @@ Bear in mind that despite her having a barrage, she isn't *really* one - it's at
 >Second only to Tirpitz in terms of pure staying power and armed with a quickly-proccable, backline-buffing, devastating barrage, she is exceptionally good under almost all circumstances; whether it is tearing apart mob nodes, showering enemy battleships in heavy firepower or providing support, Hood gets it done.  
 Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
 
+![BB](/Images-for-the-Guide/HoweChibi.png "Amazon Kai Ni") - **[HMS Howe](https://azurlane.koumakan.jp/Howe)**
+* Role:
+  * **BB/BC/BBV Accuracy** and Reload **buffer; aimed BBarrager;** very high DPS (very high Gun DPS, average but aimed Barrage DPS) w/ 1 KGV-class or 3+ HMS units.
+
+* Skill: 
+  * Every 15s, fire an [aimed barrage](https://streamable.com/g97ciy) at a random enemy; when this barrage fires, all BB/BC/BBV in the fleet gain +20% Reload and Accuracy for 8s.
+    * The 4 SHELLS deal 156 bdmg with 140/110/90 armour modifiers, and have a 50% Ignition chance; they are modified by 100% of the unit's FP.
+  * Gain +12% FP and Reload; if sortied with KGV / Monarch / Duke of York / Prince of Wales / 3+ HMS units, gain a further +12% FP and AA.
+ 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 or Champagne Gun; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 or Champagne Gun; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  
+- Desc:
+>Another excellent supporter to pad the already excessively stacked roster of great HMS backliners, Howe's line of work mirrors somewhat that of Duke of York's; while the latter's debuff potential is rivaled only by Helena, Howe focuses on supporting big guns with much needed Accuracy and dealing a lot of damage herself via powerful aimed barrages, self FP buffs and 140% Efficiency Main Guns.  
+The self-FP buffs are granted via easily achieved conditions, considering both Duke of York and Monarch are mainstays in most boss fleets anyway; worse comes to worst, there's no shortage of HMS units favouring having more HMS units around.  
+Straightforward but very, very effective.  
+
 ![BB](/Images-for-the-Guide/MonarchChibi.png "Monarch") - **[HMS Monarch](https://azurlane.koumakan.jp/Monarch)**
 * Roles:
   * **Very high DPS (high Gun DPS, high Barrage AP DPS; DPS increases as she takes damage)**, self-healer. 
@@ -2338,6 +2303,25 @@ Still, competent and capable if catered to.
 Fielding her in a full HMS fleet is one of her few last semi-practical applications, if you can stomach the rather poor quality of the average HMS vanguard.  
 [Also, her age is starting to show...](https://cdn.discordapp.com/attachments/466250908682944522/526742291193266186/DnCZSPHVAAAQywe.jpg)
 
+![BB](/Images-for-the-Guide/ValiantChibi.png "Valiant") - **[HMS Valiant](https://azurlane.koumakan.jp/Valiant)**
+* Role:
+  * **Universal Armour Breaker**; average DPS (average Gun DPS, average Barrage DPS w/ weak aimed part).
+  
+* Skill: 
+  * 10s after the Main Guns fire, launch an [aimed, special armour-breaking barrage](https://streamable.com/42ika0) at a random enemy.
+    * The 2 SHELLS deal 108 bdmg with 40/150/130 armour modifiers, and have a 100% Armour Break chance; they are modified by 80% of the unit's FP.
+  * Upon Main Gun fire, 50% chance to launch a [frontal, sprinkly barrage](https://streamable.com/42ika0).
+    * The 8 SHELLS deal 108 bdmg with 135/95/70 armour modifiers; the 24 PELLETS deal 20 bdmg with 100/80/70 armour modifiers.
+ 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406x2 DRh or Champagne Gun; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406x2 DRh or Champagne Gun; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 410x2 purple; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  
+- Desc:
+>Valiant doesn't really stack up to most high-end BB in their own playing field, be it shelling or barraging or supporting, but she does provide easy access to a special (ie. applies to any unit) Armour Break; the duration is long enough to allow her to permabreak a boss, which translates in a +8% fleetwide damage.  
+It's pretty good, all things considered, even if her damage output is fairly mediocre.
+
 ![BC](/Images-for-the-Guide/AmagiChibi.png "Amagi") - **[IJN Amagi](https://azurlane.koumakan.jp/Amagi)**
 * Roles:
   * **Very high DPS (high Gun DPS, high Barrage DPS; half of Barrage DPS is aimed), fleet protector**.
@@ -2404,7 +2388,26 @@ A very solid defensive pick, further helped by the fact her Sanshikidan barrage 
 - Desc: A sidegrade to Washington.
 >Sturdier, more powerful, better armed and in possession of a much more useful synergy (Akagi still gets her +35% Aviation buff with her) in PvE, BB Kaga - affectionately called "Baga" - does however forfeit some reliability on her enhanced barrage and is stuck with an atrocious AA stat.  
 She also has a few torps to throw out every now and then, but they're fairly lacklustre.
- 
+
+![BC](/Images-for-the-Guide/KiiChibi.png "Kii") - **[IJN Kii](https://azurlane.koumakan.jp/Kii)**
+* Roles:
+  * **Timed BBarrager, very high Gun DPS (high Gun DPS, high Barrage DPS)**, IJN backline AA booster, vanguard torpedo booster.
+
+* Skill: 
+  * Every 20s, 75% chance to launch a [barrage](https://streamable.com/7ljohs)
+    * The 8 AIMED TORPEDOES deal 96 bdmg with 80/110/130 mods; the 10 SHELLS deal 121 bdmg with 45/120/120 mods; the 36 HE PELLETS deal 20 bdmg with 100/80/60; the 18 AP PELLETS deal 20 bdmg with 90/70/40 mods. Their damages are modified by 100% of the respective stats.
+  * Grant IJN backliners +15% AA; also, if the fleet has 3+ IJN units, gain +10% FP and grant +10% Torp to the vanguard.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406x2 DRh (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
+  * [General Purpose] 406x2 DRh (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
+  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc:
+>The IJN's take on USS BB, and courtesy of the renowed IJN Bias(tm), she's far stronger than her competition - both in terms of actual battleship prowess, thanks to a very solid barrage and high-end BB statline, and more damningly in terms of AA support, bolstered for herself and her fellows by a +15% stat boost.  
+Overall there's not a whole lot to say about her; her most unique feature just may be the vanguard torpedo boost, which unsurprisingly goes hand in hand with IJN vanguards.  
+Boring but very practical, in short.
+
  ![BB](/Images-for-the-Guide/KongouChibi.png "Bingo Bango Bongou") - **[IJN Kongou](https://azurlane.koumakan.jp/Kongou)**
 * Roles:
   * **Kongou-class buffer**, above average Gun DPS.
@@ -2663,6 +2666,27 @@ Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow 
 * Desc: 
 >Significantly weaker than her regular counterpart but still capable of putting up a good show, Musecogne retains the unique volley-splitting gimmick of her better (and the precision that comes with it) and binds it to her Muse-only fleetwide buff.  
 Consistent and competent in her own right, especially since she can benefit from the +12% dmg if sortied without other Muse units, she's still better put to use in a full Muse fleet; whether sortieing one such fleet is beneficial or not, that is an entirely different matter...
+
+![BB](/Images-for-the-Guide/RichelieuChibi.png "Riche") - **[FFNF Richelieu](https://azurlane.koumakan.jp/Richelieu)**
+* Role:
+  * **FFNF/MNF flagship; extreme DPS (very high Gun DPS, very high Barrage DPS) w/ focus on HE**; light debuffer; preloaded.
+
+* Skill: 
+  * If flagship, grant +15% FP/Torp/Accuracy/Reload and +6% damage dealt to FFNF units; grant +15% FP/Torp/Accuracy/Reload and -6% damage taken to MNF units.
+  * Upon Main Gun fire, 75% chance to launch a [special barrage](https://streamable.com/v9bmej).
+    * The 8 HE SHELLS deal 170 bdmg with 100/80/60 mods; the 30 TRICOLOUR ARROWS deal 54 bdmg with 100/80/60 mods. All are modified by 100% of the unit's FP. Both SHELLS and ARROWS have a 70% chance to specially Ignite the targets struck, dealing 119 flat damage every 3s and debuffing their FP/Torp/Aviation by -5% for as long as the Ignition lasts (30s).
+  * When mounting a HE Main Gun, deal +12% damage; also, the first manually aimed volley of the battle automatically crits.
+  * Has only two Main Gun Mounts and starts the battle with them off cooldown.
+ 
+* Recommended Loadouts:
+  * [Lategame Bossing] 406x2 DRH; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406x2 DRH; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 410x2 purple; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  
+- Desc:
+>Richelieu confidently strides her way across the DPS charts and reaches for the top, sitting comfortably alongside super heavy hitters such as Georgia or Freidrich der Grobe - all the while providing exceptional support for all her countrywomen, herself included, and debuffing those who had the ill fortune of being set ablaze by a BB with a statline such as hers.  
+Like all other French big guns (Gascogne aside), she too has only two Main Gun Mounts and starts the battle with them pre-loaded.  
+A fairly straightforward unit, all in all, but one that's absolutely stellar at everything you'd ask a BB and a factional flagship to do.
 
 ![BC](/Images-for-the-Guide/Giulio_CesareChibi.png "Ave") - **[RN Giulio Cesare](https://azurlane.koumakan.jp/Giulio_Cesare)**
 * Roles:
