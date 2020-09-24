@@ -152,7 +152,7 @@ Perseus, unlike all other carriers in the game, starts with two whole airstrikes
 To some extent, this applies to her damage as well; once the airstrikes are out, she's forced to rely almost entirely on her random 12s planes for DPS, which may be nice but aren't a proper airstrike, nor do they have a strong Aviation stat to bolster them. Again, better than nothing, but won't destroy much on its own.  
 Lastly, she can lob a heal over to the fleet in which she isn't; helpful for patching up pre-boss battle damage.  
 
-#### ![CV](/Images-for-the-GuideShinanoChibi.png "Kaga Mk2") - [IJN Shinano](https://azurlane.koumakan.jp/Shinano)
+#### ![CV](/Images-for-the-Guide/ShinanoChibi.png "Kaga Mk2") - [IJN Shinano](https://azurlane.koumakan.jp/Shinano)
 * Role:
   * **Barrager Supercarrier** (higher-than-normal plane count), **extreme Aviation DPS, enemy damage/DPS debuff**, IJN carrier support, DD support.
 
