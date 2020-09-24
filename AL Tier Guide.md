@@ -66,11 +66,11 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (21/09/2020)
+## Changelog as of last major update (24/09/2020)
 
 - IJN Suzutsuki and IJN Kii have been written in.
 - Somehow I didn't notice Howe and Valiant weren't in the BB section. Now they are. Yay.
-- IJN Shinano will come tomorrow, there's still a few things to check and compare.
+- IJN Shinano is in.
 
 <br/><br/>
 ---
@@ -159,7 +159,7 @@ Lastly, she can lob a heal over to the fleet in which she isn't; helpful for pat
 * Skill: 
   * 3s after the start of the battle, launch a Saiun (debuffer plane). Upon airstrike launch, also launch 2 Shiden Kai fighters, 2 Ryusei torpbombers, and 1 Saiun.
     * The 4 SHIDEN KAI BOMBS deal 300 bdmg with 80/90/110 mods; the 6 RYUSEI TORPEDOES deal 240 bdmg with 80/110/130 mods; the SAIUN is unarmed but affects an enemy with 1 stack of +3% damage taken and -3% damage dealt. The BOMB damage is modified by 80% of the Aviation stat, the TORP damage by 100% of it, the SAIUN DEBUFF can stack up to three times.
-  * Every 15s, launch a wide frontal barrage; gain +15% Aviation for the first two battles of the sortie, and fire a support barrage once for the OTHER fleet from the third battle onwards.
+  * Every 15s, launch a [wide frontal barrage](https://streamable.com/zgtsmt); gain +15% Aviation for the first two battles of the sortie, and fire the same barrage once for the OTHER fleet from the third battle onwards.
     * The 50 BUTTERFLIES deal 20 bdmg 100/80/60 mods; they are modified by 100% of the unit's Aviation stat IF SHINANO IS LAUNCHING IT, if it is being fired in support, it is modified by 100% of the SUPPORT FLAGSHIP's Aviation stat... even if it's not a carrier.
   * Grant +15% FP/Evasion/ASW to all DD in the vanguard; also, upon battle start and if the fleet has 3+ IJN units, grant +15% Aviation/Accuracy to all IJN carriers and take -20% shelling/aviation damage.
   * Has a 2*/3/4 loadout; her 1st slot may be filled with any type of plane. Costs 15 Oil, though.
