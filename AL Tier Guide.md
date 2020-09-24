@@ -152,6 +152,30 @@ Perseus, unlike all other carriers in the game, starts with two whole airstrikes
 To some extent, this applies to her damage as well; once the airstrikes are out, she's forced to rely almost entirely on her random 12s planes for DPS, which may be nice but aren't a proper airstrike, nor do they have a strong Aviation stat to bolster them. Again, better than nothing, but won't destroy much on its own.  
 Lastly, she can lob a heal over to the fleet in which she isn't; helpful for patching up pre-boss battle damage.  
 
+#### ![CV](/Images-for-the-GuideShinanoChibi.png "Kaga Mk2") - [IJN Shinano](https://azurlane.koumakan.jp/Shinano)
+* Role:
+  * **Barrager Supercarrier** (higher-than-normal plane count), **extreme Aviation DPS, enemy damage/DPS debuff**, IJN carrier support, DD support.
+
+* Skill: 
+  * 3s after the start of the battle, launch a Saiun (debuffer plane). Upon airstrike launch, also launch 2 Shiden Kai fighters, 2 Ryusei torpbombers, and 1 Saiun.
+    * The 4 SHIDEN KAI BOMBS deal 300 bdmg with 80/90/110 mods; the 6 RYUSEI TORPEDOES deal 240 bdmg with 80/110/130 mods; the SAIUN is unarmed but affects an enemy with 1 stack of +3% damage taken and -3% damage dealt. The BOMB damage is modified by 80% of the Aviation stat, the TORP damage by 100% of it, the SAIUN DEBUFF can stack up to three times.
+  * Every 15s, launch a wide frontal barrage; gain +15% Aviation for the first two battles of the sortie, and fire a support barrage once for the OTHER fleet from the third battle onwards.
+    * The 50 BUTTERFLIES deal 20 bdmg 100/80/60 mods; they are modified by 100% of the unit's Aviation stat IF SHINANO IS LAUNCHING IT, if it is being fired in support, it is modified by 100% of the SUPPORT FLAGSHIP's Aviation stat... even if it's not a carrier.
+  * Grant +15% FP/Evasion/ASW to all DD in the vanguard; also, upon battle start and if the fleet has 3+ IJN units, grant +15% Aviation/Accuracy to all IJN carriers and take -20% shelling/aviation damage.
+  * Has a 2*/3/4 loadout; her 1st slot may be filled with any type of plane. Costs 15 Oil, though.
+
+* Recommended Loadouts:
+  * [General Purpose] Ryusei; SB2C; Ryusei; Hydraulic Catapult; Homing Beacon
+  * [Poverty] Tenzan; SB2C; Tenzan; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: They wanted a Yamato. They didn't specify which one.
+>True to her class, Shinano does her line honour both in terms of size and historical irrelevance; neither accomplished much of anything beyond sinking, and both were truly titanic vessels.  
+Unlike her historical counterpart, however, Shinano is **stacked** with planes; not only is she the only carrier in the game with **9** 'proper' ones, with every airstrike she also scrambles five extra planes (four of which armed), for a grand total of about ***14*** (more like 13, when accounting for overall damage) aircraft.  
+It goes without saying that this grants her a damage output well beyond that of the vast majority of high-end carriers, and is compounded both by a decent barrage (mostly for mobbing as flagship, given the wide pattern) and a self-damage buff for the first two battles of the sortie (mostly for bossing purposes, but not necessarily).  
+Her support suite isn't lacking either, given the slew of buffs she grants to DDs and IJN carriers; perhaps more interesting though is the stacking de-buff granted by her Saiun, which will help taking the edge off of tougher opponents.  
+Overall, Shinano is a worth addition to most fleets thanks to her stellar damage output (by carrier standards, yes, but it can keep up with high-end battleships) and her valuable support. Consider carefully in which capacity you want to use her, as while she can cover a variety of roles, she works better if specialised.   
+
+
 #### ![CV](/Images-for-the-Guide/BéarnChibi.png "The e is also accented") - [FFNF Bearn](https://azurlane.koumakan.jp/Béarn)
 * Role:
   * **Self-defence and long-range supportive fire capable mob fleet carrier**; fast airstrike carrier; average CV DPS; universal Hardmode stat padder.
