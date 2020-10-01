@@ -1304,8 +1304,8 @@ What's not to like?
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: Insistent termaidology.
->Unlike Hood and Monarch's case, there is no real ambiguity here - Neptune does do Phoenix's job better, although at a considerably higher cost.  
-Armed with an excellent AP barrage and a very powerful AP boosting passive, and protected by the largest HP pool in her class and a better version of Phoenix's self-rescue skill, Neptune is perfectly capable of carrying on the fight for much longer while simultaneously making it much shorter than her USS counterpart could do.
+>In some respects, an improved Phoenix at the cost of manual play reliance.  
+Armed with an excellent AP barrage and a very powerful AP boosting passive, and protected by a very large HP pool for her weight class plus a stronger version of Phoenix's self-rescue skill, Neptune is perfectly capable of tanking just as well as her colleague but (given manual usage) also of ending the fights much faster, due to her quite considerable damage output.
 
 ![CL](/Images-for-the-Guide/NewcastleKaiChibi.png "Newcastle Kai") - **[HMS Newcastle Kai](https://azurlane.koumakan.jp/Newcastle#retrofit)**
 * Roles:
