@@ -2111,7 +2111,7 @@ That said, while the SHS shots are the ones that'll be most relevant to you, the
 
 * Desc: Massachusetts shoots for the stars, but the aim isn't quite there. 
 >On paper she'd easily be main gunline material, as the self-buffs are both significant and easily achieved while the enhanced AP modifiers allow her to damage Light Armour... but firing into the stratosphere lengthens the shots' travel time to the point where she struggles hitting at all, making the gains pretty much moot.  
-If you can guarantee your target won't be moving around much at all and is bigger than a CL, a very solid pick; if you can't, best look elsewhere.
+If you can guarantee your target won't be moving around much at all and is bigger than a CL, a very solid pick; if you can't, best look elsewhere... anywhere.
 
 ![BB](/Images-for-the-Guide/NevadaKaiChibi.png "Nevada Kai") ![BB](/Images-for-the-Guide/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
 * Roles:
