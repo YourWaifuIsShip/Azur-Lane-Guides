@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's highly opinionated and extra-biased AL Untier Guide (SNOWY CRUMPETS EDITION)
+# Your Waifu is SHIP's highly opinionated and extra-biased AL Untier Guide (YAMATO TO DELETO IN 10 DAYS EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_  
 
@@ -7,6 +7,22 @@ Well, dear reader, barring an accidental deletion on my part I am sorry to say t
 Not to despair, though! As mentioned in the Tier Guides, even untiered units can be put to use (though they won't make it easy on you), but if you'd like to have a clearer picture of who didn't make the cut and why, here's a shortlist for it.
 
 ---
+[01/10/2020]
+> IJN Kashino joins the Untier Guide on account of her being the worst designed unit since Repair Ships.
+- Statline. Look at it. Just look at it, the pathetic 76 FP at lv120 on a piddly single DD gun mount and no secondaries of any sort to speak of; or marvel at the nonexistent AA, even for the depressing IJN standards in the field, or the subpar Evasion even at level cap, or the pathetic ***14*** speed if she's not in an IJN fleet.  
+- Skills. Her purpose as an ammo vessel, purportedly, would be to support the fleet. She is meant to do that with special pieces of gear granting buffs to certain hull classes. Suffice to say, the buffs are abysmal and in no way make up for the pathetic unit carrying them, and her actual skills only slightly make her tougher instead of helping the rest of the fleet.
+- Costs. 10 whole Oil for this trainwreck is about 10 more than warranted.
+- In short, a complete and unmitigated disaster on all fronts. Super hard pass.
+
+> IJN Kumano joins the Untier Guide on account of her being Suzuya but bad.
+- Statline. Check Suzuya out in the Unit Guide; what goes for her, goes for this one. Technically good, but...
+- Skills. ... unlike Suzuya she is meant to tank or off-tank, a job to which she is rather unsuited due to the atrocious Evasion and less-than-stellar defensive suite; and of course, her offence isn't any better than her sister's.
+- In short, a downgrade to her predecessor.
+
+> IJN Chitose and Chiyoda join the Untier Guide on account of her being CVL pretending to be CV. Poorly.
+- Statline. The crux of their issues lies squarely here: as CVL with a DPS focus, they are inherently disadvantaged compared to their CV peers (lower Aviation, smaller plane count, much lower ACV) and have nothing to make up for it.
+- Skills. Technically good, but the two lack the stats to capitalise on them. All they realistically accomplish is being strong for a CVL, and just mediocre by CV standards.
+
 [07/06/2020]
 > HMS Little Illustrious joins the Untier Guide on account of her abysmal damage and inferior support compared to her already very questionable predecessor.
 - As it turns out, taking away the high efficiency of her fighters from a severely underpowered fighter-focused CVs causes more issues than the gifting of a middling barrage does; though the damage output is rather similar on paper regardless, the unreliability of the barrage puts her convincingly behind.  
