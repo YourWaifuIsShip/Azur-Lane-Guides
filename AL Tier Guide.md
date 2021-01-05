@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (WARNING! THE GUIDE WILL SOON CHANGE ITS NAME, AND BECAUSE OF THE WAY GITHUB WORKS, THE LINK WILL CHANGE AS WELL. BOOKMARK THE REPOSITORY, ie. THE LINK YOU USED TO COME IN HERE!)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (WEHRABOO 3: THE REVENGEANCE EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
@@ -174,6 +174,26 @@ Unlike her historical counterpart, however, Shinano is **stacked** with planes; 
 It goes without saying that this grants her a damage output well beyond that of the vast majority of high-end carriers, and is compounded both by a decent barrage (mostly for mobbing as flagship, given the wide pattern) and a self-damage buff for the first two battles of the sortie (mostly for bossing purposes, but not necessarily).  
 Her support suite isn't lacking either, given the slew of buffs she grants to DDs and IJN carriers; perhaps more interesting though is the stacking de-buff granted by her Saiun, which will help taking the edge off of tougher opponents.  
 Overall, Shinano is a worth addition to most fleets thanks to her stellar damage output (by carrier standards, yes, but it can keep up with high-end battleships) and her valuable support. Consider carefully in which capacity you want to use her, as while she can cover a variety of roles, she works better if specialised.   
+
+#### ![CV](/Images-for-the-Guide/PeterStrasser.png "Easy Pete") - [KMS Peter Strasser](https://azurlane.koumakan.jp/Peter_Strasser)
+* Role:
+  * High carrier DPS; minor passive slow and RNG stop.
+
+* Skill: 
+  * Upon airstrike, launch two extra Torpedo Bombers.
+    * The 6 AIMED AIRTORPS deal 240 bdmg with 80/110/130 armour modifiers; they are modified by 100% of the unit's Aviation.
+  * Lower enemy speed passively by 8%; every 1s, there's a 10% chance to stop all enemies on screen for 3s (has a 7s cooldown).
+  * Gain +5% Aviation for every KMS unit in the fleet (up to +15%); if sortied with 4+ KMS units, all KMS carriers' first 3 airstrikes load 10% faster.
+  * Has a 2/3/3 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] VF17; SB2C; Ryusei; Hydraulic Catapult; Homing Beacon
+  * [Poverty] F4U Corsair; SB2C; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>In a customary display of inability to understand why a unit is good, the devs thought simply giving a carrier a stop was enough to make it good; and that in order to balance a more frequent slow, making it RNG would be a good idea.  
+They were ***very*** wrong, but Peter Strasser manages to be very solid even in spite of their incompetence, mainly because of high DPS (which she owes to the good loadout supplemented by the extra aimed TBs); unfortunately, her intended job cannot be as easily redeemed because a stop is used *tactically* (ie. when your other carriers have launched or your BB are about to fire) and not *casually*, which is what Pete unfortunately does. At best, this makes the stop unreliable *if* capable of stopping enemies for a remarkably long time, at worst it risks making your other backliners miss their already launched ordnance.  
+Criminally botched design. Still very competent.
 
 
 #### ![CV](/Images-for-the-Guide/BéarnChibi.png "The e is also accented") - [FFNF Bearn](https://azurlane.koumakan.jp/Béarn)
@@ -1918,6 +1938,21 @@ On the flipside, said barrage is also her most noteworthy feature - manual play 
 >Too large for mere CA and too small for proper BCs, these Pocket Battleships are odd creatures.  
 Capable of mounting a unique underchambered BB gun, they sport massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than they (DD and CL) - but are let down by that same gun's AP element (which underperforms against DD and CL), their lower-than-average Speed and Evasion, and the weak torpedoes they're stuck with.  
 A wrecking ball against small craft, to be sure, but watch out for when they pick a fight with people her size.
+
+![CA](/Images-for-the-Guide/Prinz_HeinrichChibi.png "Henry The Thick") - **[KMS Prinz Heinrich](https://azurlane.koumakan.jp/Prinz_Heinrich)**
+* Roles:
+  * Very high DPS (high Gun DPS, medium barrage DPS, medium torp DPS); very heavy main tank.
+ 
+* Skill:
+  * If sortied with 1+ other KMS unit, gain +15% Eva and Reload; upon Main Gun fire, 50% chance to deal +25% Main Gun damage for 5s (has a 7s cooldown).
+  * Every 20s, fire a... boat-shaped barrage? and deploy either a 2-torp shield or a 10-shots shield for 10s, randomly picked.
+    * The 52 BALLS (traveling in 2 blocks of 26 each) deal 22 bdmg with 100/100/100 mods. They are modified by 100% of the unit's FP.
+  * Has exceptionally good ghost guns! (21x4 bdmg, 2.74s base reload, 40% efficiency, 115% coeff, 100/100/100 armour modifiers, 90 range, 1 pierce).
+  * Can also equip the 283mm SKC28.
+
+- Desc:
+> Prinz Heinrich is what Deutschland and Spee would've looked like had they been designed properly, and represents a massive improvement over either in every possible respect; superb staying power, extremely competitive damage output that allows her to not only match but also outgun proper Gun-CA without banking excessively on her (comparatively decent) torpedoes, and access to the same SKC28 of old, for which her 7s cooldown damage boost appears to be designed (but don't stress too much about it, even if you go for faster guns with more appropriate modifiers you'll be gaining more than you lose overall).  
+Something to bear in mind is that, more than most Torp-CA, she is capable of handling shields; while torpedoes do slip past them, the SKC28 can shoot over them and her 20s barrage has a very high shot count, capable of punching straight through most of them (assuming the barrage lands, at least, which isn't unlikely given its tight and clustered pattern).
 
 ![CA](/Images-for-the-Guide/RoonChibi.png "Qu'est-ce que c'est?") - **[KMS Roon](https://azurlane.koumakan.jp/Roon)**
 * Roles:
