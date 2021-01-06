@@ -77,39 +77,6 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ## SURPRISE SURPRISE, IT'S THE TIERLESS GUIDE!
 
-![DD](/Images-for-the-Guide/EskimoChibi.png "Pingu") - **[HMS Eskimo](https://azurlane.koumakan.jp/Eskimo)**
-* Role:
-  * **Light self-healing DD tank**, medium DD Gun DPS, below average DD Torp DPS.
-  
-* Skill:
-  * Every 30s, launch a special [barrage](https://cdn.discordapp.com/attachments/742730234893172796/742730440154152960/Eskimo-Barrage.gif); upon falling below 30% HP, heal 10% of max HP back and launch a special barrage (only one proc per battle). Those barrages are the same.
-    * The 17 shots deal 24 bdmg with 100/100/100 armour mods. They are modified by 100% of the unit's FP.
-  
-* Recommended Loadouts:
-  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-  * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
-- Desc: 
->Finally, a competent enough HMS DD! Sure, her staying power is somewhat questionable if exposed to heavy fire and its damage output is just alright, but a self-heal is always appreciated and if you main HMS, you don't really get to be picky with your DD choices.
-
-![DD](/Images-for-the-Guide/SuzutsukiChibi.png "Big Ducc") - **[IJN Suzutsuki](https://azurlane.koumakan.jp/Suzutsuki)**
-* Role:
-  * **Medium self-healing tank**, very high Gun DPS (barrage-reliant), high Torp DPS (barrage-reliant), Light AA support.
-  
-* Skill:
-  * For every IJN unit in the fleet and/or upon shooting down 2 planes in the AA circle, gain a +5% FP/AA stack (up to 6 stacks).
-  * 3s after battle start, deploy a Smokescreen (+40% EvaRate within smoke, 5s duration) and fire a [barrage](https://streamable.com/pqt761); every 15s afterwards, fire the barrage again and on a 30% chance, deploy another Smokescreen; also, upon falling below 20% HP, heal back 15% of max HP (once per battle).
-    * The 40 SHOTS deal 16 bdmg with 100/80/60 armour modifiers; the 8 TORPEDOES deal 54 bdmg with 80/100/130 armour modifiers. Both are modified by 100% of the respective relevant stats.
-  
-* Recommended Loadouts:
-  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-  * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
-- Desc: 
->An Akizuki-class done properly, at long last, sporting a very tough (and self-repairing) hull for her weight and an impressive array of guns in a neat, IJN-flavoured package well capable of shaming most of the competition. Don't fret about the IJN stack gain condition, either: so long as she has at least a few planes overhead to pop, she'll be gaining those stacks just fine.  
-Do fret, however, about her consistency; while she's nowhere near as unreliable as her fellow IJN self-healer, Hibiki, her impresssive DPS still does come down in significant part to the barrages, and without manual control (which is recommended anyway, this being a DD and all) they may fire off at inopportune times or inopportune places.  
-Truly excellent nevertheless.  
-
 #### ![CV](/Images-for-the-Guide/EagleChibi.png "I can't believe it's not Bearn!") - [HMS Eagle](https://azurlane.koumakan.jp/Eagle)
 * Role:
   * **Self-defence and long-range supportive fire capable mob fleet carrier**; fast airstrike carrier; average CV DPS.
@@ -194,6 +161,24 @@ Overall, Shinano is a worth addition to most fleets thanks to her stellar damage
 They were ***very*** wrong... but Peter Strasser manages to be very solid even in spite of their incompetence, mainly because of the high DPS (which she owes to the good loadout supplemented by the extra aimed TBs); unfortunately, her intended job cannot be as easily redeemed because a stop is used *tactically* (ie. when your other carriers have launched or your BB are about to fire) and not *casually*, which is what Pete unfortunately does. At best, this makes the stop unreliable *if* capable of stopping enemies for a remarkably long time, at worst it risks making your other backliners miss their already launched ordnance.  
 Criminally botched design. Still very competent.
 
+#### ![CV](/Images-for-the-Guide/WeserChibi.png "Weser") - [KMS Weser](https://azurlane.koumakan.jp/Weser)
+* Role:
+  * ... Hitshield generator?
+
+* Skill: 
+  * Upon airstrike, 70% chance to launch two extra Dive Bombers; if sortied with 3+ KMS units, gain +20% CritDmg, or if Weser is the only KMS unit in the fleet, launch one extra Dive Bomber, gain +30% proc chance, 10% Reload and +15% Aviation.
+    * The 4/6 500lb BOMBS deal 207 bdmg with 80/110/130 armour modifiers; they are modified by 80% of the unit's Aviation.
+  * Every 20s, generate two revolving hitshields (6 hits max) around a random vanguard unit, lasting up to 8s; if the unit was KMS, it gains +15% FP for 8s and Weser heals for 5% of her own max HP.
+  * Has a 3/3/0 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] VF17; SB2C; 40mm Quad Bofors; Hydraulic Catapult; Homing Beacon
+  * [Poverty] F4U Corsair; SB2C; 40mm Quad Bofors; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: 
+>An interesting enough concept, unfortnately marred by typically subpar CVL statlines and a lack of torpedo bombers... and, more crucially, the sheer lack of relevant support capabilities to make up for it.  
+Hitshields are notoriously prone to getting shot apart in seconds, with only anti-torpedo ones or fixed front-facing ones managing to accomplish much of worth; hers are of neither sort and are flimsy on top of that. The +15% FP boost is halfway decent, but many much better carriers offer vanguard-wide +15% damage boosts instead, so... 
+Unlikely to see any use outside of KMS fleets, and even those will find themselves hardly pressed to justify her presence.
 
 #### ![CV](/Images-for-the-Guide/BéarnChibi.png "The e is also accented") - [FFNF Bearn](https://azurlane.koumakan.jp/Béarn)
 * Role:
@@ -347,6 +332,21 @@ With no real weakness on display, beyond simply not being quite as good as more 
 * Desc: 
 >Nobody truly expected this to happen, but somehow Amazon's Kai turned out to be... somewhat alright!  
 Certainly as an AA barge at least, whenever her double AA mount is allowed to do work, but she's also alright in terms of DPS and staying power; still, her niche is of questionable relevance so it's unlikely she'll see much use, but worth keeping in mind nonethless.
+
+![DD](/Images-for-the-Guide/EskimoChibi.png "Pingu") - **[HMS Eskimo](https://azurlane.koumakan.jp/Eskimo)**
+* Role:
+  * **Light self-healing DD tank**, medium DD Gun DPS, below average DD Torp DPS.
+  
+* Skill:
+  * Every 30s, launch a special [barrage](https://cdn.discordapp.com/attachments/742730234893172796/742730440154152960/Eskimo-Barrage.gif); upon falling below 30% HP, heal 10% of max HP back and launch a special barrage (only one proc per battle). Those barrages are the same.
+    * The 17 shots deal 24 bdmg with 100/100/100 armour mods. They are modified by 100% of the unit's FP.
+  
+* Recommended Loadouts:
+  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+- Desc: 
+>Finally, a competent enough HMS DD! Sure, her staying power is somewhat questionable if exposed to heavy fire and its damage output is just alright, but a self-heal is always appreciated and if you main HMS, you don't really get to be picky with your DD choices.
 
 ![DD](/Images-for-the-Guide/JavelinKaiChibi.png "Javelin Kai") - **[HMS Javelin Kai](https://azurlane.koumakan.jp/Javelin#Retrofit)**
 * Skill:
@@ -519,7 +519,23 @@ That aside, she behaves in the usual IJN DD fashion - no torps means no DPS, so 
 - Desc:
 >Ah, the wonders of Kai. Shiranui goes from an excellent 0LB DD meme to a supremely legit pick for normal play, owing to her much improved torp stat and efficiency. The CV/L protection skill is nice to have, too.
 
+![DD](/Images-for-the-Guide/SuzutsukiChibi.png "Big Ducc") - **[IJN Suzutsuki](https://azurlane.koumakan.jp/Suzutsuki)**
+* Role:
+  * **Medium self-healing tank**, very high Gun DPS (barrage-reliant), high Torp DPS (barrage-reliant), Light AA support.
+  
+* Skill:
+  * For every IJN unit in the fleet and/or upon shooting down 2 planes in the AA circle, gain a +5% FP/AA stack (up to 6 stacks).
+  * 3s after battle start, deploy a Smokescreen (+40% EvaRate within smoke, 5s duration) and fire a [barrage](https://streamable.com/pqt761); every 15s afterwards, fire the barrage again and on a 30% chance, deploy another Smokescreen; also, upon falling below 20% HP, heal back 15% of max HP (once per battle).
+    * The 40 SHOTS deal 16 bdmg with 100/80/60 armour modifiers; the 8 TORPEDOES deal 54 bdmg with 80/100/130 armour modifiers. Both are modified by 100% of the respective relevant stats.
+  
+* Recommended Loadouts:
+  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
+- Desc: 
+>An Akizuki-class done properly, at long last, sporting a very tough (and self-repairing) hull for her weight and an impressive array of guns in a neat, IJN-flavoured package well capable of shaming most of the competition. Don't fret about the IJN stack gain condition, either: so long as she has at least a few planes overhead to pop, she'll be gaining those stacks just fine.  
+Do fret, however, about her consistency; while she's nowhere near as unreliable as her fellow IJN self-healer, Hibiki, her impresssive DPS still does come down in significant part to the barrages, and without manual control (which is recommended anyway, this being a DD and all) they may fire off at inopportune times or inopportune places.  
+Truly excellent nevertheless.  
 
 ![DD](/Images-for-the-Guide/TanikazeKaiChibi.png "Tinykaze") - **[IJN Tanikaze Kai](https://azurlane.koumakan.jp/Tanikaze#Retrofit)**
 * Skill:
