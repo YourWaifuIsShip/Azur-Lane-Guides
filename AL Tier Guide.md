@@ -662,7 +662,7 @@ Torps are even more of an afterthought than they are on Laffey, however, and unl
 >Best of the three ships with the Flagship Protection skill, with the KMS DD standard powerful gunnery, tough hull and middling torpedoes.
 That said, if you have no need for such a skill you should probably look for another ship.
 
-![DD](/Images-for-the-Guide/Z24Chibi.png "Z25") - **[KMS Z28](https://azurlane.koumakan.jp/Z24)**
+![DD](/Images-for-the-Guide/Z28Chibi.png "Z28") - **[KMS Z28](https://azurlane.koumakan.jp/Z28)**
 * Role:
   * Purple KMS DD, Z1 wannabe.
 
