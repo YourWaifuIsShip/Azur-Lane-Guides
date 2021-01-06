@@ -66,11 +66,10 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (24/09/2020)
+## Changelog as of last major update (06/01/2021)
 
-- IJN Suzutsuki and IJN Kii have been written in.
-- Somehow I didn't notice Howe and Valiant weren't in the BB section. Now they are. Yay.
-- IJN Shinano is in.
+- KMS Prinz Heinrich, Peter Strasser, Nurnberg, Weser, Z24, Z28, U-37 have been added to the Guide.
+- HMS Ardent Kai has been dropped from the Guide, as well as IJN Fubuki.
 
 <br/><br/>
 ---
