@@ -175,7 +175,7 @@ It goes without saying that this grants her a damage output well beyond that of 
 Her support suite isn't lacking either, given the slew of buffs she grants to DDs and IJN carriers; perhaps more interesting though is the stacking de-buff granted by her Saiun, which will help taking the edge off of tougher opponents.  
 Overall, Shinano is a worth addition to most fleets thanks to her stellar damage output (by carrier standards, yes, but it can keep up with high-end battleships) and her valuable support. Consider carefully in which capacity you want to use her, as while she can cover a variety of roles, she works better if specialised.   
 
-#### ![CV](/Images-for-the-Guide/PeterStrasser.png "Easy Pete") - [KMS Peter Strasser](https://azurlane.koumakan.jp/Peter_Strasser)
+#### ![CV](/Images-for-the-Guide/Peter_Strasser.png "Easy Pete") - [KMS Peter Strasser](https://azurlane.koumakan.jp/Peter_Strasser)
 * Role:
   * High carrier DPS; minor passive slow and RNG stop.
 
