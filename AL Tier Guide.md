@@ -677,7 +677,8 @@ That said, if you have no need for such a skill you should probably look for ano
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
->Tries to be Z1. Isn't, but still okay-ish... if you for some reason don't want to use the obviousy superior option.
+>Tries to be Z1. Isn't.  
+Still okay-ish... if you for some reason don't want to use the obviousy superior option, or somehow deem the ASW/AA boost valuable. Or lack components for the Z Trio.
 
 ![DD](/Images-for-the-Guide/Z35Chibi.png "Z35") - **[KMS Z35](https://azurlane.koumakan.jp/Z35)**
 * Role:
