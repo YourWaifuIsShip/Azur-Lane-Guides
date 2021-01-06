@@ -677,7 +677,7 @@ That said, if you have no need for such a skill you should probably look for ano
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
->Among the strongest purple KMS DDs, provided she's shooting at Destroyers and Light Cruisers. Nothing special otherwise, you know the drill; good guns, tough hull, mediocre torpedoes.
+>Tries to be Z1. Isn't, but still okay-ish... if you for some reason don't want to use the obviousy superior option.
 
 ![DD](/Images-for-the-Guide/Z35Chibi.png "Z35") - **[KMS Z35](https://azurlane.koumakan.jp/Z35)**
 * Role:
