@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's highly opinionated and extra-biased AL Untier Guide (YAMATO TO DELETO IN 10 DAYS EDITION)
+# Your Waifu is SHIP's highly opinionated and extra-biased AL Untierless Guide (YAMATO TO DELETO IN 10 DAYS EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_  
 
