@@ -133,7 +133,7 @@ Meme but alright.
 * Desc: 
 >Slippery little bastard, despite her CA-like movement speed. Her offensive stats are somewhat lacklustre, but she makes up for it with her skill - it might be RNG and her high Evasion works against it, but 10s of invulnerability is nothing to scoff at. Make sure to have her eat weak shots to minimise exposure to danger.
 
-![DD](/Images-for-the-Guide/FletcherChibi.png "USS Fletcher") - **[USS Fletcher](https://azurlane.koumakan.jp/Fletcher)** **(T0.5 w/ Charles Ausburne and Nicholas)**
+![DD](/Images-for-the-Guide/FletcherChibi.png "USS Fletcher") - **[USS Fletcher](https://azurlane.koumakan.jp/Fletcher)**
 * Skill:
   * Increases Firepower and Evasion of all Fletcher-Class in fleet by 30%
   * Increases Firepower, Torpedo, and Reload of DDs in the fleet by 10%
@@ -231,7 +231,7 @@ Certainly as an AA barge at least, whenever her double AA mount is allowed to do
 * Desc: 
 >While her starter version is pretty much undeniably the worst out of the three, the Kai does her some justice. Still nowhere as powerful as Ayanami or Laffey, but the EX barrage helps to close the gap to some extent... alas, the Evasion boost still accomplishes little due to powerful diminishing returns the stat incurs, with little to show for it.
 
-![DD](/Images-for-the-Guide/AyanamiKaiChibi.png "Ayanami Kai") - **[IJN Ayanami Kai](https://azurlane.koumakan.jp/Ayanami#Retrofit)** **(T0 vs Bosses)**
+![DD](/Images-for-the-Guide/AyanamiKaiChibi.png "Ayanami Kai") - **[IJN Ayanami Kai](https://azurlane.koumakan.jp/Ayanami#Retrofit)** 
 * Skill:
   * 5% chance on firing main gun to boost Torpedo by 60% for 8s
   * 70% chance every 20s to fire a special barrage and boost Evasion stat by 30% for 5s
@@ -616,10 +616,6 @@ Proud owner of a quick-firing, high-volume, AP conal barrage with four homing to
 The historical records are curiously silent on the subject of suspiciously familiar-looking guardian faeries, but one cannot fault her effectiveness nonetheless: for all the 50s she's active it puts out a shocking amount of DPS, roughly equivalent to that of a second gun mount backed by her stats, and also doles out a little bit of slows along the way (not too relevant, but it's better than nothing anyway).  
 Impressive as she is, Tashkent does have a couple of drawbacks; first of all is her damage output, heavily slanted towards Light (both her ideal gun and the fairy have Normal DD ammo modifiers), and secondly is the simple fact her DPS does drop quite significantly once the fairy pops. While this does not exactly force her into a mob fleet role, it is nevertheless where she is bound to be most effectively deployed.  
 
-
-
-
-
 ![DD](/Images-for-the-Guide/Le_MalinChibi.png "Le Malin") - **[MNF Le Malin](https://azurlane.koumakan.jp/Le_Malin)**
 * Skill:
   * If her Main Gun shots hit an enemy 10 times, that enemy takes +12% dmg from any destroyer in the fleet; also, upon destroying an enemy, Le Malin gains a +2% FP stack, up to 10 stacks.
@@ -631,7 +627,20 @@ Impressive as she is, Tashkent does have a couple of drawbacks; first of all is 
 
 - Desc:
 >Le Malin shares both Le Triomphant's statline and the "hit the same target" gimmick, but makes it a lot more lenient and considerably more effective besides.  
-Strong guns and barrage, okay AA and defences, weak torpedoes - all in all, a very solid gunnery DD.
+Strong guns and barrage, a useful debuff skill, okay AA and defences, weak torpedoes - all in all, a very solid gunnery DD.
+ 
+![DD](/Images-for-the-Guide/Le_TriomphantChibi.png "Le Triomphant") - **[FFNF Le Triomphant](https://azurlane.koumakan.jp/Le_Triomphant)**
+* Skill:
+  * Each time the Main Gun damages an enemy, gain a +40% Reload stack up to a maximum of 4 stacks (can only gain one per second, stacks lost upon damaging a different target).
+  * When sortied as the Lead Ship, +20% Main Gun Efficiency and -30% AA Gun Efficiency.
+
+* Recommended Loadouts:
+  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
+
+- Desc:
+>A gun-focused DD blessed with a great statline where it counts the most and a remarkable Efficiency to go along with it, Letri is rather unwieldy but pretty powerful, if allowed to stack up and lead the charge. Handle with care, and the guns of the revolution will never fall silent.  
+Similarly to Laffey, her torps are awful but come out quick; consider patching up this weakness with an Oxygen Torpedo.
  
  ![DD](/Images-for-the-Guide/CarabiniereChibi.png "Caramba") - **[RN Carabiniere](https://azurlane.koumakan.jp/Carabiniere)**
 * Skill:
@@ -661,20 +670,6 @@ Strong guns and barrage, okay AA and defences, weak torpedoes - all in all, a ve
 >The first ever legitimately good collaboat, Not Kawakaze marries a typically IJN DD statline to a gushing love for modern military aircraft - so much so that she lugs a pair around instead of AA guns and has one swinging by every 20s to bomb her foes.  
 The trade is a net positive. While two 80% Dive Bombers and 201 Aviation make for very weak airstrikes, she loses nothing of value (IJN AA is by and large terrible, and IJN DD AA is usually worst in hull class) for it while gaining some 'free damage' and, more importantly, a quick-firing screenclear no other vanguard in the game can claim to have; as for the other skills they're alright, somewhat low-impact but appreciated nonetheless.  
 One can only hope we'll see more DDVs like this one in the future.  
- 
-![DD](/Images-for-the-Guide/Le_TriomphantChibi.png "Le Triomphant") - **[FFNF Le Triomphant](https://azurlane.koumakan.jp/Le_Triomphant)**
-* Skill:
-  * Each time the Main Gun damages an enemy, gain a +40% Reload stack up to a maximum of 4 stacks (can only gain one per second, stacks lost upon damaging a different target).
-  * When sortied as the Lead Ship, +20% Main Gun Efficiency and -30% AA Gun Efficiency.
-
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
-
-- Desc:
->A gun-focused DD blessed with a great statline where it counts the most and a remarkable Efficiency to go along with it, Letri is rather unwieldy but pretty powerful, if allowed to stack up and lead the charge. Handle with care, and the guns of the revolution will never fall silent.  
-Similarly to Laffey, her torps are awful but come out quick; consider patching up this weakness with an Oxygen Torpedo.
-
 
 ![DD](/Images-for-the-Guide/GroznyChibi.png "Ypa 2") - **[SN Grozny](https://azurlane.koumakan.jp/Grozny#Retrofit)**
 * Skill:
