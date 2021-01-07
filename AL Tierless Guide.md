@@ -1039,11 +1039,11 @@ Most Cruiser compositions will benefit by her presence.
 
 ![CL](/Images-for-the-Guide/RenoChibi.png "Ireno Man") - **[USS Reno](https://azurlane.koumakan.jp/Reno)** 
 * Role:
-  * Carrier defender; mob/boss fleet medium DPS and **heavy AA carry**.
+  * Carrier defender; mob/boss fleet high DPS and **heavy AA carry**.
 
 * Skill:
-  * Upon battle start and if there is 1+ alive CV/L in the fleet, gain +15% CritRate. For every alive CV/L in the fleet, deal +6% Dmg to DD/CL. For the first two battles of her fleet, CV/L in her fleet take -10% Dmg.
-  * Upon battle start, gain +15% AA and +12% FP. Every 3rd time the backline takes damage, gain a stack of +3% AA/FP until the end of the fight (can gain 2 stacks max).
+  * Upon battle start and if there is 1+ alive CV/L in the fleet, gain +35% CritRate. For every alive CV/L in the fleet, deal +10% Dmg to DD/CL (up to +30%). For the first four  battles of her fleet, CV/L in her fleet take -10% Dmg.
+  * Upon battle start, gain +15% AA and +15% FP. Every 3rd time the backline takes damage, gain a stack of +6% AA/FP until the end of the fight (can gain 2 stacks max).
   * +10% Main Gun Efficiency if wielding a DD gun.
 
 * Recommended Loadouts:
@@ -1052,8 +1052,8 @@ Most Cruiser compositions will benefit by her presence.
   * [Poverty] 120x2 HMS; 533x5 conventional torpedoes; 113mm or Pom-Pom; Toolbox; Toolbox
 
 * Desc: Protector of mAAnkind.
->Another great entry in the ever-expanding roster of USS flyswatters, Reno is a dedicated AA CL sporting surprisingly high DPS - not too far off from a San Diego Kai in fact, which is no mean feat - and an overwhelming urge to protect carriers.  
-Her entire kit more or less revolves around carriers, in fact - she gains substantial boosts with them around and can defend them remarkably well with her boosted guns, an armour-modifiers-ignoring (100/100/100) barrage and a nifty damage reduction for the first few engagements she's in, something better suited to a boss fleet than a mob fleet.  
+>Another great entry in the ever-expanding roster of USS flyswatters, Reno is a dedicated AA CL sporting surprisingly high DPS - not too far off from a San Diego Kai in fact, which is no mean feat, especially against DD/CL - and an overwhelming urge to protect carriers.  
+Most of her kit more or less revolves around carriers, in fact - she gains substantial boosts with them around and can defend them remarkably well with her boosted guns, an armour-modifiers-ignoring (100/100/100) barrage and a nifty damage reduction for the first few engagements she's in, something better suited to a mob fleet than a boss fleet.  
 Wherever there are planes to shred and carriers to protect, Reno is at home - and the more there is of both, the better.
 
 
@@ -1853,7 +1853,8 @@ That said, don't make the mistake of thinking Heavy Armour makes her invincible 
 
 * Skill: 
   * Gain +10% Firepower (permanent); 60% chance every 20s, +20% Firepower and Torpedo to all allied CL/CA for 10s
-  * Upon Main Gun fire, 30% chance to double its damage
+  * Upon Main Gun fire, 30% chance to double its damage.
+  * Barrages every 4 Main Gun firing cycles and gains +10% EvaRate for the rest of the battle when she does (only for the first barrage).
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
@@ -1861,6 +1862,7 @@ That said, don't make the mistake of thinking Heavy Armour makes her invincible 
 
 * Desc: 
 >The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
+As with the rest of the class, she too gets to barrage twice as fast as most other Torp-CA and enjoys a nifty EvaRate boost as she does so.
 
 ![CA](/Images-for-the-Guide/IbukiChibi.png "Fat DD") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)**
 * Roles:
@@ -1924,7 +1926,7 @@ Despite her relatively low staying power, courtesy of her abysmal Luck, Mogami K
 * Skill:
   * 30% chance to do double damage when firing main gun
   * 30% chance to launch a second salvo on torpedo launch
-  * Has 31 Speed (the average CL has 32).
+  * Has 31 Speed (the average CL has 32), barrages every 4 Main Gun firing cycles and gains +10% EvaRate for the rest of the battle when she does (only for the first barrage).
 
 * Recommended Loadouts:
   * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
@@ -1932,7 +1934,7 @@ Despite her relatively low staying power, courtesy of her abysmal Luck, Mogami K
 
 * Desc: 
 >The archetypal Torp-CA, Takao can't decide whether to focus on guns or torpedoes and ends up doing a little bit of both.  
-Being an IJN CA, this means she gets a much better torp suite than her not-IJN peers and CL-like speed to go with the solid gunnery (mostly because of her 30% chance for double fire); a good deal, if for some reason you think you need a Torp-CA.  
+Being an IJN CA, this means she gets a much better torp suite than her not-IJN peers and CL-like speed to go with the solid gunnery (mostly because of her 30% chance for double fire); a good deal, if for some reason you think you need a Torp-CA and a tough hull to go along with it (courtesy of the Takao-class specific EvaRate boost upon first barrage).
 
 
 ![CA](/Images-for-the-Guide/SuzuyaChibi.png "Suzuya") - **[IJN Suzuya](https://azurlane.koumakan.jp/Suzuya)** 
@@ -2165,11 +2167,11 @@ That said, while the SHS shots are the ones that'll be most relevant to you, the
 
 ![BB](/Images-for-the-Guide/MassachusettsChibi.png "USS Massachusetts") - **[USS Massachusetts](https://azurlane.koumakan.jp/Massachusetts)**
 * Roles:
-  * **Case study in Dev incompetence and/or laziness**, good anti-Aviation defence.
+  * **High DPS (w/ USS CA or BB)**, good anti-Aviation defence.
 
 * Skill: 
-  * Gain +5% FP/AA/Evasion for every OTHER USS BB/CA in the fleet, up to +15%.
-  * Main Gun ammo is overrideen to SHS (60/135/115, shells fire at extremely high angles and fall from the sky) and salvo damage increases the farther the shots land, up to +30% dmg.
+  * Gain +8% FP/AA/Evasion for every OTHER USS BB/CA in the fleet, up to +24%.
+  * Main Gun damage increases by up to +15% the farther the target is; if mounting USS DD secondaries, Main Gun ammo is overrideen to SHS (60/135/115, shells fire at extremely high angles and fall from the sky) and the distance damage bonus increases to +30%. Do not give her USS DD secondaries.
 
 * Recommended Loadouts:
   * [Lategame Bossing] Prototype Triple 410mm Mounted Gun; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
@@ -2177,8 +2179,9 @@ That said, while the SHS shots are the ones that'll be most relevant to you, the
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Massachusetts shoots for the stars, but the aim isn't quite there. 
->On paper she'd easily be main gunline material, as the self-buffs are both significant and easily achieved while the enhanced AP modifiers allow her to damage Light Armour... but firing into the stratosphere lengthens the shots' travel time to the point where she struggles hitting at all, making the gains pretty much moot.  
-If you can guarantee your target won't be moving around much at all and is bigger than a CL, a very solid pick; if you can't, best look elsewhere... anywhere.
+>Once synonymous with 'atrocious aim', Massachussetts' enforced SHS ammo and its much reduced AoE (8 as opposed to the BB shell standard 15) rendered all but incapable of hitting anything moving faster than a rock, which squandered her otherwise remarkable statline and buffs.   
+Well, no more of that now; so long as you do NOT give her a USS BB secondary (why would you anyway, 128SKC are better at interception), Massa still gets to enjoy a fairly meaty distance damage boost without torpedoeing her physical hit rate in the process.  
+A very solid pick for USS fleets, all in all.  
 
 ![BB](/Images-for-the-Guide/NevadaKaiChibi.png "Nevada Kai") ![BB](/Images-for-the-Guide/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
 * Roles:
@@ -2238,8 +2241,8 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
   * **High Gun DPS (unstable)**, good anti-Aviation defence.
 
 * Skill: 
-  * Every 30s, absorb 50% damage taken by main fleet for 8s, then heal for 50% of the damage taken during that time
-  * 30% chance to do double damage when firing main gun
+  * At 15s from the start of the battle and every 25s afterwards, gain +10% FP (up to +30%) and absorb 50% damage taken by main fleet for 8s, then heal for 50% of the damage taken during that time.
+  * 30% chance to do double damage when firing main gun.
 
 * Recommended Loadouts:
   * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
@@ -2247,7 +2250,8 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
   * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
->While her tanking skill isn't good enough to make her the tank she's meant to be, she is undeniably hard to kill thanks to her large HP pool and all-around excellent stats, AA included (a rarity among BB/Cs); her double damage proc needs RNG to work, but when it does it will annihilate whatever she aimed at.
+>While her tanking skill isn't good enough to make her the tank she's meant to be, she is still hard to kill thanks to her large HP pool and all-around excellent stats, AA included (a rarity among BB/Cs); mercifully, even if the proc turns out to be useless for the intended purpose, it will at least raise her firepower in the process. A slow ramp, sure, but better than nothing.  
+Her double damage proc needs RNG to work, but when it does it'll let her deal significant damage.  
 
 ![BB](/Images-for-the-Guide/Duke_of_YorkChibi.png "Dork") - **[HMS Duke of York](https://azurlane.koumakan.jp/Duke_of_York)**
 * Roles:
@@ -2976,7 +2980,7 @@ Enemy ships are zipping around too much for your liking? Her Swordfishes inflict
 Subs? Don't let her stats fool you, she's still a CVL and that means she can bomb them with impunity (and great effect at that).  
 Whatever's getting you down, Centaur has the solution for it - and while she won't match the heights of more specalized units in their fields, her responses tend to be more than enough for most tasks at hand.  
  
- ![CVL](/Images-for-the-Guide/FormidableChibi.png "Gothic Taihou") - **[HMS Formidable](https://azurlane.koumakan.jp/Formidable)**
+ ![CVL](/Images-for-the-Guide/FormidableChibi.png "Obese Whore") - **[HMS Formidable](https://azurlane.koumakan.jp/Formidable)**
 * Skill: 
   * Gain +15% Aviation and grant +15% efficiency to equipped Fairey Albacores; also, if equipped with at least one Fairey Albacore, launch a plane barrage (gif pending).
     * The 12 PARALLEL TORPEDOES deal 240 bdmg with 80/110/130 modifiers and a 80% chance to Flood for 8s. They are dropped by 2 ALBACORES in 2 separate diagonal waves of 6 parallel torpedoes each, and are modified by 120% of the unit's Aviation stat.
@@ -3096,12 +3100,12 @@ On a side-note, that's a B-17's shadow and not a B-25's. Irritating.
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 - Desc: The Foxes launched first.
->Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Aviation and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
+>Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they sport exceptional amounts of Aviation and get to launch faster than almost anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
 As is customary for IJN sister ships, they truly shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch (and extra screenclear) is.
 
 ![CV](/Images-for-the-Guide/TaihouChibi.png "Taihou") - **[IJN Taihou](https://azurlane.koumakan.jp/Taihou)**
 * Skill: 
-  * Upon completion of an airstrike cooldown, she has a 40% chance to launch a Saiun (increases own backline's Damage by 10% for 8s but deals no damage of its own), a 40% chance to launch a Suisei carpet bombing and a 40% chance to launch a Ryusei targeted torpedo strike.
+  * Upon completion of an airstrike cooldown, she has a 100% chance to launch a random airstrike out of three (a Suisei carpet bombing, a flight of 6 Ryusei, a Saiun backline damage booster) and a 25% chance to launch the others.
   * Take -20% HE and Aviation damage.
   * Has a 2/3/3 loadout.
 
@@ -3199,8 +3203,8 @@ Exceptional.
 
 ![CV](/Images-for-the-Guide/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)**
 * Skill: 
-  * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
-  * When paired, increases Air Power by 30% and INCREASES damage taken by 10%
+  * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s.
+  * When paired with Zuikaku, gain +30% Aviation and TAKE +10% damage.
   * Has a 2/2/4 loadout.
 
 * Recommended Loadouts:
@@ -3301,19 +3305,14 @@ Whether it's boss-busting or wave-clearing, give her the appropriate planes and 
 * Desc: 
 >A decent little cheerleader for the rest of your carriers, armed with a limited complement of surplus Suisei to throw out and a solid statline to supplement the smattering of buffs she throws out. Ok.
 
-![CV](/Images-for-the-Guide/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** **(T1 w/ other KMS units)**
-* Skill: 
-  * 30% increase in efficiency for equipped German planes
-  * All KMS ships in fleet take 15% less damage.
-  * Has a 2/6/0 loadout.
+![CV](/Images-for-the-Guide/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** * Skill: 
+  * KMS units take -15% less damage; also, gain +5% Aviation (up to +15%) for every KMS unit in the fleet.
+  * If mounting at least one KMS aircraft, gain +30% efficiency on all aircraft slots.
+  * Has a 2/3/3 loadout.
 
-* Recommended Loadouts:
-  * [Optimal] F6F Hellcat or ME155 (if W12+); JU87 Stuka; JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
-  * [Poverty] F4U Corsair or ME155 (if W12+); SB2C Helldiver or JU87 Stuka; SB2C Helldiver or JU87 Stuka; Hydraulic Catapult; Hydraulic Catapult
-
-* Desc: IT'S NOT JUST A PHASE, MEIN KOMMANDANT!
->The single toughest CV in the game, courtesy of her ludicrous HP pool (6.8k), the flat damage cut she extends to every KMS unit in the fleet (herself included) and the couple of 150% ME155s she can field to keep the skies clear; and as for the offence, she's no slouch either with her remarkable six 160% Efficiency Stukas.  
-Her only real flaw is her lacking Reload, a mere 100 compared to most other top-of-the-line carriers - and, of course, her lack of synergy with non-KMS units, so keep her in there and she'll do work.
+* Desc: 
+>Now rid of the poor 2/6/0 loadout, granted a hefty Aviation boost for doing her job (ie. bolstering KMS unit defences) and a much preferable activation condition for her Efficiency boost, Graf Zeppelin has become a much more competitive choice... even if still mainly in the employ of KMS fleets, rather than universal ones. 
+Still, she's better than she's ever been and with efficiencies as remarkable as hers, entirely capable of making good on all that chuuni talk about laying the world to waste.  
 
 #### ![CV](/Images-for-the-Guide/Tokino_SoraChibi.png "Generic Moeblob")- **[Tokino Sora](https://azurlane.koumakan.jp/Tokino_Sora)** **(T1 w/ full Hololive fleet)**
 * Skill: 
@@ -3390,8 +3389,8 @@ Her niche is providing air superiority and protecting the frontline from harm th
 
 #### ![CV](/Images-for-the-Guide/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** 
 * Skill: 
-  * Increases next airstrike damage by 20% on launching airstrike, stacks up to 3 times
-  * When paired, increases Air Power by 20% and takes 20% less damage
+  * If deployed with 3+ IJN units, deal +20% damage. Upon airstrike launch, gain a +20% damage dealt stack (up to +60%).
+  * When paired with Shoukaku, gain +20% Aviation and take -20% damage.
   * Has a 2/3/3 loadout.
 
 * Recommended Loadouts:
@@ -3399,9 +3398,9 @@ Her niche is providing air superiority and protecting the frontline from harm th
   * [Poverty] F4U Corsair; SB2C Helldiver or JU87 Stuka; Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
 * Desc: 
->An extra-tough carrier designed for prolonged fights, which basically means 'boss battles only'.  
-Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be.  
-If this sounds like a "don't use her"... well, yeah. Don't, she'll only drag everyone down.
+>A tough carrier designed for prolonged fights, which basically means 'boss battles only'.  
+Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be; while the buff to her first skill graciously gifted her a +20% damage boost, her efficiencies remain rather lacklustre and the ramp is as slow as ever.  
+If this still sounds like a "don't use her"... well, yeah. Don't, she'll only drag everyone down.
 
 #### ![CV](/Images-for-the-Guide/Ookami_MioChibi.png "stando doggo") - [Ookami Mio](https://azurlane.koumakan.jp/Ookami_Mio)
 * Skill: 
@@ -3480,7 +3479,7 @@ Why is she even mentioned, then? Because her +XP skill stacks with Langley's, th
   * Has a 3/3*/0 loadout; her 3rd slot may be filled with a Dive Bomber (launches two planes) or a CL gun (fires twice).
 
 * Desc: 
->The one and only carrier fully capable of defending herself, and actually contributing somewhat to the fight through her barrage.  
+>One of the very few carriers fully capable of defending themselves, and actually contributing somewhat to the fight through her barrage.  
 A remarkable claim to fame for her class, but somewhat let down by her poor efficiencies and poor offensive statline; fielding her in a KMS fleet is all but necessary to have her compete in battle effectiveness with light carriers.  
 She *does* keep Tirpitz happy, though.
 
