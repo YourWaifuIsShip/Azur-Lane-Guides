@@ -1,7 +1,7 @@
 # Welcome to Your Waifu is SHIP's highly opinionated and extra-biased Guides!
 
 **BREAKING NEWS**  
-THE UNIT GUIDE IS BACK IN BUSINESS AFTER A LONG HIATUS. KMS UNITS ARE BEING ADDED AS WE SPEAK; THE COLLABOATS AND IDOLS AND PR3 ARE COMING SOON.
+WELCOME TO THE TIERLESS GUIDES. ALSO THE ADDING/FIXING OF OLD ENTRIES CONTINUES APACE.
 
 If you've landed here because someone linked the Tier Guides to you or happened to read a pin about them, chances are you already know what these are all about and why the insistence on them being called 'Tier Guides'; on the off chance you don't, here's the long and short of it.
 
