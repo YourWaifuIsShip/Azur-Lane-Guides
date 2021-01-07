@@ -2230,7 +2230,7 @@ While KGV is yet another sovereign that doesn't buff back her fellow countrywome
 As for the 356mm, long story short - it only overtakes the good ol' 406MK6 if her first volley lands most of its shots and hits something valuable, otherwise the long cooldown and the subpar damage eventually catch up to her; it won't cripple her but she won't benefit a whole lot from it either, and her barrage is fairly anaemic anyway so buffing it isn't too desirable a prospect.  
 In short, she's a big burly beatstick that'll benefit from having some HMS cheerleaders around. Only let her be the flag if nobody else has a better barrage.
 
-![BC](/Images-for-the-Guide/Little_RenownChibi.png "Renown Kai") - **[HMS Little Renown](https://azurlane.koumakan.jp/Little_Renown)** **(T1.5 if deployed w/ 3+ HMS units)**
+![BC](/Images-for-the-Guide/Little_RenownChibi.png "Renown Kai") - **[HMS Little Renown](https://azurlane.koumakan.jp/Little_Renown)**
 * Role:
   * Regular shelling BB. Quick-firing.
 
