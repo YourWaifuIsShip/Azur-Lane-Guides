@@ -3500,7 +3500,7 @@ As such, this section *does not contain tiers* but specific recommendations and 
 * Desc: Achtung - U-Boot!
 >Given real world Germany's history with submarines, it comes as no surprise that the Ironblood gets the apex specimens of their class.  
 Highly synergistic, they all benefit from hanging out with each other but are frail and somewhat lacking in support options otherwise - murdering stuff in call-ins is what they do best and that's all they do, but they better not take casualties.  
-*About U-37...* she's the designated Light Armour murderer, and since she tends to stick around for longer than normal thanks to the O2/Rld boosts, she's also exceptionally good at it.
+*About U-37...* she's the designated Light Armour murderer, and since she tends to stick around for longer than normal thanks to the O2/Rld boosts, she's also exceptionally good at it.  
 *About U-47...* yes, she does have a solo skill; no, you do not use her solo. You're taking her for her brutal damage output, not because of the solo meme skill.
 *About U-81...* she torpedoes harder and gains more than the others from having fellow countrychildren around.  
 *About U-101...* being able to close the distance with the enemy drastically lowers the chance to physically miss the target, but it is also somewhat suicidal if she's not equipped with a Snorkel. Not that it matters much.  
