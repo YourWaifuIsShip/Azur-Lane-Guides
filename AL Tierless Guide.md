@@ -1395,7 +1395,7 @@ Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outco
 Ziggy's Kai gave her the statline she needed to compete favourably with the other big-name CL supporters, even if the second skill is kinda lacklustre. Her torps in particular have shot up a fair few notches, going from an afterthought to her main source of damage, while also making adequate gains in staying power.  
 Nice.  
 
-![CL](/Images-for-the-Guide/Nurnberg.png "Nurnberg") - **[KMS Nurnberg](https://azurlane.koumakan.jp/Nurnberg)**
+![CL](/Images-for-the-Guide/NürnbergChibi.png "Nürnberg") - **[KMS Nurnberg](https://azurlane.koumakan.jp/Nürnberg)**
 * Roles:
   * **KMS AA buffer, high Torpedo DPS, light AA carry**, average Gun DPS, medium tank, submarine exp booster.
 
