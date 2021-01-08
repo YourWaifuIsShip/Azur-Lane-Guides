@@ -908,7 +908,7 @@ Most Cruiser compositions will benefit by her presence.
 
 * Skill:
   * Upon battle start and if there is 1+ alive CV/L in the fleet, gain +35% CritRate. For every alive CV/L in the fleet, deal +10% Dmg to DD/CL (up to +30%). For the first four  battles of her fleet, CV/L in her fleet take -10% Dmg.
-  * Upon battle start, gain +15% AA and +15% FP. Every 3rd time the backline takes damage, gain a stack of +6% AA/FP until the end of the fight (can gain 2 stacks max).
+  * Upon battle start, gain +15% AA and +15% FP. Every second time the backline takes damage, gain a stack of +6% AA/FP until the end of the fight (can gain 2 stacks max).
   * +10% Main Gun Efficiency if wielding a DD gun.
 
 * Recommended Loadouts:
@@ -1001,7 +1001,7 @@ Beware the lack of support, though; while her AA isn't Helena-tier bad, it is st
 
 * Skill: 
   * 60% chance every 20s, +40% own Firepower for 10s.
-  * Increases damage dealt to CAs by 25%
+  * Increases own Eva and Torp by 15%, increases own damage against medium armor enemies by 25%, and slows enemy Heavy Cruisers by 30% for 5 seconds after hitting them 4 times.
 
 * Recommended Loadouts:
   * [Full Atk] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
@@ -3274,10 +3274,11 @@ On a sidenote, she's also one of the carriers least affected by enemy AA boats d
 Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be; while the buff to her first skill graciously gifted her a +20% damage boost, her efficiencies remain rather lacklustre and the ramp is as slow as ever.  
 If this still sounds like a "don't use her"... well, yeah. Don't, she'll only drag everyone down.
 
-![CV](/Images-for-the-Guide/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** * Skill: 
+![CV](/Images-for-the-Guide/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** 
+* Skill: 
   * KMS units take -15% less damage; also, gain +5% Aviation (up to +15%) for every KMS unit in the fleet.
   * If mounting at least one KMS aircraft, gain +30% efficiency on all aircraft slots.
-  * Has a 2/3/3 loadout.
+  * Has a 2/6/0 or 2/3/3 (after max limit breaking) loadout.
 
 * Desc: 
 >Now rid of the poor 2/6/0 loadout, granted a hefty Aviation boost for doing her job (ie. bolstering KMS unit defences) and a much preferable activation condition for her Efficiency boost, Graf Zeppelin has become a much more competitive choice... even if still mainly in the employ of KMS fleets, rather than universal ones. 
