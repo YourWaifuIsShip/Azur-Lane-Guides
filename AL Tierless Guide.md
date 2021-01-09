@@ -2106,7 +2106,7 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
   * **High Gun DPS (unstable)**, good anti-Aviation defence.
 
 * Skill: 
-  * At 15s from the start of the battle and every 25s afterwards, gain +10% FP (up to +30%) and absorb 50% damage taken by main fleet for 8s, then heal for 50% of the damage taken during that time.
+  * At 15s from the start of the battle and every 25s afterwards, gain +10% FP (up to +30%) and absorb 50% damage taken by main fleet for 10s, then heal for 50% of the damage taken during that time.
   * 30% chance to do double damage when firing main gun.
 
 * Recommended Loadouts:
