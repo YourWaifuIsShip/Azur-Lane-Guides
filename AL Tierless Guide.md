@@ -69,6 +69,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 ## Changelog as of last major update (06/01/2021)
 
 - KMS Prinz Heinrich, Peter Strasser, Nurnberg, Weser, Z24, Z28, U-37 have been added to the Guide.
+- HMS Prince of Wales makes her swaggering re-entry in the Guide. How the turns have tabled...
 - HMS Ardent Kai has been dropped from the Guide, as well as IJN Fubuki and USS Hornet.
 
 <br/><br/>
