@@ -90,7 +90,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 >Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous damage output of their IJN counterparts but they can and will outlast them many times over.  
 As it is for Phoenix, they are best used in mobbing fleets.
 
-![DD](/Images-for-the-Guide/Charles_AusburneChibi.png "Charles Ausburne") - **[USS Charles Ausburne](https://azurlane.koumakan.jp/Charles_Ausburne)** **(T1.5 w/ CA, T0.5 w/ Fletcher)** 
+![DD](/Images-for-the-Guide/Charles_AusburneChibi.png "Charles Ausburne") - **[USS Charles Ausburne](https://azurlane.koumakan.jp/Charles_Ausburne)**
 * Skill:
   * 4% activation upon firing, increases Fleet movement speed, and Escort evasion by 40% for 8s
   * 60% activation every 20s, increases own FP by 40% for 10s.
@@ -2264,6 +2264,23 @@ Still, competent and capable if catered to.
 >The ex-core of every HMS fleet, the simian queen has fallen quite roughly to the wayside in favour of much stronger shellers (eg. Monarch/Hood), supporters (eg. Duke of York) or both (eg. Hyuuga), buff notwithstanding.   
 Fielding her in a full HMS fleet is one of her few last semi-practical applications, if you can stomach the rather poor quality of the average HMS vanguard.  
 [Also, her age is starting to show...](https://cdn.discordapp.com/attachments/466250908682944522/526742291193266186/DnCZSPHVAAAQywe.jpg)
+
+![BB](/Images-for-the-Guide/BismarckChibi.png "PoW") - **[HMS Prince of Wales](https://azurlane.koumakan.jp/Bismarck)**
+* Roles:
+  * **USS fleet buffer**, high Gun DPS, preloader BB.
+
+* Skill: 
+  * Gain +10% FP/AA/Evasion/Reload (up to +30%) for every USS unit in the fleet; if sortied with 3+ USS units, her first volley loads 85% faster, grants +12% FP/AA to all USS vanguards and +12% Aviation/AA to all USS backliners.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc: Zero to hero.
+>Once loudly and correctly derided as the worst gold BB in the game and a prime example of how 'gold doesn't mean good', the recent balance patch has truly tabled the turns; now she's not only an excellent BB if sortied in USS fleets, she's also their main (and only relevant, sorry BH) flagship faction buffer.  
+She remains a very simple unit overall, almost-preload aside (which can become a full preload if you give her a HPFCR, French-style); stick her in with USS units, preferably cruisers and carriers (feel free to use BBs instead though) and let her work her magic, buffing herself and her colonial buddies all the while.   
+It goes without saying she's entirely worthless *outside* of USS fleets, without those buffs she's quite literally nothing.
 
 ![BB](/Images-for-the-Guide/ValiantChibi.png "Valiant") - **[HMS Valiant](https://azurlane.koumakan.jp/Valiant)**
 * Role:
