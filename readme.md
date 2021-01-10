@@ -13,6 +13,9 @@ If you happen to have questions for me, want to discuss tierings or would like t
 
 ## Featured news and Changelog
 ```
+[06/01/2021]
+WELCOME TO THE TIERLESS GUIDES! We're back in action and slowly working our way through the backlog of stuff. The recent KMS event's units are all in and the modified skills have been updated where opportune.
+
 [20/07/2020]
 Added a couple usage notes on Zuikaku and Shoukaku. Also, we know PR3 have been released - and just like the others, we're waiting for people to start actually using them before passing definitive judgement. Have patience, it's not like you'll get any of these in a working state anytime soon anyway~
 
