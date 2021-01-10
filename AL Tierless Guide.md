@@ -91,6 +91,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 As it is for Phoenix, they are best used in mobbing fleets.
 
 ![DD](/Images-for-the-Guide/Charles_AusburneChibi.png "Charles Ausburne") - **[USS Charles Ausburne](https://azurlane.koumakan.jp/Charles_Ausburne)**
+* Roles:
+  * **Part of the USS Fletcher Trio** (off-tank, secondary buffer).
+ 
 * Skill:
   * 4% activation upon firing, increases Fleet movement speed, and Escort evasion by 40% for 8s
   * 60% activation every 20s, increases own FP by 40% for 10s.
@@ -123,6 +126,9 @@ Make no mistake, though, her main job is ASW: and in that regard she's fortunate
 Meme but alright.
 
 ![DD](/Images-for-the-Guide/EldridgeChibi.png "Pikachu")- **[USS Eldridge](https://azurlane.koumakan.jp/Eldridge)**
+* Roles:
+  * Dead PvP meme. Still annoying.
+
 * Skill:
   * Upon taking damage, 15% chance to make entire escort fleet to evade all attacks for 10s. DoT and Ramming damage still apply. CAN'T PROC BEFORE 20s HAVE PASSED (skill starts on cooldown).
 
@@ -134,6 +140,9 @@ Meme but alright.
 >Slippery little bastard, despite her CA-like movement speed. Her offensive stats are somewhat lacklustre, but she makes up for it with her skill - it might be RNG and her high Evasion works against it, but 10s of invulnerability is nothing to scoff at. Make sure to have her eat weak shots to minimise exposure to danger.
 
 ![DD](/Images-for-the-Guide/FletcherChibi.png "USS Fletcher") - **[USS Fletcher](https://azurlane.koumakan.jp/Fletcher)**
+* Roles:
+  * **Part of the USS Fletcher Trio** (as flagship buffer).
+
 * Skill:
   * Increases Firepower and Evasion of all Fletcher-Class in fleet by 30%
   * Increases Firepower, Torpedo, and Reload of DDs in the fleet by 10%
@@ -146,6 +155,9 @@ Meme but alright.
 >Lynchpin of the Fletcher Trio, think of her as an USS Z1 with a greater focus on gunnery as opposed to torps, as befitting her nation's doctrine. Very solid and dependable, but obviously better with other Fletchers.
 
 ![DD](/Images-for-the-Guide/LaffeyKaiChibi.png "Gun Bun") - **[USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)**
+* Roles:
+  * **Notorious DPS machine** (very high Reload). Deceptively flimsy.
+
 * Skill:
   * 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s.
   * Every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
@@ -156,7 +168,7 @@ Meme but alright.
   * [Poverty] 127mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: Vorpal Bunny.
->While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant.  
+>While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier amounts of Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant.  
 The DPS monster to AyaKai's DPH.
 
 ![DD](/Images-for-the-Guide/MauryChibi.png "USS Maury") - **[USS Maury](https://azurlane.koumakan.jp/Maury)**
@@ -174,7 +186,10 @@ The DPS monster to AyaKai's DPH.
 Maury does things differently from many of her colleagues, but she does them well - despite not quite reaching the torp heights of the IJN or the gunnery of the KMS, she strikes a comfortable balance between the two factions and proves a reliable, independent addition to most fleets.
 
 
-![DD](/Images-for-the-Guide/NicholasKaiChibi.png "Nicholas Kai") - **[USS Nicholas Kai](https://azurlane.koumakan.jp/Nicholas#Retrofit)** **(T0.5 w/ Fletcher)**
+![DD](/Images-for-the-Guide/NicholasKaiChibi.png "Nicholas Kai") - **[USS Nicholas Kai](https://azurlane.koumakan.jp/Nicholas#Retrofit)**
+* Role:
+**Part of the USS Fletcher Trio** (as main tank and main DPS).
+
 * Skill:
   * 5% chance upon firing to +40% her own Evasion and -40% damage received from planes for 8s
   * 60% e/ 20s to +40% her own Firepower for 8s
