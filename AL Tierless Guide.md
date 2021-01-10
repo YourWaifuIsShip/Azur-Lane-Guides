@@ -2265,7 +2265,7 @@ Still, competent and capable if catered to.
 Fielding her in a full HMS fleet is one of her few last semi-practical applications, if you can stomach the rather poor quality of the average HMS vanguard.  
 [Also, her age is starting to show...](https://cdn.discordapp.com/attachments/466250908682944522/526742291193266186/DnCZSPHVAAAQywe.jpg)
 
-![BB](/Images-for-the-Guide/BismarckChibi.png "PoW") - **[HMS Prince of Wales](https://azurlane.koumakan.jp/Bismarck)**
+![BB](/Images-for-the-Guide/Prince_of_WalesChibi.png "PoW") - **[HMS Prince of Wales](https://azurlane.koumakan.jp/Bismarck)**
 * Roles:
   * **USS fleet buffer**, high Gun DPS, preloader BB.
 
