@@ -43,7 +43,7 @@ Good reading, and godspeed cap'n!
  
  - PR1                : Monarch > Ibuki > Saint Louis > Neptune > Roon (unless focusing on KMS) 
  - PR2                : Georgia > Kitakaze = Gascogne > Seattle > Azuma > Friedrich der Grobe (unless focusing on KMS)
- - PR3                : Odin > Champagne > Cheshire = Mainz > Drake
+ - PR3                : Odin = Champagne > Cheshire = Mainz > Drake
   
 #### Assorted notes:
 - Read the VERY IMPORTANT OPENING NOTE at the top.
