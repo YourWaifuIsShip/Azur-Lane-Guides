@@ -2645,7 +2645,7 @@ However, all this becomes quickly irrelevant as soon as she loses her +30% damag
 
 ![BB](/Images-for-the-Guide/OdinChibi.png "Zantetsuken") - **[KMS Odin](https://azurlane.koumakan.jp/Odin)**
 * Roles:
-  * **Very High DPS (secondary guns reliant), vanguard fire supporter, secondary flagship**, vanguard anti-torp defence, submarine debuffer. 
+  * **High DPS (secondary guns reliant), vanguard fire supporter, secondary flagship**, vanguard anti-torp defence, submarine debuffer.
 
 * Skill: 
   * Odin spawns in front of the flagship, regardless of her actual placement in the comp, and takes -20% damage. Every 15s, Odin sends out a sonar ping revealing all subs for 10s, reducing their Accuracy by 25% and decreasing the damage the vanguard takes from torpedoes by -15% for 10s.
@@ -2666,21 +2666,26 @@ It is important to remember that the former set makes up for about 1/3rd of her 
 
 ![BC](/Images-for-the-Guide/ChampagneChibi.png "Zzz") - **[FFNF Champagne](https://azurlane.koumakan.jp/Champagne)**
 * Roles:
-  * **Above average DPS (high Gun DPS, below average Barrage DPS; preloaded)**.
+  * **Chibi sniper (Very High single target damage, rapid reload but low volume of fire)**, flagship protector.
 
 * Skill: 
-  * 50% chance on Main Gun fire, launch a fixed linear HE barrage (2 tight columns of 4 HE shells and a few needles to the sides).
-  * Starts the battle with a preloaded volley, but has only MGM+1.
+  * Main Gun cooldown reduced by -40% and, upon firing, launch a [burst of DD AP shots](https://streamable.com/wrkban); also, every 20s, fire [three BB AP shells](https://streamable.com/wrkban) at a target (chibi preferred).
+    * The 16 DD AP SHOTS deal 36 bdmg with 90/70/40 mods. They are modified by 100% of the unit's FP.
+    * The 3 BB AP SHELLS deal 170 bdmg with 30/130/110 mods. They are modified by 100% of the unit's FP.
+  * If mounting a HE main gun... gain +5% FP, +15% AA and increase the modifier against Heavy Armour by +15%. If mounting an AP main gun... gain +5% FP, +15% Reload and +20% Main Gun CritRate. If the unit is above 75% HP, absorb half the damage taken by the flagship; if the unit is below 75% HP, gain +15% Evasion and Accuracy.
+  * Deal +15% damage to Sirens.
+  * Starts the battle with a preloaded volley. Has no additional MGM.
 
 * Recommended Loadouts:
-  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Seattle Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 155x3 IJN; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; Tbtsk; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
-* Desc: The predecessor to Jean Bart, and it does show.
->Like Jean, she lacks her third salvo and can launch her bombardment immediately; unlike Jean, said bombardment operates just like any other and is considerably weaker as a result, while her barrage fires on a coin toss.  
-All that said, she'll always get to fire one more volley per round than 99% of the other dreadnoughts and her gun efficiency is very high.  
-Solid, all things considered.
+* Desc: [D E A T H G L A R E](https://cdn.discordapp.com/attachments/367307557796053002/798487197044310036/unknown.png)
+>A very peculiar creature, at first glance it's hard to tell what Champagne is supposed to do: while her main gun (singular, it's important) reloads very quickly, it alone is not quite enough to oneshot the harder chibis; she has a defensive skill aimed at a flagship, but her DD AP bursts seem to suggest she's meant for flagship duties herself.  
+As it stands, Champagne shines the brightest as a sort of flagship fire support, and even more so in a French roster that severely lacks sources of AP damage output; whether she fires first or second, her single shots are devastating and entirely capable of severely weakening targets left alive by others' barrages or softening them up enough for someone else to sweep them up, and in the meantime she gets to take the edge off of the return fire.  
+That's not to say she cannot be used as a flagship, of course, the DD AP bursts are fairly damaging in her own right... but whether she is the best fit for the job depends entirely on whether her main gun *can* or *cannot* snipe off the map enemy chibis. 
+If she can, perfect; if not, consider looking elsewhere.  
 
 ![BC](/Images-for-the-Guide/DunkerqueChibi.png "Dunkerque") - **[MNF Dunkerque](https://azurlane.koumakan.jp/Dunkerque)**
 * Roles:
