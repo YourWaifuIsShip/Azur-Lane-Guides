@@ -3,10 +3,9 @@
 ## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
 
-That said, however... to quote a wise Azur Lane Community member, "just because it works, it doesn't mean it's good": while all units are indeed viable, there are clearly objectively superior ones, and this Tier Guide aims to identify who are they and for what reasons.  
-Indeed, you could interpret the tiers as a relative measure of how much investment is needed to get these units to perform rather than a definitive measure of how good they are - a T0 would be a beast almost right out of the gate, whereas an untiered unit would require disproportionate amounts of effort - but I'd recommend treating the tiers as they're meant to be, according to the criteria below.
-The descriptions are by far more important than the tierings themselves; a T0 used improperly will be laughed at by a T2 used properly, for instance.
-
+That said, however... to quote a wise Azur Lane Community member, "just because it works, it doesn't mean it's good": while all units are indeed viable, there are clearly objectively superior ones, and this Tierless Guide aims to identify who are they and for what reasons.  
+A few years at this and counting, and it's become to me abundantly clear that tiers cause a lot more issues than they actually solve; most people only pay attention to the tier and ignore the reasons why they're tiered that way, engage in pointless debates over which tier is *right* (like it's not all subjective anyway) and are left knowing just as much as they did before about the unit itself or how they are supposed to use it. 
+The Tierless Guide means to dispense with all that nonsense and tell you all the important stuff, with none of the nastiness and drivel that inevitably follows tiers. Should you still wish for a shorter form writeup on what the units are like, [consider checking the Ko-Fi posts here.](https://ko-fi.com/ywisguides#).  
 Whatever the case and however you choose to read this guide, I want to stress this - ALL units are viable, SOME are better than others, NONE of them will work if you don't know how to use them.
 Good reading, and godspeed cap'n!
 ## _VERY IMPORTANT OPENING NOTE_ 
@@ -14,11 +13,11 @@ Good reading, and godspeed cap'n!
   
   
 ### Evaluation Criteria:
-- Ships are tiered by their PvE PERFORMANCE first and foremost, but notes on notable PvP usage will be made if suitable.
-- Ships are tiered according to their ability to act as a STAND-ALONE unit.
-- Ships unable to fulfil the above criterion (eg. carriers as a whole, Vestal) are rated according to their ability to act as a SUPPORT unit; buffs/debuffs/aa/heals garner higher ranks than sheer damage output, especially during boss fights. See assorted notes for reasoning.
+- Ships are evaluated by their PvE PERFORMANCE first and foremost, but notes on notable PvP usage will be made if suitable.
+- Ships are evaluated according to their ability to act as a STAND-ALONE unit.
+- Ships unable to evaluated the above criterion (eg. carriers as a whole, Vestal) are rated according to their ability to act as a SUPPORT unit; buffs/debuffs/aa/heals garner higher ranks than sheer damage output, especially during boss fights. See assorted notes for reasoning.
 - Ships are compared to others in their OWN CLASS for tiering purposes; if two ships are have comparable stats and purpose, the least expensive one will be ranked higher.
-- Ships in a tier are listed alphabetically and in order of nationality (USS -> HMS -> IJN -> KMS).
+- Ships are listed alphabetically and in order of nationality (USS -> HMS -> IJN -> KMS -> French -> Italy -> Russia).
 - All units are assumed to be MAXED (ie. lv120, BiS gear, SL10 across the board). PRs are an exception, as they take at the very least two full months to max, let alone rainbow ones.
 - Auto or Manual performance is not taken into consideration, unless it is specifically relevant to the unit.
 - The Retrofit Priority List orderings are decided on the basis of how effective is the retrofitted unit, not how much does it need the retrofit; in other words, the better (more powerful/more useful) the retrofit, the higher it is.
@@ -44,6 +43,7 @@ Good reading, and godspeed cap'n!
  
  - PR1                : Monarch > Ibuki > Saint Louis > Neptune > Roon (unless focusing on KMS) 
  - PR2                : Georgia > Kitakaze = Gascogne > Seattle > Azuma > Friedrich der Grobe (unless focusing on KMS)
+ - PR3                : Odin > Champagne > Cheshire = Mainz (if focusing KMS) > Drake
   
 #### Assorted notes:
 - Read the VERY IMPORTANT OPENING NOTE at the top.
@@ -1408,8 +1408,27 @@ Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outco
 
 * Desc: Not Fishy at all!
 > More of the same good, old, flexible cruiser buffing action - but on a much more capable platform.  
-Ziggy's Kai gave her the statline she needed to compete favourably with the other big-name CL supporters, even if the second skill is kinda lacklustre. Her torps in particular have shot up a fair few notches, going from an afterthought to her main source of damage, while also making adequate gains in staying power.  
-Nice.  
+Ziggy's Kai gave her the statline she needed to compete favourably with the other big-name CL supporters, even if the second skill is kinda lacklustre. Her torps in particular have shot up a fair few notches, going from an afterthought to her main source of damage, while also making adequate gains in staying power.  Nice.  
+
+![CL](/Images-for-the-Guide/MainzChibi.png "Mainz Beans") - **[KMS Mainz](https://azurlane.koumakan.jp/Mainz)**
+* Roles:
+  * **Very high Gun DPS and medium shielded tank** or High Gun DPS and shielded Heavy tank.
+
+* Skill: 
+  * Every 15s, deploy a hitshield in front of Mainz (blocks up to 6 shots, lasts for 8s). If the hitshield breaks, gain +8% FP/Accuracy (up to +16%) until the end of the battle and fire a special aimed barrage.
+    * The 8 AP SHOTS deal 36 bdmg with 90/70/40 mods; the 8 HE SHOTS deal 36 bdm with 120/60/60 mods. They are modified by 100% of the unit's FP.
+  * If vanguard lead, gain +5 Speed and +12% Evasion until the end of the battle and take -15% damage for 30s; if NOT vanguard lead, deal +25% CritDmg and fire a special barrage every 15s at a 70% chance.
+    * The 6 SHOTS deal 36 bdmg with 200/200/200 mods. They are modified by 100% of the unit's FP.
+  * Deal +15% damage to Sirens.
+  * Has Medium Armour, MGM+1 and torpedoes. Really,  *really* bad torpedoes.
+
+* Recommended Loadouts:
+  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 113x2mm; Toolbox; Oxytorp
+  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+
+* Desc: Hipper grew a pair or two.
+> Clearly inspired by the popular and very capable Zara, this former Admiral Hipper hull does away with the predecessor's CA guns and revolving shields in favour of more CL guns and the much superior single front-facing style of hitshields... which, uniquely, also happen to shoot back as they are inevitably broken. While frailer than Zara's and slower to respawn, by virtue of triggering a barrage when broken they are also more universally useful: hitshields have a deservedly poor reputation for breaking far too quickly to incoming enemy fire that would have dealt little to no damage anyway, and this provides an elegant solution to the issue.  
+Shielding aside, Mainz shows some versatility in use, gaining more bulk and speed if set as vanguard lead or more damage output if placed elsewhere; given how ubiquitous CL or CA tanks are (and how rare Gun-CL capable of actual DPS are), it would be better to have her off-tank and let her rip.  
 
 ![CL](/Images-for-the-Guide/NürnbergChibi.png "Nürnberg") - **[KMS Nurnberg](https://azurlane.koumakan.jp/Nürnberg)**
 * Roles:
@@ -1424,9 +1443,7 @@ Nice.
   * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 113x2mm; Toolbox; Oxytorp
   * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
-* Desc: Archerfishy.
-> A Leipzig Kai that has traded in the generalised cruiser buffs and a little survivability for extra AA for herself, a KMS-wide AA boost, and a nifty timed barrage. AA focus aside, she behaves almost exactly like the aforementioned unit, so... that's it, really.
-
+A Leipzig Kai that has traded in the generalised cruiser buffs and a little survivability for extra AA for herself, a KMS-wide AA boost, and a nifty timed barrage. AA focus aside, she behaves almost exactly like the aforementioned unit, so... that's it, really.
 
 ![CL](/Images-for-the-Guide/Emile_BertinKaiChibi.png "Emile Bertin Kai") - **[FFNF Emile Bertin Kai](https://azurlane.koumakan.jp/Emile_Bertin#retrofit)**
 * Roles:
