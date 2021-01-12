@@ -1677,7 +1677,7 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
 
 ![CA](/Images-for-the-Guide/CheshireChibi.png "Stupid Cat") - **[HMS Cheshire](https://azurlane.koumakan.jp/Cheshire)**
 * Roles:
-  * ~~Validation for dog lovers.~~ **Heavy AA Carry, medium tank**, above average DPS (average Gun DPS, above average Barrage DPS, low Torp DPS).
+  * ~~Validation for dog lovers.~~ **Heavy AA Carry, Heavy tank**, above average DPS (average Gun DPS, above average Barrage DPS, low Torp DPS).
 
 * Skill: 
   * Take -15% damage; also, every 12s after battle start... [drop cat paws on the enemy as a barrage](https://streamable.com/ou9gkh). Siiigh.
@@ -1691,7 +1691,7 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
   * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); 533x5; 113x2mm; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: Imagine having lines so idiotic the players complain about them until they are toned down.
->So, Cheshite. San Diego's estranged bri'ish sister, replacing battle stars with raining cat paws and cat puns.  
+>So, Cheshite. San Diego's estranged bri'ish sister, replacing battle stars with raining cat paws and cat puns. So many cat puns.  
 I am not sure this was an improvement, but nevermind the bollocks; the comparison between the two is fairly apt, as both fulfil rather similar roles as mobile no-fly zones while putting out respectable-to-good DPS. Whereas San Diego shreds Light Armour better, Cheshire takes over against other types; and where San Diego's supportive capabilities come mainly in the form of a massive fleetwide AA buff, Cheshire's more or less boils down to taking lots of hits and chugging along regardless, helped in that by the Medium armour and the +Eva stacks.  
 A useful and tough Torp-CA, all in all. [Incredibly](https://cdn.discordapp.com/attachments/367307557796053002/797953780032733194/unknown.png), [offensively](https://cdn.discordapp.com/attachments/367307557796053002/797953842921603142/unknown.png) stupid... but useful.
 
