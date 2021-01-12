@@ -43,7 +43,7 @@ Good reading, and godspeed cap'n!
  
  - PR1                : Monarch > Ibuki > Saint Louis > Neptune > Roon (unless focusing on KMS) 
  - PR2                : Georgia > Kitakaze = Gascogne > Seattle > Azuma > Friedrich der Grobe (unless focusing on KMS)
- - PR3                : Odin > Champagne > Cheshire = Mainz (if focusing KMS) > Drake
+ - PR3                : Odin > Champagne > Cheshire = Mainz > Drake
   
 #### Assorted notes:
 - Read the VERY IMPORTANT OPENING NOTE at the top.
@@ -1674,6 +1674,46 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
 * Desc: 
 >Can you say 24 shots in a row? She certainly can. Wichita is THE heaviest frontline DPS in the entire game, bar none. Her HP is rather lacklustre, but it's an easily solved issue and dead enemies can't hurt you anyway.
 
+![CA](/Images-for-the-Guide/CheshireChibi.png "Stupid Cat") - **[HMS Cheshire](https://azurlane.koumakan.jp/Cheshire)**
+* Roles:
+  * ~~Validation for dog lovers.~~ **Heavy AA Carry, medium tank**, above average DPS (average Gun DPS, above average Barrage DPS, low Torp DPS).
+
+* Skill: 
+  * Take -15% damage; also, every 12s after battle start... [drop cat paws on the enemy as a barrage](https://streamable.com/ou9gkh). Siiigh.
+    * The 12 SLOWLY FALLING PAWS deal 56 bdmg with 100/100/100 mods. They are modified by 100% of the unit's FP.
+  * The unit's first torpedo spread loads 70% faster; also, 15% chance upon taking damage to gain +5% FP/AA/Evasion (up to +15%).
+  * Deal +15% damage to Sirens.
+  * Has AAGM+1, but can only store one torpedo spread and cannot preload it.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 533x5 HMS; 113x2mm; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); 533x5; 113x2mm; Toolbox; Hydraulic Gear or Naval Camo
+
+* Desc: Imagine having lines so idiotic the players complain about them until they are toned down.
+>So, Cheshite. San Diego's estranged bri'ish sister, replacing battle stars with raining cat paws and cat puns.  
+I am not sure this was an improvement, but nevermind the bollocks; the comparison between the two is fairly apt, as both fulfil rather similar roles as mobile no-fly zones while putting out respectable-to-good DPS. Whereas San Diego shreds Light Armour better, Cheshire takes over against other types; and where San Diego's supportive capabilities come mainly in the form of a massive fleetwide AA buff, Cheshire's more or less boils down to taking lots of hits and chugging along regardless, helped in that by the Medium armour and the +Eva stacks.  
+A useful and tough Torp-CA, all in all. [Incredibly](https://cdn.discordapp.com/attachments/367307557796053002/797953780032733194/unknown.png), [offensively](https://cdn.discordapp.com/attachments/367307557796053002/797953842921603142/unknown.png) stupid... but useful.
+
+![CA](/Images-for-the-Guide/DrakeChibi.png "Fate did her better") - **[HMS Drake](https://azurlane.koumakan.jp/Drake)**
+* Roles:
+  * **Extreme Gun DPS**, medium tank. Minor self-healing capabilities.
+
+* Skill: 
+  * Gain +50% CritRate for the ghost guns and improve their armour modifiers to 100/100/100. If mounting a Normal or HE gun, change the shots to HE with special armour modifiers (125/125/105).
+  * Every 20s, fire a [three round burst of shield-ignoring shots](https://streamable.com/yyu632) healing Drake for 15% of the damage dealt. If sortied as vanguard lead, gain +15% FP/Evasion and +21% Reload; if NOT sortied as vanguard lead, gain +5% FP/Evasion and +7% Reload for every unit destroyed (up to +15%/+21%).
+    * The 3 SHOTS deal 92 bdmg with 100/100/100 mods. They are modified by 100% of the unit's FP.
+  * Deal +15% damage to Sirens.
+  * Has MGM+1, but can only store one torpedo spread and cannot preload it.
+
+* Recommended Loadouts:
+  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 533x5 HMS; 113x2mm; Research Hydraulic Gear; Toolbox
+  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); 533x5; 113x2mm; Toolbox; Hydraulic Gear or Naval Camo
+
+* Desc: Privateer, deprived of originality.
+>If you thought Freidrich der Grosse was boring for a DR, get a load of this freaking gonk.  
+No flashy mechanics to show off or imaginative barrages to spew, just really powerful guns bolstered by excellent forced modifiers, stats stacks and a minor self-heal that'll help her keep going through the fights (to an extent). Her ghost guns get a buff too; welcome, but they don't really get to the point where they pose a significant threat.  
+That's pretty much it, really. A devastating powerhouse of a Gun-CA with some poor torpedoes to the side and a little heal, and... not much else.  
+
 ![CA](/Images-for-the-Guide/LondonKaiChibi.png "London Kai") - **[HMS London Kai](https://azurlane.koumakan.jp/London#retrofit)**
 * Roles:
   * **High Gun DPS (DD gun focused, increased consistency), vanguard FP booster.**
@@ -2602,6 +2642,45 @@ If one were to look hard for any chinks in her Plot Armour it could be said that
 >One of the most consistent and hardest hitting BBs in the game, provided you cater to her social anxiety.  
 While not as flashy as her competition, Tirpitz is, in a way, the "safe" choice - her abilities can't misfire, her defensive statlines makes her tougher than most and her damage buff extends to both her CL guns and torpedo spread, ensuring that even at 0 Ammo she will still be able to strike and defend herself with remarkable effectiveness.
 However, all this becomes quickly irrelevant as soon as she loses her +30% damage buff as it the main reason behind her power; without it she has very little reason to be used and will be easily outshone by pretty much everyone.   
+
+![BB](/Images-for-the-Guide/OdinChibi.png "Zantetsuken") - **[KMS Odin](https://azurlane.koumakan.jp/Odin)**
+* Roles:
+  * **Very High DPS (secondary guns reliant), vanguard fire supporter, secondary flagship**, vanguard anti-torp defence, submarine debuffer. 
+
+* Skill: 
+  * Odin spawns in front of the flagship, regardless of her actual placement in the comp, and takes -20% damage. Every 15s, Odin sends out a sonar ping revealing all subs for 10s, reducing their Accuracy by 25% and decreasing the damage the vanguard takes from torpedoes by -15% for 10s.
+  * Every 18s, 75% chance to fire a [barrage](https://streamable.com/svrjmd); also, all torpedoes mounted change their pattern from conal to parallel.
+    * The SHIELD-IGNORING RAILGUN deals 240 bdmg with 150/150/150 mods; the 24 NEEDLES deal 92 bdmg with 100/80/60 mods. Both are modified by 100% of the unit's FP.
+  * Has torpedoes instead of regular DD/CL secondary guns... and has two sets of special ghost guns (one for long-range support fire, one for close-range defence) to compensate.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 533x5 KMS; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 533x5 KMS; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; 533x5 KMS; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc: Danger Closer.
+>Ever wanted a fourth vanguard ship but the game just won't let you stick in more? Like Bismarck's secondary memes but are sad at how useless (when not outright detrimental) they are? Is just one flagship not enough for you? Odin's got you covered.  
+A very unique unit, Odin takes after Bismarck and Tirpitz and upstages both at their own games... by providing solid protection for your beleaguered vanguard both in the form of a nifty defence boost and a constant hail of gunfire that IS capable of shooting past the white pushback line, and significant fire support in the form of surprisingly capable long-range torpedo mounts you can call in like a normal torp spread and a nasty timed barrage.  
+The secondaries deserve further elaboration. As mentioned, Odin mounts two sets of them on top of the torpedoes; one pair behaves like many twin DD guns with significantly increased damage, universal armour modifiers (100/100/100) and extremely long range (ie. they reach past the white pushback line, unlike Bismarck's, thanks to extra range on their part and Odin being positioned closer to the edge of the screen), one's meant for self-defence against the fireships Bismarck struggles to intercept, leaving her always capable of responding to incoming threats.  
+It is important to remember that the former set makes up for about 1/3rd of her overall DPS, and if it is not allowed to operate (as would happen with far away bosses or enemies), her contribution to the fight would suffer considerably.
+
+![BC](/Images-for-the-Guide/ChampagneChibi.png "Zzz") - **[FFNF Champagne](https://azurlane.koumakan.jp/Champagne)**
+* Roles:
+  * **Above average DPS (high Gun DPS, below average Barrage DPS; preloaded)**.
+
+* Skill: 
+  * 50% chance on Main Gun fire, launch a fixed linear HE barrage (2 tight columns of 4 HE shells and a few needles to the sides).
+  * Starts the battle with a preloaded volley, but has only MGM+1.
+
+* Recommended Loadouts:
+  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [General Purpose] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
+  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
+* Desc: The predecessor to Jean Bart, and it does show.
+>Like Jean, she lacks her third salvo and can launch her bombardment immediately; unlike Jean, said bombardment operates just like any other and is considerably weaker as a result, while her barrage fires on a coin toss.  
+All that said, she'll always get to fire one more volley per round than 99% of the other dreadnoughts and her gun efficiency is very high.  
+Solid, all things considered.
 
 ![BC](/Images-for-the-Guide/DunkerqueChibi.png "Dunkerque") - **[MNF Dunkerque](https://azurlane.koumakan.jp/Dunkerque)**
 * Roles:
