@@ -70,6 +70,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 - KMS Prinz Heinrich, Peter Strasser, Nurnberg, Weser, Z24, Z28, U-37 have been added to the Guide.
 - HMS Prince of Wales makes her swaggering re-entry in the Guide. How the turns have tabled...
+- Revised USS Biloxi's entry.
 - PR3 ARE FINALLY IN. PRAISE BE.
 - HMS Ardent Kai has been dropped from the Guide, as well as IJN Fubuki and USS Hornet.
 
@@ -788,9 +789,10 @@ Still, if you're willing to field a full french vanguard (and you do have good o
   * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 *  Desc: 
->The worst the Cleveland-class has to offer, Biloxi has the same average statline of her peers but lacks the skills to improve or ignore it.  
-As a result, she can't out-AA any of her colleagues; she can't outDPS any of them but Columbia and Cleveland (by a small margin and while lacking the AA skill); and she can't outsupport any of them (all of them have better AA, Columbia protects the most important unit in the fleet better, Montpelier supports the vanguard better). In short, she's just worse.  
-Still, she's a Cleveland-class, and even at its worst the Cleveland-class offers a bulky warm body to catch bullets with.
+>Second best of the Cleveland-class, chiefly by virtue of... acknowledging their limits?
+Ever since the game moved on from those early worlds (W8 or W9), the Clevelands have struggled to find their footing; CL guns, once preferred to CA guns because faster to reload and unlikely to overkill targets, are severely underpowered... as is their AA, when facing the nippon flying steel of W12 or swarms of W13.  
+Biloxi does not actually solve these problems, but does mitigate them by doing away with those early low-proc skills like Full Firepower in favour of passive buffs; out of the two, the one most likely to aid is the +FP -AA, not least because the 127x2 is a fairly poor gun.  
+Also, she can defend a fellow vanguard that's taking too many hits. That's okay.
 
 ![CL](/Images-for-the-Guide/BirminghamChibi.png "Birmingham") - **[USS Birmingham](https://azurlane.koumakan.jp/Birmingham)**
 * Role:
