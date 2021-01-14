@@ -1679,7 +1679,7 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
 
 ![CA](/Images-for-the-Guide/CheshireChibi.png "Stupid Cat") - **[HMS Cheshire](https://azurlane.koumakan.jp/Cheshire)**
 * Roles:
-  * ~~Validation for dog lovers.~~ **Heavy AA Carry, Heavy tank**, above average DPS (average Gun DPS, above average Barrage DPS, low Torp DPS).
+  * ~~Validation for dog lovers.~~ **Heavy AA Carry, Heavy tank**, above average DPS (average Gun DPS, above average Barrage DPS, low Torp DPS). 
 
 * Skill: 
   * Take -15% damage; also, every 12s after battle start... [drop cat paws on the enemy as a barrage](https://streamable.com/ou9gkh). Siiigh.
@@ -1699,7 +1699,7 @@ A useful and tough Torp-CA, all in all. [Incredibly](https://cdn.discordapp.com/
 
 ![CA](/Images-for-the-Guide/DrakeChibi.png "Fate did her better") - **[HMS Drake](https://azurlane.koumakan.jp/Drake)**
 * Roles:
-  * **Extreme Gun DPS**, medium tank. Minor self-healing capabilities.
+  * **Extreme Gun DPS**, heavy tank. Minor self-healing capabilities.
 
 * Skill: 
   * Gain +50% CritRate for the ghost guns and improve their armour modifiers to 100/100/100. If mounting a Normal or HE gun, change the shots to HE with special armour modifiers (125/125/105).
