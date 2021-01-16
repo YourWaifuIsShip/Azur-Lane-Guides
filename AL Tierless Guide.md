@@ -426,6 +426,9 @@ Do fret, however, about her consistency; while she's nowhere near as unreliable 
 Truly excellent nevertheless.  
 
 ![DD](/Images-for-the-Guide/TanikazeKaiChibi.png "Tinykaze") - **[IJN Tanikaze Kai](https://azurlane.koumakan.jp/Tanikaze#Retrofit)**
+* Role:
+  * **Helena, but for torps. Submarine torpedoes as well.**
+
 * Skill:
   * When only escort ship alive, increase own evasion by 10% and reduce damage taken from airstrike to self by 50%
   * When her torpedo hits an enemy, 17% chance to make said enemy take 40% more damage from all torpedoes for 8s.
@@ -436,8 +439,8 @@ Truly excellent nevertheless.
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc:
->Tinykaze sacrifices almost every part of her statline for exceptionally powerful torpedoes and a torpedo-boosting debuff.  
-Devastating if the stars align and the debuff procs on her first torp hit, but little more than a dead weight while she's stuck reloading. Handle with care.
+>Tinykaze sacrifices almost every part of her statline for exceptionally powerful torpedoes and a torpedo-boosting debuff, giving her a shot at being an actual force multiplier.  
+Devastating if the stars align and the debuff procs on her first torp hit, but little more than a dead weight while she's stuck reloading (like so many other IJN DD). Handle with care.
 
 ![DD](/Images-for-the-Guide/YukikazeChibi.png "Nanoda") - **[IJN Yukikaze](https://azurlane.koumakan.jp/Yukikaze)**
 * Skill:
@@ -455,6 +458,9 @@ Also, her barrage gets a few torps thrown into it for good measure.
 
 
  ![DD](/Images-for-the-Guide/YuugureKaiChibi.png "Yuugure Kai")- **[IJN Yuugure Kai](https://azurlane.koumakan.jp/Yuugure#Retrofit)**
+* Roles:
+  * **Carrier damage/defence booster**, torpedo barge.
+
 * Skill: 
   * When alive in fleet, allied CV/L take -15% damage.
   * When alive in fleet, allied CV/L deal +15% damage.
@@ -464,7 +470,7 @@ Also, her barrage gets a few torps thrown into it for good measure.
   * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikons; Toolbox; Toolbox
 
 * Desc: Ardent Kai but good.
->No, really, there's not much else to say here; the atrocious statline has been fixed in typical IJN fashion (ie. stack torpedoes, stack them some more, slap a little extra armour on, forget how to shoot upwards) and... well, she works a lot better as a result.  
+>Prémiere vanguard CVeerlader, Yuugure Kai is a rather standard IJN DD (great torpedoes, non-existent gunnery and AA) with a no-nonsense, straightforward couple of buffs for your precious backline carriers.
 
 ![DD](/Images-for-the-Guide/Z1KaiChibi.png "KMS Z1") - **[KMS Z1 Kai](https://azurlane.koumakan.jp/Z1#retrofit)**
 * Role:
@@ -601,7 +607,7 @@ The tempo she forces upon you is fairly demanding, as the average DD torpedo set
 
 ![DD](/Images-for-the-Guide/Z46Chibi.png "Z46") - **[KMS Z46](https://azurlane.koumakan.jp/Z46)**
 * Role:
-  * **Z-class vanguard main DPS (barrage-focused)**, light AA support.
+  * **Z-class vanguard DPS (barrage-focused)**, light AA support.
 
 * Skill:
   * Whenever enemy planes are shot down within own AA range, increase FP by 15% of own total AA stat (Only base stat and gear is counted) and if skill procs again during its duration, it refreshes the buff
@@ -612,9 +618,9 @@ The tempo she forces upon you is fairly demanding, as the average DD torpedo set
   * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 113mm dual AA; Toolbox; Oxytorp
   * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 113mm dual AA; Toolbox; AA Radar
   
-* Desc: San DDiego, is that you?
->The last word in terms of DD AA and well capable of going toe-to-toe with most CL on their own field of expertise, while being vastly superior in terms of damage output, survivability, ASW prowess and - most importantly - barrage quality.  
-Proud owner of a quick-firing, high-volume, AP conal barrage with four homing torpedoes to the side that is boosted both by her own +APdmg skill (do not take AP DD guns unless you hate her) and her high torp stat, she puts every other standard DD barrage in the game to shame and is the main reason for her astounding effectiveness; the AA proficiency is a nice cherry on top, but not her main draw.
+* Desc:
+>Don't let the kit or the (admittedly excellent by DD standards) AA efficiency; Z46 is a very capable barrage barge ~~(barrarge?)~~ that just so happens to throw a little AA in the mix, not nearly enough to bother actual flying threats.
+Proud owner of a quick-firing, high-volume, AP conal barrage with four homing torpedoes to the side that is boosted both by her own +APdmg skill (only use the recently released golden KMS DD AP gun or stick with the usual quick-firing solutions) and her high torp stat, she puts every other standard DD barrage in the game to shame and is the main reason for her remarkable prowess. That said, like most KMS DD, her normal torpedoes are pretty bad and will bank on her gunnery to pull through.
 
 
 
@@ -676,7 +682,7 @@ Similarly to Laffey, her torps are awful but come out quick; consider patching u
 ![DD](/Images-for-the-Guide/Shirakami_FubukiChibi.png "Not Kawakaze") - **[Shirakami Fubuki](https://azurlane.koumakan.jp/Shirakami_Fubuki)**
 * Skill:
   * Forces a "Mach 2.42 Bermbew Sprawt" weapon camo on the currently equipped Dive Bomber. When an airstrike is called in, the Dive Bombers take twice as long as normal to arrive; also, every 20s, summons a Dive Bomber.
-    * The 6 BOMBS deal 220 bdmg with 80/90/110 modifiers. Their damage is modified by 60% of the unit's TORP.
+    * The 6 BOMBS deal 220 bdmg with 80/90/110 modifiers. Their damage is modified by 60% of the unit's TORP and counts as TORPEDO DAMAGE (therefore unaffected by enemy AA).
   * Gain +15% FP; also, gain +12% Torp after having defeated 3 enemy nodes in a sortie.
   * The AA slot is replaced with a DB slot (holding up to 2 DBs per airstrike; only 1 airstrike can be stored).
 
@@ -944,7 +950,7 @@ Wherever there are planes to shred and carriers to protect, Reno is at home - an
 
 ![CL](/Images-for-the-Guide/San_DiegoKaiChibi.png "San Diego Kai") - **[USS San Diego Kai](https://azurlane.koumakan.jp/San_Diego#Retrofit)**
 * Roles:
-  * **Best fleetwide AA carry in the game, second best AA solo carry in the game**, very high Gun DPS, below average Torp DPS, light tank.
+  * **Best fleetwide AA carry in the game, third best AA solo carry in the game**, very high Gun DPS, below average Torp DPS, light tank.
 
 * Skill: 
   * 15% chance upon firing AA guns, +50% AA to the entire fleet for 8s
