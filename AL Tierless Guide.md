@@ -1,7 +1,6 @@
 # Your Waifu is SHIP's opinionated & extra-biased Unit Guide (WEHRABOO 3: THE REVENGEANCE EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
-Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
 
 That said, however... to quote a wise Azur Lane Community member, "just because it works, it doesn't mean it's good": while all units are indeed viable, there are clearly objectively superior ones, and this Tierless Guide aims to identify who are they and for what reasons.  
 A few years at this and counting, and it's become to me abundantly clear that tiers cause a lot more issues than they actually solve; most people only pay attention to the tier and ignore the reasons why they're tiered that way, engage in pointless debates over which tier is *right* (like it's not all subjective anyway) and are left knowing just as much as they did before about the unit itself or how they are supposed to use it. 
@@ -614,9 +613,8 @@ The tempo she forces upon you is fairly demanding, as the average DD torpedo set
   * Increases AP damage by 25%
   
 * Recommended Loadouts:
-  * [Full AA] 100mm twin; 533mm quintuple conventional torpedoes; 113mm dual AA; Research AA Radar; Research AA Radar
-  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 113mm dual AA; Toolbox; Oxytorp
-  * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 113mm dual AA; Toolbox; AA Radar
+  * [General Purpose] Gold 128SKC (Z46 Gun); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
+  * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; AA Radar
   
 * Desc:
 >Don't let the kit or the (admittedly excellent by DD standards) AA efficiency; Z46 is a very capable barrage barge ~~(barrarge?)~~ that just so happens to throw a little AA in the mix, not nearly enough to bother actual flying threats.
