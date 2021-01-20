@@ -72,6 +72,8 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - Revised USS Biloxi's entry.
 - PR3 ARE FINALLY IN. PRAISE BE.
 - HMS Ardent Kai has been dropped from the Guide, as well as IJN Fubuki and USS Hornet.
+- Deleted all the remaining tiers *hopefully*.
+- Minor edits to U-37, U-101, I-25.
 
 <br/><br/>
 ---
