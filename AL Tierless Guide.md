@@ -2955,7 +2955,7 @@ In short, they're by all accounts a downgrade over their BB forms. Avoid like th
 ## CV/CVL ![CV(L)](/Images-for-the-Guide/45px-CVL_img.png "CV/L Icon")
 ---
 
- ![CVL](/Images-for-the-Guide/BataanChibi.png "Arminsky") - **[USS Bataan](https://azurlane.koumakan.jp/Bataan)** **(T0 if not deployed as flag)**
+ ![CVL](/Images-for-the-Guide/BataanChibi.png "Arminsky") - **[USS Bataan](https://azurlane.koumakan.jp/Bataan)**
 * Skill: 
   * Gain +30% Fighter Efficiency if using a F6F Hellcat; also, 70% chance to launch three more F6F when airstriking.
     * The 6 500lb BOMBS carried by the F6F deal 380 bdmg with 80/90/110 mods. They are modified by 80% of the unit's Aviation stat.
@@ -2970,7 +2970,7 @@ In short, they're by all accounts a downgrade over their BB forms. Avoid like th
 >More independent than Independence and rolling in Hellcats, Bataan provides shocking amounts of DPS for her class and excellent support - be it air support with her F6F storms, fire support with their bombs and her own powerful torpedo bombers or support support with the Reload and AA buffs, Bataan has something to offer to every carrier comp out there and nothing short of hell to enemy airwings.
  
 
-![CVL](/Images-for-the-Guide/Bunker_HillChibi.png "Bunker Hill") - **[USS Bunker Hill](https://azurlane.koumakan.jp/Bunker_Hill)** (T0.5 w/ USS BBs as flagship, T0.5 w/ CV/L)
+![CVL](/Images-for-the-Guide/Bunker_HillChibi.png "Bunker Hill") - **[USS Bunker Hill](https://azurlane.koumakan.jp/Bunker_Hill)**
 * Skill: 
   * Gain +15% Aviation; if flagship, grant +15% Firepower to USS BBs; if not, grant +15% Firepower and AA to USS DDs.
   * If there are no other CV/L in the backline, grant +12% AA to it; upon launching an airstrike, launch a plane barrage whose pattern differs according to the number of CV/Ls in the fleet.
@@ -2985,7 +2985,7 @@ In short, they're by all accounts a downgrade over their BB forms. Avoid like th
 While at first glance her skills may look like a schizophrenic mess, and to a certain extent they are, on closer inspection it's fairly easy to see what their intent is - boosting either dual battleship comps or full carrier ones as well as herself, in a remarkable display of versatility.  
 You may have to rethink your fleet to accommodate her eccentricities, but she'll make sure it'll be worth it.
 
-![CVL](/Images-for-the-Guide/CasablancaChibi.png "Casablanda") - **[USS Casablanca](https://azurlane.koumakan.jp/Casablanca)** **(T0.5 to T0 depending on how many carriers she can boost)**
+![CVL](/Images-for-the-Guide/CasablancaChibi.png "Casablanda") - **[USS Casablanca](https://azurlane.koumakan.jp/Casablanca)** 
 * Role:
   * Mob-to-boss fleet carrier support; mob fleet carrier support, light AA support, light DPS.
 
@@ -3023,7 +3023,7 @@ All that said, when she's good, she's REALLY good.
 >One of the best solo CV currently in the game, courtesy of her solid statline and a skill that can reliably lay the smackdown on waves and airwings alike - as well as provide some emergency damage absorption against incoming aircraft or even shelling.
 It's not all bombs and sunshine, though - while her proc rate is high, she is nevertheless very reliant on that proc to perform and her generalist Efficiencies tend to blunt her effectiveness somewhat.
 
-![CVL](/Images-for-the-Guide/IndependenceChibi.png "Independence") - **[USS Independence](https://azurlane.koumakan.jp/Independence)** (T0.5 w/ 1+ Cleveland-class around)
+![CVL](/Images-for-the-Guide/IndependenceChibi.png "Independence") - **[USS Independence](https://azurlane.koumakan.jp/Independence)**
 * Skill: 
   * Gains +15% Efficiency on a slot when using USS planes
   * Upon airstrike launch, scramble a TBF Avenger torpedo bomber; also, if sortied with at least 1 Cleveland-class CL, grant them +8% FP and gain +15% Accuracy/Aviation and launch 2 TBF Avengers instead.
@@ -3054,7 +3054,7 @@ Half of her skills push her in the direction of a proper attack carrier, and the
 Her best skill, a strong SB2C 'barrage' (two weaker dive bombers behaving just like regular ones), is also needlessly janky - the planes launch as soon as an airstrike comes off cooldown, meaning they may very well launch to an empty sea and do nothing, waste their payloads on something that's already half-dead, or get shot apart by enemy AA in W13.  
 A very confused creature. Not irredeemable, quite strong, but very unwieldy.  
 
-#### ![CVL](/Images-for-the-Guide/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley) **(T0 in Plane Hells)**
+#### ![CVL](/Images-for-the-Guide/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
 * Skill: 
   * Increases experience gained by CV by 15%
   * Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
@@ -3289,7 +3289,7 @@ Lastly, she can lob a heal over to the fleet in which she isn't; helpful for pat
 >Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they sport exceptional amounts of Aviation and get to launch faster than almost anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
 As is customary for IJN sister ships, they truly shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch (and extra screenclear) is.
 
-![CV](/Images-for-the-Guide/HiryuuKaiChibi.png "Usagi Yojimbo") ![CV](/Images-for-the-Guide/SouryuuKaiChibi.png "Long Legs Monster") - **[IJN Hiryuu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Souryuu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)** **(T0 when together)**
+![CV](/Images-for-the-Guide/HiryuuKaiChibi.png "Usagi Yojimbo") ![CV](/Images-for-the-Guide/SouryuuKaiChibi.png "Long Legs Monster") - **[IJN Hiryuu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Souryuu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)**
 * Skill (Hiryu): 
   * Once per battle and upon taking lethal damage, Hiryu becomes invincible for 15s and immediately launches a full airstrike.
   * When paired with Soryu, gain +35% Aviation.
@@ -3415,7 +3415,10 @@ On a sidenote, she's also one of the carriers least affected by enemy AA boats d
 Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be; while the buff to her first skill graciously gifted her a +20% damage boost, her efficiencies remain rather lacklustre and the ramp is as slow as ever.  
 If this still sounds like a "don't use her"... well, yeah. Don't, she'll only drag everyone down.
 
-![CV](/Images-for-the-Guide/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** * Skill: 
+![CV](/Images-for-the-Guide/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** 
+* Roles:
+  * **Main KMS damage CV**, KMS fleet defender.
+* Skill: 
   * KMS units take -15% less damage; also, gain +5% Aviation (up to +15%) for every KMS unit in the fleet.
   * If mounting at least one KMS aircraft, gain +30% efficiency on all aircraft slots.
   * Has a 2/3/3 loadout.
@@ -3426,7 +3429,7 @@ Still, she's better than she's ever been and with efficiencies as remarkable as 
 
 #### ![CV](/Images-for-the-Guide/Peter_StrasserChibi.png "Easy Pete") - [KMS Peter Strasser](https://azurlane.koumakan.jp/Peter_Strasser)
 * Role:
-  * High carrier DPS; minor passive slow and RNG stop.
+  * **KMS damage CV**, minor passive slow and RNG stop.
 
 * Skill: 
   * Upon airstrike, launch two extra Torpedo Bombers.
@@ -3465,7 +3468,7 @@ Criminally botched design. Still very competent.
 One of the most *peculiar* examples of carrier the war has birthed, Béarn is a very unconventional creature focusing on providing semi-costant fire support, be it through her barrage and CL guns or the accelerated airstrike and the post-cooldown extra airstrikes.   
 Her damage output is very average by CV standards, however, and shouldn't be relied upon against bosses; her kit is better suited to acting as a mob fleet flagship of sorts anyway.
 
-#### ![CV](/Images-for-the-Guide/Tokino_SoraChibi.png "Generic Moeblob")- **[Tokino Sora](https://azurlane.koumakan.jp/Tokino_Sora)** **(T1 w/ full Hololive fleet)**
+#### ![CV](/Images-for-the-Guide/Tokino_SoraChibi.png "Generic Moeblob")- **[Tokino Sora](https://azurlane.koumakan.jp/Tokino_Sora)**
 * Skill: 
   * Upon airstrike, 100% chance to launch a barrage.
     * The 15 STARS deal 122 bdmg with 110/110/110 armour mods; Ignition chance is 1.5% and they prefer to 'fall' on chibi first. Their damage is modified by 100% of the unit's Aviation stat and a 118% coefficient.
@@ -3591,15 +3594,15 @@ She *does* keep Tirpitz happy, though.
 "Submarines" are powerful but specialized tools that behave rather differently from your ordinary fleets.
 Here's a quick rundown of how they work.
 
-1. You cannot control them directly; they will spawn in one of several fixed locations on every map and will stay there until you give them the command to relocate elsewhere (which costs a tiny amount of oil, roughly 1 + sub amount + tiles to move).
-2. Submarine fleets move 2 tiles per turn, ignoring geography, and shave off up to 20% max HP (more with submarine-boosting meowfficers) off of ALL enemies in the node, and may also be summoned in battle if your regular fleets are fighting within said range. Map strike damage depends on the sub fleet's overall Power Rating, in-battle damage depends on the usual mechanics.
-3. Submarine fleets in battle act as a sort of tactical nuke button; when summoned they will join the fight in person and unleash inordinate amounts of torpedoes via barrages to brutalize everything unfortunate enough to be on screen at the time, then stay for roughly 20s (exact amount depends on their Oxygen stat, with 10 Oxy equaling 1s) firing their 'regular' torpedoes until they run out of O2 and have to surface.
-4. Unless in possession of skills saying otherwise, every sub carries 2 Ammo with her; this ammo is expended for Map Strikes and Call-Ins, and unlike normal fleets, once they're out of ammo they're completely out of the fight.
-5. Submarine statlines are generally very similar to one another, barring a few exceptions; as it is with BBs and BCs, skills are the main discriminant here.
-6. Gear is very important in order to have them perform. Do your damn SOS missions, fellas.
+1. You cannot control them directly; they will spawn in one of several fixed locations on every map and will stay there until you give them the command to relocate elsewhere (which costs a tiny amount of oil, roughly 1 + sub amount + tiles to move).  
+2. Submarine fleets move 2 tiles per turn, ignoring geography, and shave off up to 20% max HP (more with submarine-boosting meowfficers) off of ALL enemies in the node, and may also be summoned in battle if your regular fleets are fighting within said range. Map strike damage depends on the sub fleet's overall Power Rating, in-battle damage depends on the usual mechanics.  
+3. Submarine fleets in battle act as a sort of tactical nuke button; when summoned they will join the fight in person and unleash inordinate amounts of torpedoes via barrages to brutalize everything unfortunate enough to be on screen at the time, then stay for roughly 20s (exact amount depends on their Oxygen stat, with 10 Oxy equaling 1s) firing their 'regular' torpedoes until they run out of O2 and have to surface.  
+4. Unless in possession of skills saying otherwise, every sub carries 2 Ammo with her; this ammo is expended for Map Strikes and Call-Ins, and unlike normal fleets, once they're out of ammo they're completely out of the fight.  
+5. Submarine statlines are generally very similar to one another, barring a few exceptions; as it is with BBs and BCs, skills are the main discriminant here.  
+6. Gear is very important in order to have them perform. Do your damn SOS missions, fellas.  
 
-Given these premises, it quickly becomes apparent that **submarine fleets are meant to be fielded as a trio**; whether it be mauling nodes on the map or providing heavy torpedo support, they only reach peak efficiency as a full fleet, and in the case of map strikes such efficiency comes at no oil cost whatsoever.
-As such, this section *does not contain tiers* but specific recommendations and groupings - let's get to them.
+Given these premises, it quickly becomes apparent that **submarine fleets are meant to be fielded as a trio**; whether it be mauling nodes on the map or providing heavy torpedo support, they only reach peak efficiency as a full fleet, and in the case of map strikes such efficiency comes at no oil cost whatsoever.  
+As such, this section *does not contain tiers* but specific recommendations and groupings - let's get to them.  
 
 #### ![SS](/Images-for-the-Guide/U-37Chibi.png "U-37") ![SS](/Images-for-the-Guide/U-47Chibi.png "U-47") ![SS](/Images-for-the-Guide/U-73Chibi.png "U-73") ![SS](/Images-for-the-Guide/U-81Chibi.png "U-81") ![SS](/Images-for-the-Guide/U-101Chibi.png "U-101") ![SS](/Images-for-the-Guide/U-110Chibi.png "U-110") ![SS](/Images-for-the-Guide/U-522Chibi.png "U-522") ![SS](/Images-for-the-Guide/U-556Chibi.png "U-556") ![SS](/Images-for-the-Guide/U-557Chibi.png "U-557") - [KMS U-37](https://azurlane.koumakan.jp/U-37), KMS [U-47](https://azurlane.koumakan.jp/U-47), [KMS U-73](https://azurlane.koumakan.jp/U-73), [KMS U-81](https://azurlane.koumakan.jp/U-81), [KMS U-101](https://azurlane.koumakan.jp/U-101), [KMS U-110](https://azurlane.koumakan.jp/U-110), [KMS U-522](https://azurlane.koumakan.jp/U-522), [KMS U-556](https://azurlane.koumakan.jp/U-556), [KMS U-557](https://azurlane.koumakan.jp/U-557)
 * Skill (U-37): 
@@ -3641,10 +3644,10 @@ As such, this section *does not contain tiers* but specific recommendations and 
 * Desc: Achtung - U-Boot!
 >Given real world Germany's history with submarines, it comes as no surprise that the Ironblood gets the apex specimens of their class.  
 Highly synergistic, they all benefit from hanging out with each other but are frail and somewhat lacking in support options otherwise - murdering stuff in call-ins is what they do best and that's all they do, but they better not take casualties.  
-*About U-37...* she's the designated Light Armour murderer, and since she tends to stick around for longer than normal thanks to the O2/Rld boosts, she's also exceptionally good at it.  
+*About U-37...* she's the designated Light Armour murderer, and since she tends to stick around for longer than normal thanks to the O2/Rld boosts, she's also exceptionally good at it. The extra O2 also lets her use slower torps without a snorkel.  
 *About U-47...* yes, she does have a solo skill; no, you do not use her solo. You're taking her for her brutal damage output, not because of the solo meme skill.
 *About U-81...* she torpedoes harder and gains more than the others from having fellow countrychildren around.  
-*About U-101...* being able to close the distance with the enemy drastically lowers the chance to physically miss the target, but it is also somewhat suicidal if she's not equipped with a Snorkel. Not that it matters much.  
+*About U-101...* being able to close the distance with the enemy drastically lowers the chance to physically miss the target and frees up a slot for the Pressurised Hull aux item (unless the enemy is *that* far away, which is very unlikely).  
 *About U-110...* COMMENCE RNG FIESTA! Or don't, the buffs are minimal and there's no guarantee you'll get the ones you want when you actually need them. Still better than 556 though.  
 *About U-522...* the call-in from across the map is a bit of a meme since you can move your fleet around anyway, but the extra O2 is just enough to let her skip Snorkels in favour of another Oxytorp.  
 *About U-556...* yes, having someone reach critical HP is a terrible condition for a barrage and there is no real upside to it.
@@ -3724,7 +3727,7 @@ On the flipside, her barrage is extremely linear and runs the very real risk of 
 
 * Desc:
 >A heavy-duty support submarine, I-25 forgoes the damage boosts many others have in favour of buffs and debuffs.  
-While you shouldn't expect anything much out of the seaplane bomb, the +Acc buff is both permanent and rather substantial; the debuff, less so, but it is still welcome.  
+It is a questionable tradeoff: the bomb damage is negligible at best, the +Acc boost goes mostly wasted as subs already do very well for themselves on that front, and the debuff potency is somewhat questionable despite it being tied to gunfire (which should not be in range) and barrage torps.  
 
 
 #### ![SS](/Images-for-the-Guide/Minato_AquaChibi.png "Submaid") - [Minato Aqua](https://azurlane.koumakan.jp/Minato_Aqua)
