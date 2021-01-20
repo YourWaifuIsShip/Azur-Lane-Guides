@@ -13,6 +13,9 @@ If you happen to have questions for me, want to discuss tierings or would like t
 
 ## Featured news and Changelog
 ```
+[20/01/2021]
+Cleanup mostly done. Only the recent Muses and DoAs are still missing, and they will be added with the RM rerun units. Currently debating whether to keep the gear recommendations or link to handy flowcharts like this one: [link](https://cdn.discordapp.com/attachments/770435752080310342/800743671842603038/BB_gun_selection_guide.png)
+
 [06/01/2021]
 WELCOME TO THE TIERLESS GUIDES! We're back in action and slowly working our way through the backlog of stuff. The recent KMS event's units are all in and the modified skills have been updated where opportune.
 
