@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (WEHRABOO 3: THE REVENGEANCE EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (TARANTELLA INTENSIFIES AGAIN EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 
@@ -65,15 +65,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (06/01/2021)
+## Changelog as of last major update (24/01/2021)
 
-- KMS Prinz Heinrich, Peter Strasser, Nurnberg, Weser, Z24, Z28, U-37 have been added to the Guide.
-- HMS Prince of Wales makes her swaggering re-entry in the Guide. How the turns have tabled...
-- Revised USS Biloxi's entry.
-- PR3 ARE FINALLY IN. PRAISE BE.
-- HMS Ardent Kai has been dropped from the Guide, as well as IJN Fubuki and USS Hornet.
-- Deleted all the remaining tiers *hopefully*.
-- Minor edits to U-37, U-101, I-25.
+- RN Pola has been added to the Guide. Muses coming up soon.
 
 <br/><br/>
 ---
@@ -1992,6 +1986,19 @@ The only fault one can find in her would be her barrage - its wide linear patter
 Algérie rectifies this unfortunate situation by, amusingly, leaning more into the gun side of her kit - her shelling, aided by the barrage, is strong enough to be somewhat competitive with dedicated Gun-CAs, while her torpedoes are well-capable of taking out hard targets (BB in primis).  
 Her staying power is also impressive, in part because of the excellent statline, in part because of the +Evasion, and in part because of the anti-torpedo shield (which counterintuitively you want to *keep safe*, as it increases her damage output).
 
+![CA](/Images-for-the-Guide/PolaChibi.png "Pola") - **[RN Zara](https://azurlane.koumakan.jp/Pola)**
+* Roles:
+  * **Zara buffer, heavy tank**; Regia Marina vanguard buffer, high Gun DPS (better vs Medium Armour).
+
+* Skill:
+  * Upon Main Gun fire, 50% chance to fire a SAP barrage (10s internal cooldown); if sortied with 2+ Regia Marina units, Pola included, increase the firing chance to 70%.
+  * Gain +15% Evasion for the first 45s of the battle; also, grant +10% FP and +15% AA to all vanguard RM units, and -6% damage taken to all Zara-class units.
+
+- Desc: Ardisco ad ogni impresa~
+>The long-awaited Zara-class sister ship, Pola is every bit tough and strong as Zara and then some.  
+Owing to her slightly increased weapon efficiencies, a powerful linear SAP barrage and a valuable set of buffs (AA aside as no Regia Marina vanguard presently can even pretend to shoot up properly), Pola serves as the sword to Zara's shield(s).  
+That is not to say she is frail, of course: she sports Zara's high eHP and bolsters it further with the 45s Eva boost as well as the damage reduction, but as Zara's shielding hinges on her taking hits, it is clear whose job it is to tank and whose to off-tank.  
+
 
 ![CA](/Images-for-the-Guide/ZaraChibi.png "Zara") - **[RN Zara](https://azurlane.koumakan.jp/Zara)**
 * Roles:
@@ -2005,8 +2012,8 @@ Her staying power is also impressive, in part because of the excellent statline,
   * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
   * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
-- Desc: Tenacemente e ardisco ad ogni impresa~
->Hands down the best vanguard tank in the game.  
+- Desc: Tenacemente~
+>Hands down the best vanguard tank in the game, when just more Evasion won't cut it.  
 Portland Kai may be cheap, Prinz Eugen may have more eHP and Roon may have more DPS,  but none of them have her spectacular shields nor her combination of good DPS and high eHP at the same time, and that's what pushes her above her competitors.    
 While the damage boosts are undoubtedly good and allow her to perform optimally under every circumstance, the shields are the real stars of the show here - not only their uptime is much higher than the 18% would lead you to believe, able as they are to proc on *any* attack that collides with her chibi (even if she evades the damage), the front-facing shield is absolutely invaluable when it comes to blocking incoming enemy fire entirely, especially if it's piercing enemy fire.  
 If you're sick of seeing your poor vanguard get turned inside out, Zara is the solution to your problems.
