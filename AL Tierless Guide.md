@@ -3008,7 +3008,7 @@ You may have to rethink your fleet to accommodate her eccentricities, but she'll
 >A support carrier through and through, Casablanca's damage output may be somewhat limited but compensates for it with staggering amounts of utility.  
 Whether it's the entirely unique carrier buff working across fleets, the more standard carrier buff for her own fleet, the relatively strong AA gun or the accelerated first airstrike, there's almost everything for everyone here - though she is definitely at her best when supporting carriers.
 
- ![CV](/Images-for-the-Guide/EssexChibi.png "USS Essex") - **[USS Essex](https://azurlane.koumakan.jp/Essex)**
+ ![CV](/Images-for-the-Guide/EssexChibi.png "USS Essex") - **[USS Pola](https://azurlane.koumakan.jp/Essex)**
 * Skill: 
   * Upon airstrike launch, launches a tight horizontal line of eight additional TBDs armed with parallel, Flooding-inflicting torps; also, deal +10% damage vs BBs.
   * Increases her own AA and Aviation by 5% for every USS CV/L in the fleet, and increases her own Aviation by 3% whenever her planes shoot down an enemy aircraft (to a maximum of +15% Aviation).
