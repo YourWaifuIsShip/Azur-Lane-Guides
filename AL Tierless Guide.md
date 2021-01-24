@@ -1996,7 +1996,7 @@ Her staying power is also impressive, in part because of the excellent statline,
   * Gain +15% Evasion for the first 45s of the battle; also, grant +10% FP and +15% AA to all vanguard RM units, and -6% damage taken to all Zara-class units.
 
 - Desc: Ardisco ad ogni impresa~
->The long-awaited Zara-class sister ship, Pola is every bit tough and strong as Zara and then some.  
+>The long-awaited Zara-class sister ship, Pola is every bit as tough and strong as Zara and then some.  
 Owing to her slightly increased weapon efficiencies, a powerful linear SAP barrage and a valuable set of buffs (AA aside as no Regia Marina vanguard presently can even pretend to shoot up properly), Pola serves as the sword to Zara's shield(s).  
 That is not to say she is frail, of course: she sports Zara's high eHP and bolsters it further with the 45s Eva boost as well as the damage reduction, but as Zara's shielding hinges on her taking hits, it is clear whose job it is to tank and whose to off-tank.  
 
