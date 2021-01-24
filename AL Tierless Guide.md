@@ -1986,7 +1986,7 @@ The only fault one can find in her would be her barrage - its wide linear patter
 Algérie rectifies this unfortunate situation by, amusingly, leaning more into the gun side of her kit - her shelling, aided by the barrage, is strong enough to be somewhat competitive with dedicated Gun-CAs, while her torpedoes are well-capable of taking out hard targets (BB in primis).  
 Her staying power is also impressive, in part because of the excellent statline, in part because of the +Evasion, and in part because of the anti-torpedo shield (which counterintuitively you want to *keep safe*, as it increases her damage output).
 
-![CA](/Images-for-the-Guide/PolaChibi.png "Pola") - **[RN Pola](https://azurlane.koumakan.jp/Pola)**
+![CA](/Images-for-the-Guide/PolaChibi.png "Pola") - **[RN Essex](https://azurlane.koumakan.jp/Pola)**
 * Roles:
   * **Zara buffer, heavy tank**; Regia Marina vanguard buffer, high Gun DPS (better vs Medium Armour).
 
