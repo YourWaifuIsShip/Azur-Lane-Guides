@@ -1992,6 +1992,7 @@ Her staying power is also impressive, in part because of the excellent statline,
 
 * Skill:
   * Upon Main Gun fire, 50% chance to fire a SAP barrage (10s internal cooldown); if sortied with 2+ Regia Marina units, Pola included, increase the firing chance to 70%.
+     * The 16 SAP SHOTS deal 20 bdmg with 65/125/65 amods. They are modified by 100% of the unit's FP-
   * Gain +15% Evasion for the first 45s of the battle; also, grant +10% FP and +15% AA to all vanguard RM units, and -6% damage taken to all Zara-class units.
 
 - Desc: Ardisco ad ogni impresa~
