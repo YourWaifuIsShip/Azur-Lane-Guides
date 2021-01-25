@@ -102,10 +102,6 @@ As it is for Phoenix, they are best used in mobbing fleets.
   * 4% activation upon firing, increases Fleet movement speed, and Escort evasion by 40% for 8s
   * 60% activation every 20s, increases own FP by 40% for 10s.
 
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
-
 * Desc: 
 >Another slippery little bastard, obsessed with justice and GOING FAST.  
 Her torps are fairly worthless, but her guns are decent and her skill is absolutely amazing - not only does she increase your whole frontline's survivability, she also fixes whatever movement issues you might have at hand. The best DD friend your CAs could ever have.
@@ -119,11 +115,6 @@ Her torps are fairly worthless, but her guns are decent and her skill is absolut
     * (20s Airstrike) The 1 BOMB deals 84 bdmg w/ 100/50/20 armour modifiers. The damage is modified by 100% of Cooper's ASW stat.
     * (Spc Airstrike) The 4 BOMBS deal 456 bdmg w/ 70/105/125 armour modifiers. The damage is modified by 120% of Cooper's Torp stat.
   
-* Recommended Loadouts:
-  * [ASW memes] 120x2 HMS; 533x5 conventional torpedoes; 40mm Quad Bofors; Depth Charge; PBY-5A Catalina
-  * [General Purpose] 120x2 HMS; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120x2 HMS; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Autoloader
-
 - Desc: 
 >Fairly competent ASW DD with the same jack-of-all-trades-ish statline most USS DD get, plus a minor FP boost; as per usual, it makes for a decently rounded performance with relatively good AA to boot.  
 Make no mistake, though, her main job is ASW: and in that regard she's fortunate not to have to use a sonar to reveal submarines, an aux slot that may be filled with a Catalina if you wish to give her some more ASW prowess and/or a sucker punch to whatever managed to drop her HP low enough (an unlikely prospect, and an unwanted one to boot). The regular ASW airstrike is just a single Catalina dropping one bomb, so expect little from it.  
@@ -136,10 +127,6 @@ Meme but alright.
 * Skill:
   * Upon taking damage, 15% chance to make entire escort fleet to evade all attacks for 10s. DoT and Ramming damage still apply. CAN'T PROC BEFORE 20s HAVE PASSED (skill starts on cooldown).
 
-* Recommended Loadouts:
-  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
-  * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
-
 * Desc: 
 >Slippery little bastard, despite her CA-like movement speed. Her offensive stats are somewhat lacklustre, but she makes up for it with her skill - it might be RNG and her high Evasion works against it, but 10s of invulnerability is nothing to scoff at. Make sure to have her eat weak shots to minimise exposure to danger.
 
@@ -151,10 +138,6 @@ Meme but alright.
   * Increases Firepower and Evasion of all Fletcher-Class in fleet by 30%
   * Increases Firepower, Torpedo, and Reload of DDs in the fleet by 10%
 
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
-
 * Desc: 
 >Lynchpin of the Fletcher Trio, think of her as an USS Z1 with a greater focus on gunnery as opposed to torps, as befitting her nation's doctrine. Very solid and dependable, but obviously better with other Fletchers.
 
@@ -165,11 +148,6 @@ Meme but alright.
 * Skill:
   * 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s.
   * Every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
-  
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 138.6mm; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 127mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: Vorpal Bunny.
 >While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier amounts of Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant.  
@@ -179,11 +157,6 @@ The DPS monster to AyaKai's DPH.
 * Skill:
   * 40% chance every 10s to raise evasion by 60% for 8s
   * Upon launching torpedoes, 30% chance to launch a second spread
-
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 138.6mm; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 136.8mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
 >Good double torpedoes and merely okay guns? On my USS DD? It's more likely than you think.  
@@ -199,11 +172,6 @@ Maury does things differently from many of her colleagues, but she does them wel
   * 60% e/ 20s to +40% her own Firepower for 8s
   * 70% e/ 20s to +40% her own Firepower/Torpedo/Reload for 10s and, once per battle, if an escort ship's Health falls below 20%, decrease the damage it takes by 15%. If the ship is Helena, additionally heal 8% of Helena's max Health
 
-* Recommended Loadouts:
-
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
-
 - Desc:
 >Nicholas is a rarity among destroyers, in that she boasts both enough Firepower to face off with the best in her class and very solid defensive capabilities; a true generalist, even more so than Laffey considering her actually good torpedoes.  
 With no real weakness on display, beyond simply not being quite as good as more specialised units, Nicholas is a worthy addition in pretty much any escort fleet - especially one with Helena or Fletcher.
@@ -213,10 +181,6 @@ With no real weakness on display, beyond simply not being quite as good as more 
   * Allied DDs in the fleet gain +18% experience.
   * Upon battle start and for 80s afterwards, deal +15% damage, take -8% damage and reduce the damage taken by allied DDs by -12% damage.
   * Has AAGM+1.
-
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >Nobody truly expected this to happen, but somehow Amazon's Kai turned out to be... somewhat alright!  
@@ -229,10 +193,6 @@ Certainly as an AA barge at least, whenever her double AA mount is allowed to do
 * Skill:
   * Every 30s, launch a special [barrage](https://cdn.discordapp.com/attachments/742730234893172796/742730440154152960/Eskimo-Barrage.gif); upon falling below 30% HP, heal 10% of max HP back and launch a special barrage (only one proc per battle). Those barrages are the same.
     * The 17 shots deal 24 bdmg with 100/100/100 armour mods. They are modified by 100% of the unit's FP.
-  
-* Recommended Loadouts:
-  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-  * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: 
 >Finally, a competent enough HMS DD! Sure, her staying power is somewhat questionable if exposed to heavy fire and its damage output is just alright, but a self-heal is always appreciated and if you main HMS, you don't really get to be picky with your DD choices.
@@ -242,11 +202,6 @@ Certainly as an AA barge at least, whenever her double AA mount is allowed to do
   * 5% chance on firing main gun to boost Evasion by 60% for 8s.
   * 70% chance every 20s to fire a special barrage and boost torpedo stat by 30% for 8s.
 
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 100x2 Gold; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
 * Desc: 
 >While her starter version is pretty much undeniably the worst out of the three, the Kai does her some justice. Still nowhere as powerful as Ayanami or Laffey, but the EX barrage helps to close the gap to some extent... alas, the Evasion boost still accomplishes little due to powerful diminishing returns the stat incurs, with little to show for it.
 
@@ -254,11 +209,6 @@ Certainly as an AA barge at least, whenever her double AA mount is allowed to do
 * Skill:
   * 5% chance on firing main gun to boost Torpedo by 60% for 8s
   * 70% chance every 20s to fire a special barrage and boost Evasion stat by 30% for 5s
-
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 120mm Main Gun single; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm Main Gun single or 76mm; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: Nuclear Launch Detected.
 >Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even reach the tens of thousands.  
@@ -272,10 +222,6 @@ The DPH monster to LafKai's DPS.
 * Skill:
   * When planes are shot down within the AA circle, +25% own AA and Firepower for 8s.
 
-* Recommended Loadouts:
-  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
-
 - Desc:
 >New-and-improved Niizukis, now with half the clothing and a better AA skill. While DDs aren't particularly good at AA, they do get Main Gun +1 and their skill actively encourages hunting those planes down. Decent even when planes aren't around, better when there are and surprisingly tough.
 
@@ -284,11 +230,6 @@ The DPH monster to LafKai's DPS.
   * Upon launching a torpedo spread, 30% chance to launch a second one; also, once per fight upon falling below 20% HP, heal back up by 20%.
   * If sortied with any other Akatsuki-class DD (Akatsuki, Inazuma, Ikazuchi), gain +15% FP/Torp/Reload.
   * Every 20s, 30% chance to lower an enemy's Reload by -30% and Damage by -15% for 10s (targets humanoid ships first).
-
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: IJN Mahan!
 >The IJN finally gets in on the self-healing action, and it does so in its own peculiar - read, torp-heavy and guns-light - way.  
@@ -301,11 +242,6 @@ Forget about the self-buff if sortied with Akatsuki-class DDs, they aren't worth
   * Upon launching a torpedo spread, 30% chance to launch a second one.
   * Every 20s, 30% chance to lower an enemy's Reload by -30% and Damage by -15% for 10s (targets humanoid ships first).
 
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
 * Desc: 
 >Widely available early on and blessed with both excellent skills and a very solid statline, Kagerou has a place in every torp-heavy frontline (torp-CA in particular, as they typically do not have access to torpedo buffs). Her Kai is more of a slight upgrade than a massive change, with her skill being middling at best, but the extra stats are appreciated nonetheless.
 
@@ -313,10 +249,6 @@ Forget about the self-buff if sortied with Akatsuki-class DDs, they aren't worth
 * Skill:
   * All IJN DD deal +15% damage to CL/CA.
   * Her torpedoes always deal 115% damage against all targets, regardless of the normal torpedo modifiers (80/100/130)
-
-* Recommended Loadouts:
-  * [General Purpose] 120mm Main Gun single; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [Poverty] 120mm Main Gun single or 76mm; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: Black Not Shooter.
 >A veritable turncoat of a DD, Kawakaze's main purpose is making Light Armoured units' lives hell by drilling right through it with her torps and her stellar torpedo-armed barrage - and she accomplishes it beautifully.  
@@ -329,10 +261,6 @@ Terrifyingly effective against her intended targets, to the point of overtaking 
   * Deal +15% dmg to Sirens.
   * Has MGM+1.
 
-* Recommended Loadouts:
-  * [General Purpose] 130x2 or 100mm twin; 533mm quintuple conventional torpedoes; Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 100mm twin; 533mm quintuple conventional torpedoes; Quad Bofors; Toolbox; Toolbox
-
 * Desc: 
 >Always liked the Akizuki-class's DDakka and disliked their lack of anything resembling proper firepower?  
 Well, look no further, for Kitakaze dispenses with the flimsy pretense of being an AA DD like the others and goes all-in on surface weaponry - from the supercharged twinned DD gun rocking high FP and Eff with fixed 115% modifiers across the board to the solid regular/barrage torpedo suite, Kitakaze is more than capable of taking on any sort of foe and coming out on top handily (helped also by her exceptionally high HP).  
@@ -342,11 +270,6 @@ Fits any comp, is downright murderous against Heavy. Brilliant.
 * Skill:
   * 30% chance upon torpedo launch to launch a second spread
   * 60% e/ 20s to +40% her own Firepower for 8s
-
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm twin; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 - Desc:
 >Kagerou's sisters with practically identical stats and the same double-launch skill. The firepower skill is kinda irrelevant, but that's not what you're using them for anyway.
@@ -359,11 +282,6 @@ Fits any comp, is downright murderous against Heavy. Brilliant.
   * 10s after the start of the battle, launch a torpedo spread; every 20s afterwards and on a 25% chance, launch a torpedo spread. The torpedoes' power and amount are the same as that of those currently equipped.
   * Upon battle start, if Naganami is sortied in the middle of a full vanguard, grant +15% Torp and +10% Torp CritRate to DD/CL and +15% Eva to DDs.
 
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 120mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
 * Desc: 
 >By and large an alternative to Kagerou Kai, as their statlines are almost identical but their focus differs slightly.  
 Whereas Kagerou Kai buffs the entire vanguard regardless of amount of members and hull class, CAs included, Naganami buffs DD/CL more (and especially DDs, though the +Eva is mostly negligible on units with such a high Eva stat already); the 'free' torpedo spreads aren't as reliable as the Chain Torpedo Kagerou brings, as they are timer-based rather than on-launch, but are still fairly good.
@@ -372,10 +290,6 @@ Whereas Kagerou Kai buffs the entire vanguard regardless of amount of members an
 * Skill:
   * 25% chance every 20s, Increase entire fleet's Reload by 25% for 8s (does not stack with multiple instances of the same skill)
   * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s. Has MGM+1.
-
-* Recommended Loadouts:
-  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >An oddity among DDs and especially IJN ones, Niizuki focuses on AA and guns over torps - and does so with a decent measure of success, too.   
@@ -386,11 +300,6 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
   * Upon Main Gun fire, 5% chance to gain +60% Evasion for 8s.
   * If deployed with Yukikaze, gain +15% Torpedo and a 70% chance every 20s to launch a special barrage; if NOT deployed with Yukikaze, grant a -5% fleetwide damage reduction and, once per battle when any unit falls below 20% HP, restore 10% of that unit's max HP.  
 
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
 - Desc: Javelin has been obsoleted. Again.  
 >Poor starter just can't catch a break - first Yukikaze big dicks everyone else in her class (and beyond) in terms of sheer eHP while bringing good DPS and remarkable support, then Shigure joins in by either providing a higher-damage off-tank solution or by acting as a Yukikaze-lite if she's on her own.  
 That aside, she behaves in the usual IJN DD fashion - no torps means no DPS, so make the spreads count.
@@ -399,11 +308,6 @@ That aside, she behaves in the usual IJN DD fashion - no torps means no DPS, so 
 * Skill:
   * 30% chance upon torpedo launch to launch a second spread
   * When alive in fleet, allied CV/L take -15% damage
-
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 - Desc:
 >Ah, the wonders of Kai. Shiranui goes from an excellent 0LB DD meme to a supremely legit pick for normal play, owing to her much improved torp stat and efficiency. The CV/L protection skill is nice to have, too.
@@ -416,10 +320,6 @@ That aside, she behaves in the usual IJN DD fashion - no torps means no DPS, so 
   * For every IJN unit in the fleet and/or upon shooting down 2 planes in the AA circle, gain a +5% FP/AA stack (up to 6 stacks).
   * 3s after battle start, deploy a Smokescreen (+40% EvaRate within smoke, 5s duration) and fire a [barrage](https://streamable.com/pqt761); every 15s afterwards, fire the barrage again and on a 30% chance, deploy another Smokescreen; also, upon falling below 20% HP, heal back 15% of max HP (once per battle).
     * The 40 SHOTS deal 16 bdmg with 100/80/60 armour modifiers; the 8 TORPEDOES deal 54 bdmg with 80/100/130 armour modifiers. Both are modified by 100% of the respective relevant stats.
-  
-* Recommended Loadouts:
-  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-  * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: 
 >An Akizuki-class done properly, at long last, sporting a very tough (and self-repairing) hull for her weight and an impressive array of guns in a neat, IJN-flavoured package well capable of shaming most of the competition. Don't fret about the IJN stack gain condition, either: so long as she has at least a few planes overhead to pop, she'll be gaining those stacks just fine.  
@@ -434,11 +334,6 @@ Truly excellent nevertheless.
   * When only escort ship alive, increase own evasion by 10% and reduce damage taken from airstrike to self by 50%
   * When her torpedo hits an enemy, 17% chance to make said enemy take 40% more damage from all torpedoes for 8s.
 
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 120mm Main Gun single; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
 * Desc:
 >Tinykaze sacrifices almost every part of her statline for exceptionally powerful torpedoes and a torpedo-boosting debuff, giving her a shot at being an actual force multiplier.  
 Devastating if the stars align and the debuff procs on her first torp hit, but little more than a dead weight while she's stuck reloading (like so many other IJN DD). Handle with care.
@@ -448,10 +343,6 @@ Devastating if the stars align and the debuff procs on her first torp hit, but l
   * While alive in fleet, the backline takes -8% dmg and, once per battle, heals any backliner under 20% HP for 10% of the healed unit's max HP.
   * 25% chance to activate when taking damage, decreases said damage to 1. 
   * Her regular barrage includes 4 conventional torpedoes.
-
-* Recommended Loadouts:
-  * [General Purpose] 120mm Main Gun single; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm Main Gun single or 76mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: She protecc, she attacc, but most importantly, she tsun catt.
 >Nowhere as devastating as her tier companions (or a good few other IJN DDs for that matter), she is nonetheless quite powerful and has incredible defensive skills for both herself and the backline.  
@@ -466,10 +357,6 @@ Also, her barrage gets a few torps thrown into it for good measure.
   * When alive in fleet, allied CV/L take -15% damage.
   * When alive in fleet, allied CV/L deal +15% damage.
 
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikons; Toolbox; Toolbox
-
 * Desc: Ardent Kai but good.
 >Prémiere vanguard CVeerlader, Yuugure Kai is a rather standard IJN DD (great torpedoes, non-existent gunnery and AA) with a no-nonsense, straightforward couple of buffs for your precious backline carriers.
 
@@ -480,10 +367,6 @@ Also, her barrage gets a few torps thrown into it for good measure.
 * Skill:
   * +40% FP and Eva to all KMS DD.
   * Every 20s, 80% chance to fire a special barrage, gain +50% CritDmg and grant -30% Aviation Damage to the vanguard for 10s.
-
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >Z1 Kai read Z23 Kai's damn book and has learnt an EX barrage of her own, as well as a few other tricks, and as a result can now put out some remarkable DPS of her own while offering some measure of protection from planes.  
@@ -496,10 +379,6 @@ Her guns didn't improve all that much, however, so don't forget she's more torp-
 * Skill:
   * Deal +25% AP damage.
   * Every time the main gun is fired 10 times, gain +5% Reload and +20% Barrage damage. Can be stacked 4 times. 
-
-* Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
 >Z2 takes the concept of 'barrage boat' very literally.  
@@ -515,10 +394,6 @@ Limited in scope but potentially very good at her job, given enough books.
   * Every 20 seconds, has a 40% (70%) chance to active Destruction Mode, releasing a powerful barrage and spawning 2 rotating shields that can block 5 enemy shells each, and for 10 seconds own main gun critical rate becomes 100%.
   * Can equip CL guns, but shouldn't.
 
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
 * Desc:
 >Z23 takes the opposite approach to Ayanami, in that she goes all in on guns - her base FP is unmatched among DDs and her skills further ehnance her gun DPS to obscene degrees, while also having great uptime.  
 Torps are even more of an afterthought than they are on Laffey, however, and unlike Laffey she can't make up for it by simply spamming them; she will punch ship-sized holes in Light and Medium Armour, but she'll find herself a little stumped against Heavy.
@@ -533,10 +408,6 @@ Torps are even more of an afterthought than they are on Laffey, however, and unl
     * The 18 BLACK SHOTS deal 20 bdmg with 100/100/100 mods; the 9 RED SHOTS deal 20 bdmg with 100/80/60 mods; both are modified by 100% of the unit's FP.
   * Can equip CL guns (but shouldn't).
 
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
 * Desc: 
 >Among the strongest purple KMS DDs, provided she's shooting at Destroyers and Light Cruisers. Nothing special otherwise, you know the drill; good guns, tough hull, mediocre torpedoes.
 
@@ -548,10 +419,6 @@ Torps are even more of an afterthought than they are on Laffey, however, and unl
   * 60% activation every 20s, increases own FP by 40% for 10s
   * Reduces the damage taken by the Flagship by 25%; can equip CL guns.
   * Can equip CL guns (but shouldn't).
-
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 * Desc: 
 >Best of the three ships with the Flagship Protection skill, with the KMS DD standard powerful gunnery, tough hull and middling torpedoes.
@@ -567,10 +434,6 @@ That said, if you have no need for such a skill you should probably look for ano
     * The 66 SHOTS deal 20 bdmg with 100/80/60 mods; they are modified by 100% of the unit's FP.
   * Can equip CL guns (but shouldn't).
 
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
 * Desc: 
 >Tries to be Z1. Isn't.  
 Still okay-ish... if you for some reason don't want to use the obviousy superior option, or somehow deem the ASW/AA boost valuable. Or lack components for the Z Trio.
@@ -583,10 +446,6 @@ Still okay-ish... if you for some reason don't want to use the obviousy superior
   * 70% activation every 20s, increase firepower by 50% and Reload by 200% for 10s
   * Upon expiration, decrease reload by 100% for 3s.
 
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
 - Desc: Vorpal Häschen.
 >Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrekcing them in the process for a few seconds).  
 Very similar in behaviour to her USS counterpart, but whereas she can run a one-bunny show thanks to her Kai statline and skills, Z35 needs Z1's presence to really compare; and while she won't be matching her anytime soon, she'll still be giving many other DDs a run for their money.
@@ -597,10 +456,6 @@ Very similar in behaviour to her USS counterpart, but whereas she can run a one-
 
 * Skill:
   * At the start of battle and every 20s afterwards, launch a special barrage (a few HE shots in a cone, two waves of 5 and 4 torpedoes respectively) and gain +24% FP/Torp; the buff loses potency and expires over the next 20s.
-
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
 
 - Desc:
 >Through the sheer power of chuunibyou, Z36 gets to carry extra ordnance and lob it at her enemies every 20s while buffing herself in the process.
@@ -614,26 +469,15 @@ The tempo she forces upon you is fairly demanding, as the average DD torpedo set
   * Whenever enemy planes are shot down within own AA range, increase FP by 15% of own total AA stat (Only base stat and gear is counted) and if skill procs again during its duration, it refreshes the buff
   * Increases AP damage by 25%
   
-* Recommended Loadouts:
-  * [General Purpose] Gold 128SKC (Z46 Gun); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; AA Radar
-  
 * Desc:
 >Don't let the kit or the (admittedly excellent by DD standards) AA efficiency; Z46 is a very capable barrage barge ~~(barrarge?)~~ that just so happens to throw a little AA in the mix, not nearly enough to bother actual flying threats.
 Proud owner of a quick-firing, high-volume, AP conal barrage with four homing torpedoes to the side that is boosted both by her own +APdmg skill (only use the recently released golden KMS DD AP gun or stick with the usual quick-firing solutions) and her high torp stat, she puts every other standard DD barrage in the game to shame and is the main reason for her remarkable prowess. That said, like most KMS DD, her normal torpedoes are pretty bad and will bank on her gunnery to pull through.
-
-
-
 
 ![DD](/Images-for-the-Guide/TashkentChibi.png "Ypa 1") - **[SN Tashkent](https://azurlane.koumakan.jp/Tashkent#Retrofit)**
 * Skill:
   * Upon battle start, gain +10% FP and summon ~~Navi~~ an ice fairy for 50s, whose shots inflict 1 stack of -1.5% Speed for 4s (max 10 stacks; each icicle refreshes the 4s duration).
     * The 6 ICICLES deal 24 bdmg with 100/50/20 modifiers and a 125% Coefficient; the icicles are fired every 2s in two three-icicle bursts, which can be aimed at two different targets.
   * Upon battle start, grant +10% Main Gun Efficiency and +15% Accuracy to all Northern Parliament DDs armed with Northern Parliament guns.
-  
-* Recommended Loadouts:
-  * [General Purpose] 130x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Intel Report
-  * [Poverty] 130x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Intel Report
 
 - Desc: L'incrociatore blu.
 >Also known as the "Blue Cruiser", this Italian-born destroyer leader entirely deserves her moniker; her statline is hilariously stacked, with an eHP well capable of rivaling even the tough Cleveland-class light cruisers and a Firepower that actually overtakes them (to a not insignificant degree, when factoring both her Efficiencies and DD guns).  
@@ -645,10 +489,6 @@ Impressive as she is, Tashkent does have a couple of drawbacks; first of all is 
   * If her Main Gun shots hit an enemy 10 times, that enemy takes +12% dmg from any destroyer in the fleet; also, upon destroying an enemy, Le Malin gains a +2% FP stack, up to 10 stacks.
   * Upon battle start, gain +20% Torp/Eva for 30s; over the next 20s, the buff potency lowers to 0%.
 
-* Recommended Loadouts:
-  * [Optimal] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
 - Desc:
 >Le Malin shares both Le Triomphant's statline and the "hit the same target" gimmick, but makes it a lot more lenient and considerably more effective besides.  
 Strong guns and barrage, a useful debuff skill, okay AA and defences, weak torpedoes - all in all, a very solid gunnery DD.
@@ -657,10 +497,6 @@ Strong guns and barrage, a useful debuff skill, okay AA and defences, weak torpe
 * Skill:
   * Each time the Main Gun damages an enemy, gain a +40% Reload stack up to a maximum of 4 stacks (can only gain one per second, stacks lost upon damaging a different target).
   * When sortied as the Lead Ship, +20% Main Gun Efficiency and -30% AA Gun Efficiency.
-
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc:
 >A gun-focused DD blessed with a great statline where it counts the most and a remarkable Efficiency to go along with it, Letri is rather unwieldy but pretty powerful, if allowed to stack up and lead the charge. Handle with care, and the guns of the revolution will never fall silent.  
@@ -671,11 +507,6 @@ Similarly to Laffey, her torps are awful but come out quick; consider patching u
   * Deal +50% Damage with the first 3 torpedo spreads.
   * Every 20s and if placed as vanguard rear, 70% chance to gain +15% damage and grant +15% damage to the vanguard lead for 10s. THIS DOES NOT WORK IF SHE IS ALONE.
 
-* Recommended Loadouts:
-  * [Manual Only (ie. as you should use her)] 138.6mm; 610mm quadruple conventional torpedoes; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 20mm Twin Oerlikon; Toolbox; Toolbox
-
 * Desc: La benemerita, nei secoli fedele!
 >Small but unassumingly tough and fierce, Carabiniere is a Gun-DD packing a surprising amount of heat - be it either through her laser-like barrage, the charged torps or the remarkable gunnery, she can hold her own in the rearguard as she supports the lead.
  
@@ -685,10 +516,6 @@ Similarly to Laffey, her torps are awful but come out quick; consider patching u
     * The 6 BOMBS deal 220 bdmg with 80/90/110 modifiers. Their damage is modified by 60% of the unit's TORP and counts as TORPEDO DAMAGE (therefore unaffected by enemy AA).
   * Gain +15% FP; also, gain +12% Torp after having defeated 3 enemy nodes in a sortie.
   * The AA slot is replaced with a DB slot (holding up to 2 DBs per airstrike; only 1 airstrike can be stored).
-
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; Fairey Fulmar; Toolbox; Oxytorp
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; Fairey Fulmar; Toolbox; Toolbox
  
 * Desc: I can't believe it's Not Kawakaze(tm)!
 >The first ever legitimately good collaboat, Not Kawakaze marries a typically IJN DD statline to a gushing love for modern military aircraft - so much so that she lugs a pair around instead of AA guns and has one swinging by every 20s to bomb her foes.  
@@ -699,10 +526,6 @@ One can only hope we'll see more DDVs like this one in the future.
 * Skill:
   * Every 20s, 60% chance to gain +40% FP for 10s.
   * Gain +15% AA.
-  
-* Recommended Loadouts:
-  * [General Purpose] 120x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Autoloader
 
 - Desc: 
 >Standard russian DD, which means she has remarkable bulk, good guns and terrible torpedoes. She deviates from said norm by having slightly better AA than her peers, but not by much.
@@ -712,9 +535,6 @@ One can only hope we'll see more DDVs like this one in the future.
   * Take -10% damage from DD guns and torpedoes; also, every 20s, gain +5 Speed and +20% FP for 10s.
   * Upon battle start and on a 30% chance every 15s afterwards, deploy a smokescreen (+40% Evasion Rate for those in the cloud; lasts 5s).
   
-* Recommended Loadouts:
-  * [General Purpose] 120x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120x2mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Autoloader
 
 - Desc: 
 >Standard russian DD, which means she has remarkable bulk, good guns and terrible torpedoes. Slightly bulkier than Grozny, slightly weaker, has a little bit more support.
@@ -766,6 +586,7 @@ Still, if you're willing to field a full french vanguard (and you do have good o
 
 * Desc: 
 >One of the top DD choices for a 0LB min-cost farm fleet due to her high torpedo stat, low fuel usage, and chain torpedo skill.
+
 ![DD](https://azurlane.koumakan.jp/w/images/0/0f/Kizuna_AIChibi.png "DDakyu") - **[Kizuna AI](https://azurlane.koumakan.jp/Kizuna_AI)**
 * Skill:
   * Every 20s, initiate RNG fiesta. (35% chance for -8% FP/Torp/Aviation to all enemies; 35% chance for -6%; 18% chance for -4%; 12% chance for +4% instead).
@@ -790,10 +611,6 @@ Still, if you're willing to field a full french vanguard (and you do have good o
   * If equipped with a Twin 127mm MK12 Dual Gun, gain +15% AA and lose -5% FP; if NOT equipped with it, gain +15% FP and lose -5% AA.
   * Once per fight and upon any ally falling below 50% HP, gain +15% AA and reduce the damage taken by that unit by -15% for 12s.
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
-
 *  Desc: 
 >Second best of the Cleveland-class, chiefly by virtue of... acknowledging their limits?
 Ever since the game moved on from those early worlds (W8 or W9), the Clevelands have struggled to find their footing; CL guns, once preferred to CA guns because faster to reload and unlikely to overkill targets, are severely underpowered... as is their AA, when facing the nippon flying steel of W12 or swarms of W13.  
@@ -808,10 +625,6 @@ Also, she can defend a fellow vanguard that's taking too many hits. That's okay.
   * Shortens Ignitions sustained by the flagship by -3s; gain +15% FP/AA for 8s when an enemy plane is shot down.
   * Upon taking damage (and on a 8s internal cooldown), 10% chance to gain +40% Evasion for 5s; once per battle and upon falling below 30% HP, lock EvaRate to 100% for 5s.
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
-
 - Desc: 
 >A slightly sturdier than usual Cleveland who performs better rather than worse when planes are around.  
 Not much to say about her, she's solid and unremarkable like the rest of her class (Montpelier notwithstanding).
@@ -825,10 +638,6 @@ Not much to say about her, she's solid and unremarkable like the rest of her cla
   * 25% chance every 20s to boost Damage fleetwide by 25%
   * 25% upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear 
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
-
 - Desc: Original Dadster.
 >A new player mainstay, for good or ill, Cleveland has helped many a newbie reach the higher leagues with her plucky go-getter attitude, remarkable bulk and generally good all-around stats; nevertheless, she becomes obsolete quickly as those same higher leagues (W10+) ramp up enemy bulk and damage output beyond her capabilities to dispatch them efficiently, and her skills help her or the fleet little.
 
@@ -839,10 +648,6 @@ Not much to say about her, she's solid and unremarkable like the rest of her cla
 * Skill: 
   * Every 15s, change Main Gun ammo to musical notes (120/120/90 modifiers, penetrates once) for 8s.
   * Whenever a plane is shot down, gain a +8% AA stack for 8s; can gain up to 4 stacks.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Rudder
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc:
 >A sort-of sidegrade to the regular Cleveland, loses some bulk in favour of slightly better DPS and a less detrimental AA skill.  
@@ -856,9 +661,6 @@ She's okay.
   * Lowers damage sustained by the Flagship by 25%.
   * 25% upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Rudder 
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc:
 >Ever wanted to use Hammann but didn't want to deal with her terrible stats and weaponry? Well, now you can.  
@@ -872,10 +674,6 @@ All the utility of her skills with the sturdiness and DPS of the Cleveland-class
   * 60% chance every 20s, +40% FP for 8s.
   * 25% upon firing AA guns, -20% FP and +40% own AA for 3s.
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Rudder 
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
-
 *  Desc: 
 >The most selfish of the Solomon Cavaliers - not a good look for a CL, but she's still rather okay.  
 She'll only buff herself, but a +40% FP never really goes amiss.
@@ -887,10 +685,6 @@ She'll only buff herself, but a +40% FP never really goes amiss.
 * Skill:
   * 60% chance every 20s, inflict a -40% damage resistance debuff on all enemies currently on the screen. If mounting a SG Radar, gain +10% Evasion and the first proc attempt occurs at 16s instead of 20s.
   * Take -15% Torpedo damage. Upon battle start, if there are three units in the vanguard and the last unit in it is USS (and isn't her), grant it +12% Evasion.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >Helena Kai is exceedingly good against bosses and merely alright everywhere else.  
@@ -905,10 +699,6 @@ Do not give her a SG Radar, as it will severely hinder your fleet's ability to e
   * 60% chance every 20s, grant +25% Firepower and Accuracy to all CL/CA/CB in the fleet and decrease the damage they take by -15% for 8s.
   * 25% chance upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Rudder
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
-
 - Desc:
 > Creme de la creme of the Cleveland class by virtue of a slightly superior statline (compared to her sisters'), an absolute bomb of a Cruiser buffing skill, and surprising amounts of Luck to make the most out of her already sturdy build.  
 Most Cruiser compositions will benefit by her presence.
@@ -919,10 +709,6 @@ Most Cruiser compositions will benefit by her presence.
 
 * Skill:
   * Once per fight and upon falling below 20% HP, restore 25% HP and +30% FP for 15s.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
@@ -935,11 +721,6 @@ Most Cruiser compositions will benefit by her presence.
   * Upon battle start and if there is 1+ alive CV/L in the fleet, gain +35% CritRate. For every alive CV/L in the fleet, deal +10% Dmg to DD/CL (up to +30%). For the first four  battles of her fleet, CV/L in her fleet take -10% Dmg.
   * Upon battle start, gain +15% AA and +15% FP. Every 3rd time the backline takes damage, gain a stack of +6% AA/FP until the end of the fight (can gain 2 stacks max).
   * +10% Main Gun Efficiency if wielding a DD gun.
-
-* Recommended Loadouts:
-  * [Full AA] 100x2 IJN; 533x5 conventional torpedoes; 113mm or Pom-Pom; PR AA Radar; PR AA Radar
-  * [General Purpose] 138x1; 533x5 conventional torpedoes; 113mm or Pom-Pom; Toolbox; PR Hydraulic Gear
-  * [Poverty] 120x2 HMS; 533x5 conventional torpedoes; 113mm or Pom-Pom; Toolbox; Toolbox
 
 * Desc: Protector of mAAnkind.
 >Another great entry in the ever-expanding roster of USS flyswatters, Reno is a dedicated AA CL sporting surprisingly high DPS - not too far off from a San Diego Kai in fact, which is no mean feat, especially against DD/CL - and an overwhelming urge to protect carriers.  
@@ -957,11 +738,6 @@ Wherever there are planes to shred and carriers to protect, Reno is at home - an
   * +25% own AA; every 20s, launches a special barrage (torrent of slightly homing stars behind her, 1/4 of the screen in width) 
   * Can equip DD guns, and should.
 
-* Recommended Loadouts:
-  * [Full AA] 100mm twin; 533mm quintuple conventional torpedoes; 113mm twin; Research AA Radar; Research AA Radar
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 113mm twin; Toolbox; PR Rudder
-  * [Poverty] 100mm twin; 533mm quadruple conventional torpedoes; 113mm twin or Pom-Pom; Toolbox; Toolbox
-
 - Desc: WATASHI WA NUMBA WAN!
 >They finally did it, the madmen. Not only they Kai'd Azur Lane's greatest meme, they even made her the hero she was always supposed to be - sporting one whole extra Main Gun Mount, some much needed markups in Firepower and Efficiency, a shiny new and dazzling (but ultimately not too powerful) barrage and EVEN MORE anti-air capabilities, neither the skies nor the seas present any challenge to the once most unwanted gold unit in the game.  
 You'll still want to give her an Oxygen Torpedo or two, though - her torp stat remains abysmal, and even if it's not the torps you're taking her for there's no reason to let them rot. Besides, fireworks go great with a nice, starry night.
@@ -973,10 +749,6 @@ You'll still want to give her an Oxygen Torpedo or two, though - her torp stat r
 * Skill: 
   * Upon firing AA guns, 25% chance to grant +30% AA to ALL USS units in the fleet for 5s; also, every 13 main gun shots hits, gain a stack of +8% FP (max. 3 stacks)
 
-* Recommended Loadouts:
-  * [Full AA] 100mm dual; 533mm quintuple conventional torpedoes; 113mm; Research AA Radar; Research AA Radar
-  * [General Purpose] 100mm dual; 533mm quintuple conventional torpedoes; 113mm; Toolbox; Oxytorp
-  * [Poverty] 120mm dual or 100mm dual; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Smol Diego done right.
 >Leagues bette than the travesty that was Lil Diego, San Juan very successfully emulates San Diego's main strength (strong fleetwide AA buff) while having some passable DPS of her own; stick her in with a USS fleet and watch them become murder incarnate to incoming aircraft.  
@@ -994,11 +766,6 @@ It goes without saying that she'll severely underperform if she's not going to a
   * Deal +15% dmg to Sirens.
   * Can mount a CL gun or an AA gun as secondary.
 
-* Recommended Loadouts:
-  * [Full AA] Prototype Triple 152mm Main Gun (DP MK17); 40mm Quad Bofors; Prototype 40mm AA Gun (Type 5); High Performance Anti-Air Radar; High Performance Anti-Air Radar
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; Seattle Gun (best) or Neptune Gun; 40mm Quad Bofors; Toolbox; PR Rudder
-  * [Poverty] Twin 150mm tbtsk c/36; Twin 150mm tbtsk c/36 or 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; Toolbox
-
 * Desc: Scuttlefish.
 >Yet another example of the modular buffing structure the USS displays as a whole, she has the potential to be useful in a variety of situations if outfitted and deployed accordingly; while her AA isn't as strong as San Diego's, her staying power isn't on par with Neptune's and her DPS falls behind that of her peers, Scuttle can nevertheless put up a remarkable show on all accounts
 and endure a shocking amount of abuse in the process.  
@@ -1012,10 +779,6 @@ Weird but potentially very good. Watch out for her loadout.
   * 60% chance every 20s to boost her own Firepower, Reload, and Evasion by 30% for 10s
   * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Rudder
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
-
 * Desc: 
 >Lewdis' remarkable statline goes exceedingly well with a solid set of self-buffs to all relevant stats for a Gun-CL like herself, letting her withstand amounts of punishment that would fell a lesser CL or gun harder and faster than much of her competition.  
 Beware the lack of support, though; while her AA isn't Helena-tier bad, it is still bad by CL standards, and her buffs only affect herself.
@@ -1026,12 +789,7 @@ Beware the lack of support, though; while her AA isn't Helena-tier bad, it is st
 
 * Skill: 
   * 60% chance every 20s, +40% own Firepower for 10s.
-  * Increases damage dealt to CAs by 25%
-
-* Recommended Loadouts:
-  * [Full Atk] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
+  * Gain +15% Eva/Torp, deal +25% damage to Medium Armour targets. Slows enemy CAs by 30% for 5s after hitting them with 4 shots.
 
 *  Desc: 
 >Ajax and Achilles go all in on the offensive, sporting a stellar FP stat and solid torpedoes bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff.  
@@ -1045,10 +803,6 @@ While powerful for their class, they are also dangerously frail and lacking in s
   * +20% own Damage vs cargo ships, torpedo boats, suicide boats and DDs. 
   * While alive, -20% Evasion Rate for enemy DD/CL.
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
 *  Desc: 
 >Okay and niche DD/CL-busting skills paired with middling CL stats, with the glaring exception of her sub-par HP.  
 More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
@@ -1061,10 +815,6 @@ More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
   * +8 Speed and +25% Evasion.
   * Upon battle start, heals the fleet by 3.5% of her max HP.
 
-* Recommended Loadouts:  
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
-
 * Desc: 
 >The cutest Belfast you'll ever see, and with a brand new support-focused skillset to boot.  
 Not entirely as powerful as her older self, but she's up there without being forced to take a subpar gun, is considerably more Evasive and that full fleet healing is a nice addition.
@@ -1076,10 +826,6 @@ Not entirely as powerful as her older self, but she's up there without being for
 * Skill: 
   * Increase HE damage by 25% and chance to Ignite by 3%.
   * 10s after battle starts and on a 20% chance every 20s aftewards, create a special smokescreen (+35% Evasion Rate and-35% damage from planes while inside) that lasts 10s.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Triple 155mm Mounted Gun; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Hot honeytrap maid.
 >Dealing more damage than usual with HE guns and packing better torps than every other HMS cruiser, she tends to have a decent answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate plus lower defence compared to the 'regular' screen and planes not attacking you.  
@@ -1095,14 +841,9 @@ Her place is mostly PvP, as there are many other CL who will do what she does - 
   * Upon battle start and at a 30% chance every 15s afterwards, deploy a smokescreen (smoke cloud granting +40% EvaRate to those in it) for 5s.
   * Can use DD guns, and should.
   
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 100mm twin; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-  
 * Desc: Pretty fly for a white gal?
 Take Sirius, strip her two-way carrier buff and the busted damage on her barrage, then replace them with massive buffs to her 'ordinary weaponry' and a bad ol' fart cloud - and this is what you get.  
 All things considered she's a fairly good deal, providing stable and solid DPS with a side order of okay-ish support as long as you do stick her in with one USS unit. Not particularly hard to do, but not doing so makes her nearly worthless.  
-
 
 ![CL](/Images-for-the-Guide/CurlewKaiChibi.png "Curlew Kai") ![CL](/Images-for-the-Guide/CuracoaKaiChibi.png "Curacoa Kai") - **[HMS Curlew Kai](https://azurlane.koumakan.jp/Curlew#retrofit)** **[HMS Curacoa Kai](https://azurlane.koumakan.jp/Curacoa#retrofit)**
 * Roles:
@@ -1117,11 +858,7 @@ All things considered she's a fairly good deal, providing stable and solid DPS w
   * When planes are shot down within the AA circle, gain +25% FP/AA for 8s. 
   * Grant +15% AA to the vanguard.
   * Can use DD guns, and should; has MGM+1; the torpedo slot is replaced by a second AA gun.
-
-* Recommended Loadouts:
-  * [General Purpose] 100mm twin; 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; Research AA Radar
-  * [Poverty] 100mm twin; 40mm Quad Bofors; 40mm Quad Bofors; Toolbox; AA Radar
-
+  
 *  Desc: 
 >Rescued from the brink of ignonimy by a timely Kai, Curlew got the injection of stats and efficienicies she desperately needed to be even a little relevant - as well as a useful little carrier buff.  
 Nevertheless, she and her less fortunate sisters have always been the HMS answer to Isuzu and alas, they're not really - their DPS is abysmal owing to a poor statline to back the DD guns, and the AA suite is far from good enough to compete with their IJN rival (let alone the USS one). Still, they can provide solid AA and their double AA mount shenanigans may have a place when tinkering with the burst cooldowns may be necessary.
@@ -1135,11 +872,6 @@ Nevertheless, she and her less fortunate sisters have always been the HMS answer
   * Gain a stack of +6% FP/AA/Reload for every HMS unit in the fleet (herself included, max 4 stacks); if QE is in the fleet, grant QE +7% FP/Evasion/Reload and +20% CritRate.
   * Can use DD guns, and should.
 
-* Recommended Loadouts:
-  * [HMS Boosted] 100mm twin; 533mm quintuple conventional torpedo; 113mm Twin; Toolbox; Oxytorp
-  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 100mm twin; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
 * Desc: Easy Access to Monkey Business.
 > It was to be expected that the Dido-class flagship would be good; what was not expected is that she'd also make Queen Elizabeth not terrible anymore (still not a first pick though, alas; her base statline is too poor to be fixed *that* easily).  
 As a standalone unit, she's an overall improved Sirius: the barrage is more powerful and easier to land, the statline is better across the board, the AA is actually good-to-excellent this time around and the buffs she gets are very significant, more so than those she grants.  
@@ -1151,10 +883,6 @@ On the flipside, the buffs can be unwieldy: while the Dido+3HMS requirements is 
 
 * Skill:
   * Deal +25% AP damage.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; PR Rudder
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Naval Camo or Hydraulic Gear
 
 - Desc: Worth her weight in gold.
 >Edinburgh is in a similar situation as Cleveland: both have merely 'okay' skills, both have impressive statlines, both will stay in front and tank for days while the rest of the team gets the job done.  
@@ -1171,10 +899,6 @@ Still, there's very few more reliable frontline tanks than she - and that's a de
   * If NOT deployed as vanguard lead, gain +20% FP/Torp/AA/Reload; if there are any other HMS units, also deal +8% damage.
   * Can and should equip DD guns.
   
-* Recommended Loadouts:
-  * [General Purpose] 138.6; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 120x2; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
 - Desc: what if black prince but good
 >A fairly standard Dido-class CL, she comes with the expected solid-but-unremarkable DD gun DPS, passable AA and atrocious torpedoes.  
 As a Dido-class, the barrages should be the main attraction here... except they're implemented in just about the stupidest way possible: the arcing, short-range barrage only fires when she's 30+ units away from any enemy, meaning she has to gingerly skirt the edge of the 30-35 units mark for it to fire (no guarantee of it landing on target either), whereas the non-conditional one just fires straight... which doesn't mesh with the supposed aiming on the arcing barrage.  
@@ -1187,10 +911,6 @@ It's a mess, but if you actually do jump through the hoops she forces you to, th
 * Skill: 
   * Decrease the Out of Ammo debuff potency to -35% damage (from -50% damage) for the fleet Gloucester is in.
   * Gain +5% FP/Accuracy; also, gain a +2% FP/Accuracy stack upon sinking an enemy (max 5 stacks).
-  
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: Answering the question nobody asked.
 >Hey you! Yes, you! Did you ever wonder how much easier would clearing mobs be if you could just reduce the Out of Ammo debuff, maybe by taking one ship that could do it?  
@@ -1207,10 +927,6 @@ She's in a weird position, all in all, and whether you'll take her or not will m
   * +15% Firepower to CL/CA.
   * Upon battle start and on a 30% chance every 15s, creates a smokescreen (+40% Evasion Rate while inside) for 5s.
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
 * Desc: A very solid statline, a bargain basement price tag, a Firepower buff for cruisers, a smokescreen that won't accomplish much (but is better than Belfast's) and a smile to melt your heart.  
 What's not to like? 
 
@@ -1222,11 +938,6 @@ What's not to like?
   * Deal +40% AP damage.
   * Once per fight and upon falling below 20% HP, heals herself for 25% of her max HP and gains +30% Reload.
   * +15% damage to Sirens.
-  
-* Recommended Loadouts:
-  * [Manual (ie. how you're supposed to use her)] 150SKC single; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Oxytorp; PR Rudder
-  * [General Purpose] 150SKC single (Manual only) or Prototype Triple 152mm Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; PR Rudder
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: Insistent termaidology.
 >In some respects, an improved Phoenix at the cost of manual play reliance.  
@@ -1241,11 +952,6 @@ Armed with an excellent AP barrage and a very powerful AP boosting passive, and 
   * Every 20s, 25% chance to grant +25% Reload to the entire fleet for 8s.
   * Grant +15% FP to the entire vanguard.
 
-* Recommended Loadouts:
-  * [AA Build] Seattle Gun; 533mm quintuple conventional torpedo; 113mm or Pom-Pom; Toolbox; PR AA Radar
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
 * Desc: The advent of Plane Hells earned this previously inferior version of Leander a spot on the Tier Guide, as she patches the glaring AA-shaped hole in the HMS vanguard lineup. Her skillset isn't particularly remarkable and focusing on gunnery as a Torp-CL is somewhat questionable, but she does the job legitimately well - especially with planes to shoot at.
 
 ![CL](/Images-for-the-Guide/SiriusChibi.png "Sirius") - **[HMS Sirius](https://azurlane.koumakan.jp/Sirius)** 
@@ -1256,10 +962,6 @@ Armed with an excellent AP barrage and a very powerful AP boosting passive, and 
   * Grant +10% Aviation and +10% HitRate vs DD/CL/CA to CV/Ls in the fleet; also, gain +7% Firepower/Torpedo/Reload for every CV/L in the fleet.
   * Gain +20% FP.
   * Can use DD guns, and should.
-
-* Recommended Loadouts:
-  * [General Purpose] 100mm twin; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 100mm twin; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Not 2B taken lightly.
 >Similar in a few ways to Jintsuu, Sirius offers a spectacular buff to a specific subset of units while benefiting greatly from it herself - significant enough to offset her otherwise unimpressive statline and really get the most out of her DD guns.
@@ -1274,10 +976,6 @@ That said, you will need to deploy a few carriers to get the full experience and
   *  Allied ships with lower current HP than Sheffield at the start of battle have a 30% chance to take -50% dmg upon taking damage.
   * +12% CritRate and +30% CritDmg to self.
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
 * Desc: Amazing how some spit and polish can enhance decimetres thick armour, isn't it?
 >Rivaled by very few in the field of damage reduction buffs, Sheffield's defensive skill can greatly extend the survivability of almost any given vanguard, especially DD ones (provided she's placed in the middle and her HP has been raised above those she is meant to protect); and she'll do it while still being capable of packing a serious, if swingy, punch.
 
@@ -1288,10 +986,6 @@ That said, you will need to deploy a few carriers to get the full experience and
 * Skill:
   * Upon firing AA guns, 30% chance to grant +30% AA to the entire vanguard for 10s; also, for every 5 planes shot down inside the AA circle, gain up to 10 stacks of +1% Firepower and -1% Damage taken by planes by the backline.
   * Gain +30% CritRate and +10% Accuracy vs DD/CL; also, enemies hit by her Main Gun fire have a 10% chance to have their EvaRate reduced by 10% for 6s.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc:
 > A jack-of-all-tradeish unit whose skillset betrays her obvious Plane Hell oriented design, but who still packs a significant enough punch and remarkably useful enough support to put up a good showing for herself even outside the boundaries of W12 and W13.  
@@ -1304,10 +998,6 @@ Your backline in particular will thank her for her support - they are desperatel
 * Skill: 
   * Gain +15% FP, AA and ASW; also, decrease Damage sustained by SS and SSV by 15%.
   * Deal +15% Torpedo Damage; also, when launching a torpedo spread, 30% chance to launch a second one.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Torpblade.
 > What do you get when you strip away the Sendai-class's vanguard-wide torpedo buffs, replace them with a massive flat damage boost and a chance for double torpedoes, tack on some extra HP, real AA guns (a first for the IJN) and lob some Firepower onto their above-average main guns? You get the last word in terms of CL torpedo prowess, that's what - Kinu Kai.   
@@ -1323,11 +1013,6 @@ Accept no substitute, but do consider a Jintsuu or Noshiro to boost even further
     * The 4 TORPEDOES deal 54 bdmg with 70/90/120 armour modifiers. The damage is modified by 100% of the unit's Torp stat.
   * Can take DD guns (and should), and has AAGM+1.
  
- * Recommended Loadouts:
-  * [Full AA] 100x2mm; 533mm quintuple conventional torpedo; 113mm or Pom-Pom; Toolbox; PR AA Radar
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedo; 113mm or Pom-Pom; Toolbox; Oxytorp
-  * [Poverty] 100x2mm; 533mm quadruple conventional torpedo; 113mm or Pom-Pom; Toolbox; Toolbox
- 
 - Desc: Crybaby no more.
 >Isuzu's retrofit went a long way towards cementing her position as the strongest solo AA powerhouse in the game, while also bolstering her thin hull - and giving her something to do when her monstrous AA isn't actually needed, in the form of some sizeable buffs to weapon efficiencies and some free torpedoes.  
 The 'assault mode' she goes into when taking non-IJN guns raises her DPS to fairly respectable levels, roughly on par with your average HMS CL, while also bringing down her AA to less obscene levels (which are still considerably higher than most of the competition's).  
@@ -1340,11 +1025,6 @@ That said, Isuzu Kai's main calling is that of the AA monster; it's nice you can
 * Skill: 
   * -20% Damage taken to self, +10% Torpedo Critical chance and +30% Torpedo Critical Damage to all DD/CL in Fleet
   * +20% Reload and Torpedo to all DD/CL in Fleet
-  
-* Recommended Loadouts:
-  * [Manual Only] 150SKC single; 610x4; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 150SKC single (Manual only) or Seattle Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: The fox says 'torp'.
 >As far as torpedoes are concerned, this is what peak efficiency looks like. Sporting three different superb torpedo buffs for whoever has any business mounting them and stellar torpedo stats+efficiency, she's a powerhouse in her own right with access to a handy damage cut (which she needs, considering her abysmal HP pool) and an uncharacteristically good barrage.  
@@ -1357,11 +1037,6 @@ With no real weakness to speak of beyond a somewhat flimsy hull, her one signifi
 * Skill: 
   * Gain +15% EvaRate and reduce the torpedo Damage taken by the vanguard by 20%.
   * Deal +20% Damage to CV/Ls; grant +20% Torpedo to the entire vanguard; grant +12% CritRate to the entire vanguard.
-  
-* Recommended Loadouts:
-  * [Manual Only] 150SKC single; 610x4; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [General Purpose] 150SKC single (Manual only) or Seattle Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] 150SKC single (Manual only) or Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: 
 >What is there to say? Noshiro is almost perfect.  
@@ -1375,10 +1050,6 @@ About the only flaw she has, if we're feeling nitpicky, is not being as helpful 
 * Skill: 
   * +15% Torp and Reload to all DD/CL in the fleet.
   * 10s after battle start and on a 40% chance every 20s afterwards, deploys a flare (-25% Evasion Rate in the area) for 10s.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 40mm Quad Bofors; Oxytorp; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >A slightly weaker Jintsuu who stole a few notes from Aurora's book.   
@@ -1394,10 +1065,6 @@ Her statline is still damn good, though, and their buffs can stack - as do the -
   * Every 20s, 60% chance to gain +40% FP.
   * Every 12s, commence RNG FIESTA! (17% chance for gun barrage; 17% chance for torpedo barrage; 14% chance for a sprinkler-shot grenade; 14% chance to erect a 60-shots-tough shield for 18s; 14% chance to erect a 99-shots-tough shield for 6s; 14% chance to heal the entire fleet for 2.4% of Yuubari's max HP; 10% chance to heal the entire fleet for 9HP).
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
 * Desc: 
 >Yuubari, ever the tinkerer, has an impressive array of tools at her disposal - shame she's an indecisive bastard and has to roll a die to decide which to crack out.
 Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outcomes are desirable (namely the two heals, one intentionally meant to be bad and one that is bad merely because Yuubari has barely more HP than the average DD without their Evasion), but the complete inability to control the results makes her a tough sell for anyone but the most compulsive gamblers - or the most squeamish about oil costs (8 Oil at MLB).
@@ -1410,10 +1077,6 @@ Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outco
 * Skill: 
   * Grant 10% FP/Torpedo/Reload to all CL/CA in the fleet. (It stacks with Command skills, too.)
   * Grant +3 Speed to all units in the vanguard and reduce the ramming damage they sustain by -25%; once per battle and when below 30% HP, become Intangible (100% EvaRate) for 5s and gain +15% Damage for the rest of the battle.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: Not Fishy at all!
 > More of the same good, old, flexible cruiser buffing action - but on a much more capable platform.  
@@ -1431,10 +1094,6 @@ Ziggy's Kai gave her the statline she needed to compete favourably with the othe
   * Deal +15% damage to Sirens.
   * Has Medium Armour, MGM+1 and torpedoes. Really,  *really* bad torpedoes.
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 113x2mm; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
 * Desc: Hipper grew a pair or two.
 > Clearly inspired by the popular and very capable Zara, this former Admiral Hipper hull does away with the predecessor's CA guns and revolving shields in favour of more CL guns and the much superior single front-facing style of hitshields... which, uniquely, also happen to shoot back as they are inevitably broken. While frailer than Zara's and slower to respawn, by virtue of triggering a barrage when broken they are also more universally useful: hitshields have a deservedly poor reputation for breaking far too quickly to incoming enemy fire that would have dealt little to no damage anyway, and this provides an elegant solution to the issue.  
 Shielding aside, Mainz shows some versatility in use, gaining more bulk and speed if set as vanguard lead or more damage output if placed elsewhere; given how ubiquitous CL or CA tanks are (and how rare Gun-CL capable of actual DPS are), it would be better to have her off-tank and let her rip.  
@@ -1448,10 +1107,6 @@ Shielding aside, Mainz shows some versatility in use, gaining more bulk and spee
     * The 32 SHOTS deal 15 bdmg with 75/110/75 mods. They are modified by 100% of the unit's FP.
   * Gain +10% Torp and grant +15% AA to all KMS units in the fleet; also, for every 1
 
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 113x2mm; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-
 A Leipzig Kai that has traded in the generalised cruiser buffs and a little survivability for extra AA for herself, a KMS-wide AA boost, and a nifty timed barrage. AA focus aside, she behaves almost exactly like the aforementioned unit, so... that's it, really.
 
 ![CL](/Images-for-the-Guide/Emile_BertinKaiChibi.png "Emile Bertin Kai") - **[FFNF Emile Bertin Kai](https://azurlane.koumakan.jp/Emile_Bertin#retrofit)**
@@ -1463,10 +1118,6 @@ A Leipzig Kai that has traded in the generalised cruiser buffs and a little surv
   * If the vanguard is composed of Emile Bertin and DDs, +4 Speed and +20% Damage vs DD/CL for herself.
   * If sortied with 1 or more DD, gain +15% FP/AA/Accuracy; once per battle, if a DD falls below 50% HP, launch a barrage.
     * The 12 SHOTS deal 62 bdmg with 100/80/60 mods; the 12 TORPEDOES deal 72 bdmg with 80/100/130 mods. Their damage is modified by 100% of their relevant stat.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 610x4; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: La merveilleuse DDanseuse!
 >With the retrofit patching up her average statline and further bolstering it when she's doing her job (ie. escorting DDs), Emile Bertin proves herself as a strong DD flotilla leader and an invaluable asset for French DDs specifically.  
@@ -1480,11 +1131,6 @@ Her retaliatory barrage is pretty strong, but you should try *not* to proc it; l
   * Deal +10% damage to HMS units; upon battle start, self-inflict a very weak Ignition (30s long burn, 10 x 3s ticks, each dealing 8 damage, non-scaling) with a 10% refresh chance whenever Jeanne is hit, and gain +20% FP/Torp/AA/Evasion whenever she's Ignited.
     * Regular Ignitions stack with this Ignition and deal damage as if she were not Ignited.
   * 10s after battle start and every 20s afterwards, grant every vanguard unit a personal shield. The shield blocks up to 6% of Jeanne's max HP and lasts 8s; if the shield breaks before then, the unshielded unit gains 2s of total invincibility, and if the shield survives, the unshielded unit heals 70HP.
-  
-* Recommended Loadouts:
-  * [Shields Up] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
-  * [General Purpose] Seattle Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; Oxytorp
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: Toasty!
 >Setting yourself on fire usually isn't a great way to start a fight, but apparently Jeanne d'Arc - this one, at least - never got the memo. Or maybe it's *holy* fire and that's what lets her get considerably stronger while she's blazing?  Anyway.  
@@ -1498,11 +1144,7 @@ The heal on shield expiration is nice too, but hardly going to make a difference
 
 * Skill: 
   * +35% Damage to the entire vanguard.
-  * Has MGM+1 and Torpedoes.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 533mm quintuple conventional torpedo; 40mm Quad Bofors; Toolbox; PR Rudder
-  * [Poverty] Twin 150mm tbtsk c/36; 533mm quadruple conventional torpedo; 40mm Quad Bofors; Toolbox; Boiler
+  * Has MGM+1 and Torpedoes, and an atrocious speed of 19.
 
 - Desc: "Союз нерушимый республик свободных~ ♪♫♬"
 >The burden and glory of the true revolutionary is heavy indeed, and Avrora shows it through and through.  
@@ -1519,10 +1161,6 @@ All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and a
   * Every 15, 70% chance to fire a [barrage](https://cdn.discordapp.com/attachments/362117088136921090/683576119945068565/Screenshot_2020-03-01-08-25-48-082_com.YoStarJP.AzurLane.jpg).
     * The 12 SHELLS deal 26 bdmg with 125/85/85 modifiers and has a 100% Ignition chance; their damage is modified by 100% of the unit's FP stat.
   * Gain +15% CritRate, deal +20% damage to DDs and gain +15% Main Gun shell speed; also, reduce enemy DDs' Evasion Rate by 10%.
-
-* Recommended Loadouts:
-  * [General Purpose] Seattle Gun (best) or Neptune Gun; 138.6mm; 40mm Quad Bofors; Toolbox; PR Hydraulic Gear
-  * [Poverty] Twin 150mm tbtsk c/36; 120mm twin; 40mm Quad Bofors; Toolbox; Toolbox
 
 * Desc: 
 >Tough, reliable and prodigal of bullets workhorse of the Northern Parliament, Chapayev sweeps the field with both her regular barrage and her special one; neither is especially powerful, per se, but the volume of fire is considerable and the patterns are just about the right size to land damage on enemy waves, meaning it can and will add up if given the chance.  
@@ -1580,10 +1218,6 @@ Her one job is being immensely irritating/powerful in the arena, and dying for y
   * Overrides Main Gun ammo with improved AP (85/120/85 modifiers).
   * If deployed with USS CV/L, grant them +7% AA and +15% Aviation; if sortied without, gain +12% FP and +15% Evasion.
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] Prototype 203mm Type 3 Mounted Main Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
 * Desc: Baltimore AP Blues.
 >Designed to take the fight to later worlds, Baltimore proves to be a tough hard-hitter in every situation; with or without USS carriers to augment she's nearly always at her best, all you have to do is make sure she's snacking on heavy cruisers and carriers or, at the very least, landing those pierces.  
 Nevertheless, do try to have her around those USS carriers, as the buffs she grants them are more substantial than those she has for herself.
@@ -1596,10 +1230,6 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
   * Upon Main Gun fire, 30% chance to deal +30% dmg for 3s (with 5s internal cooldown); also, 70% chance to fire a [special barrage](https://streamable.com/srnlj) (with 10s internal cooldown).
     * The 12 SHELLS deal 20 bdmg with 135/95/70 armour modifiers. The damage is modified by 100% of Bremerton's FP. IT DOES NOT IGNITE, despite what the skill text says.
   * Upon battle start and if deployed as vanguard lead, take -20% dmg for 30s; if not deployed as lead, gain +25% AA until the end of the battle.
-
-* Recommended Loadouts:
-  * [General Purpose] Type 3 Gun or Roon Gun; 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203x2 IJN (HE) or 203x2 KMS (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: Warrior of Likes.
 >Another excellent showing from the Baltimore-class, Bremerton brings impressive amounts of AA fire from a Heavy Cruiser without compromising staying power or damage output in the process.  
@@ -1614,10 +1244,6 @@ One last note - despite what her skill description says, the special barrage DOE
 * Skill: 
   * Upon firing the Main Gun, 30% chance to have it deal +100% Damage. (Has an internal cooldown of 5s; do not give her the 203Mle as the gun will reload in under 5s.)
 
-* Recommended Loadouts:
-  * [General Purpose]  Prototype 203mm Type 3 Mounted Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
 * Desc: 
 >The quintessential Glass Cannon, Chicago is deceptively fragile (being one of the poster girls for 'CAs not necessarily being tanks') and unassumingly devastating due to the maths involved in her skill - if she procs on her first salvo, the buff affects the second one too, meaning that that all in all her actual double damage procrate is 49%!  
 Give her a decent gun, stick someone in front to take hits for her and she'll cut through the opposition like butter at a very modest 10 Oil price tag.  
@@ -1628,10 +1254,6 @@ Give her a decent gun, stick someone in front to take hits for her and she'll cu
 
 * Skill: 
   * 20% chance upon Main Gun fire to gain +100% Eva for 15s.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: Problem? What problem?
 > While an Evasion-focused CA sounds ludicrous, and it is under most circumstances, Houston actually makes it work given enough Evasion-boosting auxiliaries: CAs live and die by their Evasion (or lack thereof), so stacking it actually lets her survive under heavy fire for much longer than you'd expect.  
@@ -1645,10 +1267,6 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
   * +15% Firepower and +30% Reload for 12s after killing an enemy vessel, if skill is already active it will refresh the duration 
   * When Minneapolis' HP falls under 30%, lose 2 Speed but gain -10% damage sustained and heal 4% HP every 3s for 16s (can only proc once per fight).
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
 - Desc: Monster Hunter. Je suis monté.
 > Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP/Rld buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
 
@@ -1659,10 +1277,6 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
 * Skill: 
   * When sortied w/ Indianapolis, gain +15% Firepower, AA and Evasion. Do not do this.
   * 25% chance every 20s, +15% damage resistance to the entire fleet for 8s
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Exceptional HP, twice the base Evasion other CAs get, good Firepower and high AA: in a similar fashion to Cleveland, her stats alone justify her rating and the skills are just window dressing, with the Indianapolis-related buff in particular being wholly irrelevant (as her sister is way too weak to be worth consideration).    
@@ -1675,10 +1289,6 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
 * Skill: 
   * Grant +15% Firepower to all CL/CA/CB in the fleet.
   * 25% chance when firing main guns to fire another salvo. (Has an internal cooldown of 5s; do not give her the 203Mle as the gun will reload in under 5s.)
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype 203mm Type 3 Mounted Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Can you say 24 shots in a row? She certainly can. Wichita is THE heaviest frontline DPS in the entire game, bar none. Her HP is rather lacklustre, but it's an easily solved issue and dead enemies can't hurt you anyway.
@@ -1694,11 +1304,7 @@ She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn h
   * Deal +15% damage to Sirens.
   * Has AAGM+1, but can only store one torpedo spread and cannot preload it.
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 533x5 HMS; 113x2mm; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); 533x5; 113x2mm; Toolbox; Hydraulic Gear or Naval Camo
-
-* Desc: Imagine having lines so idiotic the players complain about them until they are toned down.
+* Desc: [Imagine having lines so idiotic the players complain about them until they are toned down](https://cdn.discordapp.com/attachments/794540645590237204/803045081174769725/lmao.png).
 >So, Cheshite. San Diego's estranged bri'ish sister, replacing battle stars with raining cat paws and cat puns. So many cat puns.  
 I am not sure this was an improvement, but nevermind the bollocks; the comparison between the two is fairly apt, as both fulfil rather similar roles as mobile no-fly zones while putting out respectable-to-good DPS. Whereas San Diego shreds Light Armour better, Cheshire takes over against other types; and where San Diego's supportive capabilities come mainly in the form of a massive fleetwide AA buff, Cheshire's more or less boils down to taking lots of hits and chugging along regardless, helped in that by the Medium armour and the +Eva stacks.  
 A useful and tough Torp-CA, all in all. [Incredibly](https://cdn.discordapp.com/attachments/367307557796053002/797953780032733194/unknown.png), [offensively](https://cdn.discordapp.com/attachments/367307557796053002/797953842921603142/unknown.png) stupid... but useful.
@@ -1714,10 +1320,6 @@ A useful and tough Torp-CA, all in all. [Incredibly](https://cdn.discordapp.com/
   * Deal +15% damage to Sirens.
   * Has MGM+1, but can only store one torpedo spread and cannot preload it.
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 533x5 HMS; 113x2mm; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); 533x5; 113x2mm; Toolbox; Hydraulic Gear or Naval Camo
-
 * Desc: Privateer, deprived of originality.
 >If you thought Freidrich der Grosse was boring for a DR, get a load of this freaking gonk.  
 No flashy mechanics to show off or imaginative barrages to spew, just really powerful guns bolstered by excellent forced modifiers, stats stacks and a minor self-heal that'll help her keep going through the fights (to an extent). Her ghost guns get a buff too; welcome, but they don't really get to the point where they pose a significant threat.  
@@ -1732,10 +1334,6 @@ That's pretty much it, really. A devastating powerhouse of a Gun-CA with some po
   * Upon Main Gun fire, 30% chance to deal +100% damage; upon destroying an enemy unit, gain 1 stack of +1.5% Acc up to a total of 8 stacks.
   * Once retrofitted, can mount DD guns instead of torpedoes. Efficiency stays 160%. DO THIS.
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
 * Desc: London callin'. 
 >London's retrofit is on a one-town-mission to clear the bad rap HMS CA for the most part deservedly get, and good Lord does she put in the effort.  
 While her base form has never been bad, performing as well as a Leander Kai at the end of the day, her comparatively high costs and mostly irrelevant niche (buffing DD FP as well as the rest) meant she wouldn't see much use; the Kai does not change this, but it does put her DPS in the big leagues thanks to her new obscenely powerful DD mount and chance for double damage, while the stat gains make her considerably tougher beside; the +Acc stacks are nice but not particularly important as vanguards don't really struggle landing hits but more crits are appreciated nonetheless.  
@@ -1748,10 +1346,6 @@ Given all this, London Kai proudly joins Wichita and Choukai in their exclusive 
 * Skill: 
   * 25% chance when firing main guns to fire another salvo.
   * 60% chance every 20s to increase Firepower by 40% for 10s.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >Boasting some of the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above other Torp-CAs and has access to QE's buffs to boot.  
@@ -1785,10 +1379,6 @@ All that said, though - she's alright.
   * +15% damage vs Sirens.
   * Has MGM+1 and can equip the VH Plate (as she is a CB, not a CA).
 
-* Recommended Loadouts:
-  * [General Purpose] Azuma Gun; 138.6mm; STAAG; Research Hydraulic Gear; VH Plate
-  * [Poverty] SKC28 (AP); 127mm twin; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
 - Desc: Hard sell for a hard shell.
 >At long last, here is the "frontline BB" the playerbase has dreamed of for ages, and how closely does she match that moniker!  
 Close in firing mechanics, damage output, bulk and price tag - a staggering *16 oil* - to a proper battlecruiser, Azuma is at her best in lategame engagements, where her AoE-capable guns and barrage are able to shoot over the uncomfortably common shields from a distance and smash the clusters of tightly-packed mobs as she weathers almost effortlessly the incoming hailstorm of bullets thanks to her Heavy Armour (if she's wielding the VH Plate, that is).  
@@ -1803,10 +1393,6 @@ That said, don't make the mistake of thinking Heavy Armour makes her invincible 
   * Upon Main Gun fire, 30% chance to double its damage.
   * Barrages every 4 Main Gun firing cycles and gains +10% EvaRate for the rest of the battle when she does (only for the first barrage).
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
 * Desc: 
 >The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
 As with the rest of the class, she too gets to barrage twice as fast as most other Torp-CA and enjoys a nifty EvaRate boost as she does so.
@@ -1820,10 +1406,6 @@ As with the rest of the class, she too gets to barrage twice as fast as most oth
   * Upon launching torpedoes, 30% chance to launch a special torpedo barrage and gain +12% Evasion for 6s.
   * Deal +15% damage to Sirens.
   * Has TWO preloaded torpedo spreads.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: What do you mean "she's not a DD"?
 > Someone at the design bureau must've missed a memo when they designed Ibuki.  
@@ -1841,10 +1423,6 @@ Still, as long as you employ her for the surgical strikes she's made for, she ha
   * Every torpedo launch has a 30.0% chance to launch another spread.
   * Have 31 Speed (the average CL has 32).
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
 * Desc: 
 >Think Takao, except a bit frailer and marginally less powerful with their skills but much more reliable and inexpensive.  
 Often unfairly overlooked but there's few better Torp-CAs, especially at their cost.
@@ -1859,9 +1437,6 @@ Often unfairly overlooked but there's few better Torp-CAs, especially at their c
   * Gain a stack of +8% Firepower for every 5 torpedoes launched by Mogami that hit a target. Max 3 stacks.
   * Has MGM+1 and torpedoes.
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 - Desc: Oni-chan~
 > Good torpedoes on a gunboat frame are unique more than they're rare, but you can't fault the results.
@@ -1874,10 +1449,6 @@ Despite her relatively low staying power, courtesy of her abysmal Luck, Mogami K
   * 30% chance to do double damage when firing main gun
   * 30% chance to launch a second salvo on torpedo launch
   * Has 31 Speed (the average CL has 32), barrages every 4 Main Gun firing cycles and gains +10% EvaRate for the rest of the battle when she does (only for the first barrage).
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >The archetypal Torp-CA, Takao can't decide whether to focus on guns or torpedoes and ends up doing a little bit of both.  
@@ -1893,10 +1464,6 @@ Being an IJN CA, this means she gets a much better torp suite than her not-IJN p
   * Take -20% AP damage.
   * Can take a CL gun, but shouldn't UNLESS it's the Seattle Gun.
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 152mm Main Gun (DP MK17); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
 * Desc: 
 >CAs aren't known for their barrages, but Suzuya isn't going to let that get her down.   
 Blessed with one of the best vanguard barrages currently available once upgraded, and bolstered by buffs that naturally improve both her ability to barrage and the barrage itself, she's uniquely positioned to take advantage of an otherwise ignored feature of this class without sacrificing actual gunnery in the process.  
@@ -1909,11 +1476,7 @@ On the flipside, said barrage is also her most noteworthy feature - manual play 
 
 * Skill: 
   * Deal +35% damage to DD/CL.
-  * May equip the 283mm SKC28, but shouldn't.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
+  * May equip the 283mm SKC28, but shouldn't unless there are shields to shoot over.
 
 - Desc: 
 >Too large for mere CA and too small for proper BCs, these Pocket Battleships are odd creatures.  
@@ -1945,10 +1508,6 @@ Something to bear in mind is that, more than most Torp-CA, she is capable of han
   * Deal +15% damage to Sirens.
   * Has MGM+1 and torpedoes. Really, *really* bad torpedoes.
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Autoloader
-  * [Poverty] 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
 - Desc:
 > Saint Louis and Roon apparently stand at opposite ends.  
 Whereas the former starts out strong and lose some of her lustre as the battle drags on, the latter needs time to wind up; where the former's barrage is uncomfortably wide, the latter's is very concentrated and devastating; where the former relies on high speed and evasion to stay out of harm's way, the latter simply adds layers of HP and shields to power through the barrages; and as the former gradually mellows out of her cold templar persona, the latter grows ever more violent and unhinged.  
@@ -1965,10 +1524,6 @@ Nevertheless, she's still one of your only viable KMS cruiser options, so...
   * Deal +15% damage to Sirens.
   * Has MGM+1 and torpedoes.
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (HE); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
 - Desc: DESU VULT!
 > Historically praised by multiple navies as one of the absolute best heavy cruiser designs but robbed of its chance to shine due to the fall of France in WW2, Azur Lane's Saint Louis has come to set the record straight - and does she ever.  
 Mightiest of all CA by weight of stats and skills, there is no area where she doesn't excel - her guns absolutely melt opposing Light Armour and punch through Heavy Armour better than most other frontliners' in the game, her Speed is slightly superior to that of CLs and enjoys a hefty boost to her already high Evasion for more than half a minute after the battle starts, her AA is uncharacteristically high for her class and she enjoys all the perks of her Spe-CA peers (Medium Armour, MGM+1 and Torpedoes).  
@@ -1982,11 +1537,7 @@ The only fault one can find in her would be her barrage - its wide linear patter
   * Deal +15% damage to Ignited enemies. 20s after battle start, launch an Igniting [barrage](https://streamable.com/i5zks9); this barrage is also launched on a 70% chance on Main Gun fire, with a 10s internal cooldown.
     * The 18 HE CA shots deal 20 bdmg with 135/95/70 armour modifiers. They are modified by 100% of the unit's FP.
   * Upon battle start, gain a frontal torpedo shield; the shield lasts 20s and is respawned every 30s. The shield can block up to 5 torpedo hits; while the shield is active, Algérie gains +15% FP and deals +12% damage to DD/BB. Also, if auto mode has been off for more than 5s, gain +8 Speed and +15% Evasion.
-  
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Research Hydraulic Gear; Oxytorp
-  * [Poverty] 203mm Mounted Main Gun (HE) or 203mm SKC (AP); 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
+ 
 - Desc: Torp-CA done right.
 >Torp-CA have a very poor reputation in Azur Lane, one that's mostly deserved at that - with the stats to gun hard but without the weight of fire required, without the stats to torpedo hard but with the mounts for it, they're in almost all cases the worst kind of hybrid, the bad-of-all-trades, master of none.  
 Algérie rectifies this unfortunate situation by, amusingly, leaning more into the gun side of her kit - her shelling, aided by the barrage, is strong enough to be somewhat competitive with dedicated Gun-CAs, while her torpedoes are well-capable of taking out hard targets (BB in primis).  
@@ -2015,10 +1566,6 @@ That is not to say she is frail, of course: she sports Zara's high eHP and bolst
   * Upon taking a hit (MISSES COUNT AS HITS), 18% chance to generate 1 front-facing fixed shield and 1 orbiting shield; the shields last for 12s and can tank up to 10 shots each. Internal skill cooldown, 12s.
   * If mounting a HE or SAP Main Gun, gain +12% Main Gun Damage and lose the ability to Ignite targets; if mounting an AP Main Gun, each Main Gun shot gains a 8% chance to have the targets hit take +15% more Main Gun Damage.
 
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (vs Light), Twin 203mm Main Zaragun (vs Medium), Prototype Triple 203mm Main Gun SKC (vs Heavy); 138.6mm; 40mm Quad Bofors; Research Hydraulic Gear; Toolbox
-  * [Poverty] 203mm SKC (AP) or 203mm HE dual (HE); QF 120mm dual; 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
-
 - Desc: Tenacemente~
 >Hands down the best vanguard tank in the game, when just more Evasion won't cut it.  
 Portland Kai may be cheap, Prinz Eugen may have more eHP and Roon may have more DPS,  but none of them have her spectacular shields nor her combination of good DPS and high eHP at the same time, and that's what pushes her above her competitors.    
@@ -2045,10 +1592,6 @@ Her direct competitor would be Portland Kai, and while she comes out of that com
   * Every 20s, 70% chance to gain a +8% damage stack (caps at 3 stacks, or +24% damage).
   * Every 15s, fire a narrow wave-shaped slash in front of her; the slash has a 50% chance to inflict Armour Break on the enemies hit regardless of Armour class for 6s.
     * The SLASH deals 81 bdmg with 100/100/100 armour mods; can pierce up to 20 targets. It is modified by 100% of the unit's FP.
-
-* Recommended Loadouts:
-  * [General Purpose] Prototype Triple 203mm AA Gun (HE) or Prototype Triple 203mm Main Gun SKC (AP); 138.6mm; 40mm Quad Bofors; Toolbox; Research Hydraulic Gear
-  * [Poverty] 203mm Mounted Gun (HE) or 203mm SKC (AP); 120mm dual (general purpose) or 127mm dual (anti-heavy); 40mm Quad Bofors; Toolbox; Hydraulic Gear or Naval Camo
 
 * Desc: 
 >A competent enough Gun-CA whose main purpose is to be a semi-reliable Armour Break delivery system.  
