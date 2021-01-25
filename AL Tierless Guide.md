@@ -31,8 +31,6 @@ Good reading, and godspeed cap'n!
 - Support is too varied a field and thus simply references how the unit supports others via heals, buffs or debuffs.
 - If you'd like to know individual numbers, feel free to ask me on Discord (or Issues if you truly must).
 
-
-
 #### Retrofit/Kai Priority List and PRiority list:
 - DD                  : Laffey > Ayanami = Z23 > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
 - CL                  : San Diego* > Jintsuu > Leipzig = Leander > Kinu = Emile Bertin > Helena > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
@@ -43,7 +41,15 @@ Good reading, and godspeed cap'n!
  - PR1                : Monarch > Ibuki > Saint Louis > Neptune > Roon (unless focusing on KMS) 
  - PR2                : Georgia > Kitakaze = Gascogne > Seattle > Azuma > Friedrich der Grobe (unless focusing on KMS)
  - PR3                : Odin = Champagne > Cheshire > Mainz > Drake
-  
+ 
+#### What gear do I give X?
+Courtesy of two ALEC veterans of ours, xscore#4740 and ʝimmy#8049, have some handy flowcharts. No need to memorise the names anymore, refer to the images!  
+- [DD Gun Selection Guide](https://cdn.discordapp.com/attachments/367307557796053002/801526158306312242/DD_gun_selection_guide2.png)
+- [CL Gun Selection Guide](https://cdn.discordapp.com/attachments/770435752080310342/800743624626536529/CL_gun_selection_guide.png)
+- [CA Gun Selection Guide](https://cdn.discordapp.com/attachments/770435752080310342/800743674715570186/CA_gun_selection_guide.png)
+- [BB Gun Selection Guide](https://cdn.discordapp.com/attachments/770435752080310342/800743671842603038/BB_gun_selection_guide.png)
+
+
 #### Assorted notes:
 - Read the VERY IMPORTANT OPENING NOTE at the top.
 - Gear isn't an afterthought; good units with bad gear fail where bad units with good gear succeed. Learn what's good and why [here](https://github.com/Meowrin/al-guides), and if you don't know the nicknames for the various pieces of gear, look [here](https://imgur.com/a/4wEvTQo).
