@@ -73,7 +73,8 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ## Changelog as of last major update (24/01/2021)
 
-- RN Pola has been added to the Guide. Muses coming up soon.
+- Muse Le Malin has been added.
+- Muse Tashkent has been added. More to come.
 
 <br/><br/>
 ---
@@ -474,6 +475,9 @@ The tempo she forces upon you is fairly demanding, as the average DD torpedo set
 Proud owner of a quick-firing, high-volume, AP conal barrage with four homing torpedoes to the side that is boosted both by her own +APdmg skill (only use the recently released golden KMS DD AP gun or stick with the usual quick-firing solutions) and her high torp stat, she puts every other standard DD barrage in the game to shame and is the main reason for her remarkable prowess. That said, like most KMS DD, her normal torpedoes are pretty bad and will bank on her gunnery to pull through.
 
 ![DD](/Images-for-the-Guide/TashkentChibi.png "Ypa 1") - **[SN Tashkent](https://azurlane.koumakan.jp/Tashkent#Retrofit)**
+* Roles:
+  * **Superior Gunship DD (extreme Gun DPS w/ Light focus, average Torp DPS)**; medium tank, minor Slow support.
+
 * Skill:
   * Upon battle start, gain +10% FP and summon ~~Navi~~ an ice fairy for 50s, whose shots inflict 1 stack of -1.5% Speed for 4s (max 10 stacks; each icicle refreshes the 4s duration).
     * The 6 ICICLES deal 24 bdmg with 100/50/20 modifiers and a 125% Coefficient; the icicles are fired every 2s in two three-icicle bursts, which can be aimed at two different targets.
@@ -484,15 +488,44 @@ Proud owner of a quick-firing, high-volume, AP conal barrage with four homing to
 The historical records are curiously silent on the subject of suspiciously familiar-looking guardian faeries, but one cannot fault her effectiveness nonetheless: for all the 50s she's active it puts out a shocking amount of DPS, roughly equivalent to that of a second gun mount backed by her stats, and also doles out a little bit of slows along the way (not too relevant, but it's better than nothing anyway).  
 Impressive as she is, Tashkent does have a couple of drawbacks; first of all is her damage output, heavily slanted towards Light (both her ideal gun and the fairy have Normal DD ammo modifiers), and secondly is the simple fact her DPS does drop quite significantly once the fairy pops. While this does not exactly force her into a mob fleet role, it is nevertheless where she is bound to be most effectively deployed.  
 
-![DD](/Images-for-the-Guide/Le_MalinChibi.png "Le Malin") - **[MNF Le Malin](https://azurlane.koumakan.jp/Le_Malin)**
+![DD](/Images-for-the-Guide/Tashkent_µChibi.png "Ypa 1") - **[Muse Tashkent](https://azurlane.koumakan.jp/Tashkent_µt#Retrofit)**
+* Roles:
+  * **Excellent Gunship DD (very high Gun DPS w/ Light focus, average Torp DPS)**; medium tank, minor carrier support.
+
 * Skill:
-  * If her Main Gun shots hit an enemy 10 times, that enemy takes +12% dmg from any destroyer in the fleet; also, upon destroying an enemy, Le Malin gains a +2% FP stack, up to 10 stacks.
+  * Upon battle start, gain +10% FP and summon ~~Navi~~ an ice fairy for 50s, whose shots inflict a -5% Aviation Damage Taken debuff upon enemies hit by them 10 times.
+    * The 6 ICICLES deal 24 bdmg with 100/50/20 modifiers and a 125% Coefficient; the icicles are fired every 2s in two three-icicle bursts, which can be aimed at two different targets.
+  * For the first three battles of the sortie, gain +12% FP; for the fourth battle and onwards, gain +12% AA.
+
+- Desc: A somewhat pallid imitation of the original.
+>Musekent behaves almost exactly like the normal Tashkent while performing somewhat worse; the hefty extra Efficiency on the main guns is gone in favour of a fairly negligible carrier-minded debuff (potency is too low) and a FP boost that eventually melts away in favour of AA she can't actually use.  
+Is she bad? No, she's still a Taskhent and this means she's still a beast with a few caveats. Is she worse than Tashkent? Yes.  
+
+![DD](/Images-for-the-Guide/Le_MalinChibi.png "Le Malin") - **[MNF Le Malin](https://azurlane.koumakan.jp/Le_Malin)**
+* Roles:
+  * **Gunship DD (high Gun DPS, average Torp DPS); DD buffer**.
+* Skill:
+  * If her Main Gun shots hit an enemy 10 times, that enemy takes +12% dmg from any destroyer in the fleet; also, upon destroying an enemy, Le Malin gains a +2% FP stack (up to +20%).
   * Upon battle start, gain +20% Torp/Eva for 30s; over the next 20s, the buff potency lowers to 0%.
 
 - Desc:
 >Le Malin shares both Le Triomphant's statline and the "hit the same target" gimmick, but makes it a lot more lenient and considerably more effective besides.  
 Strong guns and barrage, a useful debuff skill, okay AA and defences, weak torpedoes - all in all, a very solid gunnery DD.
- 
+
+![DD](/Images-for-the-Guide/Le_Malin_µChibi.png "Muselin") - **[Muse Le Malin](https://azurlane.koumakan.jp/Le_Malin_µ)**
+* Roles:
+  * **Gunship DD (high Gun DPS, average Torp DPS)**; self-healer, DD healer.
+
+* Skill:
+   * Every 20s after battle start, stop for 3s and summon a pair of manjuu cherubs to bomb enemies; also, when this happens, 50% chance to heal for 3% of Muselin's max HP.
+      * The BOMBS deal Torpedo damage and are affected by the unit's Torpedo stat, and are thus unaffected by enemy AA.
+  * Gain +20% FP and a further +3% FP (up to +9%) for every enemy destroyed. Take -5% damage and, every 25s, heal all DD in the fleet by 3% of their max HP.
+
+- Desc:
+>Le Memin returns to the fore as an angelic idol while retaining the kit concept behind the original: very good gunnery, valuable if quirky support, middling torpedoes, excessive amounts of speed.  
+The quirks are especially notable this time around, even if her moment-to-moment play doesn't change all that much. The 3s stops are the most notable item on the list, and are more of a boon than a detriment (will prevent ramming on auto and not slow the vanguard significantly); the mini-airstrikes she throws out are remisnescent of Shirakami Fubuki, with the same AA bypass and more bombs; the heals are somewhat more consistent and welcome, if not quite enough to sustain her under heavy fire.  
+
+
 ![DD](/Images-for-the-Guide/Le_TriomphantChibi.png "Le Triomphant") - **[FFNF Le Triomphant](https://azurlane.koumakan.jp/Le_Triomphant)**
 * Skill:
   * Each time the Main Gun damages an enemy, gain a +40% Reload stack up to a maximum of 4 stacks (can only gain one per second, stacks lost upon damaging a different target).
