@@ -75,7 +75,10 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 - Muse Le Malin has been added.
 - Muse Tashkent has been added. More to come.
-- Marie Rose, im.
+- Marie Rose, in.
+- Muse Dido has been added.
+- Muse Roon has been added.
+- Kasumi, in.
 
 <br/><br/>
 ---
@@ -1563,7 +1566,7 @@ Something to bear in mind is that, more than most Torp-CA, she is capable of han
 
 ![CA](/Images-for-the-Guide/RoonChibi.png "Qu'est-ce que c'est?") - **[KMS Roon](https://azurlane.koumakan.jp/Roon)**
 * Roles:
-  * Above average Gun DPS (barrage reliant), **medium shielded tank**.
+  * Average Gun DPS (barrage reliant), **medium shielded tank**.
  
 * Skill:
   * Main Gun cycles between HE and AP every 2 salvo, then gains a +3.5% Reload stack for every Main Gun salvo fired. Max 12 stacks.
@@ -1576,6 +1579,19 @@ Something to bear in mind is that, more than most Torp-CA, she is capable of han
 Whereas the former starts out strong and lose some of her lustre as the battle drags on, the latter needs time to wind up; where the former's barrage is uncomfortably wide, the latter's is very concentrated and devastating; where the former relies on high speed and evasion to stay out of harm's way, the latter simply adds layers of HP and shields to power through the barrages; and as the former gradually mellows out of her cold templar persona, the latter grows ever more violent and unhinged.  
 Had that been it, they would've made for a roughly equivalent pair; but as it stands, she is saddled with a detrimental ammo swap mechanic that prevents her from fully harnessing her power and a shield skill that is only marginally better than Prinz's by virtue of being a guaranteed proc (and the least said about the Dev35 buff it enjoys, ie. having them spawn at the start of the fight, the better).  
 Nevertheless, she's still one of your only viable KMS cruiser options, so...
+
+![CA](/Images-for-the-Guide/Roon_µChibi.png "Moon") - **[Muse Roon](https://azurlane.koumakan.jp/Roon_µ)**
+* Roles:
+  * **Roon but legitimately good. Above average Gun DPS (barrage reliant), enemy speed/defence debuffer**; medium shielded tank. Manual play strongly recommended.
+ 
+* Skill:
+  * Every 15s, fire a strong linear barrage that increases the damage taken by targets hit by +10% for 6s; if only 1 target is hit by it, stop it for 3s and launch a brief linear torpedo burst.
+  * Upon battle start and every 30s afterwards, generates 2 blue orbiting shields (lasting 8 shots or 15s) and 2 red orbiting shields (dealing damage on contact).
+  * Has MGM+1 and torpedoes. Really, *really* bad torpedoes.
+
+- Desc: Super strong meme boat? Awful PR? Why not both?
+>As Roon done right, Moon ditches most of what drags the original down (horrible ammo-swap in primis) in favour of a surprisingly strong set of supportive/offensive abilities; more barrages are free damage, and in this case they bring some very significant debuffs with them, while shields that would have accomplished little beyond getting immediately shot up now stay around to wreck enemy units.  
+As hilariously superior as Moon is, one thing has not changed, namely the reliance on manual play: the red shields don't orbit far and the new barrages are still linear, so she'll end up wasting a lot of DPS if auto is at the helm.  
 
 ![CA](/Images-for-the-Guide/Saint_LouisChibi.png "Saint Louis") - **[FFNF Saint Louis](https://azurlane.koumakan.jp/Saint_Louis)**
 * Roles:
@@ -1631,9 +1647,22 @@ That is not to say she is frail, of course: she sports Zara's high eHP and bolst
 
 - Desc: Tenacemente~
 >Hands down the best vanguard tank in the game, when just more Evasion won't cut it.  
-Portland Kai may be cheap, Prinz Eugen may have more eHP and Roon may have more DPS,  but none of them have her spectacular shields nor her combination of good DPS and high eHP at the same time, and that's what pushes her above her competitors.    
+Portland Kai may be cheap, Prinz Eugen may have more eHP and Moon may have more DPS,  but none of them have her spectacular shields nor her combination of good DPS and high eHP at the same time, and that's what pushes her above her competitors.    
 While the damage boosts are undoubtedly good and allow her to perform optimally under every circumstance, the shields are the real stars of the show here - not only their uptime is much higher than the 18% would lead you to believe, able as they are to proc on *any* attack that collides with her chibi (even if she evades the damage), the front-facing shield is absolutely invaluable when it comes to blocking incoming enemy fire entirely, especially if it's piercing enemy fire.  
 If you're sick of seeing your poor vanguard get turned inside out, Zara is the solution to your problems.
+ 
+  ![CA](/Images-for-the-Guide/Kasumi.png "Kasumi") - **[Kasumi](https://azurlane.koumakan.jp/Kasumi)**
+* Roles:
+  * **Stronger Portland**, now with less DD guns and more torpedoes.
+
+* Skill:
+  * Every 15s after the start of the battle **and** on every sixth torpedo hit, launch an aimed sakura petal barrage.
+  * Upon destroying an enemy, gain a +5% FP/RLD stack (up to +15% FP/RLD); as the third stack is acquired, also gain +15% Accuracy.
+
+* Desc: 
+>Ah yes, good old nippon steel sakura petals. Just as good as warship secondary guns, who knew?  
+Kasumi isn't a particularly imaginative unit; very tough owing to her meaty statline, respectably armed with IJN-grade CA torps and solid guns (for a Torp-CA), she performs much like a Portland with less of a concern for shields and some more for auto play, even if the aimed barrage kind of alleviates it.  
+Nothing spectacular, but still very capable.  
  
  ![CA](/Images-for-the-Guide/Elegant_Kizuna_AIChibi.png "CAkyu") - **[Elegant Kizuna AI](https://azurlane.koumakan.jp/Elegant_Kizuna_AI)**
 * Roles:
