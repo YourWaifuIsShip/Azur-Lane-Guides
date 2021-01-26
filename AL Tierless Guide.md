@@ -75,6 +75,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 - Muse Le Malin has been added.
 - Muse Tashkent has been added. More to come.
+- Marie Rose, im.
 
 <br/><br/>
 ---
@@ -923,7 +924,21 @@ Nevertheless, she and her less fortunate sisters have always been the HMS answer
 * Desc: Easy Access to Monkey Business.
 > It was to be expected that the Dido-class flagship would be good; what was not expected is that she'd also make Queen Elizabeth not terrible anymore (still not a first pick though, alas; her base statline is too poor to be fixed *that* easily).  
 As a standalone unit, she's an overall improved Sirius: the barrage is more powerful and easier to land, the statline is better across the board, the AA is actually good-to-excellent this time around and the buffs she gets are very significant, more so than those she grants.  
-On the flipside, the buffs can be unwieldy: while the Dido+3HMS requirements is easily filled and so is taking the chimpanQE along, exploiting the Dido-class buff will result in at least *someone* not getting to use part of their kit (Dido would want QE, Sirius wants carriers, Black Prince wants 1 USS unit). You have options with Dido, but trying to fit all in isn't one of them. 
+On the flipside, the buffs can be unwieldy: while the Dido+3HMS requirements is easily filled and so is taking the chimpanQE along, exploiting the Dido-class buff will result in at least *someone* not getting to use part of their kit (Dido would want QE, Sirius wants carriers, Black Prince wants 1 USS unit). You have options with Dido, but trying to fit all in isn't one of them... if you lack Muse Dido, that is. 
+
+![CL](/Images-for-the-Guide/Dido_µChibi.png "Frilly Dildo") - **[Muse Dido](https://azurlane.koumakan.jp/Dido_µ)**
+* Roles:
+  * **Very high Gun DPS (barrage), medium AA carry and buffer**, low Torp DPS, medium tank.
+
+* Skill:
+  * If depolyed alone, fire a barrage every 20s and grant +15% AA to the flagship; otherwise, fire a barrage every 20s and grant +3 Speed and +15% AA to the vanguard.
+  * For every two enemies destroyed, gain +10% AA (up to +30%); also, gain +15% Evasion for 60s.
+  * Can use DD guns, and should.
+
+* Desc: If you want something done right, idol it yourself.
+> As it turns out, the much-desired third Dido-class member for the vanguard Dido wants is Dido herself. Variety!  
+Sameness aside, Mido will behave more or less like the regular one does save for the extra barrage and a greater focus on AA; a welcome addition, considering these so-called AA cruisers have proven more adept at shooting up ships than simply shooting up.  
+Slightly better as a standalone unit, slightly worse in terms of Dido-class support. Use both Dido together and enjoy the best of both worlds.
 
 ![CL](/Images-for-the-Guide/EdinburghChibi.png "Edinburgh") - **[HMS Edinburgh](https://azurlane.koumakan.jp/Edinburgh)**
 * Roles:
