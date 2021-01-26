@@ -770,8 +770,8 @@ Most Cruiser compositions will benefit by her presence.
   * Carrier defender; mob/boss fleet high DPS and **heavy AA carry**.
 
 * Skill:
-  * Upon battle start and if there is 1+ alive CV/L in the fleet, gain +35% CritRate. For every alive CV/L in the fleet, deal +10% Dmg to DD/CL (up to +30%). For the first four  battles of her fleet, CV/L in her fleet take -10% Dmg.
-  * Upon battle start, gain +15% AA and +15% FP. Every 3rd time the backline takes damage, gain a stack of +6% AA/FP until the end of the fight (can gain 2 stacks max).
+  * Upon battle start and if there is 1+ alive CV/L in the fleet, gain +35% CritRate. For every alive CV/L in the fleet, deal +10% Dmg to DD/CL (up to +30%). For the first four battles of her fleet, CV/L in her fleet take -10% Dmg.
+  * Upon battle start, gain +15% AA and +15% FP. Every 2nd time the backline takes damage, gain a stack of +6% AA/FP until the end of the fight (can gain 2 stacks max).
   * +10% Main Gun Efficiency if wielding a DD gun.
 
 * Desc: Protector of mAAnkind.
@@ -1837,7 +1837,7 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
   * **High Gun DPS (unstable)**, good anti-Aviation defence.
 
 * Skill: 
-  * At 15s from the start of the battle and every 25s afterwards, gain +10% FP (up to +30%) and absorb 50% damage taken by main fleet for 8s, then heal for 50% of the damage taken during that time.
+  * At 15s from the start of the battle and every 25s afterwards, gain +10% FP (up to +30%) and absorb 50% damage taken by main fleet for 10s, then heal for 50% of the damage taken during that time.
   * 30% chance to do double damage when firing main gun.
 
 * Recommended Loadouts:
