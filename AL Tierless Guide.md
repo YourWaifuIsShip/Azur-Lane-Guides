@@ -572,6 +572,19 @@ One can only hope we'll see more DDVs like this one in the future.
 - Desc: 
 >Standard russian DD, which means she has remarkable bulk, good guns and terrible torpedoes. Slightly bulkier than Grozny, slightly weaker, has a little bit more support.
 
+![DD](/Images-for-the-Guide/Marie_RoseChibi.png "Marie Rose") - **[Marie Rose](https://azurlane.koumakan.jp/Marie_Rose)**
+* Roles:
+  * **Strong mob Torp-DD (average Gun DPS, high Torp DPS)**; Evasion buffer.
+
+* Skill:
+  * Gain +15% FP/TRP for 60s. Upon taking a hit (MISSES COUNT AS HITS), 10% chance to launch a barrage (10s internal cooldown).
+  * The unit's first 3 torpedo launches deal +50% damage; upon torpedo launch, grant +3 Speed and +15% EVA to the vanguard lead.
+  
+- Desc: 
+>An IJN Torp-DD armed with actual guns, Marie Rose barges into a fight swinging with a very considerable damage boost on her main weapon, ie. torpedoes, while sporting an unassumingly solid frame (all the better to proc those barrages) and a useful defensive buff.  
+Fairly straightforward, extremely capable.
+
+
 ### Pro Team Players:
 ---
 #### ![DD](/Images-for-the-Guide/An_ShanChibi.png "Anshan") ![DD](/Images-for-the-Guide/Chang_ChunChibi.png "Changchun") ![DD](/Images-for-the-Guide/Fu_ShunChibi.png "Fushun") ![DD](/Images-for-the-Guide/Tai_YuanChibi.png "Taiyuan") - [PRAN Anshan](https://azurlane.koumakan.jp/An_Shan), [PRAN Changchun](https://azurlane.koumakan.jp/Chang_Chun), [PRAN Fushun](https://azurlane.koumakan.jp/Fu_Shun) [PRAN Taiyuan](https://azurlane.koumakan.jp/Tai_Yuan)
@@ -595,7 +608,9 @@ Use Fushun if you don't want to pony up for a full fleet: her DPS won't be as st
 * Desc: 
 >Vaguely reminiscent of HMS DDs in both defence, offence and skillset quality, Le Mars and Forbin are a cut slightly above them - but not quite enough to make them worth taking in their own right.  
 Still, if you're willing to field a full french vanguard (and you do have good options for that, namely Saint Louis and Emile Bertin), the buffs they provide are quite substantial. 
- 
+
+
+
 ### Honourable Mentions:
 ---
 #### ![DD](https://azurlane.koumakan.jp/w/images/7/7c/CassinChibi.png "USS Cassin") ![DD](https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png "USS Downes") [USS Cassin](https://azurlane.koumakan.jp/Cassin) & [USS Downes](https://azurlane.koumakan.jp/Downes)
