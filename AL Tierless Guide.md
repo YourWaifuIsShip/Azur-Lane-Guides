@@ -931,7 +931,7 @@ On the flipside, the buffs can be unwieldy: while the Dido+3HMS requirements is 
 
 ![CL](/Images-for-the-Guide/Dido_µChibi.png "Frilly Dildo") - **[Muse Dido](https://azurlane.koumakan.jp/Dido_µ)**
 * Roles:
-  * **Very high Gun DPS (barrage), medium AA carry and buffer**, low Torp DPS, medium tank.
+  * **High Gun DPS (barrage reliant), medium AA carry and buffer**, low Torp DPS, medium tank.
 
 * Skill:
   * If depolyed alone, fire a barrage every 20s and grant +15% AA to the flagship; otherwise, fire a barrage every 20s and grant +3 Speed and +15% AA to the vanguard.
@@ -940,7 +940,7 @@ On the flipside, the buffs can be unwieldy: while the Dido+3HMS requirements is 
 
 * Desc: If you want something done right, idol it yourself.
 > As it turns out, the much-desired third Dido-class member for the vanguard Dido wants is Dido herself. Variety!  
-Sameness aside, Mido will behave more or less like the regular one does save for the extra barrage and a greater focus on AA; a welcome addition, considering these so-called AA cruisers have proven more adept at shooting up ships than simply shooting up.  
+Sameness aside, Mido will behave more or less like the regular one does save for the extra barrage and a greater focus on AA; a welcome addition, considering these so-called AA cruisers have proven more adept at shooting up ships than simply shooting up (not that's a bad thing, but still).  
 Slightly better as a standalone unit, slightly worse in terms of Dido-class support. Use both Dido together and enjoy the best of both worlds.
 
 ![CL](/Images-for-the-Guide/EdinburghChibi.png "Edinburgh") - **[HMS Edinburgh](https://azurlane.koumakan.jp/Edinburgh)**
@@ -1591,7 +1591,7 @@ Nevertheless, she's still one of your only viable KMS cruiser options, so...
 
 - Desc: Super strong meme boat? Awful PR? Why not both?
 >As Roon done right, Moon ditches most of what drags the original down (horrible ammo-swap in primis) in favour of a surprisingly strong set of supportive/offensive abilities; more barrages are free damage, and in this case they bring some very significant debuffs with them, while shields that would have accomplished little beyond getting immediately shot up now stay around to wreck enemy units.  
-As hilariously superior as Moon is, one thing has not changed, namely the reliance on manual play: the red shields don't orbit far and the new barrages are still linear, so she'll end up wasting a lot of DPS if auto is at the helm.  
+As hilariously superior as Moon is, one thing has not changed, namely the reliance on manual play: the red shields don't orbit far and the new barrages are still linear, so she'll risk wasting significant chunks of DPS if auto is at the helm (especially when it comes to aforementioned barrages).
 
 ![CA](/Images-for-the-Guide/Saint_LouisChibi.png "Saint Louis") - **[FFNF Saint Louis](https://azurlane.koumakan.jp/Saint_Louis)**
 * Roles:
