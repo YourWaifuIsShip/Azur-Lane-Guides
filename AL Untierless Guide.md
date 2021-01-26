@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's highly opinionated and extra-biased AL Untierless Guide (YAMATO TO DELETO IN 10 DAYS EDITION)
+# Your Waifu is SHIP's highly opinionated and extra-biased AL Untierless Guide (TARANTELLA INTENSIFIES AGAIN EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_  
 
@@ -7,6 +7,10 @@ Well, dear reader, barring an accidental deletion on my part I am sorry to say t
 Not to despair, though! As mentioned in the Tier Guides, even untiered units can be put to use (though they won't make it easy on you), but if you'd like to have a clearer picture of who didn't make the cut and why, here's a shortlist for it.
 
 ---
+[27/01/2020]
+> RN Vincenzo Gioberti joins the Untierless Guide on account of her atrocious statline.
+- The highly cursed amalgam of HMS DD efficiencies (mediocre guns, above average torps) and French contretorpeilleur stats (high FP, middling torpedoes) ensures she is left desperately wanting for DPS. The 30s barrage, while pretty strong, is also on a 30s cooldown and therefore woefully inadequate as a substitute.
+
 [01/10/2020]
 > IJN Kashino joins the Untier Guide on account of her being the worst designed unit since Repair Ships.
 - Statline. Look at it. Just look at it, the pathetic 76 FP at lv120 on a piddly single DD gun mount and no secondaries of any sort to speak of; or marvel at the nonexistent AA, even for the depressing IJN standards in the field, or the subpar Evasion even at level cap, or the pathetic ***14*** speed if she's not in an IJN fleet.  
