@@ -1651,7 +1651,7 @@ Portland Kai may be cheap, Prinz Eugen may have more eHP and Moon may have more 
 While the damage boosts are undoubtedly good and allow her to perform optimally under every circumstance, the shields are the real stars of the show here - not only their uptime is much higher than the 18% would lead you to believe, able as they are to proc on *any* attack that collides with her chibi (even if she evades the damage), the front-facing shield is absolutely invaluable when it comes to blocking incoming enemy fire entirely, especially if it's piercing enemy fire.  
 If you're sick of seeing your poor vanguard get turned inside out, Zara is the solution to your problems.
  
-  ![CA](/Images-for-the-Guide/Kasumi.png "Kasumi") - **[Kasumi](https://azurlane.koumakan.jp/Kasumi)**
+  ![CA](/Images-for-the-Guide/Kasumi_(DOA)Chibi.png "Kasumi") - **[Kasumi](https://azurlane.koumakan.jp/Kasumi)**
 * Roles:
   * **Stronger Portland**, now with less DD guns and more torpedoes.
 
