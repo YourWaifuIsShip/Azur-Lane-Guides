@@ -2310,7 +2310,7 @@ What does this mean in practice? It means that Rossiya is very comparable to Lit
 
 * Skill:
   * Gain +15% FP and deal +12% damage to Light Armour. 5s after Main Gun fire, launch [one](https://www.google.com/url?q=https://streamable.com/h9k61p&sa=D&ust=1611771668171000&usg=AFQjCNEMQSY19Mhs1MUKKKtAD3e0H_KvUA) - [of](https://www.google.com/url?q=https://streamable.com/wsxt55&sa=D&ust=1611771668171000&usg=AFQjCNH7KdutLxV-XGVz8rw6_eOXnmSINQ) - [three](https://www.google.com/url?q=https://streamable.com/aels2z&sa=D&ust=1611771668171000&usg=AFQjCNF_ljmc47LLSqFqUMFXIzzoqUCc4A) barrages.
-    * They look identical, but 8 AP PETALS deal 20 dmg with 90/70/40 amods; the 8 HE PETALS 20 dmg with 120/60/60 amods.
+    * They look identical and fan out aiming to a single target, but 8 AP PETALS deal 20 dmg with 90/70/40 amods; the 8 HE PETALS 20 dmg with 120/60/60 amods.
     * The 25 HE SPRINKLES deal 20 bdmg with 135/95/70 amods.
     * The 16 AP CARDS deal 20 bdmg with 100/100/100 amods. All of these are modified by 100% of the unit's FP.
   * Upon Main Gun fire, heal 1 random backliner and 1 random vanguard for 5% of their max HP and launch [barrage](https://www.google.com/url?q=https://streamable.com/dzrjkw&sa=D&ust=1611771668172000&usg=AFQjCNGRMjjY-3PqiaZikSDHmKv64nFFsQ) at a 75% chance.
@@ -2671,16 +2671,20 @@ Her niche is providing air superiority and protecting the frontline from harm th
  
  ![CV](/Images-for-the-Guide/Illustrious_µChibi.png "Musty") - **[Muse Illustrious](https://azurlane.koumakan.jp/Illustrious_µ)**
 * Skill: 
-  * Upon airstrike launch, grants every vanguard unit a shield for 10% of Illustrious' max HP, lasting 8s.
+  * Upon airstrike reload, slow all enemy targets on screen by 30% for 4s and randomly proc one of three effects... -15% Eva for 10s / +15% damage dealt for vanguard and -10% damage taken for backline / -10% damage taken for vanguard, +10% damage dealt for backline.
+  * Upon airstrike launch, launch two... [flying star sprinklers](https://streamable.com/zkmxlf).
+    * The 10 STARS, dropped in 5x2 groups, deal 149 bdmg with 180/110/40 amods. 
   * Has a 6/0/2 loadout.
 
 * Recommended Loadouts:
   * [General Purpose] F6F Hellcat; F6F Hellcat; Ryusei; Hydraulic Catapult; Hydraulic Catapult
   * [Poverty] F4U Corsair; F4U Corsair; Barracuda or Tenzan; Hydraulic Catapult; Hydraulic Catapult
 
-* Desc: Zero to (AS) Hero.
->A very defensive-focused CV with double fighter slots, a shield generator and staggering amounts of Air Superiority. To this day, her low DPS is the stuff of legend.    
-Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo strikes. 
+* Desc: Third time's the charm...
+>At last, an Illustrious that's not a complete dead weight in terms of battlefield presence. Round of applause! Only took three years.  
+Anyway, this epochal turn of events is mostly only due to a legitimately good Light Armour melting strafing run; her Efficiencies have shifted slightly towards the two torpedo bombers but they're still as anaemic as ever, while the fighters get worse and lose out on some of their AA prowess. The trade is... acceptable.  
+As is the random set of buffs. None of them are bad, per se, but some are clearly preferable to others (ie. +10% backline dmg boost) and the slow is just kind of there, not really helping or hindering the fleet.  
+All in all, the best Lusty you could hope for. Maybe the fourth one will be legitimately great.  
  
 ![CV](/Images-for-the-Guide/EagleChibi.png "I can't believe it's not Bearn!") - [HMS Eagle](https://azurlane.koumakan.jp/Eagle)
 * Role:
