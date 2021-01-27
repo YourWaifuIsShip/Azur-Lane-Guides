@@ -521,8 +521,8 @@ Strong guns and barrage, a useful debuff skill, okay AA and defences, weak torpe
   * **Gunship DD (high Gun DPS, average Torp DPS)**; self-healer, DD healer.
 
 * Skill:
-   * Every 20s after battle start, stop for 3s and summon a pair of manjuu cherubs to bomb enemies; also, when this happens, 50% chance to heal for 3% of Muselin's max HP.
-      * The BOMBS deal Torpedo damage and are affected by the unit's Torpedo stat, and are thus unaffected by enemy AA.
+   * Every 20s after battle start, stop for 3s and summon [a pair of manjuu cherubs](https://streamable.com/m748lq) to bomb enemies; also, when this happens, 50% chance to heal for 3% of Muselin's max HP.
+      * The 4 BOMBS deal 220 bdmg with 80/90/110 amods. They are modified by 60% of the unit's Torpedo stat, and are thus unaffected by enemy AA.
   * Gain +20% FP and a further +3% FP (up to +9%) for every enemy destroyed. Take -5% damage and, every 25s, heal all DD in the fleet by 3% of their max HP.
 
 - Desc:
@@ -1234,7 +1234,19 @@ All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and a
 The Ignitions are the same as her regular Ignitions, and therefore risk being overridden by stronger ones; still, free damage is free damage for as long as it lasts.  
 Her anti-DD kit is alright and likely to draw (fair) comparisons to HMS Aurora, but about as relevant now as it was then.
 
- 
+![CL](/Images-for-the-Guide/MisakiChibi.png "who?") - **[Misaki](https://azurlane.koumakan.jp/Misaki)**
+* Roles:
+  * **Dead or Alive fleet supporter**; light tank, average Gun DPS.
+
+* Skill:
+  * Gain +15% FP and deal +15% damage to Light Armour for 60s. If deployed with other DoA units, gain +15% AA and take -12% damage from guns.
+  * Every 20s fire a [barrage](https://streamable.com/jgnhk5), 
+    * The 12 SHELLS deal 26 bdmg with 125/85/85 modifiers and has a 100% Ignition chance; their damage is modified by 100% of the unit's FP stat.
+  * Has MGM+1.
+
+* Desc: 
+>Cleveland-class inspired CL. Solid gunnery with a clear use case in DoA comps, less so outside of them (where she's just a slightly stronger Cleve with even poorer AA).
+
 #### ![CL](/Images-for-the-Guide/Ping_HaiKaiChibi.png "Ping Hai Kai") ![CL](/Images-for-the-Guide/Ning_HaiKaiChibi.png "Ning Hai Kai") ![CL](/Images-for-the-Guide/Yat_SenChibi.png "Yat Sen") - [ROC Ping Hai Kai](https://azurlane.koumakan.jp/Ping_Hai#retrofit), [ROC Ning Hai Kai](https://azurlane.koumakan.jp/Ning_Hai#retrofit), [ROC Yat Sen](https://azurlane.koumakan.jp/Yat_Sen)
 * Roles:
   * **Heavy tanks (if sortied with Yat Sen)**, average Gun DPS, low Torp DPS. Go squish if Ignited.
@@ -1586,8 +1598,9 @@ Nevertheless, she's still one of your only viable KMS cruiser options, so...
   * **Roon but legitimately good. Above average Gun DPS (barrage reliant), enemy speed/defence debuffer**; medium shielded tank. Manual play strongly recommended.
  
 * Skill:
-  * Every 15s, fire a strong linear barrage that increases the damage taken by targets hit by +10% for 6s; if only 1 target is hit by it, stop it for 3s and launch a brief linear torpedo burst.
-  * Upon battle start and every 30s afterwards, generates 2 blue orbiting shields (lasting 8 shots or 15s) and 2 red orbiting shields (dealing damage on contact).
+  * Every 15s, fire a [barrage](https://streamable.com/bfiee0) that increases the damage taken by targets hit by +10% for 6s; if only 1 target is hit by it, stop it for 3s and launch a brief linear torpedo burst.
+    * The 6 MUSICAL NOTES deal 30 bdmg with 120/120/120 amods; the 6 AIMED TORPEDOES deal 62 bdmg with 120/120/120 amods. 
+  * Upon battle start and every 30s afterwards, generates 2 blue orbiting shields (lasting 8 shots or 15s) and 3 red orbiting shields (dealing damage on contact up to 8 times).
   * Has MGM+1 and torpedoes. Really, *really* bad torpedoes.
 
 - Desc: Super strong meme boat? Awful PR? Why not both?
