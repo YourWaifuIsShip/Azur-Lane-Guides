@@ -2330,8 +2330,9 @@ What does this mean in practice? It means that Rossiya is very comparable to Lit
     * The 6 HE SHELLS deal 170 bdmg with 100/80/60 amods; the 2 SHS SHELLS deal 170 bdmg with 65/135/115 amods. Same as above.
 
 - Desc:
->Though she may not look much like the part, BB AI does live up to her title; between the very significant crit boost (for which the +1 scatter may as well not be there, insubstantial as it is), the hilariously scattershot but poweful barrage clearing the field for the Main Guns and access to CL defensive guns, there's very little not to like here.  
-The Accuracy and Evasion boosts are nice to have, too, but not exactly worthy of prime time - especially as the +Acc ends up compensating for her lower-than-usual base stat.
+>Hailed as a modern day Arizona, she kind of fits the bill... if you don't stress the details too much.  
+While she is indeed much stronger and better suited to moBBing duties by virtue of the oodles of barrages on demand (with the proc-on-fire one being the more relevant one), her healing capabilities are, for the most part, nothing worth writing home about *unless* you mean to sortie duo fleets.  
+As it happens, duo fleets are a mainstay for farming, and thus Honoka finds herself fitting a valuable niche. Fortunate!
 
 ![BB](/Images-for-the-Guide/Super_Gamer_Kizuna_AIChibi.png "BBakyu") - **[Super Gamer Kizuna AI](https://azurlane.koumakan.jp/Super_Gamer_Kizuna_AI)**
 * Roles:
