@@ -581,7 +581,8 @@ One can only hope we'll see more DDVs like this one in the future.
   * **Strong mob Torp-DD (average Gun DPS, high Torp DPS)**; Evasion buffer.
 
 * Skill:
-  * Gain +15% FP/TRP for 60s. Upon taking a hit (MISSES COUNT AS HITS), 10% chance to launch a barrage (10s internal cooldown).
+  * Gain +15% FP/TRP for 60s. Upon taking a hit (MISSES COUNT AS HITS), 10% chance to launch a [barrage](https://streamable.com/8nfasn) (10s internal cooldown).
+    * The 30 AIMED SHOTS, fired in 3x10 waves, deal 25 bdmg with 100/100/100 amods. They are modified by 100% of the unit's FP. 
   * The unit's first 3 torpedo launches deal +50% damage; upon torpedo launch, grant +3 Speed and +15% EVA to the vanguard lead.
   
 - Desc: 
@@ -1656,7 +1657,8 @@ If you're sick of seeing your poor vanguard get turned inside out, Zara is the s
   * **Stronger Portland**, now with less DD guns and more torpedoes.
 
 * Skill:
-  * Every 15s after the start of the battle **and** on every sixth torpedo hit, launch an aimed sakura petal barrage.
+  * Every 15s after the start of the battle **and** on every sixth torpedo hit, launch an [aimed sakura petal barrage](https://www.google.com/url?q=https://streamable.com/nwyfev&sa=D&ust=1611771668171000&usg=AFQjCNEuB76HoKHhYZ-Cn0QttEyT9FJHsQ).
+    * The 8 AP PETALS deal 42 bdmg with 90/70/40 amods; the 8 HE PETALS deal 42 bdmg 120/60/60 amods. Both look the exact same and are modified by 100% of the unit's FP.
   * Upon destroying an enemy, gain a +5% FP/RLD stack (up to +15% FP/RLD); as the third stack is acquired, also gain +15% Accuracy.
 
 * Desc: 
@@ -1714,11 +1716,6 @@ If you're looking that something that won't die anytime soon, look no further; i
     * The 9 SHELLS deal 170 bdmg with 50/120/115 mods; the 30 DD PELLETS deal 20 bdmg with 120/60/60 mods (and have 50 Range). The damage of both is modified by 100% of the unit's FP.
   * Gain a persistent stack of +2.5% FP per enemy node destroyed, and gain a temporary stack +2.5% FP per enemy destroyed in battle (up to a cap of 17.5%, meaning that Alabama starts with more stacks the more nodes she fights but still can't go past +17.5%); also, after the 5th destroyed node, the backline takes -8% damage.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 - Desc: Washington 2: The Blackening.
 >Meant to take centre place in mob fleets, owing to her strong set of self-buffs that ramp over the course of multiple engagements and a minor but nice backline protection past the fifth fight, Alabama is both strong and reliable.
 While she can work on boss fleets, so long as she gets some kills before it spawns and nobody else wants the flag slot, she's better off playing to her strengths.  
@@ -1730,11 +1727,6 @@ Also, a W13 tip - her barrage is AP, focused and linear. This means it can be ex
 
 * Skill: 
   * 50% chance on Main Gun fire to heal the vanguard by 10% of their max HP.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloaders (mobs)
 
 - Desc: WAIT DON'T LEAVE JUST YET. 
 >Healing on a cointoss sounds pretty bad, yes, but ask yourself this - how many units can properly heal at all, and how many of them pack the Firepower, sturdiness and self-defence capabilities of a BB?  
@@ -1751,11 +1743,6 @@ Yup, that's just her - and while her heal isn't as reliable as that of Unicorn o
   * Deal +15% Damage to Sirens.
   * Has only two Main Gun Mounts.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] Prototype Twin 406mm Main Gun (SK C/34) (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 410mm purple; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 * Desc: 
 >Georgia is a simple woman - she sees a big gun, she barrages.  
 There's really not much to say about her. Very straightforward USS BB, sporting the characteristically excellent AA of her peers, albeit improved, and their same DD guns; her most remarkable feature the fact her barrage is both absolute murder *and* partially aimed, meaning it can be used from the sidelines with just a minor loss in performance, as well as her lacking one Main Gun Mount (which is partially made up for by the high Main Gun Efficiency, and partially by the devastating barrage).  
@@ -1769,10 +1756,6 @@ That said, while the SHS shots are the ones that'll be most relevant to you, the
   * Gain +8% FP/AA/Evasion for every OTHER USS BB/CA in the fleet, up to +24%.
   * Main Gun damage increases by up to +15% the farther the target is; if mounting USS DD secondaries, Main Gun ammo is overrideen to SHS (60/135/115, shells fire at extremely high angles and fall from the sky) and the distance damage bonus increases to +30%. Do not give her USS DD secondaries.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Triple 410mm Mounted Gun; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] Prototype Triple 410mm Mounted Gun; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Massachusetts shoots for the stars, but the aim isn't quite there. 
 >Once synonymous with 'atrocious aim', Massachussetts' enforced SHS ammo and its much reduced AoE (8 as opposed to the BB shell standard 15) rendered all but incapable of hitting anything moving faster than a rock, which squandered her otherwise remarkable statline and buffs.   
@@ -1787,10 +1770,6 @@ A very solid pick for USS fleets, all in all.
   * Upon taking damage, 8% chance to halve that damage.
   * Upon main gun fire, 30% chance to double the volley damage.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >Similar in form, statline and function to their bigger, blacker cousin - AA aside - these cowgirls operate at a fraction of South Dakota's cost while providing similarly good results, courtesy of their better Efficiency and uncharacteristically high Accuracy.
@@ -1803,11 +1782,6 @@ Bit RNG still, but there's nobody cheaper than them in their class.
 * Skill:
   * -15% incoming aviation damage to the backline as long as North Carolina is alive and in the fleet
   * Increase FP by 30% of her total AA stat (buffs not included)
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Research AA Radar; Type 1 Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: 
 >Anti-air for backliners is a bit of a meme, but that doesn't mean it can't be a good one.  
@@ -1822,11 +1796,6 @@ Whether you do actually need all that AA is another matter entirely, but rest as
   * Every 20s, 60% chance to launch a [focused barrage](http://p0.qhimg.com/dr/400__/t014b861d5b4b972e2f.gif).
     * The 12 SHELLS deal 120 bdmg with 70/100/90 mods. Their damage is modified by 100% of the unit's FP.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 * Desc: 
 >Often overlooked in favour of other barrage ships (eg. Hood, Washington), Pennsylvania plays it different from many others by having a timed proc instead of a main-gun-fire-based one.  
 While this means you can equip whichever BB gun you'd like to stick on her, it also means that she may proc when you don't need her to and waste the barrage.  
@@ -1840,11 +1809,6 @@ A bit fiddly, but arguably more flexible than most and just as powerful.
   * At 15s from the start of the battle and every 25s afterwards, gain +10% FP (up to +30%) and absorb 50% damage taken by main fleet for 10s, then heal for 50% of the damage taken during that time.
   * 30% chance to do double damage when firing main gun.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 * Desc: 
 >While her tanking skill isn't good enough to make her the tank she's meant to be, she is still hard to kill thanks to her large HP pool and all-around excellent stats, AA included (a rarity among BB/Cs); mercifully, even if the proc turns out to be useless for the intended purpose, it will at least raise her firepower in the process. A slow ramp, sure, but better than nothing.  
 Her double damage proc needs RNG to work, but when it does it'll let her deal significant damage.  
@@ -1856,11 +1820,6 @@ Her double damage proc needs RNG to work, but when it does it'll let her deal si
 * Skill: 
   * Every 20s, fires an aimed Normal slowing (-40% Speed for 6s) barrage (4 356mm quad-like shots) at the farthest available target.
   * Enemies hit by Duke of York's Main Gun fire take +12% damage from all sources for 8s; also, her first volley deals x1.5 damage.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: 
 >A nasty beatstick statline and a consistently useful support kit coming with basically no strings attached? Yes please!  
@@ -1874,13 +1833,8 @@ Bear in mind that despite her having a barrage, she isn't *really* one - it's at
   * 70% chance upon Main Gun fire to launch an [arcing barrage](http://p8.qhimg.com/dr/400__/t01c83095ed25b82e28.gif) and grant +40% Reload to the backline for 8s.
     * The 13 SHELLS deal 173 bdmg with 70/100/90 mods. The damage is modified by 100% of the unit's FP.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] Twin 381mm Advanced Main Gun; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] Twin 381mm Advanced Main Gun; 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 410mm purple; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 - Desc: More than just a sub. 
->Second only to Tirpitz in terms of pure staying power and armed with a quickly-proccable, backline-buffing, devastating barrage, she is exceptionally good under almost all circumstances; whether it is tearing apart mob nodes, showering enemy battleships in heavy firepower or providing support, Hood gets it done.  
+>Second to few in terms of pure staying power and armed with a quickly-proccable, backline-buffing, devastating barrage, she is exceptionally good under almost all circumstances; whether it is tearing apart mob nodes, showering enemy battleships in heavy firepower or providing support, Hood gets it done.  
 Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
 
 ![BB](/Images-for-the-Guide/HoweChibi.png "Amazon Kai Ni") - **[HMS Howe](https://azurlane.koumakan.jp/Howe)**
@@ -1891,11 +1845,6 @@ Remember to have her be the flagship to make the most out of her barrage, and th
   * Every 15s, fire an [aimed barrage](https://streamable.com/g97ciy) at a random enemy; when this barrage fires, all BB/BC/BBV in the fleet gain +20% Reload and Accuracy for 8s.
     * The 4 SHELLS deal 156 bdmg with 140/110/90 armour modifiers, and have a 50% Ignition chance; they are modified by 100% of the unit's FP.
   * Gain +12% FP and Reload; if sortied with KGV / Monarch / Duke of York / Prince of Wales / 3+ HMS units, gain a further +12% FP and AA.
- 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 or Champagne Gun; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 or Champagne Gun; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
   
 - Desc:
 >Another excellent supporter to pad the already excessively stacked roster of great HMS backliners, Howe's line of work mirrors somewhat that of Duke of York's; while the latter's debuff potential is rivaled only by Helena, Howe focuses on supporting big guns with much needed Accuracy and dealing a lot of damage herself via powerful aimed barrages, self FP buffs and 140% Efficiency Main Guns.  
@@ -1910,11 +1859,6 @@ Straightforward but very, very effective.
   * 70% chance on Main Gun fire, fire a fixed AP slowing (-40% Speed for 6s) barrage (Hood-like)
   * Once per battle and upon falling below 20% HP, restore 3% HP every 2s for 10s; also, for every 1% HP lost during the fight, her Reload increases by 1.
   * Deal +15% dmg to Sirens.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
   
 - Desc: 
 >It'd be easy to regard Monarch as a straight upgrade to Hood - and for the most part, she kind of is.
@@ -1931,11 +1875,6 @@ In short, have Monarch handle Medium/Heavy bosses while Hood (or someone else) h
   * Gain -5 Dispersion to the Main Gun, +15% FP and +15% HitRate against DD.
   * She may take 1 ASW plane as an auxiliary item. HISTORICAL REFERENCES HO!
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 - Desc: The Queen's Royal Corgi.
 >Well, the Kai's come and gone, and Warspite's left in a slightly better position than she originally was - as far as PvE is concerned, at least.  
 While her statline did enjoy a substantial offensive boost in the form of more stats, chief among which her absurd 100 Accuracy (roughly a fourth more than of most BBs), higher Efficiencies and a strong passive skill, her new-and-improved barrage suffers from the same unreliability that torpedoed her shot(s) at glory - as powerful as those AP shells now are, they're still all too likely to be fired at Light targets (or worse, at fireboats), while the marker part of barrage appears to be bafflingly ineffectual, as evidenced both by *HMS BB/C still opening fire on unmarked targets* and by the possibility of *multiple markers coexisting, negating the supposed benefits*.  
@@ -1950,11 +1889,6 @@ On the bright side, Warspite's newfound strength lets her be competitive there o
   * Every 24s, 70% chance to fire a mediocre barrage (6/8 spread out shots + thin V-shaped wave of parallel needles); if KGV mounts a 356mm Quad, reduce the cooldown of her first volley by 75%, gain +20% CritChance on main gun shots, reduce its scatter by 2 and enhance the barrage (slightly better damage, 8 large shots instead of 6).
   * Deal +10% Damage to IJN/KMS/RM/Siren units; if sortied with 3 other HMS units, gain +20% FP/AA/Reload/Evasion.
   
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-  
 * Desc: Takes a King to put an upstart Prince in its place.
 >Heh, typical nobles. Profiting from their underlings and giving next to nothing in return.  
 While KGV is yet another sovereign that doesn't buff back her fellow countrywomen, there's no denying the buff she receives from them is both quite simple to attain (the HMS is spoiled for good backline choices) and substantial; not only that, her damage buff is hardly ever out of a job considering 99% of the enemies in PvE are IJN.  
@@ -1967,12 +1901,7 @@ In short, she's a big burly beatstick that'll benefit from having some HMS cheer
 
 * Skill: 
   * The first bombardment takes -40% to load, but deals only 40% damage; the second bombardment takes -40% to load, but deals only 80% of the damage; the third bombardment takes -40% to load and deals 120% damage. All following bombardments deal 120% damage.
-  * Gain a stack of +5% Firepower, Reload and Accuracy for every HMS units deployed in the fleet. up to a maximum of 4 stacks.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+  * Gain a stack of +5% FP/RLD/Accuracy for every HMS units deployed in the fleet. up to a maximum of 4 stacks.
 
 * Desc: 
 >An interesting little thing. Starts out weak and fast, likely only able to take on weak adds, and ends up surprisingly powerful - powerful enough to compete with some hard shellers in the tiers above, in fact, assuming you did sortie her with enough HMS units.  
@@ -1986,11 +1915,6 @@ Still, competent and capable if catered to.
 * Skill: 
   * +15% FP/Torp/AA/Aviation/Evasion/Reload to all HMS ships.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 * Desc: Monkey business.
 >The ex-core of every HMS fleet, the simian queen has fallen quite roughly to the wayside in favour of much stronger shellers (eg. Monarch/Hood), supporters (eg. Duke of York) or both (eg. Hyuuga), buff notwithstanding.   
 Fielding her in a full HMS fleet is one of her few last semi-practical applications, if you can stomach the rather poor quality of the average HMS vanguard.  
@@ -2002,11 +1926,6 @@ Fielding her in a full HMS fleet is one of her few last semi-practical applicati
 
 * Skill: 
   * Gain +10% FP/AA/Evasion/Reload (up to +30%) for every USS unit in the fleet; if sortied with 3+ USS units, her first volley loads 85% faster, grants +12% FP/AA to all USS vanguards and +12% Aviation/AA to all USS backliners.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Zero to hero.
 >Once loudly and correctly derided as the worst gold BB in the game and a prime example of how 'gold doesn't mean good', the recent balance patch has truly tabled the turns; now she's not only an excellent BB if sortied in USS fleets, she's also their main (and only relevant, sorry BH) flagship faction buffer.  
@@ -2022,11 +1941,6 @@ It goes without saying she's entirely worthless *outside* of USS fleets, without
     * The 2 SHELLS deal 108 bdmg with 40/150/130 armour modifiers, and have a 100% Armour Break chance; they are modified by 80% of the unit's FP.
   * Upon Main Gun fire, 50% chance to launch a [frontal, sprinkly barrage](https://streamable.com/42ika0).
     * The 8 SHELLS deal 108 bdmg with 135/95/70 armour modifiers; the 24 PELLETS deal 20 bdmg with 100/80/70 armour modifiers.
- 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406x2 DRh or Champagne Gun; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406x2 DRh or Champagne Gun; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 410x2 purple; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
   
 - Desc:
 >Valiant doesn't really stack up to most high-end BB in their own playing field, be it shelling or barraging or supporting, but she does provide easy access to a special (ie. applies to any unit) Armour Break; the duration is long enough to allow her to permabreak a boss, which translates in a +8% fleetwide damage.  
@@ -2040,11 +1954,6 @@ It's pretty good, all things considered, even if her damage output is fairly med
   * -9% FP/Torp/Aviation to all enemies as long as she's alive
   * -15% Ignition dmg and +10% Evasion Rate for backline as long as she's alive
   * 70% chance on Main Gun fire, launches a frontal barrage (damage based on skill level), also if the fleet contains 4 or more Sakura Empire ships she gains -45% cooldown on first Main Gun volley.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
   
 - Desc: If you can't decide what to pick, pick it all.
 >Packing offensive buffs for her enemies, defensive buffs for her backline, a barrage that includes normal arcing shells alongside linear AP shells and even aimed torpedoes, Amagi has quite literally a bit of everything in herself; and it all comes together as one sleek and effective whole, only marginally hampered by her IJN standard terrible AA.
@@ -2057,11 +1966,6 @@ It's pretty good, all things considered, even if her damage output is fairly med
   * +20% FP to self.
   * +15% FP to the entire backline.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 * Desc: 
 >THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
 
@@ -2072,11 +1976,6 @@ It's pretty good, all things considered, even if her damage output is fairly med
 * Skill: 
   * 60% chance upon Main Gun fire, launch an aimed [Sanshikidan barrage](http://p1.qhimg.com/dr/400__/t01e04f9bdfd5e64b03.gif); also, deal +15% damage to BB.
     * The 128 PELLETS deal 20 bdmg with 125/110/95 mods and a 110% Coefficient, plus a 50% Ignition chance. The damage is modified by 150% of the unit's FP.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >Adds and airstrikes slayer extraordinaire thanks to her barrage, accomplished fireboat slayer owing to her CL guns on a BC frame, and even gets an edge against the most threatening enemies you can face later on.
@@ -2089,11 +1988,6 @@ A very solid defensive pick, further helped by the fact her Sanshikidan barrage 
 * Skill:
   * 50% chance on Main Gun fire to launch a special barrage (long range: tight 4-shot wave, tight 4-shot wave with 2 shots to the sides; short range: wide V-shaped spread of small bullets)
   * 10s after battle start and every 20s, afterwards, launches a torpedo barrage (2 lines of 2 aimed torps).
-
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: A sidegrade to Washington.
 >Sturdier, more powerful, better armed and in possession of a much more useful synergy (Akagi still gets her +35% Aviation buff with her) in PvE, BB Kaga - affectionately called "Baga" - does however forfeit some reliability on her enhanced barrage and is stuck with an atrocious AA stat.  
@@ -2108,11 +2002,6 @@ She also has a few torps to throw out every now and then, but they're fairly lac
     * The 8 AIMED TORPEDOES deal 96 bdmg with 80/110/130 mods; the 10 SHELLS deal 121 bdmg with 45/120/120 mods; the 36 HE PELLETS deal 20 bdmg with 100/80/60; the 18 AP PELLETS deal 20 bdmg with 90/70/40 mods. Their damages are modified by 100% of the respective stats.
   * Grant IJN backliners +15% AA; also, if the fleet has 3+ IJN units, gain +10% FP and grant +10% Torp to the vanguard.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406x2 DRh (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] 406x2 DRh (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
-
 * Desc:
 >The IJN's take on USS BB, and courtesy of the renowed IJN Bias(tm), she's far stronger than her competition - both in terms of actual battleship prowess, thanks to a very solid barrage and high-end BB statline, and more damningly in terms of AA support, bolstered for herself and her fellows by a +15% stat boost.  
 Overall there's not a whole lot to say about her; her most unique feature just may be the vanguard torpedo boost, which unsurprisingly goes hand in hand with IJN vanguards.  
@@ -2125,11 +2014,6 @@ Boring but very practical, in short.
 * Skill: 
   * While alive in fleet, +15% Firepower/Accuracy and +20% Evasion for all Kongou-class (Kongou, Kirishima, Haruna, Hiei). 
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 * Desc: Kongou-class support craft. Not very flashy, but her buffs are anything but unremarkable - the extra Evasion in particular makes a Kongou-class backline powerful, accurate and hard to shift.
  
 ![BB](/Images-for-the-Guide/IseChibi.png "Ise") - **[IJN Ise](https://azurlane.koumakan.jp/Ise)**
@@ -2138,11 +2022,6 @@ Boring but very practical, in short.
 
 * Skill: 
   * +20% FP to self.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Quite literally an improved non-Kai Yamashiro/Fusou in all respects, from the statline to the efficiencies. Not much to say here.
 
@@ -2155,11 +2034,6 @@ Boring but very practical, in short.
   * 40% chance on Main Gun fire, launch a (barrage)[http://p4.qhimg.com/dr/400__/t012fd5d78db44ba7d1.gif].
     * The 16 LINEAR HE SHELLS deal 125 bdmg with 90/120/70 modifiers (and a 30% Ignition chance); the 44 NEEDLES deal 125 bdmg with 120/100/80 modifiers (and a 30% Ignition chance). Both are modified by 100% of the unit's FP.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 * Desc: Mikasa for those who don't like or want more big guns.
 >A well-rounded warship on her own right compared to her dakka-centric senpai, her set of buffs is about as good as those provided by Mikasa but she needs the flagship slot even more due to her barrage.
 Place her there and she'll carry your IJN carrier division to glory and triumph; place her to the sides and she's merely okay.
@@ -2171,11 +2045,6 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
 * Skill: 
   * +20% FP to self.
   * (Kai) On first airstrike, launch additional Zuiun.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >Your first *good* bearers of CL secondaries, owing to their high Firepower and Main Gun Efficiency (once partially retrofitted, that is; just DO NOT take the last two nodes). All they do is stop fireships well and craterise hard targets; it ain't much, but it's honest work and do you really need more for now?
@@ -2190,11 +2059,6 @@ Place her there and she'll carry your IJN carrier division to glory and triumph;
   * Upon taking damage or when an enemy surface unit enters close range, and on a 15s cooldown, fire a [proximity barrage](https://streamable.com/qk57z2); also, if it's the 3rd/4th/5th battle in a sortie and the other fleet has a BB as flagship, fire a [very weak support barrage](https://streamable.com/vh5ym5) from the centre of the backline.
     * (PROXIMITY BARRAGE) The 2 AIMED SHELLS deal 93 bdmg with 140/110/90 amods and a 30% Ignition chance; the 24 NEEDLES deal 20 bdmg with 100/100/100 amods. Their damage is modified by 100% of the unit's Firepower.
     * (SUPPORT BARRAGE) The 12 NEEDLES deal 36 bdmg with 100/100/100 amods. Their damage is modified by 100% of the unit's Firepower.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] Prototype Twin 406mm Main Gun (SK C/34); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 410x2 purple; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >You want barrages? Tosa's got barrages. Lots of barrages, in fact, though only the main one is any good.  
@@ -2211,11 +2075,6 @@ While Tosa has two more barrages, as mentioned, only the main one is worth much 
     * The 4 AIMED TORPEDOES deal 96 bdmg with 80/110/130 mods; the 10 SHELLS deal 130 bdmg with 70/100/90 mods; the 36 PELLETS deal 20 bdmg with 100/80/70; the 24 PVP PELLETS deal 20 bdmg with 100/80/60 mods. Their damages are modified by 100% of the respective stats.
   * When a backliner takes damage, 70% chance to reduce the damage dealt to backliners by 12% for 15s (with a 20s cooldown between activations); also, once per battle and upon falling below 20% HP, restore 10% of her max HP.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; Triple 155mm Mounted Gun; 40mm Quad Bofors; Type 99 Shell; Autoloader (mobs) or SG Radar (boss)
-
 * Desc:
 >Suruga may have been Crosswave's poster girl, but here she's barely a footnote on the list.  
 A fairly unremarkable battleship, she possesses the typical high-end BB statline with IJN-standard abysmal AA and accompanies it with an uncomfortably wide - that is to say, ineffective - timed barrage and a theoretically nice suite of backline protecting skills, which however do little to mitigate the incoming damage she would take from either planes or shelling.  
@@ -2230,11 +2089,6 @@ All in all she's usable, but she's so far behind the real self-healers (Gascogne
   * 60% chance upon Main Gun fire, grant all BB/C +20% damage output for 8s.
   * If equipping the "Z Flag" auxiliary item, grant +5% Firepower/Accuracy to the entire fleet.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Twin 100mm; Twin 100mm; Research AA Radar; Z Flag
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 120mm Main Gun; Type 1 Shell; Z Flag
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 100x2; Type 91 Shell; Z Flag
-
 * Desc: Pint-size dai-senpai.
 >Don't be fooled by the seemingly low statline - Mikasa has a lot more Firepower and Reload than meets the eye, courtesy of her truly astounding buff suite, and is the premiere flagship for a gun-focused IJN fleets.
 Nevertheless, her low HP and AA do prove a liability later on and you will have to find some ways around that - taking more big guns, AA barges or even carriers, depending on the situation, just don't use her on her own. 
@@ -2248,11 +2102,6 @@ Nevertheless, her low HP and AA do prove a liability later on and you will have 
   * If flagship, 70% chance to fire a [weak arcing barrage](http://p8.qhimg.com/dr/400__/t01d9d850668c694dd9.gif); also, passively raise KMS carrier damage by 20%.
     * The 8 SHELLS deal 110 bdmg with 70/100/90 mods; the 14 DD PELLETS deal 20 bdmg with 120/60/60 mods (1% Ignition chance, short range). Both are modified by 100% of the unit's FP.
   * Grant +20% CritRate to the guns/torpedoes/planes used by KMS units, grant +12% Reload to all KMS units, grant Tirpitz +40% Damage.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Here comes Tutorial Girl!
 >At long last the wehraboos can rejoice - Bismarck has arrived, and she's the flagship buffer they desperately needed.
@@ -2271,11 +2120,6 @@ Last and least, she has a barrage too. It has the unique distinction of being so
   * If her HP is between 70% and 100%, gain +20% Damage; if her HP is between 30% and 100%, gain +10% Damage and take -10% Damage; if her HP is between 1% and 30%, take -20% Damage.
   * Deal +15% Damage to Sirens.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 - Desc: Dark Hero Plays.
 >Freddy is a giant statstick. Moving on.
 What, you want more? Fine. Freddy Mercury is unreasonably strong, fully deserving of her status as a DR (and the disgusting ***19*** Oil cost) brimming as she in the sheer staying power granted by her escalating defence buff and nearly 10k base HP as well as firepower, courtesy of the devastating 160% Main Gun Efficiency she gets without sacrificing gun mounts or an easily-procced, powerful defensive barrage.  
@@ -2291,11 +2135,6 @@ If one were to look hard for any chinks in her Plot Armour it could be said that
     * The 4 TORPEDOES deal 137 bdmg with 80/100/130 mods. Their damage is modified by 150% of the unit's Torp stat.
   * Has only SGM+1.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 - Desc: Slow but steady...
 >One of the most consistent and hardest hitting BBs in the game, provided you cater to her social anxiety.  
 While not as flashy as her competition, Tirpitz is, in a way, the "safe" choice - her abilities can't misfire, her defensive statlines makes her tougher than most and her damage buff extends to both her CL guns and torpedo spread, ensuring that even at 0 Ammo she will still be able to strike and defend herself with remarkable effectiveness.
@@ -2310,11 +2149,6 @@ However, all this becomes quickly irrelevant as soon as she loses her +30% damag
   * Every 18s, 75% chance to fire a [barrage](https://streamable.com/svrjmd); also, all torpedoes mounted change their pattern from conal to parallel.
     * The SHIELD-IGNORING RAILGUN deals 240 bdmg with 150/150/150 mods; the 24 NEEDLES deal 92 bdmg with 100/80/60 mods. Both are modified by 100% of the unit's FP.
   * Has torpedoes instead of regular DD/CL secondary guns... and has two sets of special ghost guns (one for long-range support fire, one for close-range defence) to compensate.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 533x5 KMS; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 533x5 KMS; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; 533x5 KMS; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Danger Closer.
 >Ever wanted a fourth vanguard ship but the game just won't let you stick in more? Like Bismarck's secondary memes but are sad at how useless (when not outright detrimental) they are? Is just one flagship not enough for you? Odin's got you covered.  
@@ -2334,11 +2168,6 @@ It is important to remember that the former set makes up for about 1/3rd of her 
   * Deal +15% damage to Sirens.
   * Starts the battle with a preloaded volley. Has no additional MGM.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Seattle Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 155x3 IJN; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Tbtsk; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 * Desc: [D E A T H G L A R E](https://cdn.discordapp.com/attachments/367307557796053002/798487197044310036/unknown.png)
 >A very peculiar creature, at first glance it's hard to tell what Champagne is supposed to do: while her main gun (singular, it's important) reloads very quickly, it alone is not quite enough to oneshot the harder chibis; she has a defensive skill aimed at a flagship, but her DD AP bursts seem to suggest she's meant for flagship duties herself.  
 As it stands, Champagne shines the brightest as a sort of flagship fire support, and even more so in a French roster that severely lacks sources of AP damage output; whether she fires first or second, her single shots are devastating and entirely capable of severely weakening targets left alive by others' barrages or softening them up enough for someone else to sweep them up, and in the meantime she gets to take the edge off of the return fire.  
@@ -2352,11 +2181,6 @@ If she can, perfect; if not, consider looking elsewhere.
 * Skill: 
   * 50% chance on Main Gun fire, launch a fixed linear HE barrage (2 tight columns of 4 HE shells and a few needles to the sides).
   * Starts the battle with a preloaded volley, but has only MGM+1.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] Prototype Twin 406mm Main Gun (SK C/34) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: The predecessor to Jean Bart, and it does show.
 >Like Jean, she lacks her third salvo and can launch her bombardment immediately; unlike Jean, said bombardment operates just like any other and is considerably weaker as a result, while her barrage fires on a coin toss.  
@@ -2373,11 +2197,6 @@ Solid, all things considered.
     * The 12 RED ARROWS deal 58 bdmg with 120/80/80 mods; the 12 WHITE ARROWS deal 58 bdmg with 80/120/80 mods; the 12 BLUE ARROWS deal 58 bdmg with 80/80/120 mods. All are modified by 100% of the unit's FP.
   * Deal +15% dmg to Sirens.
   * Main Gun salvo are split into separate volleys, and has only two Main Gun Mounts.
- 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
   
 - Desc: The best progression BB you'll never use for progression.
 >As befitting a mecha musume, Gascogne is shockingly efficient and stable - and it's not even entirely the heal's doing.  
@@ -2393,11 +2212,7 @@ If all this sounds like perfection for a newer player who would just love a stro
   * All first Main Gun salvo deal +60% damage, and all manually aimed Main Gun salvo damage deal a further +60% damage.
   * When equipped with the 380Mle quadruple BB gun, gain +30% CritChance and +50% CritDmg on her Main Gun.
   * Starts the battle with a preloaded volley, but has only MGM+1.
- 
-* Recommended Loadouts:
-  * [Lategame Bossing] Quadruple 380mm Main Gun (Mle 1935); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] Quadruple 380mm Main Gun (Mle 1935); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] Quadruple 380mm Main Gun (Mle 1935); Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
+
  
 - Desc: The terror of the Seven Seas.
 >As befitting of a pirate queen, Jean Bart doesn't play by the rules: while lacking a third salvo would be a net loss on a dreadnought's effectiveness on the field, Jean makes up for it in spades by showing up to the fight with her horrifically overcharged guns already loaded, resulting in damage spikes that would make Ayanami blush.
@@ -2411,11 +2226,6 @@ Absolutely devastating, and unlike Tirpitz she has no compunctions about fellow 
 * Skill: 
   * Main Gun ammo is overridden to Blue Notes (AP, 100/130/130 armour mods) and Red Notes (HE, 140/115/115 armour mods), cycling between the two with each Main Gun fire; also, the first Main Guns' cooldown is reduced by 25%.
   * If sortied with an odd amount of Muse units, deal 12% damage; if sortied with an even amount of Muse units, take -15% damage; when firing the Main Gun, grant a stack of +6% FP/Torp/Aviation to all Muse units for 10s (max 2 stacks).
-
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Triple 410mm Mounted Gun; Prototype Triple 152mm Main Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] Prototype Triple 410mm Mounted Gun; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: 
 >Significantly weaker than her regular counterpart but still capable of putting up a good show, Musecogne retains the unique volley-splitting gimmick of her better (and the precision that comes with it) and binds it to her Muse-only fleetwide buff.  
@@ -2431,11 +2241,6 @@ Consistent and competent in her own right, especially since she can benefit from
     * The 8 HE SHELLS deal 170 bdmg with 100/80/60 mods; the 30 TRICOLOUR ARROWS deal 54 bdmg with 100/80/60 mods. All are modified by 100% of the unit's FP. Both SHELLS and ARROWS have a 70% chance to specially Ignite the targets struck, dealing 119 flat damage every 3s and debuffing their FP/Torp/Aviation by -5% for as long as the Ignition lasts (30s).
   * When mounting a HE Main Gun, deal +12% damage; also, the first manually aimed volley of the battle automatically crits.
   * Has only two Main Gun Mounts and starts the battle with them off cooldown.
- 
-* Recommended Loadouts:
-  * [Lategame Bossing] 406x2 DRH; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406x2 DRH; Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 410x2 purple; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
   
 - Desc:
 >Richelieu confidently strides her way across the DPS charts and reaches for the top, sitting comfortably alongside super heavy hitters such as Georgia or Freidrich der Grobe - all the while providing exceptional support for all her countrywomen, herself included, and debuffing those who had the ill fortune of being set ablaze by a BB with a statline such as hers.  
@@ -2451,11 +2256,6 @@ A fairly straightforward unit, all in all, but one that's absolutely stellar at 
      * The 10 SHELLS deal 140 bdmg with 135/85/70 modifiers; the 14 NEEDLES deal 30 bdmg with 100/8'/0 modifiers. Their damage is modified by 100% of the unit's FP stat.
   * 10s after the start of the battle, launch a torpedo barrage (gif pending); then, 5s after the Main Gun has been fired for the first time in the battle, gain +15% FP, deal +20% damage vs CL and set her torp stat to 0.
      * The 6 TORPEDOES deal 96 bdmg with 80/110/130 modifiers. Their damage is modified by 100% of the unit's torp stat.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [General Purpose] Prototype Triple 381mm AA Gun (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); 128SKC; Twin 40mm Bofors STAAG; Type 1 Shell; Super Heavy Shell
-  * [Poverty] 406MK6; 128SKC; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
   
 * Desc: Museum piece, broken out.
 >Giulio Cesare's status as a WW1-era dreadnought is made very apparent by her lacking statline, as well as the hilarious amount of shots the puts out when barraging; and while they are solid shots, by most indications, they're still tied to a coinflip you'd rather not make if you could help it.  
@@ -2470,11 +2270,6 @@ Still, she's an alright BB and well suited to dispatching the very common CL hul
     * The 6/9 SHELLS deal 174 bdmg with 40/125/125 mods; the 20 NEEDLE LASERS deal 20 bdmg with 120/60/60 mods. The damage of both is modified by 100% of the unit's FP.
   * Upon battle start, generate 2 anti-torp shields in front of Littorio and the vanguard lead, each able to tank up to 2 hits; also, gain +20% FP for the first 3 battles in a sortie.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] Triple 381mm (Model 1934); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 - Desc: 
 >Azur Lane's Littorio doesn't quite match her historical acclaim as one of the best warships of her time but she's still very good, especially as a mauler of lategame Medium/Heavy Armour formations.  
 Blessed with an overall very good statline (Accuracy aside), a strong AP barrage and a hefty FP buff for the first three fights in a sortie, Littorio looks similar enough to Alabama but approaches mobbing in a different way - whereas Alabama gets stronger with each fight and therefore benefits from chewing up easier nodes first, Littorio wants to demolish the toughest opposition first and then move onto easier stuff.  
@@ -2488,10 +2283,6 @@ The anti-torp shields are nice enough too, but not much of a gamechanger conside
 * Skill: 
   * Upon Main Gun fire, grant +18% FP/Torp/AA/Reload to all Northern Parliament units in the fleet for 10s; also, when this unit is equipped with the 305x3 M1907 Main Gun, gain +80% Main Gun Efficiency and shorten the Main Gun cooldown by -35% for the first 4 salvo of the fight.
   * Once per fight when this unit's HP falls below 30%, reduce the damage taken by Gangut by -15% and allied DDs by -10%.
-
-* Recommended Loadouts:
-  * [General Purpose] 305x3 M1907; Seattle Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SG Radar
-  * [Poverty] 305x3 M1907; Tbtsk; 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 * Desc: Old but still RED gold.
 >A true veteran of the Russian Revolution, Gangut - Oktyabrskaya Revolyutsiya, if you will - is an old WW1-era dreadnought come to rekindle the flames of the revolution in the bosoms of her fellow contrywomen, and does it ever show!  
@@ -2508,14 +2299,26 @@ Just don't ask her to handle boss fights if you can help it, and if you do, make
     * The 9 SHELLS deal 170 bdmg with 40/120/125 mods; the 20 ICICLES deal 20 bdmg with 120/60/60 mods; the 9 ICEBERGS deal 56 bdmg with 80/90/110 and inflicts -40% Speed *and* a very minor 2x23 Flood DoT, 4s long. The damage of all of these is modified by 100% of the unit's FP, except for the Flood (no scaling).
   * For her first two fights of the sortie, gain +5% Firepower and Accuracy (up to 20%) for every Northern Parliament / Dragon Empery unit in the fleet.
 
-* Recommended Loadouts:
-  * [Lategame Bossing] Izumo Gun; Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
-
 - Desc: 
 >One of Wargaming's famed paper boats(tm), Sovetskaya Rossiya was historically inspired by Littorio's blueprints and her Azur Lane incarnation makes it blindingly obvious: both have very similar barrages (though Rossiya's also has the slowing icebergs falling in a checkers pattern), both have almost the same statline (though Rossiya has much worse Luck), both have a weird limited-time power-up (though Rossiya's lasts one battle less, affects Accuracy and requires three more Russians around).  
 What does this mean in practice? It means that Rossiya is very comparable to Littorio overall but is slightly less flexible while being potentially a bit more powerful, so long as her conditions are met.
+
+
+![BB](/Images-for-the-Guide/HonokaChibi.png "Honkers") - **[Honoka](https://azurlane.koumakan.jp/Honoka)**
+* Roles:
+  * **Duo (1:1) farmer extraordinaire**; powerful moBBer, flagship BBarrager, light healer.
+
+* Skill:
+  * Gain +15% FP and deal +12% damage to Light Armour. 5s after Main Gun fire, launch [one](https://www.google.com/url?q=https://streamable.com/h9k61p&sa=D&ust=1611771668171000&usg=AFQjCNEMQSY19Mhs1MUKKKtAD3e0H_KvUA) - [of](https://www.google.com/url?q=https://streamable.com/wsxt55&sa=D&ust=1611771668171000&usg=AFQjCNH7KdutLxV-XGVz8rw6_eOXnmSINQ) - [three](https://www.google.com/url?q=https://streamable.com/aels2z&sa=D&ust=1611771668171000&usg=AFQjCNF_ljmc47LLSqFqUMFXIzzoqUCc4A) barrages.
+    * They look identical, but 8 AP PETALS deal 20 dmg with 90/70/40 amods; the 8 HE PETALS 20 dmg with 120/60/60 amods.
+    * The 25 HE SPRINKLES deal 20 bdmg with 135/95/70 amods.
+    * The 16 AP CARDS deal 20 bdmg with 100/100/100 amods. All of these are modified by 100% of the unit's FP.
+  * Upon Main Gun fire, heal 1 random backliner and 1 random vanguard for 5% of their max HP and launch [barrage](https://www.google.com/url?q=https://streamable.com/dzrjkw&sa=D&ust=1611771668172000&usg=AFQjCNGRMjjY-3PqiaZikSDHmKv64nFFsQ) at a 75% chance.
+    * The 6 HE SHELLS deal 170 bdmg with 100/80/60 amods; the 2 SHS SHELLS deal 170 bdmg with 65/135/115 amods. Same as above.
+
+- Desc:
+>Though she may not look much like the part, BB AI does live up to her title; between the very significant crit boost (for which the +1 scatter may as well not be there, insubstantial as it is), the hilariously scattershot but poweful barrage clearing the field for the Main Guns and access to CL defensive guns, there's very little not to like here.  
+The Accuracy and Evasion boosts are nice to have, too, but not exactly worthy of prime time - especially as the +Acc ends up compensating for her lower-than-usual base stat.
 
 ![BB](/Images-for-the-Guide/Super_Gamer_Kizuna_AIChibi.png "BBakyu") - **[Super Gamer Kizuna AI](https://azurlane.koumakan.jp/Super_Gamer_Kizuna_AI)**
 * Roles:
@@ -2524,11 +2327,6 @@ What does this mean in practice? It means that Rossiya is very comparable to Lit
 * Skill:
   * Gain +30% Main Gun CritRate and increase her Main Gun Scatter by +1; also, 70% chance every 16s to fire a special barrage (very scattershot single large AP shots and torpedoes).
   * Gain +25% Evasion and Accuracy.
-
-* Recommended Loadouts:
-  * [Lategame Bossing] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Prototype Triple 152mm Main Gun (DP MK17); Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [General Purpose] 406MK6 (vs Light) or Prototype Triple 410mm Mounted Gun (vs Medium/Heavy); Triple 155mm Mounted Gun; Twin 40mm Bofors STAAG; Type 1 Shell; SHS Shell
-  * [Poverty] 406MK6; Twin 150mm Main Gun (TbtsK C/36); 40mm Quad Bofors; Type 91 Shell; Autoloader (mobs) or SG Radar (boss)
 
 - Desc: An upgrade to Washington.
 >Though she may not look much like the part, BB AI does live up to her title; between the very significant crit boost (for which the +1 scatter may as well not be there, insubstantial as it is), the hilariously scattershot but poweful barrage clearing the field for the Main Guns and access to CL defensive guns, there's very little not to like here.  
@@ -2859,6 +2657,19 @@ Her skills further semi-reliably let her stack her hand, either by dealing more 
 All things considered - pretty okay, and very cheap to boot.
 
 ![CV](/Images-for-the-Guide/IllustriousChibi.png "Lusty") - **[HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)**
+* Skill: 
+  * Upon airstrike launch, grants every vanguard unit a shield for 10% of Illustrious' max HP, lasting 8s.
+  * Has a 6/0/2 loadout.
+
+* Recommended Loadouts:
+  * [General Purpose] F6F Hellcat; F6F Hellcat; Ryusei; Hydraulic Catapult; Hydraulic Catapult
+  * [Poverty] F4U Corsair; F4U Corsair; Barracuda or Tenzan; Hydraulic Catapult; Hydraulic Catapult
+
+* Desc: Zero to (AS) Hero.
+>A very defensive-focused CV with double fighter slots, a shield generator and staggering amounts of Air Superiority. To this day, her low DPS is the stuff of legend.    
+Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo strikes. 
+ 
+ ![CV](/Images-for-the-Guide/Illustrious_µChibi.png "Musty") - **[Muse Illustrious](https://azurlane.koumakan.jp/Illustrious_µ)**
 * Skill: 
   * Upon airstrike launch, grants every vanguard unit a shield for 10% of Illustrious' max HP, lasting 8s.
   * Has a 6/0/2 loadout.
