@@ -47,7 +47,7 @@ Courtesy of two ALEC veterans of ours, xscore#4740 and ʝimmy#8049, have some ha
 - [DD Gun Selection Guide](https://cdn.discordapp.com/attachments/367307557796053002/801526158306312242/DD_gun_selection_guide2.png)
 - [CL Gun Selection Guide](https://cdn.discordapp.com/attachments/770435752080310342/800743624626536529/CL_gun_selection_guide.png)
 - [CA Gun Selection Guide](https://cdn.discordapp.com/attachments/770435752080310342/800743674715570186/CA_gun_selection_guide.png)
-- [BB Gun Selection Guide](https://cdn.discordapp.com/attachments/770435752080310342/800743671842603038/BB_gun_selection_guide.png)
+- [BB Gun Selection Guide](https://cdn.discordapp.com/attachments/367307557796053002/801513820655714334/BB_gun_selection_guide.png)
 
 
 #### Assorted notes:
