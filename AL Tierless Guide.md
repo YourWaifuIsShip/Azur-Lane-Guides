@@ -2687,7 +2687,7 @@ Her niche is providing air superiority and protecting the frontline from harm th
 * Skill: 
   * Upon airstrike reload, slow all enemy targets on screen by 30% for 4s and randomly proc one of three effects... -15% Eva for 10s / +15% damage dealt for vanguard and -10% damage taken for backline / -10% damage taken for vanguard, +10% damage dealt for backline.
   * Upon airstrike launch, launch two... [flying star sprinklers](https://streamable.com/zkmxlf).
-    * The 10 STARS, dropped in 5x2 groups, deal 149 bdmg with 180/110/40 amods. 
+    * The 18 STARS, dropped in 9x2 groups, deal 149 bdmg with 180/110/40 amods. 
   * Has a 6/0/2 loadout.
 
 * Recommended Loadouts:
