@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's highly opinionated and extra-biased AL Untierless Guide (TARANTELLA INTENSIFIES AGAIN EDITION)
+# Your Waifu is SHIP's highly opinionated and extra-biased AL Untierless Guide (LUNAR THIRD YEAR EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_  
 
