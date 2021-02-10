@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (TARANTELLA INTENSIFIES AGAIN EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (LUNAR THIRD YEAR EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, distinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -32,9 +32,9 @@ Good reading, and godspeed cap'n!
 - If you'd like to know individual numbers, feel free to ask me on Discord (or Issues if you truly must).
 
 #### Retrofit/Kai Priority List and PRiority list:
-- DD                  : Laffey > Ayanami = Z23 > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
+- DD                  : Ayanami = Z23 > Laffey > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
 - CL                  : San Diego* > Jintsuu > Leipzig = Leander > Kinu = Emile Bertin > Helena > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
-- CA                  : London > Mogami > Portland > Furutaka/Kako > Suffolk
+- CA                  : London > Mogami > Portland > Furutaka/Kako > Suffolk > Exeter
 - BB/C                : Hyuuga > Warspite* > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) = Nevada/Oklahoma
 - CV/L                : Hiryu/Soryu > Shouhou > Langley > Ranger = Saratoga
  
@@ -71,14 +71,10 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (24/01/2021)
+## Changelog as of last major update (10/02/2021)
 
-- Muse Le Malin has been added.
-- Muse Tashkent has been added. More to come.
-- Marie Rose, in.
-- Muse Dido has been added.
-- Muse Roon has been added.
-- Kasumi, in.
+- Shuffled a few Retrofit Priorities around.
+- Added HMS Penelope.
 
 <br/><br/>
 ---
@@ -90,10 +86,6 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 * Skill:
   * When HP falls under 20%, heals 25% of max HP once per battle
   * 60% chance to activate every 20 seconds, increase own Reload by 40% for 10 seconds
-
-* Recommended Loadouts:
-  * [General Purpose] 138.6mm; 533mm quintuple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
-  * [Poverty] 120mm twin; 533mm quadruple conventional torpedoes; 40mm Quad Bofors; Toolbox; Toolbox
 
 - Desc: The bubblewrap fights back!
 >Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous damage output of their IJN counterparts but they can and will outlast them many times over.  
@@ -900,7 +892,7 @@ All things considered she's a fairly good deal, providing stable and solid DPS w
 
 ![CL](/Images-for-the-Guide/CurlewKaiChibi.png "Curlew Kai") ![CL](/Images-for-the-Guide/CuracoaKaiChibi.png "Curacoa Kai") - **[HMS Curlew Kai](https://azurlane.koumakan.jp/Curlew#retrofit)** **[HMS Curacoa Kai](https://azurlane.koumakan.jp/Curacoa#retrofit)**
 * Roles:
-  * **Medium AA carry**, average Gun DPS, light tank.
+  * **Medium AA carry**, average Gun DPS, light tank. Curacoa also provides a strong CV/L boost.
 
 * Skill (Curlew): 
   * When planes are shot down within the AA circle, gain +25% FP/AA for 8s. 
@@ -1020,6 +1012,20 @@ Armed with an excellent AP barrage and a very powerful AP boosting passive, and 
   * Grant +15% FP to the entire vanguard.
 
 * Desc: The advent of Plane Hells earned this previously inferior version of Leander a spot on the Tier Guide, as she patches the glaring AA-shaped hole in the HMS vanguard lineup. Her skillset isn't particularly remarkable and focusing on gunnery as a Torp-CL is somewhat questionable, but she does the job legitimately well - especially with planes to shoot at.
+
+![CL](/Images-for-the-Guide/PenelopeChibi.png "Penelope") - **[HMS Penelope](https://azurlane.koumakan.jp/Penelope)** 
+* Roles:
+  * **Self-healing tank**, average DPS. HMS Phoenix (another one), sort of.
+
+* Skill:
+  * Deal +20% damage to DD/CL. Also, gain a +5% AA/Evasion stack (up to +15%) upon destroying an enemy.
+  * Once per battle and upon falling below 30% HP, take -50% damage for 5s and heal for 15% HP.
+
+* Desc:
+>The other HMS answer to Phoenix, and... just as the other (Neptune), unable to truly upstage her despite being pretty okay.  
+What makes Phoenix so desirable is a combination of extreme reliability (all-gun setup), solid statline and low costs; Penelope loses that reliability by taking torpedoes, hindering her already lacking Torp-CL clearing power, resulting in more frequent occurrences of ramming enemies and taking severe damage in the process.  
+This is less of a concern on manual play, naturally, and on the bright side the self-heal comes with a considerable temporary damage reduction; this may come in handy should she be exposed to particularly heavy burst damage (or ramming things).  
+Remember that boosting her torpedoes with Oxytorps will cut into her survivability, so handle with care.  
 
 ![CL](/Images-for-the-Guide/SiriusChibi.png "Sirius") - **[HMS Sirius](https://azurlane.koumakan.jp/Sirius)** 
 * Roles:
