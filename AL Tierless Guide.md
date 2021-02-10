@@ -892,7 +892,7 @@ All things considered she's a fairly good deal, providing stable and solid DPS w
 
 ![CL](/Images-for-the-Guide/CurlewKaiChibi.png "Curlew Kai") ![CL](/Images-for-the-Guide/CuracoaKaiChibi.png "Curacoa Kai") - **[HMS Curlew Kai](https://azurlane.koumakan.jp/Curlew#retrofit)** **[HMS Curacoa Kai](https://azurlane.koumakan.jp/Curacoa#retrofit)**
 * Roles:
-  * **Medium AA carry**, average Gun DPS, light tank. Curacoa also provides a strong CV/L boost.
+  * **Medium AA carry**, average Gun DPS, light tank. Curlew also provides a strong CV/L boost.
 
 * Skill (Curlew): 
   * When planes are shot down within the AA circle, gain +25% FP/AA for 8s. 
