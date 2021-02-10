@@ -7,6 +7,11 @@ Well, dear reader, barring an accidental deletion on my part I am sorry to say t
 Not to despair, though! As mentioned in the Tier Guides, even untiered units can be put to use (though they won't make it easy on you), but if you'd like to have a clearer picture of who didn't make the cut and why, here's a shortlist for it.
 
 ---
+[10/02/2020]
+> ROC Ying Swei and Chao Ho join the Untierless Guide on account of being modern day Ping Hai and Ning Hai... except Yat Sen does not work on them.
+- Could've been good, those two (mostly Ying Swei); they have a decent complement of guns and barrages to provide a solid baseline for a Kai, and something for the obscene-but-mandatory buffs to work with, and are mechanically interesting with their eschewing normal AA guns for terrible torpedoes (would be an improvement, since most CL aren't good at shooting up anyway and giving up the pretense is better than the alternative).
+- Alas, what propped up Ping/Ning even after the Kai was the ludicrous EvaRate buff granted by Yat Sen, turning them into a somewhat shooty wall for simpler times; these have nos such fortune, and bite the dust very quickly without contributing much along the way because of their atrocious statline.
+
 [27/01/2020]
 > RN Vincenzo Gioberti joins the Untierless Guide on account of her atrocious statline.
 - The highly cursed amalgam of HMS DD efficiencies (mediocre guns, above average torps) and French contretorpeilleur stats (high FP, middling torpedoes) ensures she is left desperately wanting for DPS. The 30s barrage, while pretty strong, is also on a 30s cooldown and therefore woefully inadequate as a substitute.
