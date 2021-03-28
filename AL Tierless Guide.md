@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (LUNAR THIRD YEAR EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (A GOLD DD? AND IT'S USS? SAY IT AIN'T SO EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, distinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -71,10 +71,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (10/02/2021)
+## Changelog as of last major update (28/03/2021)
 
-- Shuffled a few Retrofit Priorities around.
-- Added HMS Penelope.
+- SN Gromky, Kirov, Tallinn and Sovetskaya Belorussiya have been added.
 
 <br/><br/>
 ---
@@ -469,6 +468,18 @@ The tempo she forces upon you is fairly demanding, as the average DD torpedo set
 * Desc:
 >Don't let the kit or the (admittedly excellent by DD standards) AA efficiency; Z46 is a very capable barrage barge ~~(barrarge?)~~ that just so happens to throw a little AA in the mix, not nearly enough to bother actual flying threats.
 Proud owner of a quick-firing, high-volume, AP conal barrage with four homing torpedoes to the side that is boosted both by her own +APdmg skill (only use the recently released golden KMS DD AP gun or stick with the usual quick-firing solutions) and her high torp stat, she puts every other standard DD barrage in the game to shame and is the main reason for her remarkable prowess. That said, like most KMS DD, her normal torpedoes are pretty bad and will bank on her gunnery to pull through.
+
+![DD](/Images-for-the-Guide/GromkyChibi.png "Gromky") - **[SN Gromky](https://azurlane.koumakan.jp/Gromky#Retrofit)**
+* Roles:
+  * **Floating medkit (heals a fellow vanguard on critical HP)**; good Gun DPS.
+
+* Skill:
+  * Upon battle start, gain +20% CritRate if not sortied alone; also, once per battle heal another vanguard whose HP fell below 20% by 10% of their max HP at the cost of 5% of Gromky's max HP (which will be healed back by 8% of her max HP 5s later).
+  * Take -10% damage by DD guns and torpedoes. Every 20s, gain +5 Speed and +20% FP for 10s.
+
+- Desc: MEEEEEEEDIC!
+>A floating medkit with guns, Gromky's statline plays it straight with her nation's traits (tougher but less evasive hulls, strong guns, torpedoes so bad even Roon would laugh at them) and thankfully spices it up with a useful, if admittedly somewhat roundabout, vanguard heal.  
+If you're taking her, that's the reason you're doing it - and it is a pretty good reason, if you're concerned about a vanguard dying on you and your backline's too busy DPSing to bring healers.
 
 ![DD](/Images-for-the-Guide/TashkentChibi.png "Ypa 1") - **[SN Tashkent](https://azurlane.koumakan.jp/Tashkent#Retrofit)**
 * Roles:
@@ -1238,7 +1249,21 @@ All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and a
 * Desc: 
 >Tough, reliable and prodigal of bullets workhorse of the Northern Parliament, Chapayev sweeps the field with both her regular barrage and her special one; neither is especially powerful, per se, but the volume of fire is considerable and the patterns are just about the right size to land damage on enemy waves, meaning it can and will add up if given the chance.  
 The Ignitions are the same as her regular Ignitions, and therefore risk being overridden by stronger ones; still, free damage is free damage for as long as it lasts.  
-Her anti-DD kit is alright and likely to draw (fair) comparisons to HMS Aurora, but about as relevant now as it was then.
+Her anti-DD kit is alright and likely to draw (fair) comparisons to HMS Aurora, and is about as relevant now as it was then.
+
+![CL](/Images-for-the-Guide/KirovChibi.png "Reporting") - **[SN Kirov](https://azurlane.koumakan.jp/Kirov)**
+* Roles:
+  * **Light Armour bully**. 
+
+* Skill:
+  * Every 15s, launch a [bombing barrage](https://streamable.com/s8qsc8); the first time this is launched, enemies struck take +15% damage for 8s.
+    * The 5 BOMBS deal 85 bdmg with 100/100/100 modifiers and has a 100% Ignition chance; their damage is modified by 118% of the unit's FP stat.
+  * Any Main Gun mounted on Kirov increases its range to 75; deal +20% damage to all Light Armour units; if sortied with 2+ SN units, enemy CL take +12% firepower damage from all SN units.
+
+* Desc: 
+>Kirov is finally here, but perhaps she could've used some more tuning before reporting in.  
+While a competent enough Torp-CL in her own right, this living Red Alert advertisment obsesses over Light Armour (and CLs in particular) too much for her or her allies' good while sporting rather limited supportive abilities, unlike many of her peers; her signature skill is underwhelming as well, considering how the (admittedly powerful) debuff only is applied the first time the barrage is launched and forgotten about immediately thereafter, leaving you with an inaccurate smattering of bombs.  
+Solid statline, if nothing else, and if murdering CL is on the table... maybe she's worth bringing along.  
 
 ![CL](/Images-for-the-Guide/MisakiChibi.png "who?") - **[Misaki](https://azurlane.koumakan.jp/Misaki)**
 * Roles:
@@ -1670,7 +1695,20 @@ That is not to say she is frail, of course: she sports Zara's high eHP and bolst
 Portland Kai may be cheap, Prinz Eugen may have more eHP and Moon may have more DPS,  but none of them have her spectacular shields nor her combination of good DPS and high eHP at the same time, and that's what pushes her above her competitors.    
 While the damage boosts are undoubtedly good and allow her to perform optimally under every circumstance, the shields are the real stars of the show here - not only their uptime is much higher than the 18% would lead you to believe, able as they are to proc on *any* attack that collides with her chibi (even if she evades the damage), the front-facing shield is absolutely invaluable when it comes to blocking incoming enemy fire entirely, especially if it's piercing enemy fire.  
 If you're sick of seeing your poor vanguard get turned inside out, Zara is the solution to your problems.
- 
+
+
+![CA](/Images-for-the-Guide/Chibi.png "Tallinn") - **[SN Tallinn](https://azurlane.koumakan.jp/Tallinn)**
+* Roles:
+  * **Twin shield heavy tank**, above average Gun+Barrage DPS, low Torp DPS.
+
+* Skill:
+  * Every 18s, raise a frontal hitshield (blocks up to 8 shots, lasts 8s); if it breaks before expiry, fire an [aimed barrage](https://streamable.com/hy4hig) at the closest enemy and generate a hpshield (blocks up to 5% of Tallinn's max HP, lasts 4s).
+  * If mounting a Northern Parliament or Ironblood gun, deal +12% damage; if mounting an AP gun, shell speed increases by 10%. After sinking 2 enemies in a battle, gain +8% FP/AA.
+
+- Desc: Superior Stalinium Shielding.
+>Yet another Prinz Eugen 'sister' that does her job several times better. At this point it's not even funny.  
+In any case, Tallinn is exceptionally bulky, *even* by the lofty standards of tank CAs, courtesy of her double layer of shields; hitshield first, then hpshield second, and a nice aimed barrage in-between for some extra firepower as the hitshield inevitably breaks. Just as well, since despite her above average damage output, a Torp-CA's a Torp-CA (with poor torpedoes to boot) and volume of fire will be sorely lacking no matter what.  
+
   ![CA](/Images-for-the-Guide/Kasumi_(DOA)Chibi.png "Kasumi") - **[Kasumi](https://azurlane.koumakan.jp/Kasumi)**
 * Roles:
   * **Stronger Portland**, now with less DD guns and more torpedoes.
@@ -2309,9 +2347,23 @@ Her rigging is severely outdated and her statline makes it blindingly obvious, a
 As such, despite her comparatively frail constitution and otherwise pathetic statline, Gangut manages to make for both an excellent warship in her own right and a great faction buffer.  
 Just don't ask her to handle boss fights if you can help it, and if you do, make sure it's against a DD/CL; she can't afford to swap guns and her DD escort is meant to take on those anyway.
 
+![BB](/Images-for-the-Guide/Sovetskaya_BelorussiyaChibi.png "Esdeath") - **[SN Sovetskaya Belorussiya](https://azurlane.koumakan.jp/Sovetskaya_Belorussiya)** 
+* Roles:
+* **Self-healing BB, mob fleet BBarrager, very high DPS (high Gun DPS, high Barrage DPS)**; vanguard defender, minor slow.
+
+* Skill:
+  * On main gun fire, 75% chance to fire a [barrage](https://streamable.com/xxcq54); if the proc fails, gain +50% AA until main gun fire.
+    * The 14 ICEBERGS deal 164 bdmg with 90/100/110 mods and inflict -40% Speed *and* a very minor 2x23 Flood DoT, 4s long. The damage of all of these is modified by 100% of the unit's FP, except for the Flood (no scaling).
+  * If above 60% HP, gain +20% FP and reduce Ignition durations on herself by -3s; if below 50% HP and twice per battle, self-heal by 12% of max HP over 8s. From the 2nd fight and onward, vanguard units take -8% damage.
+
+- Desc: 
+>Northern Parliament units have a reputation for being tough customers. While that is not quite the case, barring some exceptions such as Tashkent (relatively speaking) and Tallinn, Belorussiya sets out to singlehandedly justify the rumours by sporting a downright impressive defensive tooklit: Ignitons last less so long as she's above 60% HP, her AA kicks into high gear if her barrage fails to proc (won't be shooting down much, like most BBs out there, but it'll let her tank planes better), and of course she gets to heal 12% of her max HP back if hit when below 50% HP... *twice* per battle; and since she's got more where all that came from, her vanguards also get to enjoy a -8% damage taken buff from the second fight onward.  
+Offensively she's not quite as remarkable; while armed with above-average guns and a hefty +20% FP (so long as she's above 60% HP), her barrage's good against clustered mob waves more so than single targets, cementing her role as main moBBer.  
+If you're looking for a flagship that just won't die, look no further.  
+
 ![BB](/Images-for-the-Guide/Sovetskaya_RossiyaChibi.png "Whittorio") - **[SN Sovetskaya Rossiya](https://azurlane.koumakan.jp/Sovetskaya_Rossiya)** 
 * Roles:
-* **Mob fleet BBarrager, very high DPS (high Gun DPS, high Barrage DPS)**; boss fleet BBarrager in a few select fights (12-3, 13-3), minor support (slow).
+* **Mob fleet BBarrager, high DPS (high Gun DPS, high but conditional Barrage DPS)**; boss fleet BBarrager in a few select fights (12-3, 13-3), minor support (slow).
 
 * Skill:
   * On main gun fire, 75% chance to fire a [barrage](https://streamable.com/38l58).
