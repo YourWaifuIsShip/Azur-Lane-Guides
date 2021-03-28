@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (A GOLD DD? AND IT'S USS? SAY IT AIN'T SO EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (NEW GOLD DD? AND IT'S USS? SAY IT AIN'T SO EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, distinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -81,6 +81,21 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ### DD ![DD](/Images-for-the-Guide/45px-DD_img40.png "DD Icon")
 ---
+![DD](/Images-for-the-Guide/Allen_M._SumnerChibi.png "Allen") - **[USS Allen M. Sumner](https://azurlane.koumakan.jp/Allen_M_Sumner)** 
+* Roles:
+  * **Medium AA carry, AA buffer, generalist DD**; light tank, above average DPS (split between guns, torps and barrages).
+
+* Skill:
+  * Ignitions taken last -3s and deal +15% dmg to Light Armour. Every 20s, 70% chance to fire a [mixed barrage](https://streamable.com/97g703) and grant +20% AA to the entire fleet for 8s.
+    * The 17 STARLETS deal 30 bdmg with 110/110/100 mods; the 5 TORPEDOES deal 101 bdmg with 80/100/130 mods. The starlets are modified by 100% of the unit's FP, the torpedoes by 100% of the unit's Torp. 
+  * If sortied with 2+ USS units OR after Allen sinks 2+ enemies, gain +15% Torp/AA until the end of the battle. Upon equipping any piece of USS gear, gain a special ghost AA mount.
+    * The ghost AA deals 142 bdmg at 100% AAEff, has 30 range and a 1.04s reload.
+
+- Desc:
+>The most accomplished flyswatter in her hull class, Allen shreds the skies with a prowess matched only by the higher end AA CL (and beaten only by the Trio of Flyer Doom, namely San Diego / Cheshire / Isuzu) while retaining solid DPS on the sea and a sturdy enough hull to weather the storms coming her way.  
+As is customary for USS DD, neither her guns nor her torpedoes are particularly noteworthy and their lack of quality is made up by quantity, again in the form of the aforementioned barrages. Have care that they hit; given their somewhat wide pattern, that would be more likely on a mobbing fleet.  
+
+
 ![DD](/Images-for-the-Guide/CassinChibi.png "Cassin Kai") ![DD](/Images-for-the-Guide/DownesChibi.png "Downes Kai")- **[USS Cassin Kai](https://azurlane.koumakan.jp/Cassin#Retrofit)** **[USS Downes Kai](https://azurlane.koumakan.jp/Downes#Retrofit)**
 * Skill:
   * When HP falls under 20%, heals 25% of max HP once per battle
