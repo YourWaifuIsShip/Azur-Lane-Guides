@@ -74,6 +74,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 ## Changelog as of last major update (28/03/2021)
 
 - SN Gromky, Kirov, Tallinn and Sovetskaya Belorussiya have been added.
+- U-96 is now in as well. Deleted some gear recommendations I'd missed.
 
 <br/><br/>
 ---
