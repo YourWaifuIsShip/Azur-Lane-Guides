@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (NEW GOLD DD? AND IT'S USS? SAY IT AIN'T SO EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (REGIA MARINA 2: REMEMBER, NO OBESE WH-RES EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, distinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -71,10 +71,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (28/03/2021)
+## Changelog as of last major update (02/05/2021)
 
-- SN Gromky, Kirov, Tallinn and Sovetskaya Belorussiya have been added.
-- U-96 is now in as well. Deleted some gear recommendations I'd missed.
+- RN Vittorio Veneto, Aquila, Duca degli Abruzzi, Nicoloso da Recco, Libeccio, Maestrale and Torricelli added.
 
 <br/><br/>
 ---
