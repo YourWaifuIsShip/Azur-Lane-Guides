@@ -1,7 +1,7 @@
 # Welcome to Your Waifu is SHIP's highly opinionated and extra-biased Guides!
 
 **CURRENT NEWS**  
-FINALLY GOT AROUND TO ADDING THE RELEVANT RUSSIAN EVENT UNITS AND ALLEN M. SUMNER. SORRY FOLKS, NEW JOB'S KNOCKING THE WIND OUT OF MY SAILS.
+REGIA MARINA 2 EVENT UNITS ARE ALL IN! Except Torricelli. Sorry Torricelli, you're the designated sacrificial lamb for this one.
 
 If you've landed here because someone linked the Tier Guides to you or happened to read a pin about them, chances are you already know what these are all about and why the insistence on them being called 'Tier Guides'; on the off chance you don't, here's the long and short of it.
 
