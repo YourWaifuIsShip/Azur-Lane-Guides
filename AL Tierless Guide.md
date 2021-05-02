@@ -2391,7 +2391,7 @@ Blessed with an overall very good statline (Accuracy aside), a strong AP barrage
 The anti-torp shields are nice enough too, but not much of a gamechanger considering her job description - speaking of which, unlike Alabama you *could* use her as a boss fleet flag without throwing away part of her skillset, but the less concentrated barrage means she's at her best whem she's fighting more mobile Medium/Heavy bosses who may or may not have adds too.  
 *About her gun...* it's an interesting piece of kit, with its +10% Damage for the first two volleys, but it only really works on Littorio or when hunting Sirens (assuming you don't have BB with preloaded/accelerated volleys).
 
-[BB](/Images-for-the-Guide/Vittorio_VenetoChibi.png "VV") - **[RN Vittorio Veneto](https://azurlane.koumakan.jp/Vittorio_Veneto)**
+[BB](/Images-for-the-Guide/Vittorio_VenetoChibi.png "Vivi") - **[RN Vittorio Veneto](https://azurlane.koumakan.jp/Vittorio_Veneto)**
 * Roles:
   * **Regia Marina (RN) flagship, extreme Gun DPS (w/ quasi-preload with 2+ RN units)**. Unreliable debuffer.
 
