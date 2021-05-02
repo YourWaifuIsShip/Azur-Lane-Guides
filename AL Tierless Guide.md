@@ -565,6 +565,33 @@ Similarly to Laffey, her torps are awful but come out quick; consider patching u
 
 * Desc: La benemerita, nei secoli fedele!
 >Small but unassumingly tough and fierce, Carabiniere is a Gun-DD packing a surprising amount of heat - be it either through her laser-like barrage, the charged torps or the remarkable gunnery, she can hold her own in the rearguard as she supports the lead.
+
+ ![DD](/Images-for-the-Guide/LibeccioChibi.png "Northeast from There") - **[RN Libeccio](https://azurlane.koumakan.jp/Libeccio)**
+* Skill:
+  * When any OTHER unit in the fleet takes damage, 30% chance to launch a [special barrage](https://streamable.com/brnwfc) (15s internal cooldown).
+    * The 24 CURVED SHOTS deal 20 bdmg with 100/100/100 armour mods; the 9 TORPEDOES deal 40 bdmg with 80/100/130 armour mods. The CURVED SHOTS are modified by 100% of the unit's FP, while the TORPEDOES are modified by 120% of the unit's Torp.
+  * If sortied with 2+ RN units, gain 5+ Speed and +15% AA/Eva.
+
+* Desc: 
+>Despite the higher efficiency AA, slightly better torps and slightly worse guns, Libeccio's (and by extension Maestrale's) statline is more or less akin to Carabiniere's - meaning, tough little gunboat-ish thingies that are mostly reliant on their skills for relevance.  
+In her case, it's a nifty barrage proccing on damage taken by anyone but her on a 15s cooldown with a wide pattern and pretty alright damage, meant for mob fleets more so than anything else. Decent utility.
+
+ ![DD](/Images-for-the-Guide/MaestraleChibi.png "Northwest from Here") - **[RN Maestrale](https://azurlane.koumakan.jp/Maestrale)**
+* Skill:
+  * When any OTHER unit in the fleet takes damage, 30% chance grant +15% Eva for 5s to all RN units and to deploy a smokescreen (+40% EvaRate while in it). The smokescreen has a 15s cooldown.
+  * If sortied with 2+ RN units, gain 5+ Speed and +15% FP/Torp.
+
+* Desc: 
+>See above for comments about her statline; this one brings some heavier duty defensive support, however, courtesy of the 5s of +15% Evasion for all Regia Marina ships.  
+Considering how often a vanguard gets pelted with sprinkles or the backline tickled by planes, when not accompanied by AA-capable units, the chances of it firing up are very high; the smokescreen is also worth a mention, not because it's good at its intended job (smokescreens never are) but because it can proc a lot faster, meaning you could realistically get some use out of them even on auto. Imagine that!
+
+ ![DD](/Images-for-the-Guide/Nicoloso_da_ReccoChibi.png "Nico") - **[RN Nicoloso da Recco](https://azurlane.koumakan.jp/Nicoloso_da_Recco)**
+* Skill:
+  * For the first three battles of the map, gain +15% AA/Eva and +5 Speed; gain +5% FP/Torp/Reload (up to +15%) for every fleet defeated by hers.
+  * Enemy CL take +8% more damage. Nicoloso da Recco takes +1% more damage.
+
+* Desc: 
+>Little miss CL botherer. Fairly okay statline with the customary good guns, poor torps and non-existent AA.
  
 ![DD](/Images-for-the-Guide/Shirakami_FubukiChibi.png "Not Kawakaze") - **[Shirakami Fubuki](https://azurlane.koumakan.jp/Shirakami_Fubuki)**
 * Skill:
@@ -1236,6 +1263,22 @@ Her retaliatory barrage is pretty strong, but you should try *not* to proc it; l
 >Setting yourself on fire usually isn't a great way to start a fight, but apparently Jeanne d'Arc - this one, at least - never got the memo. Or maybe it's *holy* fire and that's what lets her get considerably stronger while she's blazing?  Anyway.  
 Jeanne d'Arc one-ups Sheffield in the 'vanguard protector' role, as her shields apply to every ship regardless of HP and are proper shields instead of a damage reduction, meaning at least some damage will be blocked entirely; better yet, if the personal shields were to break (as they are wont do during enemy bursts), the subsequent 2s of invulnerability let those units evade even more damage.  
 The heal on shield expiration is nice too, but hardly going to make a difference later on (they'll just break first, but DDs could still appreciate the help when the pressure is lower); the +HMS damage is a funny historical reference and about as relevant as the damage she takes from her immolation (a meagre 80 damage after 30s of battle, entirely negligible).
+
+![CL](/Images-for-the-Guide/Duca_degli_AbruzziChibi.png "Ducc Supreme") - **[RN Duca degli Abruzzi](https://azurlane.koumakan.jp/Duca_degli_Abruzzi)**
+* Roles:
+  * **Extreme Torp DPS, above average Gun DPS, heavy self-healing tank.** Auto-friendlier than usual.
+
+* Skill: 
+  * Upon battle start, gain +15% AA/Eva/Acc for 60s. Upon torpedo launch, 70% chance to fire a [special barrage](https://streamable.com/y7vz5b).
+    * The 10 SAP SHOTS deal 26 bdmg with 65/125/65 armour mods. They pierce once and are modified by 100% of the unit's FP.
+  * Decrease the speed of her torpedoes by 1, gain +40% Torpedo CritChance/CritDmg, and halve the cooldown for the first torpedo spread cooldown.
+  * Take -20% AP damage and reduce the Torpedo damage taken by the vanguard lead by -8%. Upon falling below 30% HP, create a frontal anti-torp shield (blocking up to 5 torpedoes, lasts 10s) and heal by 9% of max HP over 9s (3% heal ticks every 3s).
+
+- Desc: 
+>The first Regia Marina CL released hits the ground not just running, but sprinting like an Olympic athlete and leaving all her competitors in the dust.  
+Whether it's defence (second largest HP pool among CLs, PRs aside; hefty and lengthy Evasion boost, AP and torpedo damage reductions; self-heal) or offence (quickload, straight up devastating torpedoes, extra barrage on torp launch), Duca degli Abruzzi is easily a match for the most biased IJN CLs out there as well as a priviledged partner of theirs.  
+It's worth mentioning how the -1 Torpedo Speed is a very good thing, despite what it sounds like - torpedoes on manual tend to either be shotgunned or launched at relatively close range if HMS, and as such they are not negatively impacted, whereas torpedoes on auto more or less have to use KMS launchers to compensate for the AI's idiocy, at which point the slowdown considerably increases their hitrate by being unable to zoom past things.  
+
 
 
 ![CL](/Images-for-the-Guide/AvroraChibi.png "Avrora") - **[SN Avrora](https://azurlane.koumakan.jp/Avrora)**
@@ -2349,6 +2392,21 @@ Blessed with an overall very good statline (Accuracy aside), a strong AP barrage
 The anti-torp shields are nice enough too, but not much of a gamechanger considering her job description - speaking of which, unlike Alabama you *could* use her as a boss fleet flag without throwing away part of her skillset, but the less concentrated barrage means she's at her best whem she's fighting more mobile Medium/Heavy bosses who may or may not have adds too.  
 *About her gun...* it's an interesting piece of kit, with its +10% Damage for the first two volleys, but it only really works on Littorio or when hunting Sirens (assuming you don't have BB with preloaded/accelerated volleys).
 
+[BB](/Images-for-the-Guide/Vittorio_Veneto.png "VV") - **[RN Vittorio Veneto](https://azurlane.koumakan.jp/Vittorio_Veneto)**
+* Roles:
+  * **Regia Marina (RN) flagship, extreme Gun DPS (w/ quasi-preload with 2+ RN units)**. Unreliable debuffer.
+
+* Skill:
+  * Every 15s, 75% chance to fire [two aimed MGMs](https://streamable.com/oyc4l6); if it fails to proc, a random enemy onscreen takes +10% damage for 8s.
+    * The 3 HE SHELLS deal 181 bdmg with 140/110/90 armour modifiers; the 3 AP SHELLS deal 181 bmg with 40/120/125 armour modifiers. Their coefficient is 110% and are all modified by 100% of the unit's FP.
+  * Grant +15% FP/Torp/Eva to RN vanguard units; grant +12% FP/Avi/Acc to RN backline units; reduce the cooldown on the first volley by -40% (up to -80%) for every other RN unit in the fleet.
+  * If sortied with 2+ RN units or when equipping an AP main gun, gain +12% FP; also, her fleet takes -20% torp damage for the first three battles.
+
+- Desc: It's Veneto, VENETO.
+>*Five main guns and a half holy meatballs what is this.*  
+Positively brimming in GUN and Regia Marina buffs, Vittorio Veneto is the flagship every fleet deserves: generous with her allies, a nightmare to her foes, and courteous enough to let her showboat of a sister sit in the flagship slot to do her job as BBarrager while she backs her up with her own aimed BBarrage.  
+Do not be discouraged by the wealth of RN-only buffs, as VV is more than strong enough (and the skills' conditions lenient enough) to earn herself a spot in most fleets; on the other hand, while the damage resistance debuff on barrage whiff is great, you shouldn't expect it to happen and much less that it can replace Duke of York's own.
+
 ![BB](/Images-for-the-Guide/GangutChibi.png "REVOLUTSIYA") - **[SN Gangut](https://azurlane.koumakan.jp/Gangut)**
 * Roles:
   * **Russian fleet buffer**, very high Gun DPS (for roughly 70s). 
@@ -2920,6 +2978,21 @@ Criminally botched design. Still very competent.
 One of the most *peculiar* examples of carrier the war has birthed, Béarn is a very unconventional creature focusing on providing semi-costant fire support, be it through her barrage and CL guns or the accelerated airstrike and the post-cooldown extra airstrikes.   
 Her damage output is very average by CV standards, however, and shouldn't be relied upon against bosses; her kit is better suited to acting as a mob fleet flagship of sorts anyway.
 
+#### ![CV](/Images-for-the-Guide/AquilaChibi.png "Aquila") - **[RN Aquila](https://azurlane.koumakan.jp/Aquila)**
+* Roles:
+  * **Single Back/Front targeted healer AND shielder** or **High DPS w/ preload**, AA supporter.
+
+* Skill: 
+  * Upon airstrike launch, 75% chance to scramble [two fighters and two aimed torpedo bombers](https://streamable.com/5mb3u6)
+    * The 4 BOMBS deal 162 bdmg with 80/85/100 armour modifiers; the 4 AIMED TORPEDOES deal 240 bdmg with 80/100/130 armour modifiers. The bombs are modified by 80% of the unit's Aviation, the Torpedoes by 100% of it.
+  * If her second slot uses a FIGHTER, upon airstrike... heal the most damaged vanguard and backline units for 8% of their max HP, and grant both an HP shield blocking up to 6% of their max HP's worth of damage. If her second slot uses a DIVE BOMBER... start battles with a preloaded airstrike, decrease her airstrike cooldowns by -10%, and deal +8% damage.
+  * Take -12% damage; also, for every 3 aircraft shot down by Aquila, grant +5% AA fleetwide (up to +15%). 
+  * Has a 4/0/4 OR a 2/2/4 loadout. The second slot may accommodate Dive Bombers upon reaching Max Limit Break.
+
+* Desc: 
+>One of the, if not THE, most flexible carrier in the game, Aquila can either be ~~ur angle or ur debil~~ an exceptional healer and protector or an accomplished and fast damage dealer depending on which loadout you choose to give her. It's almost like having two carriers in one!  
+In her healer configuration, she gets extra mileage out of her kit by running 1:1s or 2:1s with tough CA/CL; in her DPS configuration, which you should consider using if your units aren't going to keel over anyways, she'll perform somewhat better on mobbing duties most of the time because of the aforementioned preload (and her damage output, which isn't quite as high as that of fully dedicated DPS CV).  
+
 #### ![CV](/Images-for-the-Guide/Tokino_SoraChibi.png "Generic Moeblob")- **[Tokino Sora](https://azurlane.koumakan.jp/Tokino_Sora)**
 * Skill: 
   * Upon airstrike, 100% chance to launch a barrage.
@@ -3024,6 +3097,7 @@ Unlikely to see any use outside of KMS fleets, and even those will find themselv
 >One of the very few carriers fully capable of defending themselves, and actually contributing somewhat to the fight through her barrage.  
 A remarkable claim to fame for her class, but somewhat let down by her poor efficiencies and poor offensive statline; fielding her in a KMS fleet is all but necessary to have her compete in battle effectiveness with light carriers.  
 She *does* keep Tirpitz happy, though.
+
 
 <br/><br/>
 ---
