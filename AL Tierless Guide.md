@@ -73,7 +73,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ## Changelog as of last major update (02/05/2021)
 
-- RN Vittorio Veneto, Aquila, Duca degli Abruzzi, Nicoloso da Recco, Libeccio, Maestrale and Torricelli added.
+- RN Vittorio Veneto, Aquila, Duca degli Abruzzi, Nicoloso da Recco, Libeccio, Maestrale added.
 
 <br/><br/>
 ---
