@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (REGIA MARINA 2: REMEMBER, NO OBESE WH-RES EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (F-CK HOTELS EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, distinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -727,6 +727,19 @@ Also, she can defend a fellow vanguard that's taking too many hits. That's okay.
 >A slightly sturdier than usual Cleveland who performs better rather than worse when planes are around.  
 Not much to say about her, she's solid and unremarkable like the rest of her class (Montpelier notwithstanding).
 
+![CL](/Images-for-the-Guide/DenverChibi.png "Boise") - **[USS Boise](https://azurlane.koumakan.jp/Boise)**
+* Role:
+  * **Very high Gun DPS**, medium self-healing tank.
+
+* Skill: 
+  * Every 15s, fire an [aimed barrage](https://streamable.com/44t8bz) at the closest enemy. Also, gain +10% CritRate and deal +15% dmg to Heavy Armour.
+    * The 12 AP SHOTS deal 10 bdmg with 80/100/120 armour modifiers. They are modified by 100% of the unit's FP.
+  * While above 45% HP, gain +15% FP/AA; while below 45% HP, take -15% Ignition dmg. Upon falling below 30% HP, heal back by 10% of her max HP.
+
+*  Desc: 
+>Expectations were low when this Brooklyn-class CL was announced, given the poor performance of Gun-CLs as a whole, but this one somewhat bucks the trend.  
+Owing to her gunnery self-buffs, a desperately needed anti-Heavy boost and aimed barrage, and the little self-heal, Boise can rebreathe easy as she does her part (though as ever, do not expect her to shoot up).
+
 
 ![CL](/Images-for-the-Guide/ClevelandChibi.png "Cleveland") - **[USS Cleveland](https://azurlane.koumakan.jp/Cleveland)**
 * Role:
@@ -759,22 +772,9 @@ She's okay.
   * Lowers damage sustained by the Flagship by 25%.
   * 25% upon firing AA guns, -20% own FP and +40% own AA for 3s.
 
-
 - Desc:
 >Ever wanted to use Hammann but didn't want to deal with her terrible stats and weaponry? Well, now you can.  
 All the utility of her skills with the sturdiness and DPS of the Cleveland-class. Neat.
-
-![CL](/Images-for-the-Guide/DenverChibi.png "Denver") - **[USS Denver](https://azurlane.koumakan.jp/Denver)**
-* Role:
-  * **Medium Tank**, average Gun DPS, light AA support.
-
-* Skill: 
-  * 60% chance every 20s, +40% FP for 8s.
-  * 25% upon firing AA guns, -20% FP and +40% own AA for 3s.
-
-*  Desc: 
->The most selfish of the Solomon Cavaliers - not a good look for a CL, but she's still rather okay.  
-She'll only buff herself, but a +40% FP never really goes amiss.
 
 ![CL](/Images-for-the-Guide/HelenaKaiChibi.png "Esugee") - **[USS Helena Kai](https://azurlane.koumakan.jp/Helena#retrofit)**
 * Role:
@@ -1370,6 +1370,13 @@ Lots of investment needed and Yat Sen MUST be protected at all costs (hint, plac
 >Cursed to die over and over again in PvP due to her ludicrously powerful healing skill, which can on its own change the course of a fight, this poor girl has little to no place in PvE as you do NOT want your units to die there in the first place and her offensive power is lacklustre at best.  
 Her one job is being immensely irritating/powerful in the arena, and dying for you. You monster.
 
+#### ![CL](/Images-for-the-Guide/MurmanskChibi.png "MurmStare") [SN Murmansk](https://azurlane.koumakan.jp/Murmansk)
+* Skill: 
+  * ![CL](/Images-for-the-Guide/MurmStare.png)
+
+- Desc: :murmpain:
+>By far the most recognisable of the second russian event units, she's also one of the absolute worst in the game (comes with a Omaha-class CL). Why is she in here, then?  
+Because of that smile. That damn smile. And the tons of memes featuring her.
 
 
 <br/><br/>
@@ -1449,6 +1456,22 @@ What issues she does have are fairly minor: she needs to proc to get tough, obvi
 * Desc: 
 >Exceptional HP, twice the base Evasion other CAs get, good Firepower and high AA: in a similar fashion to Cleveland, her stats alone justify her rating and the skills are just window dressing, with the Indianapolis-related buff in particular being wholly irrelevant (as her sister is way too weak to be worth consideration).    
 She won't hit as often as Wichita or as hard as Chicago, but she's cheap, damn hard to kill and consistent.
+
+![CA](/Images-for-the-Guide/San_FranciscoChibi.png "SanFran") - **[USS San Francisco](https://azurlane.koumakan.jp/Portland#retrofit)**
+* Roles:
+  * **Very Heavy tank** or **Very High Gun DPS, light AA support and vanguard DPS booster** or **Vanguard off-healer**. As a baseline, heavy tank and high Gun DPS.
+
+* Skill: 
+  * Every 10s, 75% chance to fire a [linear barrage](https://streamable.com/1tkbff); if the barragre does not proc, gain +15% AA/Acc for 5s.
+    * The 18 STARS deal 15 bdmg with 80/80/80 armour mods; the 1 LARGE STAR deals 15 bdmg with 100/100/100 armour mods. All are modifieed by 100% of the unit's FP.
+  * Gain +10% Evasion and AA. Also, depending on which vanguard position she occupies...
+    * IF LEAD or SOLO, gain +5% Eva/AA and take -15% damage from all sources.
+    * IF MIDDLE, heal all vanguard units by 10% of their max HP after 20s from the start of the battle.
+    * IF REAR, gain +15% FP and +10% AA, and boost vanguard damage dealt by +10%.
+
+* Desc: 
+>A *real* case study in versatility at a time when ammo-swapping shenanigans are considered the epitome of flexibility (when they're often just a detriment), San Franisco offers something of worth under most, if not all, circumstances - a very welcome notion and superbly executed, further reinforced by her gold USS CA standard statline.  
+Out of the three modes, the ones most likely to see use are the DPS-rear or the Tank-front; the former for self-explanatory reasons, as she's already strong and gets much stronger as she settles in the back, and the latter because her survivability skyrockets past even some of the toughest tanks around (to the point it is kind of excessive most of the time).  
 
 ![CA](/Images-for-the-Guide/WichitaChibi.png "USS Wichita") - **[USS Wichita](https://azurlane.koumakan.jp/Wichita)**
 * Roles:
@@ -1871,11 +1894,25 @@ That said, while the SHS shots are the ones that'll be most relevant to you, the
   * Gain +8% FP/AA/Evasion for every OTHER USS BB/CA in the fleet, up to +24%.
   * Main Gun damage increases by up to +15% the farther the target is; if mounting USS DD secondaries, Main Gun ammo is overrideen to SHS (60/135/115, shells fire at extremely high angles and fall from the sky) and the distance damage bonus increases to +30%. Do not give her USS DD secondaries.
 
-
 * Desc: Massachusetts shoots for the stars, but the aim isn't quite there. 
 >Once synonymous with 'atrocious aim', Massachussetts' enforced SHS ammo and its much reduced AoE (8 as opposed to the BB shell standard 15) rendered all but incapable of hitting anything moving faster than a rock, which squandered her otherwise remarkable statline and buffs.   
 Well, no more of that now; so long as you do NOT give her a USS BB secondary (why would you anyway, 128SKC are better at interception), Massa still gets to enjoy a fairly meaty distance damage boost without torpedoeing her physical hit rate in the process.  
 A very solid pick for USS fleets, all in all.  
+
+![BB](/Images-for-the-Guide/New_JerseyChibi.png "Black Dragon") - **[USS New Jersey](https://azurlane.koumakan.jp/New_Jersey)**
+* Roles:
+  * **Off-flag BBarrager, best DPS in class (Very High Gun DPS, Very High Barrage DPS, pseudo-preloaded barrage)**, USS fleet buffer, cross-fleet USS carrier buffer, cross-fleet BBarrager, light AA support.
+
+* Skill: 
+  * Upon Main Gun fire *and* 10s after the start of the battle, launch an [aimed, off-flag, autocritting barrage](https://streamable.com/1hebpx).
+    * The 3 SHS SHELLS deal 181 bdmg with 65/135/115 mods; the 3 HE SHELLS deal 175 bdmg with 140/110/90 mods; the 16 BOLTS 20 bdmg with 100/100/100 mods. All are modified by 100% of the unit's FP; the SHS SHELLS have a 50% chance to inflict a special Armour Break (take +5% shelling damage, can apply to ALL ARMOUR TYPES) and the HE SHELLS can Ignite.
+  * Reduce scatter on Main Guns by -5. As long as this unit is alive and another fleet enters a battle, fire a support barrage (20 bolts + 3 SHS shells); also, if the other fleet/s have a USS flagship, the USS CV/Ls in that fleet gain +15% Aviation.
+  * Gain +15% FP and +10% Reload. If sortied with 2+ USS units, all USS units in the fleet gain +15% AA and take -5% damage, and USS BB gain +10% FP.
+
+* Desc:
+>A godsend for the lacklustre USS backline roster, New Jersey sets out to hardcarry the entire faction out of infamy and into the big leagues - and almost succeeds beautifully in that task.  
+Not so much because the buffs she provides are especially notable, though they definitely are (especially for carriers, which she can help across fleets), or because she herself is horrifyingly powerful (she is THE strongest BB in the game, at the time of writing, and sporting a devastating debuffing displaced half-preloaded autocritting AND aimed barrage ON TOP of a statline only the notoriously expensive and hard to raise FdG can hope to match), but because of the versatility of her design and the smashing performaces she puts out on all counts.  
+Is it finally time to run full USS fleets, then? Well, no, not really; she's devastating and she does God's work for her fellows, but alas, the rest of the roster does reman lacklustre (especially when it comes to CV, BB and DD) compared to other nations. Still, her conditions are easily satisfied, and setting her up with Helena for boss fleets is almost a no-brainer.  
 
 ![BB](/Images-for-the-Guide/NevadaKaiChibi.png "Nevada Kai") ![BB](/Images-for-the-Guide/OklahomaKaiChibi.png "Oklahoma Kai") - **[USS Nevada Kai](https://azurlane.koumakan.jp/Nevada#retrofit)** **[USS Oklahoma Kai](https://azurlane.koumakan.jp/Oklahoma#retrofit)**
 * Roles:
@@ -1884,7 +1921,6 @@ A very solid pick for USS fleets, all in all.
 * Skill: 
   * Upon taking damage, 8% chance to halve that damage.
   * Upon main gun fire, 30% chance to double the volley damage.
-
 
 * Desc: 
 >Similar in form, statline and function to their bigger, blacker cousin - AA aside - these cowgirls operate at a fraction of South Dakota's cost while providing similarly good results, courtesy of their better Efficiency and uncharacteristically high Accuracy.
@@ -2682,6 +2718,19 @@ Her Kai skill, just like her gunfire skill, is best regarded as a bit of free ad
 >The Essex-class continues to impress, this time with a new-and-improved Hornet that manages to completely obsolete her predecessor while upstaging Enterprise in terms of reliability and overall performance (despite not quite hitting the same damage spikes a x2 dmg proc allows her).  
 The F6F-induced barrage won't see usage in PvE, but never fear - the stacking buffs will, and they'll be signficant.
 On a side-note, that's a B-17's shadow and not a B-25's. Irritating.
+ 
+![CV](/Images-for-the-Guide/Ticonderoga.png "Ticonderoga") - **[USS Ticonderoga](https://azurlane.koumakan.jp/Ticonderoga)**
+* Skill: 
+  * Upon airstrike launch, scramble [two rocket fighters](https://streamable.com/3dznp4).
+    * The 12 ROCKETS deal 198 bdmg with 160/110/80 mods, and have a 60% chance to inflict a special Ignition on enemies struck. They are modified by 100% of the unit's Aviation stat.
+  * Take -60% dmg for the first 4 hits sustained during a battle. Upon battle start and every 20s afterwards, grant the lead vanguard a hitshield (blocks up to 6 hits, lasts 8s).
+  * Gain +10% Aviation. If deployed with 2+ CV/L, the flagship takes -15% dmg.
+  * Has a 3/3/2 loadout.
+
+* Desc: The defender nobody asked for.
+>Another Essex-class, another flop of a kit. Though certainly nowhere near as poorly designed as Intrepid's - the guaranteed (and admittedly powerful) rocket plane barrage is a definite improvement, as is the not-swapping set of buffs - this one focuses decidedly on defences. Big mistake.  
+Her second skill is basically an empty slot. Under most circumstances the already low damage she'd sustain from incoming planes would waste the hefty reduction, and as a carrier she is at no real risk of getting shot at by BBs, taking the first half of the skill moot; as for the second half, it's a hitshield with a long cooldown and low durability. It'll be of little to no help.  
+Her third skill is somewhat better, even if it enforces the use of carriers (though notably, not necessarily USS ones). If you fear for the safety of your flagship, she may be a good idea... but so is taking stronger units in your comp.
  
 ![CV](/Images-for-the-Guide/YorktownChibi.png "USS Yorktown") - **[USS Yorktown](https://azurlane.koumakan.jp/Yorktown)**
 * Skill: 
