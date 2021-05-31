@@ -730,7 +730,7 @@ Also, she can defend a fellow vanguard that's taking too many hits. That's okay.
 >A slightly sturdier than usual Cleveland who performs better rather than worse when planes are around.  
 Not much to say about her, she's solid and unremarkable like the rest of her class (Montpelier notwithstanding).
 
-![CL](/Images-for-the-Guide/DenverChibi.png "Boise") - **[USS Boise](https://azurlane.koumakan.jp/Boise)**
+![CL](/Images-for-the-Guide/BoiseChibi.png "Boise") - **[USS Boise](https://azurlane.koumakan.jp/Boise)**
 * Role:
   * **Very high Gun DPS**, medium self-healing tank.
 
