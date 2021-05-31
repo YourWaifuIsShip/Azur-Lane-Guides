@@ -3266,7 +3266,7 @@ About all of them... don't mind the slower torpedoes, it's actually a benefit ra
 >A rather diverse bunch of girls, these ones, but they all share a trait - their Oxygen tanks are ample enough to accommodate for two full Mark 16 torpedo volleys, which means they can safely be ran with dual Oxygen Torpedoes.  
 *About I-58...* she is a solid starter, as she gets a special barrage to go along the extra O2.
 
- #### ![SS](/Images-for-the-Guide/ArcherfishChibi.png "Archbish") - [IJN I-25](https://azurlane.koumakan.jp/Archerfish)
+ #### ![SS](/Images-for-the-Guide/ArcherfishChibi.png "Archbish") - [USS Archerfish](https://azurlane.koumakan.jp/Archerfish)
 * Skill: 
   * Deal +15% dmg to Heavy Armour. Also, if sortied with 2+ USS subs, grant +15% CritDmg and +8% Torp/Acc to all USS subs.
   * Gain +20 O2 and launch a barrage when surfacing.
