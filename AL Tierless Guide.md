@@ -2641,16 +2641,17 @@ All that said, when she's good, she's REALLY good.
 >One of the best solo CV currently in the game, courtesy of her solid statline and a skill that can reliably lay the smackdown on waves and airwings alike - as well as provide some emergency damage absorption against incoming aircraft or even shelling.
 It's not all bombs and sunshine, though - while her proc rate is high, she is nevertheless very reliant on that proc to perform and her generalist Efficiencies tend to blunt her effectiveness somewhat.
 
-![CVL](/Images-for-the-Guide/IndependenceChibi.png "Independence") - **[USS Independence](https://azurlane.koumakan.jp/Independence)**
+![CVL](/Images-for-the-Guide/Independence_KaiChibi.png "Independence Kai") - **[USS Independence Kai](https://azurlane.koumakan.jp/Independence#retrofit)**
 * Skill: 
-  * Gains +15% Efficiency on a slot when using USS planes
-  * Upon airstrike launch, scramble a TBF Avenger torpedo bomber; also, if sortied with at least 1 Cleveland-class CL, grant them +8% FP and gain +15% Accuracy/Aviation and launch 2 TBF Avengers instead.
-  * Has a 3/0/3 loadout.
+  * Gains +15% Efficiency on a slot when using USS planes.
+  * Upon airstrike launch, scramble two TBF Avenger torpedo bombers; also, if sortied with at least 1 Cleveland-class CL, grant them +8% FP and gain +15% Accuracy/Aviation and launch 4 TBF Avengers instead.
+  * Enhances the TBF barrage (see above). So long as this unit is alive, grant +12% Aviation and +10% Reload to all CV/L in the fleet and accelerate this unit's first airstrike by 25%; also, grant +8% Aviation/Reload to carriers in other fleets (+4% in OpSi). Does NOT stack with Casablanca's own skill.
+  * Has a 4/0/4 + AA loadout.
 
 * Desc: 
->Very solid statline, extremely high efficiency planes and a plane barrage? That sounds too good to be true. Where's the catch?  
-Well, beyond her being a CVL (ie. less planes, inferior statline compared to CVs), there really isn't one - beyond 'having' to take a Cleveland-class CL along to get the most of out of her 'barrage' (which is just one/two planes), which is a mutually beneficial relationship anyway, and having to mount US planes for similar reasons, which still ends up working in her favour.  
-Tip - if you don't have the VT-8, resist the temptation to give her the regular TBF Avenger, as its cooldown is bad enough to make the usual Barracuda/Ryuusei still preferable, despite the Eff drop.
+>Now armed with 8 planes and retaining her AA guns, plus an improved barrage and enhanced support capabilities, here's little civil about this CVL.  
+One wonders what USS CV have done wrong for deserving their fleets' CVLs outshining them at every turn, but it is what it is; for the record, even with the improved (parallel) barrage, bringing a Cleveland-class CL remains a somewhat iffy prospect as they're kind of lacking and Independence doesn't particularly need the help either.  
+Likewise, do not feel forced to take a USS TB; the usual suspects (Tenzan, Ryusei, JU D4 and Wyverns) are still much superior options, +15% Efficiency be damned.
 
 ![CV](/Images-for-the-Guide/IntrepidChibi.png "Intepid") - **[USS Intrepid](https://azurlane.koumakan.jp/Intrepid)**
 * Role: 
