@@ -1781,7 +1781,7 @@ While the damage boosts are undoubtedly good and allow her to perform optimally 
 If you're sick of seeing your poor vanguard get turned inside out, Zara is the solution to your problems.
 
 
-![CA](/Images-for-the-Guide/Chibi.png "Tallinn") - **[SN Tallinn](https://azurlane.koumakan.jp/Tallinn)**
+![CA](/Images-for-the-Guide/TallinnChibi.png "Tallinn") - **[SN Tallinn](https://azurlane.koumakan.jp/Tallinn)**
 * Roles:
   * **Twin shield heavy tank**, above average Gun+Barrage DPS, low Torp DPS.
 
@@ -2644,7 +2644,7 @@ All that said, when she's good, she's REALLY good.
 >One of the best solo CV currently in the game, courtesy of her solid statline and a skill that can reliably lay the smackdown on waves and airwings alike - as well as provide some emergency damage absorption against incoming aircraft or even shelling.
 It's not all bombs and sunshine, though - while her proc rate is high, she is nevertheless very reliant on that proc to perform and her generalist Efficiencies tend to blunt her effectiveness somewhat.
 
-![CVL](/Images-for-the-Guide/Independence_KaiChibi.png "Independence Kai") - **[USS Independence Kai](https://azurlane.koumakan.jp/Independence#retrofit)**
+![CVL](/Images-for-the-Guide/IndependenceKaiChibi.png "Independence Kai") - **[USS Independence Kai](https://azurlane.koumakan.jp/Independence#retrofit)**
 * Skill: 
   * Gains +15% Efficiency on a slot when using USS planes.
   * Upon airstrike launch, scramble two TBF Avenger torpedo bombers; also, if sortied with at least 1 Cleveland-class CL, grant them +8% FP and gain +15% Accuracy/Aviation and launch 4 TBF Avengers instead.
