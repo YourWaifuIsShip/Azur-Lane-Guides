@@ -71,9 +71,12 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (02/05/2021)
+## Changelog as of last major update (31/05/2021)
 
-- RN Vittorio Veneto, Aquila, Duca degli Abruzzi, Nicoloso da Recco, Libeccio, Maestrale added.
+- USS Boise, San Francisco, New Jersey, Ticonderoga added.
+- USS Independence's entry has been revised to describe her Kai status and improvements.
+- SN Murmansk has been added. For reasons.
+- USS Denver has been dropped from the Guide due to irrelevance.
 
 <br/><br/>
 ---
