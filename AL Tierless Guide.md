@@ -74,7 +74,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 ## Changelog as of last major update (27/06/2021)
 
 - IJN Kazagumo has been added to the guide.
-- 
+
 <br/><br/>
 ---
 <br/><br/>
