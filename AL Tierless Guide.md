@@ -3114,8 +3114,8 @@ However, invincibility *can* go where no bubble has gone before in EX maps...
 #### ![CV](/Images-for-the-Guide/Akagi_(Muse)Chibi.png "Musikagi") - [Muse Akagi](https://azurlane.koumakan.jp/Akagi_(Muse))
 * Skill: 
   * 10s after launching her first airstrike and depending on the amount (odd/even) of Muse units in the fleet, launch a dive bomber/torpedo bomber barrage.
-    * The 3 500lb BOMBS deal 226bdmg w/ 80/90/110 mods; the 6 100lb BOMBS deal 96 bdmg w/ 80/85/100 mods. Both are modified by 80% of the unit's Aviation stat.
-    * The 6 AIRTORPS deal 240 bdmg w/ 80/110/130 mods. They are modified by 80% of the unit's Aviation stat.
+    * The 6 500lb BOMBS deal 226bdmg w/ 80/90/110 mods; the 12 100lb BOMBS deal 96 bdmg w/ 80/85/100 mods. Both are modified by 80% of the unit's Aviation stat.
+    * The 12 AIRTORPS deal 240 bdmg w/ 80/110/130 mods. They are modified by 100% of the unit's Aviation stat.
   * Her first airstrike's cooldown is reduced by 40%; also, gain +10% Aviation for every other Muse unit in the fleet, up to +40%.
   * Has a 3/2/3 loadout.
 
