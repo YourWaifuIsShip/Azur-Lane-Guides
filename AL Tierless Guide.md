@@ -266,7 +266,7 @@ Forget about the self-buff if sortied with Akatsuki-class DDs, they aren't worth
 
 * Desc: *Ey, I'm torpin' 'ere!*
 >A cut above most other CV/L cheerleaders and considerably more reliable than most other IJN Torp-DDs, owing to her very solid statline and torpedo spread acceleration gimmick. Burst damage is good and all, but sometimes you'd rather just pop more than pop harder - and mob fleets tend to be carrier territory more so than big guns'.  
-Her regular barrage is also fairly ideal for the task and is the main incentive for using accelerators such as the usual 120x1 or 76x1, dealing fairly significant damage on [a linear, reasonably narrow](https://i.postimg.cc/6QPswLSc/image-2021-06-27-130517.png) pattern.  
+Her regular barrage is also fairly ideal for the task and is the main incentive for using accelerators such as the usual 120x1 or 76x1, dealing fairly significant damage on [a linear, reasonably narrow](https://gyazo.com/a02b1d4b0388a01dec99ebadfc105362) pattern.  
 Don't ask about the Brooklyn accent. Blame Littorio's mistress.
 
 ![DD](/Images-for-the-Guide/KawakazeChibi.png "Not Shirakami Fubuki") - **[IJN Kawakaze](https://azurlane.koumakan.jp/Kawakaze)**
