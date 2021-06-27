@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (F-CK HOTELS EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (THE CHARGE OF THE LOLI BRIGADE EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, dinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -71,13 +71,10 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (31/05/2021)
+## Changelog as of last major update (27/06/2021)
 
-- USS Boise, San Francisco, New Jersey, Ticonderoga added.
-- USS Independence's entry has been revised to describe her Kai status and improvements.
-- SN Murmansk has been added. For reasons.
-- USS Denver has been dropped from the Guide due to irrelevance.
-
+- IJN Kazagumo has been added to the guide.
+- 
 <br/><br/>
 ---
 <br/><br/>
@@ -258,6 +255,18 @@ Forget about the self-buff if sortied with Akatsuki-class DDs, they aren't worth
 
 * Desc: 
 >Widely available early on and blessed with both excellent skills and a very solid statline, Kagerou has a place in every torp-heavy frontline (torp-CA in particular, as they typically do not have access to torpedo buffs). Her Kai is more of a slight upgrade than a massive change, with her skill being middling at best, but the extra stats are appreciated nonetheless.
+
+![DD](/Images-for-the-Guide/KazagumoChibi.png "Small Hands Gumo") - **[IJN Kazagumo](https://azurlane.koumakan.jp/Kazagumo)**
+* Roles:
+  * **Strong CV/L cheerleader, torpedo spammer**. High torpedo DPS.
+
+* Skill:
+  * Gain +5% Torp and +15% Reload; also, whenever this unit launches her regular barrage, take 3s away from the unit's torpedo cooldown.
+  * Grant +15% damage to CV/L (DOES NOT STACK with the generic +15% damage to CV/L skill). Upon firing the 4th torpedo spread, heal the CV/L with the lowest HP by 10% of its max HP, and if the flagship is a CV, the unit will be healed by +15% of its max HP instead.
+
+* Desc: 
+>A cut above most other CV/L cheerleaders and considerably more reliable than most other IJN Torp-DDs, owing to her very solid statline and torpedo spread acceleration gimmick. Burst damage is good and all, but sometimes you'd rather just pop more than pop harder - and mob fleets tend to be carrier territory more so than big guns'.  
+Her regular barrage is also fairly ideal for the task and is the main incentive for using accelerators such as the usual 120x1 or 76x1, dealing fairly significant damage on [a linear, reasonably narrow](https://cdn.discordapp.com/attachments/367307557796053002/858581728776159232/video0.mov) pattern.
 
 ![DD](/Images-for-the-Guide/KawakazeChibi.png "Not Shirakami Fubuki") - **[IJN Kawakaze](https://azurlane.koumakan.jp/Kawakaze)**
 * Skill:
