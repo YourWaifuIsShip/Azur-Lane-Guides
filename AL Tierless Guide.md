@@ -2543,7 +2543,7 @@ What does this mean in practice? It means that Rossiya is very comparable to Lit
 While she is indeed much stronger and better suited to moBBing duties by virtue of the oodles of barrages on demand (with the proc-on-fire one being the more relevant one), her healing capabilities are, for the most part, nothing worth writing home about *unless* you mean to sortie duo fleets.  
 As it happens, duo fleets are a mainstay for farming, and thus Honoka finds herself fitting a valuable niche. Fortunate!
 
-![BB](/Images-for-the-Guide/Iori_MinaseChibi.png "Generic Moeblob") - **[Iori Minase](https://azurlane.koumakan.jp/Iori Minase)**
+![BB](/Images-for-the-Guide/Iori_MinaseChibi.png "Generic Moeblob") - **[Iori Minase](https://azurlane.koumakan.jp/Iori_Minase)**
 * Roles:
   * **Sideline BBarrager, 1:1 Princess, Very High Gun DPS**; minor defence booster, minor healer.
 
