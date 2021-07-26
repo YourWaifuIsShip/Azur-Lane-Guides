@@ -1349,6 +1349,19 @@ Solid statline, if nothing else, and if murdering CL is on the table... maybe sh
 * Desc: 
 >Cleveland-class inspired CL. Solid gunnery with a clear use case in DoA comps, less so outside of them (where she's just a slightly stronger Cleve with even poorer AA).
 
+![CL](/Images-for-the-Guide/Haruka_ AmamiChibi.png "Generic Moeblob") - **[Haruka Amami](https://azurlane.koumakan.jp/Haruka_Amami)**
+* Roles:
+  * **Heavy tank, healer**; average DPS.
+
+* Skill:
+  * Every 1s, 10% chance to lose 43 HP; if this happens after 3s, heal this unit and the unit with the lowest HP in the fleet by 5% of their max HP. This can only happen twice per battle.
+  * Upon launching the second torpedo spread of the battle, all enemies on screen take +15% damage for 5s; afterwards, when this unit launches a torpedo spread, it takes -8% damage until the end of the battle (up to -16%).
+  * Every 15s fire a [barrage](https://streamable.com/xapoio).
+    * The 36 BALLS deal 22 bdmg with 135/95/70 mods; the 6 AIMED GLOWSTICKS deal 45 bdmg with 80/100/130 mods; their damage is modified by 100% of the unit's relevant stat.
+
+* Desc: 
+>Cleveland-class inspired CL. Solid gunnery with a clear use case in DoA comps, less so outside of them (where she's just a slightly stronger Cleve with even poorer AA).
+
 #### ![CL](/Images-for-the-Guide/Ping_HaiKaiChibi.png "Ping Hai Kai") ![CL](/Images-for-the-Guide/Ning_HaiKaiChibi.png "Ning Hai Kai") ![CL](/Images-for-the-Guide/Yat_SenChibi.png "Yat Sen") - [ROC Ping Hai Kai](https://azurlane.koumakan.jp/Ping_Hai#retrofit), [ROC Ning Hai Kai](https://azurlane.koumakan.jp/Ning_Hai#retrofit), [ROC Yat Sen](https://azurlane.koumakan.jp/Yat_Sen)
 * Roles:
   * **Heavy tanks (if sortied with Yat Sen)**, average Gun DPS, low Torp DPS. Go squish if Ignited.
@@ -1816,7 +1829,22 @@ In any case, Tallinn is exceptionally bulky, *even* by the lofty standards of ta
 >Ah yes, good old nippon steel sakura petals. Just as good as warship secondary guns, who knew?  
 Kasumi isn't a particularly imaginative unit; very tough owing to her meaty statline, respectably armed with IJN-grade CA torps and solid guns (for a Torp-CA), she performs much like a Portland with less of a concern for shields and some more for auto play, even if the aimed barrage kind of alleviates it.  
 Nothing spectacular, but still very capable.  
- 
+
+  ![CA](/Images-for-the-Guide/Miura_AzusaChibi.png "Generic Moeblob") - **[Miura Azusa](https://azurlane.koumakan.jp/Miura_Azusa)**
+* Roles:
+  * **High Gun or Very High Gun DPS, medium or heavy tank**, minor backline defender. Effectivness slightly dependent on RNG.
+
+* Skill:
+  * Upon main gun fire, 30% chance to deal +50% damage with them for 3s and gain +15% AA for 5s. The skill has a 5s cooldown. 
+  * Backliners take -5% damage; also, upon battle start, a random bonus is picked (+12% Eva / +12% Acc / +12% FP / self-heal by 15% of max HP).
+  * Every 20s after the start of the battle, launch... [whatever this is](hhttps://streamable.com/fg797i). If the unit is alone in the vanguard, its speed falls to 0 for 2s.
+    * The 9 SWIRLING BALLS deal 35 bdmg with 135/95/70 amods. They are modified by 100% of the unit's FP.
+
+* Desc: 
+>Azusa draws more than a few comparison to Bremerton for her similar kit, especially in regard to her first skill and a slight focus on backline defence; whereas the USN cheerleader does it by shooting planes down, Azusa prefers to slightly raise their defence passively while she runs (RNG) buffs on herself.  
+A strong statline allows her to capitalise well on said buffs, although the +Acc is by most indications the useless roll and the heal loses value if she is not damaged (and if she is, it does not compete with real heals).  
+At any rate, tough and dependable in spite of the RNG buffs - and RNG willing, she will be very good.
+
  ![CA](/Images-for-the-Guide/Elegant_Kizuna_AIChibi.png "CAkyu") - **[Elegant Kizuna AI](https://azurlane.koumakan.jp/Elegant_Kizuna_AI)**
 * Roles:
   * **Portland knock-off**.
@@ -2514,6 +2542,19 @@ What does this mean in practice? It means that Rossiya is very comparable to Lit
 While she is indeed much stronger and better suited to moBBing duties by virtue of the oodles of barrages on demand (with the proc-on-fire one being the more relevant one), her healing capabilities are, for the most part, nothing worth writing home about *unless* you mean to sortie duo fleets.  
 As it happens, duo fleets are a mainstay for farming, and thus Honoka finds herself fitting a valuable niche. Fortunate!
 
+![BB](/Images-for-the-Guide/Iori_MinaseChibi.png "Generic Moeblob") - **[Iori Minase](https://azurlane.koumakan.jp/Iori Minase)**
+* Roles:
+  * **Sideline BBarrager, 1:1 Princess, Very High Gun DPS**; minor defence booster, minor healer.
+
+* Skill:
+  * Deal +15% damage to Heavy Armour. Also, upon main gun fire, launch [two randomly aimed salvo](https://streamable.com/1th7l3).
+    * The 3 HE NOTES deal 180 bdmg with 135/100/90 amods; the 3 AP NOTES deal 220 bdmg with 65/125/120 amods. Both are modified by 100% of the unit's FP.
+  * Upon battle start, the unit and a random other unit in the fleet take -12% damage for 30s; afterwards, the other unit is healed by 10% of its max HP.
+
+- Desc: 
+>Iori steals the idol spotlight by rocking onto the scene a convenient 1:1-friendly setup, owing to her defence buff with attached heal and a very strong (if somewhat unreliable in terms of targeting) aimed barrage. Give her a fast gun and let her rip!  
+That aside, she's a very straightforward BB, and with the aimed nature of the barrage, one that may easily find employment in many fleets.
+
 ![BB](/Images-for-the-Guide/Super_Gamer_Kizuna_AIChibi.png "BBakyu") - **[Super Gamer Kizuna AI](https://azurlane.koumakan.jp/Super_Gamer_Kizuna_AI)**
 * Roles:
   * High DPS (high Gun DPS, below average Barrage DPS).
@@ -3080,6 +3121,23 @@ Serviceable enough.
 >An adequate carrier with no readily distinguishable quality, she doesn't DPS particularly hard (or much, for that matter) nor does she support particularly well; she's competent enough at her job and flings some extra planes about on airstike, but that's kind of it.  
 She's not *bad* per se, but she's not that good or useful either.
 
+ #### ![CV](/Images-for-the-Guide/Chihaya_KisaragiChibi.png "Generic Moeblob") - [Kisaragi Chihaya](https://azurlane.koumakan.jp/Ookami_Mio)
+* Role:
+ * **Mob fleet wave bomber, high Aviation damage**.
+
+* Skill: 
+  * The unit's first [airstrike barrage](https://streamable.com/ptuyl8) in a battle launches at 80% chance, increasing to 100% from the second onwards; alternatively, if 2+ Idolmaster units are present, it starts at 100%.
+    * The 48 CARPET BOMBS deal 200 bdmg with 100/100/100 amods; they are dropped in lines of 4, slowly creeping forward. The damage is modified by 100% of the unit's Aviation stat.
+    * The 6 AIMED TORPEDOES deal 240 bdmg with 80/100/130 armour mods. The damage is modified by 100% of the unit's Aviation stat.
+  * Gain a +5% Aviation / Reload stack (up to +15%) for every enemy unit destroyed. If 2+ Idolmaster units are present, the unit starts with full stacks.
+  * The unit's first airstrike launches 30% faster. All Idolmaster units in the fleet take -10% damage.
+  * Has a 2/3/3 loadout.
+
+* Desc: 
+>An adequate carrier with no readily distinguishable quality, she doesn't DPS particularly hard (or much, for that matter) nor does she support particularly well; she's competent enough at her job and flings some extra planes about on airstike, but that's kind of it.  
+She's not *bad* per se, but she's not that good or useful either.
+ 
+ 
 ### Honourable Mentions:
 ---
 #### ![CVL](/Images-for-the-Guide/BogueKaiChibi.png "USS Bogue Kai") - **[USS Bogue Kai](https://azurlane.koumakan.jp/Bogue)**
