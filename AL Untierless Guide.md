@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's highly opinionated and extra-biased AL Untierless Guide (LUNAR THIRD YEAR EDITION)
+# Your Waifu is SHIP's highly opinionated and extra-biased AL Untierless Guide (IDOLMASTER EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_  
 
@@ -7,6 +7,14 @@ Well, dear reader, barring an accidental deletion on my part I am sorry to say t
 Not to despair, though! As mentioned in the Tier Guides, even untiered units can be put to use (though they won't make it easy on you), but if you'd like to have a clearer picture of who didn't make the cut and why, here's a shortlist for it.
 
 ---
+[26/07/2020]
+> Ami and Mami Futaba join the Untierless Guide on account of being... **painfully generic**.
+- Really, they're just purple subs. They do nothing special and lack offensive skills, though if you want to be generous, you could say they help a vanguard hanging onto dear life just by being summoned.
+
+> Akizuki itsuko joins the Untierless Guide on account of being... **a munitions ship**.
+- Why do they insist with this failed concept? Granted, this one is considerably better than Kashino ***in an Idolmaster fleet below 4 Idols*** since she can pack a decent punch with all the FP buffs and the legitimately good Idolmaster-focused debuff, but she's still a munition ship.
+- Can't fight properly, can't tank properly. Could be worth some consideration in an Idolmaster fleet, if you keep it small, but very questionable regardless.
+
 [10/02/2020]
 > ROC Ying Swei and Chao Ho join the Untierless Guide on account of being modern day Ping Hai and Ning Hai... except Yat Sen does not work on them.
 - Could've been good, those two (mostly Ying Swei); they have a decent complement of guns and barrages to provide a solid baseline for a Kai, and something for the obscene-but-mandatory buffs to work with, and are mechanically interesting with their eschewing normal AA guns for terrible torpedoes (would be an improvement, since most CL aren't good at shooting up anyway and giving up the pretense is better than the alternative).
