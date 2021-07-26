@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (THE CHARGE OF THE LOLI BRIGADE EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (IDOLMASTER EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, dinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -71,9 +71,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (27/06/2021)
+## Changelog as of last major update (26/07/2021)
 
-- IJN Kazagumo has been added to the guide.
+- Haruka Amami, Miura Azusa, Chihaya Kisaragi, Iori Minase have all been added.
 
 <br/><br/>
 ---
