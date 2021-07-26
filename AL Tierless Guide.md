@@ -1349,7 +1349,7 @@ Solid statline, if nothing else, and if murdering CL is on the table... maybe sh
 * Desc: 
 >Cleveland-class inspired CL. Solid gunnery with a clear use case in DoA comps, less so outside of them (where she's just a slightly stronger Cleve with even poorer AA).
 
-![CL](/Images-for-the-Guide/Haruka_ AmamiChibi.png "Generic Moeblob") - **[Haruka Amami](https://azurlane.koumakan.jp/Haruka_Amami)**
+![CL](/Images-for-the-Guide/Haruka_AmamiChibi.png "Generic Moeblob") - **[Haruka Amami](https://azurlane.koumakan.jp/Haruka_Amami)**
 * Roles:
   * **Heavy tank, healer**; average DPS.
 
@@ -1360,7 +1360,8 @@ Solid statline, if nothing else, and if murdering CL is on the table... maybe sh
     * The 36 BALLS deal 22 bdmg with 135/95/70 mods; the 6 AIMED GLOWSTICKS deal 45 bdmg with 80/100/130 mods; their damage is modified by 100% of the unit's relevant stat.
 
 * Desc: 
->Cleveland-class inspired CL. Solid gunnery with a clear use case in DoA comps, less so outside of them (where she's just a slightly stronger Cleve with even poorer AA).
+>A very defensively-oriented CL, Haruka Amami exists to tank hits, patch herself up and merrily keep chugging along like it's no big deal.  
+As hard to shift as she can be, bear in mind her offensive kit is lacklustre - her average HMS CL-like statline doesn't do her any favours and her barrage works best on a packed screen.
 
 #### ![CL](/Images-for-the-Guide/Ping_HaiKaiChibi.png "Ping Hai Kai") ![CL](/Images-for-the-Guide/Ning_HaiKaiChibi.png "Ning Hai Kai") ![CL](/Images-for-the-Guide/Yat_SenChibi.png "Yat Sen") - [ROC Ping Hai Kai](https://azurlane.koumakan.jp/Ping_Hai#retrofit), [ROC Ning Hai Kai](https://azurlane.koumakan.jp/Ning_Hai#retrofit), [ROC Yat Sen](https://azurlane.koumakan.jp/Yat_Sen)
 * Roles:
