@@ -2505,7 +2505,7 @@ Just don't ask her to handle boss fights if you can help it, and if you do, make
 * Skill:
   * On main gun fire, 75% chance to fire a [barrage](https://streamable.com/xxcq54); if the proc fails, gain +50% AA until main gun fire.
     * The 14 ICEBERGS deal 164 bdmg with 90/100/110 mods and inflict -40% Speed *and* a very minor 2x23 Flood DoT, 4s long. The damage of all of these is modified by 100% of the unit's FP, except for the Flood (no scaling).
-  * If above 60% HP, gain +20% FP and reduce Ignition durations on herself by -3s; if below 50% HP and twice per battle, self-heal by 12% of max HP over 8s. From the 2nd fight and onward, vanguard units take -8% damage.
+  * If above 60% HP, gain +20% FP and reduce Ignition durations on herself by -3s; if below 50% HP and twice per battle, self-heal by 9% of max HP over 8s. From the 2nd fight and onward, vanguard units take -8% damage.
 
 - Desc: 
 >Northern Parliament units have a reputation for being tough customers. While that is not quite the case, barring some exceptions such as Tashkent (relatively speaking) and Tallinn, Belorussiya sets out to singlehandedly justify the rumours by sporting a downright impressive defensive tooklit: Ignitons last less so long as she's above 60% HP, her AA kicks into high gear if her barrage fails to proc (won't be shooting down much, like most BBs out there, but it'll let her tank planes better), and of course she gets to heal 12% of her max HP back if hit when below 50% HP... *twice* per battle; and since she's got more where all that came from, her vanguards also get to enjoy a -8% damage taken buff from the second fight onward.  
