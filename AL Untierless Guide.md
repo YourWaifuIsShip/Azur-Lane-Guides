@@ -7,7 +7,14 @@ Well, dear reader, barring an accidental deletion on my part I am sorry to say t
 Not to despair, though! As mentioned in the Tier Guides, even untiered units can be put to use (though they won't make it easy on you), but if you'd like to have a clearer picture of who didn't make the cut and why, here's a shortlist for it.
 
 ---
-[26/07/2020]
+[18/09/2021]
+> Katsuragi joins the Untierless Guide on account of being... **a testbed for PvP skills**.
+- This one has been the subject of some debate. Not because she's good, of course, but because she is interestingly bad.
+- Her kit seems to have been designed with PvP in mind, specifically around preserving concealement and debuffing Acc/Rld (which are of some importance in PvP and none in PvE). The damage reduction for carriers is a lot less interesting and about as relevant as all backline defensive skills are, that is to say they're note.
+- Her damage output isn't that bad, per se, but as she lacks offensive buffs and half her barrage is better at looking pretty than destroying things, she's bound to fall behind.
+
+
+[26/07/2021]
 > Ami and Mami Futaba join the Untierless Guide on account of being... **painfully generic**.
 - Really, they're just purple subs. They do nothing special and lack offensive skills, though if you want to be generous, you could say they help a vanguard hanging onto dear life just by being summoned.
 
@@ -15,16 +22,16 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 - Why do they insist with this failed concept? Granted, this one is considerably better than Kashino ***in an Idolmaster fleet below 4 Idols*** since she can pack a decent punch with all the FP buffs and the legitimately good Idolmaster-focused debuff, but she's still a munition ship.
 - Can't fight properly, can't tank properly. Could be worth some consideration in an Idolmaster fleet, if you keep it small, but very questionable regardless.
 
-[10/02/2020]
+[10/02/2021]
 > ROC Ying Swei and Chao Ho join the Untierless Guide on account of being modern day Ping Hai and Ning Hai... except Yat Sen does not work on them.
 - Could've been good, those two (mostly Ying Swei); they have a decent complement of guns and barrages to provide a solid baseline for a Kai, and something for the obscene-but-mandatory buffs to work with, and are mechanically interesting with their eschewing normal AA guns for terrible torpedoes (would be an improvement, since most CL aren't good at shooting up anyway and giving up the pretense is better than the alternative).
 - Alas, what propped up Ping/Ning even after the Kai was the ludicrous EvaRate buff granted by Yat Sen, turning them into a somewhat shooty wall for simpler times; these have no such fortune, and bite the dust very quickly without contributing much along the way because of their atrocious statline.
 
-[27/01/2020]
+[27/01/2021]
 > RN Vincenzo Gioberti joins the Untierless Guide on account of her atrocious statline.
 - The highly cursed amalgam of HMS DD efficiencies (mediocre guns, above average torps) and French contretorpeilleur stats (high FP, middling torpedoes) ensures she is left desperately wanting for DPS. The 30s barrage, while pretty strong, is also on a 30s cooldown and therefore woefully inadequate as a substitute.
 
-[01/10/2020]
+[01/10/2021]
 > IJN Kashino joins the Untier Guide on account of her being the worst designed unit since Repair Ships.
 - Statline. Look at it. Just look at it, the pathetic 76 FP at lv120 on a piddly single DD gun mount and no secondaries of any sort to speak of; or marvel at the nonexistent AA, even for the depressing IJN standards in the field, or the subpar Evasion even at level cap, or the pathetic ***14*** speed if she's not in an IJN fleet.  
 - Skills. Her purpose as an ammo vessel, purportedly, would be to support the fleet. She is meant to do that with special pieces of gear granting buffs to certain hull classes. Suffice to say, the buffs are abysmal and in no way make up for the pathetic unit carrying them, and her actual skills only slightly make her tougher instead of helping the rest of the fleet.
