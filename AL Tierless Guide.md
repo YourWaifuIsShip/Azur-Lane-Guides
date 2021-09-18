@@ -71,9 +71,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (26/07/2021)
+## Changelog as of last major update (18/09/2021)
 
-- Haruka Amami, Miura Azusa, Chihaya Kisaragi, Iori Minase have all been added.
+- USS Ingraham, IJN Shimakaze, IJN Yura, IJN Chikuma have all been added.
 
 <br/><br/>
 ---
