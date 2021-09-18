@@ -83,7 +83,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 ---
 ![DD](/Images-for-the-Guide/Allen_M._SumnerChibi.png "Allen") - **[USS Allen M. Sumner](https://azurlane.koumakan.jp/Allen_M_Sumner)** 
 * Roles:
-  * **Medium AA carry, AA buffer, generalist DD**; light tank, above average DPS (split between guns, torps and barrages).
+  * **Medium AA carry, AA buffer, generalist DD**; light tank, high DPS (split between guns, torps and barrages).
 
 * Skill:
   * Ignitions taken last -3s and deal +15% dmg to Light Armour. Every 20s, 70% chance to fire a [mixed barrage](https://streamable.com/97g703) and grant +20% AA to the entire fleet for 8s.
@@ -151,6 +151,23 @@ Meme but alright.
 
 * Desc: 
 >Lynchpin of the Fletcher Trio, think of her as an USS Z1 with a greater focus on gunnery as opposed to torps, as befitting her nation's doctrine. Very solid and dependable, but obviously better with other Fletchers.
+
+![DD](/Images-for-the-Guide/Ingraham.png "Allen") - **[USS Ingraham](https://azurlane.koumakan.jp/Ingraham)** 
+* Roles:
+  * **Medium AA carry, AA buffer, generalist DD**; light tank, minor healer, above average DPS (split between guns, torps and barrages with a slant towards torpedoes).
+
+* Skill:
+  * 3s after the start of the battle and every 20s afterwards...
+    *  Fire a special barrage.
+    *  Spawn two stationary shields blocking up to 10 hits.
+    *  Heal the vanguard with the lowest HP by 0.5% of its max HP thrice over 10s.
+    *  Grant +15% AA to the fleet for 10s.
+  * Gain AA equal to 50% of the unit's Torpedo stat (after equipment). Take -15% Ignition damage. Heal by 1% of her max HP every 15s.
+
+- Desc: MCH represent.
+>A tinkerer at heart, Ingraham proclaims her love for toolboxes by throwing a whole lot of bits of skills in your general direction. Not all of it lands.  
+While it's easy to mistake all that stuff for liquid gold, only the barrage and the AA portions of her kit are particularly worthy of note - the heals are very minor, the Ignition protection accomplishes predictably little since vanguards are rarely subject to high power BB fires, and the shields are garbage as ever.  
+On the other hand Ingraham's got the excellent AA mount Sumner does, and unlike Sumner she can load up on Oxygen Torpedoes (almost) guilt-free thanks to the Torp to AA conversion, thus preserving her damage output while demolishing planes with ease.
 
 ![DD](/Images-for-the-Guide/LaffeyKaiChibi.png "Gun Bun") - **[USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)**
 * Roles:
@@ -327,6 +344,21 @@ Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Eff
 - Desc: Javelin has been obsoleted. Again.  
 >Poor starter just can't catch a break - first Yukikaze big dicks everyone else in her class (and beyond) in terms of sheer eHP while bringing good DPS and remarkable support, then Shigure joins in by either providing a higher-damage off-tank solution or by acting as a Yukikaze-lite if she's on her own.  
 That aside, she behaves in the usual IJN DD fashion - no torps means no DPS, so make the spreads count.
+
+![DD](Images-for-the-Guide/ShimakazeChibi.png "Shimakaze") - **[IJN Shimakaze](https://azurlane.koumakan.jp/Shimakaze)**
+* Roles:
+  * **Strongest Torpedo platform in the game. Double Torpedo preloader. Cross-fleet barrager.** Cross-fleet DD buffer.
+
+* Skill:
+  * Upon Torpedo launch: execute a [special barrage](https://streamable.com/bx0ox9).
+    * The 3 SLASHES deal 85 bdmg with 100/100/100 mods; the 5 TORPEDOES deal 120 bdmg with 80/100/130 mods. The SLASHES debuff enemies hit, increasing the damage they take from Shimakaze by 8% for 3s; the TORPEDOES inflict a special Flooding dealing 358 dmg over 6s.
+  * Upon battle start and every time torpedoes go off cooldown: all for 10s, take -15% damage and deal +12% damage with the equipped torpedoes. Also, every vanguard unit gains +3 Speed for 10s.
+  * Gain +15% Accuracy and take -10% Torpedo damage. When other fleets fight, a [cross-fleet barrage](https://streamable.com/q47wxr) launches 30s after the start. DDs in other fleets gain +10% Torpedo stat.
+  * Has **double** preloaded torpedoes, like Ibuki.
+
+- Desc: The pinnacle of IJN Torp-DD tech. 
+>Obscenely strong, loaded to the gills with torpedoes and willing to share them with friends, no matter where they are (yes, there are your meme 20km Shimakaze torp drops), completely inept with guns.  If you're having Ayanami flashbacks, good - you're paying attention.   
+Equip and use her the same way and you'll do just fine, but don't forget about the cross-fleet parts of her kit!  
 
 ![DD](/Images-for-the-Guide/ShiranuiKaiChibi.png "Shiranui Kai") - **[IJN Shiranui Kai](https://azurlane.koumakan.jp/Shiranui#Retrofit)**
 * Skill:
@@ -1194,6 +1226,21 @@ About the only flaw she has, if we're feeling nitpicky, is not being as helpful 
 >A slightly weaker Jintsuu who stole a few notes from Aurora's book.   
 Her statline is still damn good, though, and their buffs can stack - as do the -EvaRate debuffs, if you REALLY want to stick it to those DD in PvP.
 
+![CL](/Images-for-the-Guide/YuraChibi.png "Yura") - **[IJN Yura](https://azurlane.koumakan.jp/Yura)**
+* Roles:
+  * **DD buffer, above average DPS (Torpedo-focused, barrage reliant)**, vanguard healer (conditional), light AA support.
+
+* Skill: 
+  * Gain +15% FP/AA/ASW. At the start of the battle...
+    * If there are IJN DD in the fleet, heal the vanguard unit with the lowest HP by 3% of its max HP every 18s, up to 4 times per fight.
+    * If there are no IJN DD in the fleet, gain +15% Torp and a 70% chance to launch a [special barrage](https://streamable.com/jwk137) every 18s.
+      * The 32 SHOTS deal 20 bdmg with 100/75/40 mods; the 6 AIMED TORPEDOES deal 134 bdmg with 80/100/130 mods. The SHOTS are modified by the unit's FP, the TORPEDOES by the unit's Torp stat.
+  * IJN DD in the fleet gain +10% Torp/Reload and +20% AA.
+
+* Desc: 
+>In an amusing display of (most likely unintentional) thematic adherence to character, Yura the unit is about as schizophrenic as Yura the character.   
+If sortied without the IJN DD half her kit wants to buff, she's a very solid torpedo platform with a minor AA presence and a strong barrage; if sortied with them, she gains a pretty decent heal and grants alright buffs to DDs (useless AA boost notwithstanding).   
+Personal recommendation: she's better off without the DDs overall, and the DDs have better supporters to rely on.
 
 ![CL](/Images-for-the-Guide/YuubariKaiChibi.png "Yuubari Kai") - **[IJN Yuubari Kai](https://azurlane.koumakan.jp/Yuubari#retrofit)**
 * Roles:
@@ -1614,6 +1661,20 @@ That said, don't make the mistake of thinking Heavy Armour makes her invincible 
 * Desc: 
 >The pride and joy of the Takao-class, she's the only one who actually bothers buffing her sisters (as well as other cruisers) and gets that guns are better than torpedoes for heavy cruisers; as a result, she's a notch above her sisters and most Torp-CA.
 As with the rest of the class, she too gets to barrage twice as fast as most other Torp-CA and enjoys a nifty EvaRate boost as she does so.
+
+![CA](/Images-for-the-Guide/ChikumaChibi.png "Chikuma") - **[IJN Chikuma](https://azurlane.koumakan.jp/Chikuma)**
+* Roles:
+  * **Super Heavy tank**, high DPS (slight slant toward gunnery), unreliable debuffer.
+
+* Skill: 
+  * Upon battle start and every 20s afterwards, lose 5% Speed for 3s and launch a [special barrage](https://streamable.com/z60bj4). Enemies hit by the seaplane bombs are slowed by 30% for 5s, and suffer from a randomly picked debuff (-10% Evasion stat, -10% Accuracy stat, -10% damage dealt); if there a living IJN CV in the fleet, the seaplane bombs also have a 50% chance to have enemies hit take +6% Aviation damage for 8s.
+    * The 2 BOMBS deal 260 bdmg with 80/90/110 mods; the 15 AIMED CA HE SHOTS deal 22 bdmg with 135/95/70. Both are modified by 100% of the unit's FP.
+  * Take -20% damage. When her speed is lowered, gain +10% EvaRate (not stacking with +EvaRate skills). Also, at a 70% chance upon taking damage, slow down by 10% and gain +20% FP/Eva/Reload for 7s. Can only trigger once every 10s.
+
+* Desc: 
+>Alright, we have good news and bad news.
+The good news is that Chikuma is incredibly survivable - at the time of writing (18/09/21) she's the toughest non-research vanguard unit in the game by a considerable margin, owing to the quite frankly obscene amount of defensive buffs she enjoys and to a much minor degree the debuffs her seaplane bombs can throw at enemies. Quite unreliable, but something nevertheless.  
+The bad news? The devs are cowards and didn't make her an actual CAV, or bank harder on the seaplanes angle. Boo.
 
 ![CA](/Images-for-the-Guide/IbukiChibi.png "Fat DD") - **[IJN Ibuki](https://azurlane.koumakan.jp/Ibuki)**
 * Roles:
