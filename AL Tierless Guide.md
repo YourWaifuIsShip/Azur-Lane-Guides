@@ -2860,15 +2860,17 @@ Her third skill is somewhat better, even if it enforces the use of carriers (tho
 > One of the hardiest carriers in the game, Yorktown can cover any role fairly well courtesy of her balanced plane loadout, her frontline buff, her self-heal and her retaliatory SBD dive bombers; the price she pays for such sturdiness is DPS, however.
 Do NOT think she can solo backline past W6. Carriers aren't made for that and she's no exception.
 
-![CV](/Images-for-the-Guide/Ark_RoyalChibi.png "Paedophile") - **[HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)**
+![CV](/Images-for-the-Guide/Ark_RoyalKaiChibi.png "Paedophile") - **[HMS Ark Royal Kai](https://azurlane.koumakan.jp/Ark_Royal#Retrofit)**
 * Skill: 
-  * Upon airstrike launch, reduce all on-screen enemies' speed by 60% and launch 3 biplanes armed with 1 aimed torpedo each.
+  * Upon airstrike launch, reduce all on-screen enemies' speed by 60% and launch 3 biplanes armed with 1 aimed torpedo each. They deal next to no damage.
   * 25% chance to do double damage on Airstrike.
+  * Every 20s: launch a special barrage reducing the AA stat of enemies hit by -8% (8s duration), grant +10% damage dealt to DD and HMS vanguards (8s duration).
+    * The 3 AP SHOTS deal 120 bdmg with 100/100/100 mods; the 6 PARALLEL TORPEDOES deal 240 bdmg with 80/110/130 mods. Both are modified by 100% of the unit's Aviation stat.
   * Has a 0/2/6 loadout.
 
 * Desc: 
->A rare Torpedo-focused CV, coming stock with two powerful TB slots, a chance for double damage and a skill that lets her launch a few (largely ornamental) more while slowing any enemy on the screen.   
-Whether it's boss-busting or wave-clearing, give her the appropriate planes and she'll do a pretty good job - just don't expect much of anything from her terrible DBs and definitely do not expect your carrier-based torp to magically all hit after the slow, though it will help.
+>The rich get richer as one of the best carriers in the game - owing to the large TB complement and high Efficiencies, and to a lesser degree her slow and the 1/4 chance to deal double damage - gets a retrofit that covers some of the bases she'd left unattended and adds some free damage in the form of a barrage.  
+More impactful than said barrage, whose debuff is negligible and the buffs suffer from the age-old issue of a severe lack of good HMS vanguards, is the boosted statline - the +15 Reload considerably speeds up a notoriously slow carrier, while the +15% Dive Bomber Efficiency gives her a chance to make some use of that slot beyond cooldown adjustment slash reduction.  
 
  ![CVL](/Images-for-the-Guide/CentaurChibi.png "Centaur") - **[HMS Centaur](https://azurlane.koumakan.jp/Centaur)**
 * Skill: 
