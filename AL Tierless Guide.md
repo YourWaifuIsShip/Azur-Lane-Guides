@@ -74,6 +74,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 ## Changelog as of last major update (18/09/2021)
 
 - USS Ingraham, IJN Shimakaze, IJN Yura, IJN Chikuma have all been added.
+- HMS Ark Royal's entry has been updated to HMS Ark Royal Kai.
 
 <br/><br/>
 ---
