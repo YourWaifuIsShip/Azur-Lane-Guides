@@ -11,8 +11,8 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 > Hiryuu META, Ark Royal META, Helena META, Souryuu META, Fusou META join the Unlisted Guide on account of being... **part of the META failed concept**.
 - So here's the thing about METAs. When coming up with them, the devs clearly had some sort of vision for the gang, one that entails slashing supportive capabilities for more damage, to go with their edgier personas and whatnot. This translated, for the most part, in lots and lots of barrages.  
 - That is all well and good in theory. However, the support skills that got slashed were often the main reasons behind the units' success and those barrages *do not compensate* in damage or pattern quality for the loss.
-- What you're left with, then, are units that behave mostly like the old unit and deal a tiny bit more damage, at the cost of their utility. This may work out alright for Ark Royal, who was always stronger than useful, but units like Helena lost a lot for little gain.
-- In short, none of the META are in any way meta-relevant and are often inferior to the regular units. 
+- What you're left with, then, are units that behave *mostly like the old unit* and deal a tiny bit more damage, at the cost of their utility. This may work out alright for Ark Royal, who was always stronger than useful, but units like Helena lost a lot for little gain.
+- In short, none of the META are in any way meta-relevant. Utility is lacking and the damage increase is not significant enough to matter. Expect more failures in the future.
 
 
 [18/09/2021]
