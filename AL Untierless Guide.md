@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's highly opinionated and extra-biased AL Untierless Guide (4TH ANIMERSARY EDITION)
+# Your Waifu is SHIP's highly opinionated and extra-biased AL Unlisted Guide (METAN'T EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_  
 
