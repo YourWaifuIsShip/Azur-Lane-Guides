@@ -404,7 +404,7 @@ Devastating if the stars align and the debuff procs on her first torp hit, but l
 >Nowhere as devastating as her tier companions (or a good few other IJN DDs for that matter), she is nonetheless quite powerful and has incredible defensive skills for both herself and the backline.  
 Also, her barrage gets a few torps thrown into it for good measure.
 
-![DD](/Images-for-the-Guide/YuudachiKai.png "War Crimes") - **[IJN Yuudachi Kai](https://azurlane.koumakan.jp/Yuudachi#retrofit)**
+![DD](/Images-for-the-Guide/YuudachiKaiChibi.png "War Crimes") - **[IJN Yuudachi Kai](https://azurlane.koumakan.jp/Yuudachi#retrofit)**
 * Roles:
   * **High Hybrid DPS w/ slight Torp slant**; light tank; preload torp vanguard buffer. 
 
