@@ -7,6 +7,14 @@ Well, dear reader, barring an accidental deletion on my part I am sorry to say t
 Not to despair, though! As mentioned in the Tier Guides, even untiered units can be put to use (though they won't make it easy on you), but if you'd like to have a clearer picture of who didn't make the cut and why, here's a shortlist for it.
 
 ---
+[04/10/2021]
+> Hiryuu META, Ark Royal META, Helena META, Souryuu META, Fusou META join the Unlisted Guide on account of being... **part of the META failed concept**.
+- So here's the thing about METAs. When coming up with them, the devs clearly had some sort of vision for the gang, one that entails slashing supportive capabilities for more damage, to go with their edgier personas and whatnot. This translated, for the most part, in lots and lots of barrages.  
+- That is all well and good in theory. However, the support skills that got slashed were often the main reasons behind the units' success and those barrages *do not compensate* in damage or pattern quality for the loss.
+- What you're left with, then, are units that behave mostly like the old unit and deal a tiny bit more damage, at the cost of their utility. This may work out alright for Ark Royal, who was always stronger than useful, but units like Helena lost a lot for little gain.
+- In short, none of the META are in any way meta-relevant and are often inferior to the regular units. 
+
+
 [18/09/2021]
 > Katsuragi joins the Untierless Guide on account of being... **a testbed for PvP skills**.
 - This one has been the subject of some debate. Not because she's good, of course, but because she is interestingly bad.
