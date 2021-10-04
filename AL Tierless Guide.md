@@ -411,7 +411,7 @@ Also, her barrage gets a few torps thrown into it for good measure.
 * Skill:
   * Gain +20% FP/Torp/Eva/Reload; deal +15% damage to Ignited enemies; for 30s, grant the entire vanguard +10% Torp CritRate and +25% Torp CritDmg.
   * Gain +5% EvaRate and take -15% damage from gunnery. Every 20s, launch a [special barrage](https://streamable.com/nvfh5i).
-    * The 50 HE PELLETS deal 15 bdmg with 120/100/90 amods; the 8 TORPEDOS deal 42 bdmg with 70/90/120 amods.
+    * The 50 HE PELLETS deal 15 bdmg with 120/100/90 amods; the 8 TORPEDOS deal 42 bdmg with 70/90/120 amods. The barrage Ignites for 15s.
   * Has MGM+1 and can store -1 torp spread. The retrofit also upgrades the regular barrage.
 
 * Desc: Rescued from oblivion.
