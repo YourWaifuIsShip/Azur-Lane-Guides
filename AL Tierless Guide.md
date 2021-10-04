@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (4TH ANIMERSARY EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (FURTHER IJN BIAS EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, dinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -32,7 +32,7 @@ Good reading, and godspeed cap'n!
 - If you'd like to know individual numbers, feel free to ask me on Discord (or Issues if you truly must).
 
 #### Retrofit/Kai Priority List and PRiority list:
-- DD                  : Ayanami = Z23 > Laffey > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
+- DD                  : Yuudachi* > Ayanami = Z23 > Laffey > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
 - CL                  : San Diego* > Isuzu > Jintsuu > Leipzig = Leander > Kinu = Emile Bertin > Helena > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
 - CA                  : London > Mogami > Portland > Furutaka/Kako > Suffolk > Exeter
 - BB/C                : Hyuuga > Warspite* > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) = Nevada/Oklahoma
@@ -71,10 +71,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (18/09/2021)
+## Changelog as of last major update (04/10/2021)
 
-- USS Ingraham, IJN Shimakaze, IJN Yura, IJN Chikuma have all been added.
-- HMS Ark Royal's entry has been updated to HMS Ark Royal Kai.
+- IJN Yuudachi's entry has been retrofit to IJN Yuudachi Kai.
 
 <br/><br/>
 ---
@@ -404,6 +403,21 @@ Devastating if the stars align and the debuff procs on her first torp hit, but l
 * Desc: She protecc, she attacc, but most importantly, she tsun catt.
 >Nowhere as devastating as her tier companions (or a good few other IJN DDs for that matter), she is nonetheless quite powerful and has incredible defensive skills for both herself and the backline.  
 Also, her barrage gets a few torps thrown into it for good measure.
+
+![DD](/Images-for-the-Guide/YuudachiKai.png "War Crimes") - **[IJN Yuudachi Kai](https://azurlane.koumakan.jp/Yuudachi#retrofit)**
+* Roles:
+  * **High Hybrid DPS w/ slight Torp slant**; light tank; preload torp vanguard buffer. 
+
+* Skill:
+  * Gain +20% FP/Torp/Eva/Reload; deal +15% damage to Ignited enemies; for 30s, grant the entire vanguard +10% Torp CritRate and +25% Torp CritDmg.
+  * Gain +5% EvaRate and take -15% damage from gunnery. Every 20s, launch a [special barrage](https://streamable.com/nvfh5i).
+    * The 50 HE PELLETS deal 15 bdmg with 120/100/90 amods; the 8 TORPEDOS deal 42 bdmg with 70/90/120 amods.
+  * Has MGM+1 and can store -1 torp spread. The retrofit also upgrades the regular barrage.
+
+* Desc: Rescued from oblivion.
+>After languishing in obscurity for the better part of four years (basically since Ayanami has ever been a thing - yes that means since release), Yuudachi has been outshone by most other DDs, including three out of four her colleague starters. No points for guessing who's the odd duck out.  
+Well, no more of that now! The old Kancolle darling got a significant makeover by way of doubling and improving those guns she had no way to appropriately use before, despite the FP boost; and speaking of boosts, don't be fooled by the reduced potency on the first skill as the gained consistency **and** the huge +15% damage boost vs Ignited targets more than make up for it.  
+On a less relevant note, but still welcome, she also got somewhat tougher and can boost torp vanguards meant for early boss/siren deletions.  
 
 
  ![DD](/Images-for-the-Guide/YuugureKaiChibi.png "Yuugure Kai")- **[IJN Yuugure Kai](https://azurlane.koumakan.jp/Yuugure#Retrofit)**
