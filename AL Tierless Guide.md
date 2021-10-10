@@ -2249,18 +2249,6 @@ It's pretty good, all things considered, even if her damage output is fairly med
 >Adds and airstrikes slayer extraordinaire thanks to her barrage, accomplished fireboat slayer owing to her CL guns on a BC frame, and even gets an edge against the most threatening enemies you can face later on.
 A very solid defensive pick, further helped by the fact her Sanshikidan barrage doesn't need her to be in the flagship slot to do work.
 
-[BB](/Images-for-the-Guide/Kaga_(Battleship)Chibi.png "IJN Kaga BB") - **[IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))**
-* Roles:
-  * Above average DPS (Above average Gun DPS, above average Barrage DPS); has a torpedo stat.
-
-* Skill:
-  * 50% chance on Main Gun fire to launch a special barrage (long range: tight 4-shot wave, tight 4-shot wave with 2 shots to the sides; short range: wide V-shaped spread of small bullets)
-  * 10s after battle start and every 20s, afterwards, launches a torpedo barrage (2 lines of 2 aimed torps).
-
-- Desc: A sidegrade to Washington.
->Sturdier, more powerful, better armed and in possession of a much more useful synergy (Akagi still gets her +35% Aviation buff with her) in PvE, BB Kaga - affectionately called "Baga" - does however forfeit some reliability on her enhanced barrage and is stuck with an atrocious AA stat.  
-She also has a few torps to throw out every now and then, but they're fairly lacklustre.
-
 ![BC](/Images-for-the-Guide/KiiChibi.png "Kii") - **[IJN Kii](https://azurlane.koumakan.jp/Kii)**
 * Roles:
   * **Timed BBarrager, very high Gun DPS (high Gun DPS, high Barrage DPS)**, IJN backline AA booster, vanguard torpedo booster.
@@ -2283,15 +2271,6 @@ Boring but very practical, in short.
   * While alive in fleet, +15% Firepower/Accuracy and +20% Evasion for all Kongou-class (Kongou, Kirishima, Haruna, Hiei). 
 
 * Desc: Kongou-class support craft. Not very flashy, but her buffs are anything but unremarkable - the extra Evasion in particular makes a Kongou-class backline powerful, accurate and hard to shift.
- 
-![BB](/Images-for-the-Guide/IseChibi.png "Ise") - **[IJN Ise](https://azurlane.koumakan.jp/Ise)**
-* Roles:
-  * High Gun DPS.
-
-* Skill: 
-  * +20% FP to self.
-
-* Desc: Quite literally an improved non-Kai Yamashiro/Fusou in all respects, from the statline to the efficiencies. Not much to say here.
 
  ![BB](/Images-for-the-Guide/NagatoChibi.png "Nagato") - **[IJN Nagato](https://azurlane.koumakan.jp/Nagato)**
 * Roles:
