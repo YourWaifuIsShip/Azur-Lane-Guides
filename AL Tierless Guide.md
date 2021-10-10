@@ -2046,16 +2046,15 @@ Bit RNG still, but there's nobody cheaper than them in their class.
 
 ![BB](/Images-for-the-Guide/North_CarolinaChibi.png "Norca") - **[USS North Carolina](https://azurlane.koumakan.jp/North_Carolina)**
 * Roles:
-  * **Backline anti-Aviation protector, high Gun DPS**, light AA support (if mounting AA radars).
+  * **Backline anti-Aviation protector, average Gun DPS**, light AA support (if mounting AA radars).
 
 * Skill:
-  * -15% incoming aviation damage to the backline as long as North Carolina is alive and in the fleet
-  * Increase FP by 30% of her total AA stat (buffs not included)
+  * -15% incoming aviation damage to the backline as long as North Carolina is alive and in the fleet.
+  * Increase FP by 30% of her total AA stat (buffs not included).
 
-- Desc: 
->Anti-air for backliners is a bit of a meme, but that doesn't mean it can't be a good one.  
-North Carolina goes harder than anyone else on the AA front, as far as backliners are concerned - not only does she prevent plane damage with her skill, she also grows stronger the more AA she acquires (and she's plenty strong to begin with, sporting a very high base FP thanks to said skill).  
-Whether you do actually need all that AA is another matter entirely, but rest assured that she will lay on the hurt even if you don't - and if you do, that's just gravy.
+- Desc (2021): 
+>A very old battleship, dating back to the early months of the game where big guns without barrages were the norm and American battleships could be regarded with more than sneers or compassion. Normally this would call for a removal from the list, but she does remain a competent BB with a neat gimmick that very few units have so far tried to emulate (just Ingraham, really); if you fear planes a lot and don't mind the somewhat meh damage output, you may consider taking her along, and when backed by San Diego / San Juan, she'll be all but immune to planes.  
+That said, do remember that high AA without the backing of high AA Efficiency means she can only *tank* planes, not kill them.
 
 ![BB](/Images-for-the-Guide/PennsylvaniaChibi.png "USS Pennsylvania") - **[USS Pennsylvania](https://azurlane.koumakan.jp/Pennsylvania)**
 * Roles:
