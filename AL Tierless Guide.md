@@ -96,7 +96,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 As is customary for USS DD, neither her guns nor her torpedoes are particularly noteworthy and their lack of quality is made up by quantity, again in the form of the aforementioned barrages. Have care that they hit; given their somewhat wide pattern, that would be more likely on a mobbing fleet.  
 
 
-![DD](/Images-for-the-Guide/CassinChibi.png "Cassin Kai") ![DD](/Images-for-the-Guide/DownesChibi.png "Downes Kai")- **[USS Cassin Kai](https://azurlane.koumakan.jp/Cassin#Retrofit)** **[USS Downes Kai](https://azurlane.koumakan.jp/Downes#Retrofit)**
+![DD](/Images-for-the-Guide/CassinKaiChibi.png "Cassin Kai") ![DD](/Images-for-the-Guide/DownesKaiChibi.png "Downes Kai")- **[USS Cassin Kai](https://azurlane.koumakan.jp/Cassin#Retrofit)** **[USS Downes Kai](https://azurlane.koumakan.jp/Downes#Retrofit)**
 * Skill:
   * When HP falls under 20%, heals 25% of max HP once per battle
   * 60% chance to activate every 20 seconds, increase own Reload by 40% for 10 seconds
@@ -1907,7 +1907,7 @@ In any case, Tallinn is exceptionally bulky, *even* by the lofty standards of ta
 Kasumi isn't a particularly imaginative unit; very tough owing to her meaty statline, respectably armed with IJN-grade CA torps and solid guns (for a Torp-CA), she performs much like a Portland with less of a concern for shields and some more for auto play, even if the aimed barrage kind of alleviates it.  
 Nothing spectacular, but still very capable.  
 
-  ![CA](/Images-for-the-Guide/Miura_AzusaChibi.png "Generic Moeblob") - **[Miura Azusa](https://azurlane.koumakan.jp/Miura_Azusa)**
+  ![CA](/Images-for-the-Guide/Azusa_MiuraChibi.png "Generic Moeblob") - **[Miura Azusa](https://azurlane.koumakan.jp/Miura_Azusa)**
 * Roles:
   * **High Gun or Very High Gun DPS, medium or heavy tank**, minor backline defender. Effectivness slightly dependent on RNG.
 
