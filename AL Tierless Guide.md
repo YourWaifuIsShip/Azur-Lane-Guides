@@ -152,7 +152,7 @@ Meme but alright.
 * Desc: 
 >Lynchpin of the Fletcher Trio, think of her as an USS Z1 with a greater focus on gunnery as opposed to torps, as befitting her nation's doctrine. Very solid and dependable, but obviously better with other Fletchers.
 
-![DD](/Images-for-the-Guide/Ingraham.png "Allen") - **[USS Ingraham](https://azurlane.koumakan.jp/Ingraham)** 
+![DD](/Images-for-the-Guide/IngrahamChibi.png "Allen") - **[USS Ingraham](https://azurlane.koumakan.jp/Ingraham)** 
 * Roles:
   * **Medium AA carry, AA buffer, generalist DD**; light tank, minor healer, above average DPS (split between guns, torps and barrages with a slant towards torpedoes).
 
@@ -723,7 +723,7 @@ Still, if you're willing to field a full french vanguard (and you do have good o
 
 ### Honourable Mentions:
 ---
-#### ![DD](https://azurlane.koumakan.jp/w/images/7/7c/CassinChibi.png "USS Cassin") ![DD](https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png "USS Downes") [USS Cassin](https://azurlane.koumakan.jp/Cassin) & [USS Downes](https://azurlane.koumakan.jp/Downes)
+#### ![DD](/Images-for-the-Guide/CassinChibi.png "USS Cassin") ![DD](/Images-for-the-Guide/DownesChibi.png "USS Downes") [USS Cassin](https://azurlane.koumakan.jp/Cassin) & [USS Downes](https://azurlane.koumakan.jp/Downes)
 * Skill:
   * Once per fight, restore 25% max HP upon falling under 20% HP.
 
