@@ -71,9 +71,10 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (04/10/2021)
+## Changelog as of last major update (10/10/2021)
 
-- IJN Yuudachi's entry has been retrofit to IJN Yuudachi Kai.
+- Fixed some broken images.
+- Removed IJN Kaga BB and IJN Ise from the Tierless Guide due to irrelevance.
 
 <br/><br/>
 ---
