@@ -2026,8 +2026,8 @@ That said, while the SHS shots are the ones that'll be most relevant to you, the
   * **High DPS (w/ USS CA or BB)**, good anti-Aviation defence.
 
 * Skill: 
-  * Gain +8% FP/AA/Evasion for every OTHER USS BB/CA in the fleet, up to +24%.
-  * Main Gun damage increases by up to +15% the farther the target is; if mounting USS DD secondaries, Main Gun ammo is overrideen to SHS (60/135/115, shells fire at extremely high angles and fall from the sky) and the distance damage bonus increases to +30%. Do not give her USS DD secondaries.
+  * Gain +8% FP/AA/Evasion for every USB BB/CA in the fleet, up to +24%.
+  * Main Gun damage increases by up to +15% the farther the target is; if mounting USN DD secondaries, Main Gun ammo is overrideen to SHS (65/135/115, shells fire at extremely high angles and fall from the sky) and the distance damage bonus increases to +30%. **Do not give her USN DD secondaries**.
 
 * Desc: Massachusetts shoots for the stars, but the aim isn't quite there. 
 >Once synonymous with 'atrocious aim', Massachussetts' enforced SHS ammo and its much reduced AoE (8 as opposed to the BB shell standard 15) rendered all but incapable of hitting anything moving faster than a rock, which squandered her otherwise remarkable statline and buffs.   
