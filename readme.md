@@ -1,7 +1,7 @@
 # Welcome to Your Waifu is SHIP's highly opinionated and extra-biased Guides!
 
 **CURRENT NEWS**  
-Yuudachi Kai added, covered why META are Unlisted.
+Added Le Terrible and Maille Breze (and Marco Polo), set up the PR4 priorities, adjusted a few descriptions, disloged a few irrelevant DDs.
 
 If you've landed here because someone linked the Tier Guides to you or happened to read a pin about them, chances are you already know what these are all about and why the insistence on them being called 'Tier Guides'; on the off chance you don't, here's the long and short of it.
 
