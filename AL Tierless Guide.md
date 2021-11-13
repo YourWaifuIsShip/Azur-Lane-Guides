@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (FURTHER IJN BIAS EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (FLEUR DE REES EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, dinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -41,6 +41,7 @@ Good reading, and godspeed cap'n!
  - PR1                : Monarch > Ibuki > Saint Louis > Neptune > Roon (unless focusing on KMS) 
  - PR2                : Georgia > Kitakaze = Gascogne > Seattle > Azuma > Friedrich der Grobe (unless focusing on KMS)
  - PR3                : Odin = Champagne > Cheshire > Mainz > Drake
+ - PR4                : Parseval > Marco Polo = Agir > Hakuryuu > Anchorage
  
 #### What gear do I give X?
 Courtesy of two ALEC veterans of ours, xscore#4740 and ʝimmy#8049, have some handy flowcharts. No need to memorise the names anymore, refer to the images!  
@@ -74,6 +75,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 ## Changelog as of last major update (13/11/2021)
 
 - Added FFNF Le Terrible and FFNF Maille Breze.
+- Added PR4 prioities. Entries still pending.
 - Revised FFNF Le Triomphant's description and added her roles.
 - Removed SN Minsk and SN Grozny from the Tierless Guide due to irrelevance.
 
@@ -584,6 +586,19 @@ Impressive as she is, Tashkent does have a couple of drawbacks; first of all is 
 - Desc: A somewhat pallid imitation of the original.
 >Musekent behaves almost exactly like the normal Tashkent while performing somewhat worse; the hefty extra Efficiency on the main guns is gone in favour of a fairly negligible carrier-minded debuff (potency is too low) and a FP boost that eventually melts away in favour of AA she can't actually use.  
 Is she bad? No, she's still a Taskhent and this means she's still a beast with a few caveats. Is she worse than Tashkent? Yes.  
+
+![DD](/Images-for-the-Guide/Maillé_BrézéChibi.png "Mail Breeze") - **[FFNF Maille Breze](https://azurlane.koumakan.jp/wiki/Maillé_Brézé)**
+* Roles:
+  * **Mini-Zara (front-facing shield deployer)**, light tank.
+* Skill:
+  * Gain +10% AA and ASW. If sortied with Richelieu OR 3+ FFNF/MNF units, also gain +10% FP/Torp/Reload. Upon being hit by an enemy (DOES NOT HAVE TO TAKE DAMAGE), 15% chance to lose -3 Speed and deploy a front-facing hitshield able to block up to 10 shots for 12s. Internal cooldown: 12s.
+  * AoA launch twice as quickly.
+
+- Desc:
+> It took us long enough to get another unit capable of popping shields when under attack, but it is what it is; and what it is... is a purple DD. Boo.  
+The shielding prowess is her main and only thing, which is a bit unfortunate, as her staying power isn't much and neither is her DPS.  
+Still, it's an interesting gimmick to have.
+
 
 ![DD](/Images-for-the-Guide/Le_MalinChibi.png "Le Malin") - **[MNF Le Malin](https://azurlane.koumakan.jp/Le_Malin)**
 * Roles:
