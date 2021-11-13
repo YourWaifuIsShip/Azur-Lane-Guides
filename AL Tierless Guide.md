@@ -71,10 +71,11 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (10/10/2021)
+## Changelog as of last major update (13/11/2021)
 
-- Fixed some broken images.
-- Removed IJN Kaga BB and IJN Ise from the Tierless Guide due to irrelevance.
+- Added FFNF Le Terrible and FFNF Maille Breze.
+- Revised FFNF Le Triomphant's description and added her roles.
+- Removed SN Minsk and SN Grozny from the Tierless Guide due to irrelevance.
 
 <br/><br/>
 ---
@@ -590,6 +591,7 @@ Is she bad? No, she's still a Taskhent and this means she's still a beast with a
 * Skill:
   * If her Main Gun shots hit an enemy 10 times, that enemy takes +12% dmg from any destroyer in the fleet; also, upon destroying an enemy, Le Malin gains a +2% FP stack (up to +20%).
   * Upon battle start, gain +20% Torp/Eva for 30s; over the next 20s, the buff potency lowers to 0%.
+  * AoA launch twice as quickly.
 
 - Desc:
 >Le Malin shares both Le Triomphant's statline and the "hit the same target" gimmick, but makes it a lot more lenient and considerably more effective besides.  
@@ -608,21 +610,36 @@ Strong guns and barrage, a useful debuff skill, okay AA and defences, weak torpe
 >Le Memin returns to the fore as an angelic idol while retaining the kit concept behind the original: very good gunnery, valuable if quirky support, middling torpedoes, excessive amounts of speed.  
 The quirks are especially notable this time around, even if her moment-to-moment play doesn't change all that much. The 3s stops are the most notable item on the list, and are more of a boon than a detriment (will prevent ramming on auto and not slow the vanguard significantly); the mini-airstrikes she throws out are remisnescent of Shirakami Fubuki, with the same AA bypass and more bombs; the heals are somewhat more consistent and welcome, if not quite enough to sustain her under heavy fire.  
 
+![DD](/Images-for-the-Guide/Le_TerribleChibi.png "Le Terrible") - **[FFNF Le Terrible](https://azurlane.koumakan.jp/Le_Terrible)**
+* Roles:
+  * **Gunship Barrager DD (high Gun DPS, very high Barrage DPS, average Torp DPS), mob fleet shredder**; average ramming enjoyer.
+
+* Skill:
+  * Every 20s, launch a [FLOWER POWER](https://streamable.com/ateiqe) barrage. Also, gain a +5% FP stack for every 5 main gun bullets that hit an enemy (up to +20%); once four stacks have been acquired, also gain a +20% Torp buff and launch the FLOWER POWER barrage.
+    * The 45 FLOWERS deal 25 bdmg with 130/90/60 armour mods; the 5 TORPEDOES deal 45 bdmg with 80/100/130 armour mods. The FLOWERS pierce once. Each barrage component modified by 100% of their respective stat.
+  * Gain +7 Speed. If there is another DD in the vanguard, gain +7 more Speed and +20% AA/Evasion; if there is NOT another DD in the vanguard, take -5% damage and gain +20% Reload.
+  * AoA launch twice as quickly. Also, if she's the only DD in the vanguard, it launches on the 4th Main Gun firing cycle instead of the 5th.
+
+- Desc:
+> Speed memes, flower power and barrages out the wazoo! Le Terrible's one-kanmusu-show is rather impressive, for both good and ill.  
+Starting with the good, she puts out a *lot* of barrages. Those barrages are backed by her robust statline and buffs that further bolster her gunnery slant; the main one is the FLOWER POWER burst, which is mostly suited to mob fleet fights because of its rather wide pattern (one half narrows down somewhat, the other goes to the sides), but the regular AoA shouldn't be discounted too quickly either.  
+As for the bad... all that speed is mostly just detrimental on auto, as it leads to more involuntary ramming (and even more so if you bring other DDs - because you needed more speed with 2+ DD around clearly) and in turn more frequent stops at the dock for repairs. Whoops! Also unsurprisingly, her torpedoes are fairly weak.  
 
 ![DD](/Images-for-the-Guide/Le_TriomphantChibi.png "Le Triomphant") - **[FFNF Le Triomphant](https://azurlane.koumakan.jp/Le_Triomphant)**
 * Skill:
   * Each time the Main Gun damages an enemy, gain a +40% Reload stack up to a maximum of 4 stacks (can only gain one per second, stacks lost upon damaging a different target).
   * When sortied as the Lead Ship, +20% Main Gun Efficiency and -30% AA Gun Efficiency.
+  * AoA launch twice as quickly.
 
-- Desc:
->A gun-focused DD blessed with a great statline where it counts the most and a remarkable Efficiency to go along with it, Letri is rather unwieldy but pretty powerful, if allowed to stack up and lead the charge. Handle with care, and the guns of the revolution will never fall silent.  
-Similarly to Laffey, her torps are awful but come out quick; consider patching up this weakness with an Oxygen Torpedo.
+- Desc (2021):
+>One of the first not-KMS Gunship DD to be released, Triomphant more or less tries to emulate Laffey Kai's brrrt prowess by offering a very strong (if unstable on auto) Reload boost to go with the powerful (but narrow) AoA and the middling torpedoes, all backed by a solid statline emphasising her gunnery.  
+On the flip side, her performance nosedives without manual control and she's more or less forced to be the Lead (-20% MGEff is a *steep* drop on her damage output, and her AA is nowhere near worth the trade).
  
  ![DD](/Images-for-the-Guide/CarabiniereChibi.png "Caramba") - **[RN Carabiniere](https://azurlane.koumakan.jp/Carabiniere)**
 * Skill:
   * Deal +50% Damage with the first 3 torpedo spreads.
   * Every 20s and if placed as vanguard rear, 70% chance to gain +15% damage and grant +15% damage to the vanguard lead for 10s. THIS DOES NOT WORK IF SHE IS ALONE.
-
+23
 * Desc: La benemerita, nei secoli fedele!
 >Small but unassumingly tough and fierce, Carabiniere is a Gun-DD packing a surprising amount of heat - be it either through her laser-like barrage, the charged torps or the remarkable gunnery, she can hold her own in the rearguard as she supports the lead.
 
@@ -665,22 +682,6 @@ Considering how often a vanguard gets pelted with sprinkles or the backline tick
 The trade is a net positive. While two 80% Dive Bombers and 201 Aviation make for very weak airstrikes, she loses nothing of value (IJN AA is by and large terrible, and IJN DD AA is usually worst in hull class) for it while gaining some 'free damage' and, more importantly, a quick-firing screenclear no other vanguard in the game can claim to have; as for the other skills they're alright, somewhat low-impact but appreciated nonetheless.  
 One can only hope we'll see more DDVs like this one in the future.  
 
-![DD](/Images-for-the-Guide/GroznyChibi.png "Ypa 2") - **[SN Grozny](https://azurlane.koumakan.jp/Grozny#Retrofit)**
-* Skill:
-  * Every 20s, 60% chance to gain +40% FP for 10s.
-  * Gain +15% AA.
-
-- Desc: 
->Standard russian DD, which means she has remarkable bulk, good guns and terrible torpedoes. She deviates from said norm by having slightly better AA than her peers, but not by much.
-
-![DD](/Images-for-the-Guide/MinskChibi.png "Ypa 3") - **[SN Minsk](https://azurlane.koumakan.jp/Minsk#Retrofit)**
-* Skill:
-  * Take -10% damage from DD guns and torpedoes; also, every 20s, gain +5 Speed and +20% FP for 10s.
-  * Upon battle start and on a 30% chance every 15s afterwards, deploy a smokescreen (+40% Evasion Rate for those in the cloud; lasts 5s).
-  
-
-- Desc: 
->Standard russian DD, which means she has remarkable bulk, good guns and terrible torpedoes. Slightly bulkier than Grozny, slightly weaker, has a little bit more support.
 
 ![DD](/Images-for-the-Guide/Marie_RoseChibi.png "Marie Rose") - **[Marie Rose](https://azurlane.koumakan.jp/Marie_Rose)**
 * Roles:
@@ -1477,7 +1478,7 @@ Because of that smile. That damn smile. And the tons of memes featuring her.
 
 ![CA](/Images-for-the-Guide/BaltimoreChibi.png "Baltimore") - **[USS Baltimore](https://azurlane.koumakan.jp/Baltimore)** 
 * Role:
-  * **Extreme Gun DPS (AP+-locked) and anti-Heavy Armour Break debuffer** , good USS carrier buffer and Light tank (w/ 2+ USS carriers), Medium tank (w/o USS carriers).
+  * **Very High Gun DPS (AP+-locked) and anti-Heavy Armour Break debuffer** , good USS carrier buffer and Light tank (w/ 2+ USS carriers), Medium tank (w/o USS carriers).
 
 * Skill: 
   * Overrides Main Gun ammo with improved AP (85/120/85 modifiers).
@@ -1489,7 +1490,7 @@ Nevertheless, do try to have her around those USS carriers, as the buffs she gra
 
 ![CA](/Images-for-the-Guide/BremertonChibi.png "Bremerthot") - **[USS Bremerton](https://azurlane.koumakan.jp/Bremerton)**
 * Role: 
-  * **Extreme Gun DPS, light AA carry and light tank (if not lead)**, medium tank (if lead).
+  * **Very High Gun DPS, light AA carry and light tank (if not lead)**, medium tank (if lead).
 
 * Skill: 
   * Upon Main Gun fire, 30% chance to deal +30% dmg for 3s (with 5s internal cooldown); also, 70% chance to fire a [special barrage](https://streamable.com/srnlj) (with 10s internal cooldown).
