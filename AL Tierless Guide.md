@@ -2540,6 +2540,24 @@ Blessed with an overall very good statline (Accuracy aside), a strong AP barrage
 The anti-torp shields are nice enough too, but not much of a gamechanger considering her job description - speaking of which, unlike Alabama you *could* use her as a boss fleet flag without throwing away part of her skillset, but the less concentrated barrage means she's at her best whem she's fighting more mobile Medium/Heavy bosses who may or may not have adds too.  
 *About her gun...* it's an interesting piece of kit, with its +10% Damage for the first two volleys, but it only really works on Littorio or when hunting Sirens (assuming you don't have BB with preloaded/accelerated volleys).
 
+![BB](/Images-for-the-Guide/Marco_PoloChibi.png "Marco Pollo") - **[RN Marco Polo](https://azurlane.koumakan.jp/Marco_Polo)** 
+* Roles:
+  * **Third strongest BB in the game (extreme Gun DPS, very high Barrage DPS vs Light/Medium), moBBer extraordinaire, light AA support**; minor self-healer.
+
+* Skill:
+  * Lose only -35% damage when Out of Ammo (instead of -50%). Upon Main Gun fire, 75% chance to fire a [devastating SAP barrage](https://streamable.com/7fqspd); if the proc fails, heal herself for 5% of her max HP.
+    * The 12 SAP SHELLS deal 170 bdmg with 100/150/50 mods; the 60 NEEDLE LASERS deal 20 bdmg with 120/60/60 mods. 3 of the 12 SAP shells are Aimed. The damage of both is modified by 100% of the unit's FP.
+  * If sortied with 2+ RN units, take -20% damage. If the vanguard lead is a RN unit, gain +10% Main Gun Efficiency and **+50% AA Efficiency**; if it is not, grant it two anti-torp shields blocking up to 3 torps.
+  * Upon destroying an enemy, gain +5% AA/Evasion (up to +15% AA/Eva). So long as Marco Polo is alive, FOR THE FIRST TWO FIGHTS IN THE SORTIE, fire a support barrage 20s after the start of the battle; for the next two fights, RN units in the fleet take -8% damage.
+    * The 60 NEEDLE LASERS deal 25 bdmg with 120/60/60 mods. They scale off of Marco Polo's FP.
+  * Deal +15% damage to Sirens.
+
+- Desc: 
+>Hot of the heels of... New Jersey, possibly, comes a BB that's not Decisive Rarity even though she'd probably deserve it, Marco Polo!  
+Member of the highly exclusive above-150%-MGEff club (with a Regia Marina unit in the lead) and a very powerful anti-Light/Medium barrage, Marco Polo deals frightening amounts of damage and can take just as much owing to her Evasion and AA buffs; moreover, like New Jersey she's also actually capable of kinda contributing to the AA DPS with her massive 170% AA Efficiency (again, with a RN unit in the lead), which is both unexpected and welcome. Plus, her support barrage is pretty strong if saddled with a short expiration date.  
+That's all great, but where's the catch? Well, to get the most out of her, you *definitely* want a RN unit in the vanguard lead... and given the sheer amount of SAP she throws out, her DPS falls considerably when faced with Heavy Armour. Not that she can't use classic AP guns as main guns to make up for it, but you'll still be feeling it.  
+
+
 ![BB](/Images-for-the-Guide/Vittorio_VenetoChibi.png "Vivi") - **[RN Vittorio Veneto](https://azurlane.koumakan.jp/Vittorio_Veneto)**
 * Roles:
   * **Regia Marina (RN) flagship, extreme Gun DPS (w/ quasi-preload with 2+ RN units)**. Unreliable debuffer.
