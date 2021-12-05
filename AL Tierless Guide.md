@@ -1415,18 +1415,26 @@ Her anti-DD kit is alright and likely to draw (fair) comparisons to HMS Aurora, 
 While a competent enough Torp-CL in her own right, this living Red Alert advertisment obsesses over Light Armour (and CLs in particular) too much for her or her allies' good while sporting rather limited supportive abilities, unlike many of her peers; her signature skill is underwhelming as well, considering how the (admittedly powerful) debuff only is applied the first time the barrage is launched and forgotten about immediately thereafter, leaving you with an inaccurate smattering of bombs.  
 Solid statline, if nothing else, and if murdering CL is on the table... maybe she's worth bringing along.  
 
-![CL](/Images-for-the-Guide/MisakiChibi.png "who?") - **[Misaki](https://azurlane.koumakan.jp/Misaki)**
+![CL](/Images-for-the-Guide/Rikka_TakaradaChibi.png "who?") - **[Rikka Takarada](https://azurlane.koumakan.jp/Rikka_Takarada)**
 * Roles:
-  * **Dead or Alive fleet supporter**; light tank, average Gun DPS.
+  * **High Gun/Torp DPS; extreme meme power with 5 auxiliary slots for minmaxing single aspects of the statline (except AA)**. Minor healing, light tank.
 
 * Skill:
-  * Gain +15% FP and deal +15% damage to Light Armour for 60s. If deployed with other DoA units, gain +15% AA and take -12% damage from guns.
-  * Every 20s fire a [barrage](https://streamable.com/jgnhk5), 
-    * The 12 SHELLS deal 26 bdmg with 125/85/85 modifiers and has a 100% Ignition chance; their damage is modified by 100% of the unit's FP stat.
-  * Has MGM+1.
+  * Upon battle start, gain +15% FP for 90s. Every 20s, fire a [barrage](https://streamable.com/z2d9lw); if this ship has the Battle Tracto Max and/or Buster Borr equipped, or if this ship is sortied with Namiko or Hass, enhance it.
+    * There are WAY too many variables in barrage damage output, so... check it here. https://azurlane.koumakan.jp/wiki/User:Riceist/BarrageDatamine
+  * Upon battle start, gain +15% AA and take -8% gun damage for 90s. Every 30s, fire another barrage; if equipped with Gridman Calibur and/or Sky Vitter, enhance it.
+  * 40s after battle start, heal the fleet by 3% of their max HP over 3s. If her own HP falls below 50%, heal the fleet again (once per fight).
+  * Can mount auxiliaries on ALL her slots. Equipping Gridman auxes in the correct slots grants her special, high quality weaponry.
+    * If the truck is equipped in the Main Gun slot, gain a ghost CL HE gun. (dmg: 16x6; coeff: 124%; amods: 145/105/70; cd: 3.56s)
+    * If the drill is equipped in the Torpedo slot, gain a ghost homing torpedo launcher. (dmg: 145x4; coeff: 118%; amods: 80/100/130; cd: 25.47s)
+    * If the plane is equipped in the AA slot, gain a ghost AA gun. (dmg: 150; coeff: 118%; range: 28; cd: 1.18s)
 
 * Desc: 
->Cleveland-class inspired CL. Solid gunnery with a clear use case in DoA comps, less so outside of them (where she's just a slightly stronger Cleve with even poorer AA).
+>FIVE auxiliary slots? In my collab CL? It's more likely than you think.  
+Someday regular units will get to enjoy this level of gimmicks (not), but for now, we deal with Rikka. Thankfully, that is a good thing, since Rikka is a very competent all-rounder CL meant to spam barrages all day long - possibly enhanced by the usage of her event aux, which also happen to grant her excellent equivalents to some of the best CL weaponry currently available.  
+Giving her the correct aux is in most cases her intended usage, but if you're feeling brave (or memey) you can go and turbocharge some other stat with inordinate amounts of non-event aux, a favourite being rainbow torpedoes - this will be somewhat effective for the purpose at hand, mostly if applied to torpedoes, but will leave her without weapons on those repurposes slots. Beware.  
+Lastly, she has a heal. It comes out too slowly to matter and its potency is negligible, but it's not nothing, so...
+
 
 ![CL](/Images-for-the-Guide/Haruka_AmamiChibi.png "Generic Moeblob") - **[Haruka Amami](https://azurlane.koumakan.jp/Haruka_Amami)**
 * Roles:
@@ -1964,7 +1972,21 @@ Her direct competitor would be Portland Kai, and while she comes out of that com
 >A competent enough Gun-CA whose main purpose is to be a semi-reliable Armour Break delivery system.  
 Her DPS starts out low but - given enough time and luck - grows to respectable levels and is further helped by the Armour Break; speaking of which, the slash she fires has low damage too but it is well capable of piercing enemies from one end of the screen to the other, which is nice (and concerning if you let so many enemies pile up).  
 's alright.  
- 
+
+![CA](/Images-for-the-Guide/Yume_MinamiChibi.png "who") - **[Yume Minami](https://azurlane.koumakan.jp/Yume_Minami)**
+* Roles:
+  * **High Gun DPS (barrage-reliant)**, medium tank.
+
+* Skill: 
+  * Upon firing the SECONDARY GUNS 20 times, she'll be (FIRIN HER LAZOR)[https://streamable.com/b7ewv6].
+    * The BEAM deals 10 bdmg with 135/95/70 amods; it pierces, lasts 2.5s and deals up to 5 ticks of damage per second.
+  * Upon battle start, gain +15% Eva for 90s; every 18s, she'll be FIRIN ANOTHER LAZOR and inflicting a standard Armour Break onto Heavy Armour enemies.
+    * The BEAMS deal 15 bdmg with 100/100/100 amods; they pierce, last 2.5s and deal up to 5 ticks of damage per second.
+
+* Desc: 
+>LASERS LASERS LASERS  
+Not a whole lot to say about her, really; fairly tough and meant to plow through mob waves with those beams of hers, as well as the special AOA barrage. Straightforward and powerful, and very flashy!
+
 ### Honourable Mentions
 ---
 ![CA](/Images-for-the-Guide/Prinz_EugenChibi.png "KMS Prinz Eugen") - **[KMS Prinz Eugen](https://azurlane.koumakan.jp/Prinz_Eugen)**
