@@ -2636,6 +2636,20 @@ If you're looking for a flagship that just won't die, look no further.
 >One of Wargaming's famed paper boats(tm), Sovetskaya Rossiya was historically inspired by Littorio's blueprints and her Azur Lane incarnation makes it blindingly obvious: both have very similar barrages (though Rossiya's also has the slowing icebergs falling in a checkers pattern), both have almost the same statline (though Rossiya has much worse Luck), both have a weird limited-time power-up (though Rossiya's lasts one battle less, affects Accuracy and requires three more Russians around).  
 What does this mean in practice? It means that Rossiya is very comparable to Littorio overall but is slightly less flexible while being potentially a bit more powerful, so long as her conditions are met.
 
+![BB](/Images-for-the-Guide/Akane_ShinjoChibi.png "who") - **[Akane Shinjo](https://azurlane.koumakan.jp/Akane_Shinjo)**
+* Roles:
+  * **Self-healing moBBer**.
+
+* Skill:
+  * Upon Main Gun fire, 70% chance to [boil some water](https://streamable.com/zanvb7).
+    * The 36 SMALL SPLASHES deal 35 bdmg 120/80/60 amods; the BLAST deals 150 bdmg with 150/150/150 amods. Both are modified by 100% of the unit's FP. 
+  * Every 20s, launch [three aircraft armed with homing lasers](https://streamable.com/ontfcf).
+    * The 6 HOMING LASERS deal 145 bdmg with 150/130/100 amods. They are modified by 100% of the unit's FP.
+  * Gain +8% FP. Once per battle and upon falling below 30% HP, gain +10% FP and heal for 8% of max HP over 4 ticks, every 2s.
+
+- Desc: 
+>Another very accomplished and newbie-friendly mobbing battleship, owing to her powerful barrages and the complementary self-heal.  
+Well capable to stand her ground compared to regular moBBers, so long as the enemies cluster in front of her and downrange. They typically will, so enjoy the fireworks!
 
 ![BB](/Images-for-the-Guide/HonokaChibi.png "Honkers") - **[Honoka](https://azurlane.koumakan.jp/Honoka)**
 * Roles:
@@ -3210,6 +3224,21 @@ Her damage output is very average by CV standards, however, and shouldn't be rel
 >One of the, if not THE, most flexible carrier in the game, Aquila can either be ~~ur angle or ur debil~~ an exceptional healer and protector or an accomplished and fast damage dealer depending on which loadout you choose to give her. It's almost like having two carriers in one!  
 In her healer configuration, she gets extra mileage out of her kit by running 1:1s or 2:1s with tough CA/CL; in her DPS configuration, which you should consider using if your units aren't going to keel over anyways, she'll perform somewhat better on mobbing duties most of the time because of the aforementioned preload (and her damage output, which isn't quite as high as that of fully dedicated DPS CV).  
 
+ #### ![CV](/Images-for-the-Guide/Chise_AsukagawaChibi.png "who")- **[Chise Asukagawa]**(https://azurlane.koumakan.jp/Chise_Asukagawa)
+* Role:
+  * **Mob fleet damage dealer carrier, preloader**. 
+ 
+ * Skill: 
+  * Start the battle with an airstrike already loaded. Every following airstrike launches [extra aimed TBs](https://streamable.com/v9s1mi).
+    * The 6 AIMED TORPEDOES deal 220 bdmg with 80/110/130 amods; they are modified by 100% of the unit's Aviation.
+  * Every 1st and 3rd airstrike, launch a [fireball shower](https://streamable.com/o8f29h) and grant a 15-strong hitshield to the vanguard lead. As long as the shield stands, the vanguard takes -8% dmg.
+    * The 11 FIREBALLS deal 206 bdmg with 100/100/100 amods; 1 out of 11 will not scatter. All are modified by 100% of the unit's Aviation. 
+  * Has a 2/3/3 loadout.
+
+* Desc: 
+>Part of the very exclusive preloaded carrier group, Chise easily secures her relevance with that alone - then cements it with the backing of a full CV's statline, which Perseus lacks, and solid barrages to rely on. You would do better not to count on the vanguard shield, though, as it will pop almost immediately in a mob fleet without accomplishing much.
+ 
+ 
 #### ![CV](/Images-for-the-Guide/Tokino_SoraChibi.png "Generic Moeblob")- **[Tokino Sora](https://azurlane.koumakan.jp/Tokino_Sora)**
 * Skill: 
   * Upon airstrike, 100% chance to launch a barrage.
