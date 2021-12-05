@@ -7,6 +7,11 @@ Well, dear reader, barring an accidental deletion on my part I am sorry to say t
 Not to despair, though! As mentioned in the Tier Guides, even untiered units can be put to use (though they won't make it easy on you), but if you'd like to have a clearer picture of who didn't make the cut and why, here's a shortlist for it.
 
 ---
+[05/12/2021]
+> Hiyou META joins the entry below on account of being... **well, just read below**.
+- If it's any help, she's better than the original. Kind of. Ish. Then again, given how poor the base unit was, it would've been exceedingly hard to do worse.
+
+
 [04/10/2021]
 > Hiryuu META, Ark Royal META, Helena META, Souryuu META, Fusou META join the Unlisted Guide on account of being... **part of the META failed concept**.
 - So here's the thing about METAs. When coming up with them, the devs clearly had some sort of vision for the gang, one that entails slashing supportive capabilities for more damage, to go with their edgier personas and whatnot. This translated, for the most part, in lots and lots of barrages.  
