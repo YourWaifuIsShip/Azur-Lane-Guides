@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (FLEUR DE REES EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (SSSS GREEDMAN EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, dinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -1415,7 +1415,7 @@ Her anti-DD kit is alright and likely to draw (fair) comparisons to HMS Aurora, 
 While a competent enough Torp-CL in her own right, this living Red Alert advertisment obsesses over Light Armour (and CLs in particular) too much for her or her allies' good while sporting rather limited supportive abilities, unlike many of her peers; her signature skill is underwhelming as well, considering how the (admittedly powerful) debuff only is applied the first time the barrage is launched and forgotten about immediately thereafter, leaving you with an inaccurate smattering of bombs.  
 Solid statline, if nothing else, and if murdering CL is on the table... maybe she's worth bringing along.  
 
-![CL](/Images-for-the-Guide/Rikka_TakaradaChibi.png "who?") - **[Rikka Takarada](https://azurlane.koumakan.jp/Rikka_Takarada)**
+![CL](/Images-for-the-Guide/Rikka_TakaradaChibi.png "who?") - **[Rikka Takarada](https://azurlane.koumakan.jp/wiki/Rikka_Takarada)**
 * Roles:
   * **High Gun/Torp DPS; extreme meme power with 5 auxiliary slots for minmaxing single aspects of the statline (except AA)**. Minor healing, light tank.
 
@@ -1973,7 +1973,7 @@ Her direct competitor would be Portland Kai, and while she comes out of that com
 Her DPS starts out low but - given enough time and luck - grows to respectable levels and is further helped by the Armour Break; speaking of which, the slash she fires has low damage too but it is well capable of piercing enemies from one end of the screen to the other, which is nice (and concerning if you let so many enemies pile up).  
 's alright.  
 
-![CA](/Images-for-the-Guide/Yume_MinamiChibi.png "who") - **[Yume Minami](https://azurlane.koumakan.jp/Yume_Minami)**
+![CA](/Images-for-the-Guide/Yume_MinamiChibi.png "who") - **[Yume Minami](https://azurlane.koumakan.jp/wiki/Yume_Minami)**
 * Roles:
   * **High Gun DPS (barrage-reliant)**, medium tank.
 
@@ -2636,7 +2636,7 @@ If you're looking for a flagship that just won't die, look no further.
 >One of Wargaming's famed paper boats(tm), Sovetskaya Rossiya was historically inspired by Littorio's blueprints and her Azur Lane incarnation makes it blindingly obvious: both have very similar barrages (though Rossiya's also has the slowing icebergs falling in a checkers pattern), both have almost the same statline (though Rossiya has much worse Luck), both have a weird limited-time power-up (though Rossiya's lasts one battle less, affects Accuracy and requires three more Russians around).  
 What does this mean in practice? It means that Rossiya is very comparable to Littorio overall but is slightly less flexible while being potentially a bit more powerful, so long as her conditions are met.
 
-![BB](/Images-for-the-Guide/Akane_ShinjoChibi.png "who") - **[Akane Shinjo](https://azurlane.koumakan.jp/Akane_Shinjo)**
+![BB](/Images-for-the-Guide/Akane_ShinjoChibi.png "who") - **[Akane Shinjo](https://azurlane.koumakan.jp/wiki/Akane_Shinjo)**
 * Roles:
   * **Self-healing moBBer**.
 
@@ -3224,7 +3224,7 @@ Her damage output is very average by CV standards, however, and shouldn't be rel
 >One of the, if not THE, most flexible carrier in the game, Aquila can either be ~~ur angle or ur debil~~ an exceptional healer and protector or an accomplished and fast damage dealer depending on which loadout you choose to give her. It's almost like having two carriers in one!  
 In her healer configuration, she gets extra mileage out of her kit by running 1:1s or 2:1s with tough CA/CL; in her DPS configuration, which you should consider using if your units aren't going to keel over anyways, she'll perform somewhat better on mobbing duties most of the time because of the aforementioned preload (and her damage output, which isn't quite as high as that of fully dedicated DPS CV).  
 
- #### ![CV](/Images-for-the-Guide/Chise_AsukagawaChibi.png "who")- **[Chise Asukagawa]**(https://azurlane.koumakan.jp/Chise_Asukagawa)
+ #### ![CV](/Images-for-the-Guide/Chise_AsukagawaChibi.png "who")- **[Chise Asukagawa]**(https://azurlane.koumakan.jp/wiki/Chise_Asukagawa)
 * Role:
   * **Mob fleet damage dealer carrier, preloader**. 
  
