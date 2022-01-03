@@ -1316,6 +1316,20 @@ Ziggy's Kai gave her the statline she needed to compete favourably with the othe
 > Clearly inspired by the popular and very capable Zara, this former Admiral Hipper hull does away with the predecessor's CA guns and revolving shields in favour of more CL guns and the much superior single front-facing style of hitshields... which, uniquely, also happen to shoot back as they are inevitably broken. While frailer than Zara's and slower to respawn, by virtue of triggering a barrage when broken they are also more universally useful: hitshields have a deservedly poor reputation for breaking far too quickly to incoming enemy fire that would have dealt little to no damage anyway, and this provides an elegant solution to the issue.  
 Shielding aside, Mainz shows some versatility in use, gaining more bulk and speed if set as vanguard lead or more damage output if placed elsewhere; given how ubiquitous CL or CA tanks are (and how rare Gun-CL capable of actual DPS are), it would be better to have her off-tank and let her rip.  
 
+![CL](/Images-for-the-Guide/Magdeburg.png "Magda") - **[KMS Magdeburg](https://azurlane.koumakan.jp/Magdeburg)**
+* Roles:
+  * **Mob fleet adds sweeper** (+dmg stacks and barrage upgrade upon fight completion), **Above Average to High Gun DPS** (barrage and ramp reliant); light tank.
+
+* Skill: 
+  * Upon winning a battle, gain a +6% dmg stack (up to +24%); upon Magdeburg destroying an enemy, gain a +5% Evasion//Accuracy stack (up to +20%).
+  * Gain +15% AA. 3s from battle start and every 20s onwards, 70% chance to launch a [wide gun barrage](https://streamable.com/mqpm5l); if it fails to proc, gain a +10% FP/Torp stack (up to +20%); if it fails twice, the barrage pattern improves and the procrate rises to 100$. The barrage also improves upon the 2nd and 4th battle for the fleet Magdeburg is in.
+    *  The 31 AP sparks deal 23 bdmg with 65/125/65 amods; the 8 TORPEDOES deal 45 bdmg with 80/100/130 amods. Each are modified by 100% of the relevant stats.
+    *  Barrage has 3 stages. Stage 1: sparks deal 16 bdmg. Stage 2: as above. Stage 3: barrage now aims.
+
+* Desc: Naruto runner.
+> Lacking in stats but not in gumption, Magda wants you to take her rather average weaponry and adequate toughness to the frontlines of mob fleets, that her solid (and eventually aimed) mobbing barrage may tear through the enemies.  
+An admirable sentiment and technically worthwhile endeavour, although marred by an unimpressive statline and rather slow ramp period: four battles is a fair bit, especially when lacking significant defensive capabilities (or support to offer).  
+
 ![CL](/Images-for-the-Guide/NürnbergChibi.png "Nürnberg") - **[KMS Nurnberg](https://azurlane.koumakan.jp/Nürnberg)**
 * Roles:
   * **KMS AA buffer, high Torpedo DPS, light AA carry**, average Gun DPS, medium tank, submarine exp booster.
@@ -1323,7 +1337,7 @@ Shielding aside, Mainz shows some versatility in use, gaining more bulk and spee
 * Skill: 
   * Every 15s, fire a [special barrage](https://streamable.com/26f2ur); also, submarines called in gain +10% exp.
     * The 32 SHOTS deal 15 bdmg with 75/110/75 mods. They are modified by 100% of the unit's FP.
-  * Gain +10% Torp and grant +15% AA to all KMS units in the fleet; also, for every 1
+  * Gain +10% Torp and grant +15% AA to all KMS units in the fleet; also, for every 3 plane shot down, gain a +5% AA stack (up to +15%).
 
 A Leipzig Kai that has traded in the generalised cruiser buffs and a little survivability for extra AA for herself, a KMS-wide AA boost, and a nifty timed barrage. AA focus aside, she behaves almost exactly like the aforementioned unit, so... that's it, really.
 
@@ -1802,6 +1816,21 @@ On the flipside, said barrage is also her most noteworthy feature - manual play 
 Capable of mounting a unique underchambered BB gun, they sport massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than they (DD and CL) - but are let down by that same gun's AP element (which underperforms against DD and CL), their lower-than-average Speed and Evasion, and the weak torpedoes they're stuck with.  
 A wrecking ball against small craft, to be sure, but watch out for when they pick a fight with people her size.
 
+![CA](/Images-for-the-Guide/Prinz_AdalbertChibi.png "Anal") - **[KMS Prinz Adalbert](https://azurlane.koumakan.jp/Prinz_Adalbert)**
+* Roles:
+  * **Vanguard protector**; High DPS (high Gun DPS, medium barrage DPS, medium torp DPS); very heavy main tank.
+ 
+* Skill:
+  * Gain +10% Accuracy. Upon Main Gun fire, 70% chance to launch a [double punch criss-cross barrage](https://streamable.com/400tan) (10s cooldown between procs).
+    * BARRAGE DATA PENDING. Presumably the pellets are going to be similar in damage to Heinrich's.
+  * Every 20s and above 60% HP, generate a barrier whose HP equals to 4% of Adalbert's max HP for 8s; if there are other units in the vanguard, its HP rises to 8% and takes half the damage sustained by the other vanguards for 8s. If below 60% HP, gain +15% Torp.
+  * Has exceptionally good ghost secondaries! (21x4 bdmg, 2.74s base reload, 40% efficiency, 115% coeff, 100/100/100 armour modifiers, 90 range, 1 pierce).
+  * Can also equip the 283mm SKC28.
+
+- Desc:
+> Prinz 
+
+
 ![CA](/Images-for-the-Guide/Prinz_HeinrichChibi.png "Henry The Thick") - **[KMS Prinz Heinrich](https://azurlane.koumakan.jp/Prinz_Heinrich)**
 * Roles:
   * Very high DPS (high Gun DPS, medium barrage DPS, medium torp DPS); very heavy main tank.
@@ -1810,7 +1839,7 @@ A wrecking ball against small craft, to be sure, but watch out for when they pic
   * If sortied with 1+ other KMS unit, gain +15% Eva and Reload; upon Main Gun fire, 50% chance to deal +25% Main Gun damage for 5s (has a 7s cooldown).
   * Every 20s, fire a... boat-shaped barrage? and deploy either a 2-torp shield or a 10-shots shield for 10s, randomly picked.
     * The 52 BALLS (traveling in 2 blocks of 26 each) deal 22 bdmg with 100/100/100 mods. They are modified by 100% of the unit's FP.
-  * Has exceptionally good ghost guns! (21x4 bdmg, 2.74s base reload, 40% efficiency, 115% coeff, 100/100/100 armour modifiers, 90 range, 1 pierce).
+  * Has exceptionally good ghost secondaries! (21x4 bdmg, 2.74s base reload, 40% efficiency, 115% coeff, 100/100/100 armour modifiers, 90 range, 1 pierce).
   * Can also equip the 283mm SKC28.
 
 - Desc:
