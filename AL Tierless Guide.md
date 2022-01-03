@@ -1846,22 +1846,6 @@ For some reason, she boosts her torps once she falls below 60% HP. It's better t
 > Prinz Heinrich is what Deutschland and Spee would've looked like had they been designed properly, and represents a massive improvement over either in every possible respect; superb staying power, extremely competitive damage output that allows her to not only match but also outgun proper Gun-CA without banking excessively on her (comparatively decent) torpedoes, and access to the same SKC28 of old, for which her 7s cooldown damage boost appears to be designed (but don't stress too much about it, even if you go for faster guns with more appropriate modifiers you'll be gaining more than you lose overall).  
 Something to bear in mind is that, more than most Torp-CA, she is capable of handling shields; while torpedoes do slip past them, the SKC28 can shoot over them and her 20s barrage has a very high shot count, capable of punching straight through most of them (assuming the barrage lands, at least, which isn't unlikely given its tight and clustered pattern).
 
-![CA](/Images-for-the-Guide/RoonChibi.png "Qu'est-ce que c'est?") - **[KMS Roon](https://azurlane.koumakan.jp/Roon)**
-* Roles:
-  * Average Gun DPS (barrage reliant), **medium shielded tank**.
- 
-* Skill:
-  * Main Gun cycles between HE and AP every 2 salvo, then gains a +3.5% Reload stack for every Main Gun salvo fired. Max 12 stacks.
-  * Every 30s and upon battle start, generates 4 orbiting shields (two on a very narrow orbit, one on a medium orbit, one on a wide orbit) lasting 8 shots or 15s.
-  * Deal +15% damage to Sirens.
-  * Has MGM+1 and torpedoes. Really, *really* bad torpedoes.
-
-- Desc:
-> Saint Louis and Roon apparently stand at opposite ends.  
-Whereas the former starts out strong and lose some of her lustre as the battle drags on, the latter needs time to wind up; where the former's barrage is uncomfortably wide, the latter's is very concentrated and devastating; where the former relies on high speed and evasion to stay out of harm's way, the latter simply adds layers of HP and shields to power through the barrages; and as the former gradually mellows out of her cold templar persona, the latter grows ever more violent and unhinged.  
-Had that been it, they would've made for a roughly equivalent pair; but as it stands, she is saddled with a detrimental ammo swap mechanic that prevents her from fully harnessing her power and a shield skill that is only marginally better than Prinz's by virtue of being a guaranteed proc (and the least said about the Dev35 buff it enjoys, ie. having them spawn at the start of the fight, the better).  
-Nevertheless, she's still one of your only viable KMS cruiser options, so...
-
 ![CA](/Images-for-the-Guide/Roon_µChibi.png "Moon") - **[Muse Roon](https://azurlane.koumakan.jp/Roon_µ)**
 * Roles:
   * **Roon but legitimately good. Above average Gun DPS (barrage reliant), enemy speed/defence debuffer**; medium shielded tank. Manual play strongly recommended.
