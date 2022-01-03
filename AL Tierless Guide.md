@@ -1807,7 +1807,7 @@ On the flipside, said barrage is also her most noteworthy feature - manual play 
 * Roles:
   * **Anti-DD/CL HE specialists** (high Gun DPS and average Torp DPS vs DD/CL; average Gun DPS and low Torp DPS otherwise).
 
-* Skill: 
+* Ski
   * Deal +35% damage to DD/CL.
   * May equip the 283mm SKC28, but shouldn't unless there are shields to shoot over.
 
@@ -1818,7 +1818,7 @@ A wrecking ball against small craft, to be sure, but watch out for when they pic
 
 ![CA](/Images-for-the-Guide/Prinz_AdalbertChibi.png "Anal") - **[KMS Prinz Adalbert](https://azurlane.koumakan.jp/Prinz_Adalbert)**
 * Roles:
-  * **Vanguard protector**; High DPS (high Gun DPS, medium barrage DPS, medium torp DPS); very heavy main tank.
+  * **Vanguard protector (off-tank)**; High DPS (high Gun DPS, medium barrage DPS, medium torp DPS), heavy tank.
  
 * Skill:
   * Gain +10% Accuracy. Upon Main Gun fire, 70% chance to launch a [double punch criss-cross barrage](https://streamable.com/400tan) (10s cooldown between procs).
@@ -1828,7 +1828,9 @@ A wrecking ball against small craft, to be sure, but watch out for when they pic
   * Can also equip the 283mm SKC28.
 
 - Desc:
-> Prinz 
+> Prinz Adalbert is a more defensive-oriented counterpart to her sister Heinrich - sharing her bountiful statline (barring a -10% eff to the main guns, given to the torpedoes), access to the SKC28 and powerful inbuilt secondaries as well as a propensity towards fisting things with her barrage, she differs in that the 'selfish' self-boosts are replaced with a tough *vanguard-protecting* barrier and her barrage heads for the flanks rather than smash forwards.  
+Unlike her sister, Adalbert's primary job is being an off-tank rather than a main tank: her shield **stops working** once she falls below 60% HP, meaning you'll want someone else tough in front while she makes that someone's (and the unit in the middle's) job easier.  
+For some reason, she boosts her torps once she falls below 60% HP. It's better than nothing, but you definitely want her to stick to shielding people for as long as possible.
 
 
 ![CA](/Images-for-the-Guide/Prinz_HeinrichChibi.png "Henry The Thick") - **[KMS Prinz Heinrich](https://azurlane.koumakan.jp/Prinz_Heinrich)**
@@ -2408,7 +2410,7 @@ All in all she's usable, but she's so far behind the real self-healers (Gascogne
 >Don't be fooled by the seemingly low statline - Mikasa has a lot more Firepower and Reload than meets the eye, courtesy of her truly astounding buff suite, and is the premiere flagship for a gun-focused IJN fleets.
 Nevertheless, her low HP and AA do prove a liability later on and you will have to find some ways around that - taking more big guns, AA barges or even carriers, depending on the situation, just don't use her on her own. 
 
-![BB](/Images-for-the-Guide/BismarckChibi.png "Blond E") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)**
+![BB](/Images-for-the-Guide/3Chibi.png "Blond E") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)**
 * Roles:
   * **KMS fleet buffer**, above average Gun DPS. Cannot reliably stop fireships.
 
@@ -2418,13 +2420,13 @@ Nevertheless, her low HP and AA do prove a liability later on and you will have 
     * The 8 SHELLS deal 110 bdmg with 70/100/90 mods; the 14 DD PELLETS deal 20 bdmg with 120/60/60 mods (1% Ignition chance, short range). Both are modified by 100% of the unit's FP.
   * Grant +20% CritRate to the guns/torpedoes/planes used by KMS units, grant +12% Reload to all KMS units, grant Tirpitz +40% Damage.
 
-* Desc: Here comes Tutorial Girl!
->At long last the wehraboos can rejoice - Bismarck has arrived, and she's the flagship buffer they desperately needed.
-Positively brimming in buffs for herself as well as her countrywomen, her sole presence is enough to kick all their weaponry into overdrive, having them shoot harder and slightly faster, while their carriers (all one/two of them) enjoy a sizeable damage injection and Tirpitz finally overcomes her social anxiety with oneesan around and becomes actually useful.
-Her own guns are no strangers to buffs either, with guaranteed crits on every first salvo of every volley and massively extended CL secondary ranges (at the cost of 1/3 less damage); the former buff easily steals the spotlight, but the range extension allows her to lend a hand to a vanguard that's in over its head (or take potshots at vanguards in PvP). Do not expect it to help an actually competent vanguard however... or to stop *anything* at all once the zero ammo kicks in, as those guns will be firing at -85% damage.
+* Desc (2021): KMS QE.
+>Being compared to Queen Elizabeth is typically not a good sign, as it is less praise of its faction buffing qualities (albeit deserved) and more an indictment of its severely lacking battlefield prowess (also deserved); Bismarck is, then, particularly unfortunate in that her former qualities are rather limited and are not offset by her performance as a battleship. As it stands, the only buffs worth consideration are those directed at KMS CVs - an extra 20% damage is hefty - as the other buffs are concerningly meagre, Tirpitz enabling aside. +12% Reload is barely noticeable, and +20% CritRate is more impressive on paper than it is in practice.  
+As for her own merits, there are little of note. The guaranteed crit on the first salvo of every volley is welcome, but the CL secondaries' range extension is poorly thought out and is much more likely to leave her defenceless rather than anything else. 90 range is the distance from your end of the screen and the white line, meaning she can't actually assist the vanguard, and at such a long range the travel time incurred by the secondaries would make her unable to hit the incoming fireships - also, if they DO hit, there's no guarantee they'll take down the target, considering the reduced damage they inflict (especially once the ammo is all spent).
 Last and least, she has a barrage too. It has the unique distinction of being so bad it's not worth even taking into consideration when picking gear.
+In short... she's a very hard sell. Even as a CV buffer you'd be better off using a third KMS CV, if you happen to have them.
 
-![BC](/Images-for-the-Guide/Friedrich_der_GrosseChibi.png "Freddy Mercury") - **[KMS Friedrich der Grosse](https://azurlane.koumakan.jp/Friedrich_der_Grosse)**
+![BC](/Images-for-the-Guide/Friedrich_der_GrosseChibi.png "Fred the Fat") - **[KMS Friedrich der Grosse](https://azurlane.koumakan.jp/Friedrich_der_Grosse)**
 * Roles:
   * **Extreme DPS (extreme Gun DPS, above average Barrage DPS), excellent staying power**. 
 
@@ -2437,7 +2439,7 @@ Last and least, she has a barrage too. It has the unique distinction of being so
 
 - Desc: Dark Hero Plays.
 >Freddy is a giant statstick. Moving on.
-What, you want more? Fine. Freddy Mercury is unreasonably strong, fully deserving of her status as a DR (and the disgusting ***19*** Oil cost) brimming as she in the sheer staying power granted by her escalating defence buff and nearly 10k base HP as well as firepower, courtesy of the devastating 160% Main Gun Efficiency she gets without sacrificing gun mounts or an easily-procced, powerful defensive barrage.  
+What, you want more? Fine. Fred the Fat is unreasonably strong, fully deserving of her status as a DR (and the disgusting ***19*** Oil cost) brimming as she is in the sheer staying power granted by her escalating defence buff and nearly 10k base HP as well as firepower, courtesy of the devastating 160% Main Gun Efficiency she gets without sacrificing gun mounts or an easily-procced, powerful defensive barrage.  
 If one were to look hard for any chinks in her Plot Armour it could be said that her HitRate is abysmal, not that BBs exactly shine in that regard; nevertheless she's uncharacteristically bad in that regard, suffering from the PR standard 0 Luck and a meagre 65 Accuracy, but it's an easily solved issue anyway.
 
 ![BB](/Images-for-the-Guide/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** 
@@ -2460,7 +2462,7 @@ However, all this becomes quickly irrelevant as soon as she loses her +30% damag
   * **High DPS (secondary guns reliant), vanguard fire supporter, secondary flagship**, vanguard anti-torp defence, submarine debuffer.
 
 * Skill: 
-  * Odin spawns in front of the flagship, regardless of her actual placement in the comp, and takes -20% damage. Every 15s, Odin sends out a sonar ping revealing all subs for 10s, reducing their Accuracy by 25% and decreasing the damage the vanguard takes from torpedoes by -15% for 10s.
+  * Odin spawns in front of the flagship, regardless of her actual placement in the comp, and takes -20% damage. Every 15s, Odin sends out a sonar ping revealing all subs for 10s, reducing their Accuracy by 25% and decreasing the damage the vanguard takes from torpedoes by -15% for 10s. Note that her being in front will make her more likely to be targeted by enemy fire.
   * Every 18s, 75% chance to fire a [barrage](https://streamable.com/svrjmd); also, all torpedoes mounted change their pattern from conal to parallel.
     * The SHIELD-IGNORING RAILGUN deals 240 bdmg with 150/150/150 mods; the 24 NEEDLES deal 92 bdmg with 100/80/60 mods. Both are modified by 100% of the unit's FP.
   * Has torpedoes instead of regular DD/CL secondary guns... and has two sets of special ghost guns (one for long-range support fire, one for close-range defence) to compensate.
@@ -2470,6 +2472,25 @@ However, all this becomes quickly irrelevant as soon as she loses her +30% damag
 A very unique unit, Odin takes after Bismarck and Tirpitz and upstages both at their own games... by providing solid protection for your beleaguered vanguard both in the form of a nifty defence boost and a constant hail of gunfire that IS capable of shooting past the white pushback line, and significant fire support in the form of surprisingly capable long-range torpedo mounts you can call in like a normal torp spread and a nasty timed barrage.  
 The secondaries deserve further elaboration. As mentioned, Odin mounts two sets of them on top of the torpedoes; one pair behaves like many twin DD guns with significantly increased damage, universal armour modifiers (100/100/100) and extremely long range (ie. they reach past the white pushback line, unlike Bismarck's, thanks to extra range on their part and Odin being positioned closer to the edge of the screen), one's meant for self-defence against the fireships Bismarck struggles to intercept, leaving her always capable of responding to incoming threats.  
 It is important to remember that the former set makes up for about 1/3rd of her overall DPS, and if it is not allowed to operate (as would happen with far away bosses or enemies), her contribution to the fight would suffer considerably.
+
+
+![BC](/Images-for-the-Guide/Ulrich_von_Huttenhibi.png "Ulcer") - **[KMS Ulrich von Hutten](https://azurlane.koumakan.jp/Ulrich_von_Hutten)
+  * **Extreme DPS (high Gun DPS at a very high rate of fire, average Barrage DPS), BB slow supporter, off-flagger**. Cross-fleet defender, HE specialist.
+
+* Skill: 
+  * Upon main gun fire, launch an [aimed slowing salvo](https://streamable.com/1wk61d). If an enemy moves within 100 units from her (ie. very slightly beyond the white line), launch a [proximity scatter barrage](https://streamable.com/q02n66).
+    * The 4 SHELLS deal 110 bdmg with 100/100/1000 amods. They slow the targets hit by 30% for 3s, and are modified by 100% of the unit's FP.
+    * The 48 NEEDLES deal 65 bdmg with 100/100/100 amods; the 6 HOMING TORPEDOES deal 65 bdmg with 80/100/130 amods. Both are modified by 100% of the unit's FP.
+  * Gain +15% FP/Reload. If mounting a HE gun, increase its Light and Medium armour modifiers by +15%. If not flagship, halve the cooldown of her main guns and deal -45% dmain gun damage.
+  * Deal +20% CritDmg. If alive, KMS units in the other fleets take -5% dmg and grant them +10% CritDmg; also, if an enemy unit moves within 80 units from their end of the screen, launch a [defensive proximity barrage](https://streamable.com/jmkqj1) up to 6 times in a single fight, with a 5s between procs.
+    * The 8 SHOTS deal 25 bdmg with 145/105/75 amods; the 32 NEEDLES deal 20 bdmg with 100/100/100 amods. Both are modified by 100% of the unit's FP.
+
+- Desc: 
+> The unholy lovechild of Champagne and Freidrich, with a sprinkle of Duke of York's slowing barrage thrown in for good measure, Ulrich's design is as mystifying as it is effective - and deceptively powerful, as many wehraboos have proven by endlessly complained about her 'low damage'.  
+Meant to be used as accompaniment to a flagship, ideally some nasty flagship BBarrager like Friedrich herself or Marco Polo, Ulrich's primary job is to bury enemy bosses under an avalanche of lead (both from the main guns and the barrage) and keeping them slowed in the process: sure, -30% speed isn't enough for carriers, but it is more than enough for most battleships' shelling and barrages to land. Also, don't be fooled by the -45% MG damage, when paired with the halved cooldowns (which also help firing more aimed barrages) and retaining three main gun mounts it still amounts to a damage increase.  
+As for her defensive barrages, they're certainly welcome, but they lack any real offensive application due to their pattern and range requirements; still, a CV-heavy secondary fleet is bound to appreciate her stopping power.  
+And lastly, about her supportive capabilities - the fact she grants a damage reduction to KMS units in the fleets she's NOT in further emphasises her role as a boss-fleet mainstay. Leave the mobbing to someone else, the reduced MG damage coupled with the 0 Ammo debuff would make her a liability in that context anyway.  
+
 
 ![BC](/Images-for-the-Guide/ChampagneChibi.png "Zzz") - **[FFNF Champagne](https://azurlane.koumakan.jp/Champagne)**
 * Roles:
@@ -2664,6 +2685,25 @@ If you're looking for a flagship that just won't die, look no further.
 - Desc: 
 >One of Wargaming's famed paper boats(tm), Sovetskaya Rossiya was historically inspired by Littorio's blueprints and her Azur Lane incarnation makes it blindingly obvious: both have very similar barrages (though Rossiya's also has the slowing icebergs falling in a checkers pattern), both have almost the same statline (though Rossiya has much worse Luck), both have a weird limited-time power-up (though Rossiya's lasts one battle less, affects Accuracy and requires three more Russians around).  
 What does this mean in practice? It means that Rossiya is very comparable to Littorio overall but is slightly less flexible while being potentially a bit more powerful, so long as her conditions are met.
+
+![BB](/Images-for-the-Guide/Gneisenau_METAChibi.png "Mnei") - **[Gneisenau META](https://azurlane.koumakan.jp/wiki/Gneisenau_META)**
+* Roles:
+  * **Vanguard fire supporter, off-flag capable battleship**, high DPS (secondaries reliant).
+
+* Skill:
+  * Upon Main Gun fire, [chain and gun someone down](https://streamable.com/qcuj50).
+    * The 6 AIMED SHELLS deal 110 bdmg with 100/100/100 amods; the 60 CHAIN SEGMENTS deal 15 bdmg with 100/100/100 amods. Both are modified by 100% of the unit's FP and inflict a 6s long special Ignition, dealing 76 dmg every 1s for 6s; the chains are fired from the middle position regardless of Mneisenau's location.
+  * Every 15s, launch [a wave of homing torpedoes](https://streamable.com/rhyxzt); those hit by a torpedo take +8% dmg from Gneisenau META for 10s. Upon proc and/or destroying an enemy, gain a +3% CritRate stack (up to +9%).
+    * The 8 HOMING TORPEDOES deal 56 bdmg with 80/100/100 amods. They are modified by 100% of the unit's Torp stat.
+  * Gain +5% FP/AA. If mounting any KMS equipment, gain another +5% FP and vanguard units take -5% torpedo damage; if NOT mounting any KMS equipment, vanguard units take -8% Aviation damage.
+  * Deal +8% CritDmg to Sirens.
+  * Has only 1 SGM but mounts a long-range ghost secondary gun!
+    * The 4 GHOST SECONDARY SHOTS deal 16 bdmg with 100/100/100 amods and reloads in 2.74s. Its range is 110, it can pierce up to 2 targets, and the damage is modified by 100% of the unit's FP.
+
+- Desc: Discount Odin.
+>An unflattering comparison if we were to only consier those two units - Mneisenau lacks Odin's support capabilities and forward shift, the double ghost guns and torpedo weapon slot, the better statline - but a true one nevertheless, and one that does not detract from the fact more Odins, even if lesser, are still more direct vanguard fire supporters able to off-flag comfortably.  
+It is hard to understate the value of the arrangement, especially in adds-rich environments, and nothing forbids taking both of them at the same time.
+
 
 ![BB](/Images-for-the-Guide/Akane_ShinjoChibi.png "who") - **[Akane Shinjo](https://azurlane.koumakan.jp/wiki/Akane_Shinjo)**
 * Roles:
