@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (SSSS GREEDMAN EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (MADDY'S ADALBERT ULRICH EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, dinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -72,12 +72,10 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (13/11/2021)
+## Changelog as of last major update (03/01/2022)
 
-- Added FFNF Le Terrible and FFNF Maille Breze.
-- Added PR4 prioities. Entries still pending.
-- Revised FFNF Le Triomphant's description and added her roles.
-- Removed SN Minsk and SN Grozny from the Tierless Guide due to irrelevance.
+- Added KMS Ulrich von Hutten, KMS Prinz Adalbert, KMS Magdeburg, Gneisenau META.
+- Revised KMS Bismarck's entry.
 
 <br/><br/>
 ---
