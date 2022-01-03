@@ -7,6 +7,11 @@ Well, dear reader, barring an accidental deletion on my part I am sorry to say t
 Not to despair, though! As mentioned in the Tier Guides, even untiered units can be put to use (though they won't make it easy on you), but if you'd like to have a clearer picture of who didn't make the cut and why, here's a shortlist for it.
 
 ---
+[03/01/2021]
+> KMS Roon (not the Idol one) joins the Untierless Guide on account of being... **a trainwreck of a kit and superceded entirely by her Idol version**.
+- Saddled with a detrimental ammo swap mechanic that prevents her from fully harnessing her power at all times (and locks out better ammo mods entirely) and a hitshield skill that is only marginally better than Prinz's by virtue of being a guaranteed proc (and the least said about the Dev35 buff it enjoys, ie. having them spawn at the start of the fight, the better), Roon has always had little to offer to anyone but wehraboos. Now that good, even great, KMS vanguards are releasing - and her Idol version avoids all the mistakes the original did - there is just no point whatsoever in blighting your dock with her presence.
+
+
 [05/12/2021]
 > Hiyou META joins the entry below on account of being... **well, just read below**.
 - If it's any help, she's better than the original. Kind of. Ish. Then again, given how poor the base unit was, it would've been exceedingly hard to do worse.
