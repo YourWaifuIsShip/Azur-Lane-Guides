@@ -15,6 +15,9 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 - Remember her? She's the only quasi-kinda-self-healer the KMS has, not that she's supposed to stay in harm's way to begin with. Lacklustre damage output coupled with the usual CVL issues (poor statlines, low plane counts) prevented her from being ever a serious option.
 - Elbe is no different for pretty much the same reasons, despite (or perhaps also because) of the slightly more aggressive kit.
 
+> KMS U-1204 joins the Unlisted Guide on account of being... **a purple sub**.
+- rip underwater toilet
+
 
 [05/12/2021]
 > Hiyou META joins the entry below on account of being... **well, just read below**.
