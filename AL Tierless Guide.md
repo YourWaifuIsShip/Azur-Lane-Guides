@@ -1314,7 +1314,7 @@ Ziggy's Kai gave her the statline she needed to compete favourably with the othe
 > Clearly inspired by the popular and very capable Zara, this former Admiral Hipper hull does away with the predecessor's CA guns and revolving shields in favour of more CL guns and the much superior single front-facing style of hitshields... which, uniquely, also happen to shoot back as they are inevitably broken. While frailer than Zara's and slower to respawn, by virtue of triggering a barrage when broken they are also more universally useful: hitshields have a deservedly poor reputation for breaking far too quickly to incoming enemy fire that would have dealt little to no damage anyway, and this provides an elegant solution to the issue.  
 Shielding aside, Mainz shows some versatility in use, gaining more bulk and speed if set as vanguard lead or more damage output if placed elsewhere; given how ubiquitous CL or CA tanks are (and how rare Gun-CL capable of actual DPS are), it would be better to have her off-tank and let her rip.  
 
-![CL](/Images-for-the-Guide/Magdeburg.png "Magda") - **[KMS Magdeburg](https://azurlane.koumakan.jp/Magdeburg)**
+![CL](/Images-for-the-Guide/MagdeburgChibi.png "Magda") - **[KMS Magdeburg](https://azurlane.koumakan.jp/Magdeburg)**
 * Roles:
   * **Mob fleet adds sweeper** (+dmg stacks and barrage upgrade upon fight completion), **Above Average to High Gun DPS** (barrage and ramp reliant); light tank.
 
@@ -2472,7 +2472,7 @@ The secondaries deserve further elaboration. As mentioned, Odin mounts two sets 
 It is important to remember that the former set makes up for about 1/3rd of her overall DPS, and if it is not allowed to operate (as would happen with far away bosses or enemies), her contribution to the fight would suffer considerably.
 
 
-![BC](/Images-for-the-Guide/Ulrich_von_Huttenhibi.png "Ulcer") - **[KMS Ulrich von Hutten](https://azurlane.koumakan.jp/Ulrich_von_Hutten)
+![BC](/Images-for-the-Guide/Ulrich_von_HuttenChibi.png "Ulcer") - **[KMS Ulrich von Hutten](https://azurlane.koumakan.jp/Ulrich_von_Hutten)
   * **Extreme DPS (high Gun DPS at a very high rate of fire, average Barrage DPS), BB slow supporter, off-flagger**. Cross-fleet defender, HE specialist.
 
 * Skill: 
