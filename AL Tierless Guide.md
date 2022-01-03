@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (MADDY'S ADALBERT ULRICH EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (MADDY'S ADAL ULRICH EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, dinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -38,7 +38,7 @@ Good reading, and godspeed cap'n!
 - BB/C                : Hyuuga > Warspite* > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) = Nevada/Oklahoma
 - CV/L                : Hiryu/Soryu > Shouhou = Independence > Langley > Ranger = Saratoga
  
- - PR1                : Monarch > Ibuki > Saint Louis > Neptune > Roon (unless focusing on KMS) 
+ - PR1                : Monarch > Ibuki > Saint Louis > Neptune 
  - PR2                : Georgia > Kitakaze = Gascogne > Seattle > Azuma > Friedrich der Grobe (unless focusing on KMS)
  - PR3                : Odin = Champagne > Cheshire > Mainz > Drake
  - PR4                : Parseval > Marco Polo = Agir > Hakuryuu > Anchorage
@@ -1687,7 +1687,7 @@ All that said, though - she's alright.
 
 ![CB](/Images-for-the-Guide/AzumaChibi.png "Choukai 2.0") - **[IJN Azuma](https://azurlane.koumakan.jp/Azuma)**
 * Role:
-  * **Super Heavy Tank**, **Extreme to Best Gun DPS (HE-locked, Arcing, AoE shells; damage increases with range)**.
+  * **Very Heavy Tank**, **Extreme to Best Gun DPS (HE-locked, Arcing, AoE shells; damage increases with range)**.
 
 * Skill:
   * If equipped with a 280mm+ Main Gun, gains up to +25% Main Gun Damage depending on how far from the enemy she is; also, gain +50% Ignition Damage.
@@ -1800,6 +1800,24 @@ Being an IJN CA, this means she gets a much better torp suite than her not-IJN p
 Blessed with one of the best vanguard barrages currently available once upgraded, and bolstered by buffs that naturally improve both her ability to barrage and the barrage itself, she's uniquely positioned to take advantage of an otherwise ignored feature of this class without sacrificing actual gunnery in the process.  
 And speaking of gunnery, the addition of the Seattle Gun - the only CL gun able to match CA gunnery on a relatively even footing and the only real choice for CL gunnery on boss fleets - makes Suzuya suddenly a lot more viable, capable as she is of maximising its effectiveness with her CA FP, relatively high efficiency and barraging a lot more, given the improved volume of fire.
 On the flipside, said barrage is also her most noteworthy feature - manual play is almost mandatory in order to play to her strength. 
+
+![CB](/Images-for-the-Guide/ÄgirChibi.png "seamen demon") - **[KMS Agir](https://azurlane.koumakan.jp/Ägir)**
+* Role:
+  * **Super Heavy Tank**, **Best Gun DPS (Arcing, AoE shells; strong innate secondaries)**, **strong Slow and Armour Break debuffer**.
+
+* Skill:
+  * Upon hitting an enemy with torpedoes, lower its Speed by -60% for 5s. So long as the fleet has ammo, gain +15% Evasion.
+  * If mounting an AP or Normal gun, take -15% damage and gain +12% CritRate. If mounting a HE gun, deal +12% damage but become unable to Ignite enemies. If the gun mounted is of CB calibre (ie. 283mm+), gain +12% Main Gun Efficiency.
+  * If there are no enemies close to Agir, deal Armour Break to any enemy hit by her shells. Barrage every 8 main gun firing cycles, or if mounting a CB calibre main gun, every 4.
+  * +15% damage vs Sirens.
+  * Has MGM+1 and innate Heavy Armour, as well excellent long-range ghost secondaries.
+    * The 4 GHOST SECONDARY SHOTS deal 23 bdmg with 135/95/70 amods, and have an 8% chance to Ignite targets struck. The gun has an efficency of 45%, range 75, and reloads in 2.32s.
+
+- Desc: The seamen demon cometh.
+>Agir is extremely tough, obscenely powerful, shockingly useful, and lacks anything even vaguely resembling a weakness or downside. So much for balance. Oh well.  
+The toughness is upheld by her backliner-like massive HP pool and bolstered by the +15% Evasion as well as the -15% damage taken (if mounting an AP gun, which you'll usually do); the power comes from the combination of debuffs, strong aimed barrages, secondary fire and sheer strength of high calibre guns; the support is rather self-explanatory, keeping targets under semi-constant Armour Break and being able to inflict heavy slows on demand is the kind of utility others can only dream of.  
+About as subtle as a sledgehammer, Agir brutalises with little effort spent most opponents and can take withering punishment for minutes on end. The extent of her complexity lies mostly in the realm of auto optimisation, as you may consider adjusting her torpedoes in order to have her launch when battleships or possibly carriers are about to strike. Triple acoustic torpedoes usually do the trick, but feel free to experiment if they don't!
+
 
 ![CA](/Images-for-the-Guide/DeutschlandChibi.png "Desuland") ![CA](/Images-for-the-Guide/Admiral_Graf_SpeeChibi.png "Shpi") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)** & **[KMS Admiral Graf Spee](https://azurlane.koumakan.jp/Admiral_Graf_Spee)**
 * Roles:
@@ -3001,7 +3019,7 @@ Enemy ships are zipping around too much for your liking? Her Swordfishes inflict
 Subs? Don't let her stats fool you, she's still a CVL and that means she can bomb them with impunity (and great effect at that).  
 Whatever's getting you down, Centaur has the solution for it - and while she won't match the heights of more specalized units in their fields, her responses tend to be more than enough for most tasks at hand.  
 
- #### ![CVL](/Images-for-the-Guide/ChaserChibi.png "Chaser") - [HMS Chaser](https://azurlane.koumakan.jp/Chaser)
+ ![CVL](/Images-for-the-Guide/ChaserChibi.png "Chaser") - **[HMS Chaser](https://azurlane.koumakan.jp/Chaser)**
 * Skill: 
   * Upon airstrike launch, 15% chance to immediately reload it.
   * Upon airstrike launch, reveal all submarines on the screen for 10s and launch three biplanes armed with depth charges and two parallel torpedoes each.
@@ -3027,7 +3045,7 @@ Locking an enemy in place for a whole second and a half is more than enough for 
 Formidable also happens to have a barrage if her Albacore tax is paid, but expect little from it unless she's in a mob fleet - the torpedoes are too spread apart from each other to ensure more than a couple of hits per spread, and that's not worth giving up the brutal damage output of a full aimed drop instead.  
 *About the Albacore...* it's terrible. Parallel torpedoes are bad enough as it is and this one doesn't even launch three, unlike the Barracuda; if you're taking one, it's strictly for the barrage.
 
- #### ![CVL](/Images-for-the-Guide/HermesKaiChibi.png "Hermes Kai") - [HMS Hermes Kai](https://azurlane.koumakan.jp/Hermes#retrofit)
+ ![CVL](/Images-for-the-Guide/HermesKaiChibi.png "Hermes Kai") - **[HMS Hermes Kai](https://azurlane.koumakan.jp/Hermes#retrofit)**
 * Skill: 
   * Upon airstriking, 25% chance to deal x2 damage for 10s.
   * Every 20s, launch one of three [barrages](http://p9.qhimg.com/t01a72c2315e7c4be51.gif); 33% chance for 1 HE nuke, 33% chance for 3 AP bombs; 34% chance for 24 Normal bomblets. Also, when her HP falls below 30%, gain 7 Luck.  
@@ -3102,7 +3120,7 @@ Lastly, she can lob a heal over to the fleet in which she isn't; helpful for pat
 
 * Desc: 
 >Easily acquired and packing the ever-valuable standard vanguard heals, between that, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
- 
+
 ![CV](/Images-for-the-Guide/AkagiChibi.png "IJN Akagi") ![CV](/Images-for-the-Guide/KagaChibi.png
  "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)**
 * Skill: 
@@ -3216,6 +3234,22 @@ On a sidenote, she's also one of the carriers least affected by enemy AA boats d
 Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be; while the buff to her first skill graciously gifted her a +20% damage boost, her efficiencies remain rather lacklustre and the ramp is as slow as ever.  
 If this still sounds like a "don't use her"... well, yeah. Don't, she'll only drag everyone down.
 
+ ![CV](/Images-for-the-Guide/August_von_ParsevalChibi.png "Parse") - **[KMS August von Parseval](https://azurlane.koumakan.jp/August_von_Parseval)** 
+* Roles:
+  * **Stopper, anti-Light/Medium debuffer, anti-CL/CA specialist.** Accurate, high damage output.
+* Skill: 
+  * Upon airstrike launch, 75% chance to inflict 234 damage to all enemies onscreen and gradually lower their Speed to 0 over 2.5s; once stopped, the targets remain stopped for 1s before returning to normal.
+  * Upon airstrike launch, deploy two extra rocket fighters. Light and Medium Armour enemies hit by them take +8% damage for the next 5s.
+    * The 4x2 ROCKETS deal 142 bdmg with 110/140/50 amods. Each plane may target a different enemy. They are modified by 100% of the unit's Aviation.
+  * Deal +20% damage to CL and CA. If mounting 1+ KMS planes, gain +12% Aviation/Reload and +10% Fighter Efficiency.
+  * Has a 2/3/3 loadout.
+
+* Desc: 
+>In many ways an improved HMS Formidable, Parseval loses a sliver of reliability in her stop in favour of a stronger loadout and a more incisive support suite (if somewhat slanted towards the deletion of Light and Medium Armour, cruisers in particular).  
+Despite the similarities in usage, bear in mind Parseval must launch FIRST and ideally as the other carriers are ALSO launching. Timings are going to be tight, but it's possible - make use of the airstrike calculator!
+ 
+ 
+ 
 ![CV](/Images-for-the-Guide/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** 
 * Roles:
   * **Main KMS damage CV**, KMS fleet defender.
