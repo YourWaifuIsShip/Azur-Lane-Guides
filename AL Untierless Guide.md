@@ -11,6 +11,10 @@ Not to despair, though! As mentioned in the Tier Guides, even untiered units can
 > KMS Roon (not the Idol one) joins the Untierless Guide on account of being... **a trainwreck of a kit and superceded entirely by her Idol version**.
 - Saddled with a detrimental ammo swap mechanic that prevents her from fully harnessing her power at all times (and locks out better ammo mods entirely) and a hitshield skill that is only marginally better than Prinz's by virtue of being a guaranteed proc (and the least said about the Dev35 buff it enjoys, ie. having them spawn at the start of the fight, the better), Roon has always had little to offer to anyone but wehraboos. Now that good, even great, KMS vanguards are releasing - and her Idol version avoids all the mistakes the original did - there is just no point whatsoever in blighting your dock with her presence.
 
+> KMS Elbe joins the Unlisted Guide on account of being... **Weser but less interesting**.
+- Remember her? She's the only quasi-kinda-self-healer the KMS has, not that she's supposed to stay in harm's way to begin with. Lacklustre damage output coupled with the usual CVL issues (poor statlines, low plane counts) prevented her from being ever a serious option.
+- Elbe is no different for pretty much the same reasons, despite (or perhaps also because) of the slightly more aggressive kit.
+
 
 [05/12/2021]
 > Hiyou META joins the entry below on account of being... **well, just read below**.
