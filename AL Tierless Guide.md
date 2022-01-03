@@ -75,7 +75,10 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 ## Changelog as of last major update (03/01/2022)
 
 - Added KMS Ulrich von Hutten, KMS Prinz Adalbert, KMS Magdeburg, Gneisenau META.
+- Added KMS Elbe and KMS U-1204 to the Unlisted.
+- Finally wrote in KMS Agir and KMS August von Parseval.
 - Revised KMS Bismarck's entry.
+- Demoted KMS Roon to the Unlisted.
 
 <br/><br/>
 ---
