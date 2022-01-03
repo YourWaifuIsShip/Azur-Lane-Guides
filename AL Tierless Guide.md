@@ -1308,8 +1308,8 @@ Ziggy's Kai gave her the statline she needed to compete favourably with the othe
 * Skill: 
   * Every 15s, deploy a hitshield in front of Mainz (blocks up to 6 shots, lasts for 8s). If the hitshield breaks, gain +8% FP/Accuracy (up to +16%) until the end of the battle and fire a special aimed barrage.
     * The 8 AP SHOTS deal 36 bdmg with 90/70/40 mods; the 8 HE SHOTS deal 36 bdm with 120/60/60 mods. They are modified by 100% of the unit's FP.
-  * If vanguard lead, gain +5 Speed and +12% Evasion until the end of the battle and take -15% damage for 30s; if NOT vanguard lead, deal +25% CritDmg and fire a special barrage every 15s at a 70% chance.
-    * The 6 SHOTS deal 36 bdmg with 200/200/200 mods. They are modified by 100% of the unit's FP.
+  * If vanguard lead, gain +5 Speed and +12% Evasion until the end of the battle and take -15% damage for 30s; if NOT vanguard lead, deal +25% CritDmg and fire a special barrage every 15s at a 70% chance. IF FATE 5: positioning within the vanguard does not matter anymore.
+    * The 6 SHOTS deal 36 bdmg with 200/200/200 mods. They are modified by 100% of the unit's FP. IF FATE 5, the shots are 12 and deal 40 bdmg.
   * Deal +15% damage to Sirens.
   * Has Medium Armour, MGM+1 and torpedoes. Really,  *really* bad torpedoes.
 
