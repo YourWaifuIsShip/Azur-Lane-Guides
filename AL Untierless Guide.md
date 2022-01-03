@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's highly opinionated and extra-biased AL Unlisted Guide (METAN'T EDITION)
+# Your Waifu is SHIP's highly opinionated and extra-biased AL Unlisted Guide (MADDY'S ADAL ULCER EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_  
 
