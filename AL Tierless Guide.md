@@ -2413,7 +2413,7 @@ All in all she's usable, but she's so far behind the real self-healers (Gascogne
 >Don't be fooled by the seemingly low statline - Mikasa has a lot more Firepower and Reload than meets the eye, courtesy of her truly astounding buff suite, and is the premiere flagship for a gun-focused IJN fleets.
 Nevertheless, her low HP and AA do prove a liability later on and you will have to find some ways around that - taking more big guns, AA barges or even carriers, depending on the situation, just don't use her on her own. 
 
-![BB](/Images-for-the-Guide/3Chibi.png "Blond E") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)**
+![BB](/Images-for-the-Guide/BismarckChibi.png "Blond E") - **[KMS Bismarck](https://azurlane.koumakan.jp/Bismarck)**
 * Roles:
   * **KMS fleet buffer**, above average Gun DPS. Cannot reliably stop fireships.
 
