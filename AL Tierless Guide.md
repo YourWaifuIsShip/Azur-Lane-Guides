@@ -3193,16 +3193,15 @@ It goes without saying that this grants her a damage output well beyond that of 
 Her support suite isn't lacking either, given the slew of buffs she grants to DDs and IJN carriers; perhaps more interesting though is the stacking de-buff granted by her Saiun, which will help taking the edge off of tougher opponents.  
 Overall, Shinano is a worth addition to most fleets thanks to her stellar damage output (by carrier standards, yes, but it can keep up with high-end battleships) and her valuable support. Consider carefully in which capacity you want to use her, as while she can cover a variety of roles, she works better if specialised.   
 
-![CV](/Images-for-the-Guide/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)**
+![CV](/Images-for-the-Guide/ShoukakuChibi.png "Salty Bird") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)**
 * Skill: 
   * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s.
   * When paired with Zuikaku, gain +30% Aviation and TAKE +10% damage.
   * Has a 2/2/4 loadout.
 
-* Desc: 
+* Desc (2022): 
 >More support-based than her sister and frailer than she when her other half is around, but more than makes up for it thanks to the +30% Aviation she gets as well as the buffs she throws out (which incidentally also partially negate the debuff).  
-Her buffs and layout are good enough to warrant usage even solo; so good, in fact, that you don't want to use her with Zuikaku.  
-As a duo the Cranes just don't work at all if you consider the following: the damage ramp takes two whole minutes to allow them to outdamage either IJN duo, meaning the fight will be already over by then (or you'll have lost the S rank) and the AA coverage is poor (only 4 fighters across 2 carriers).  
+Her buffs and layout are good enough to warrant usage even solo, unlike the vast majority of other IJN sister-carriers; and as of the semi-recent buffs to Zuikaku, bringing her sister around is no longer a detriment, at least not on boss fights.
 
  ![CVL](/Images-for-the-Guide/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)**
 * Skill: 
