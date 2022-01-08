@@ -2785,7 +2785,7 @@ Well, no, not really. It'll be like that only early on, where enemies tend to fa
 In short, their barrage is the only notable feature they have - and it's both unreliable and weak.  
 Avoid.
 
-#### ![BB](/Images-for-the-Guide/ColoradoChibi.png "Colorado") ![BB](/Images-for-the-Guide/West_VirginiaChibi.png "West Virginia") ![BB](/Images-for-the-Guide/MarylandChibi.png "Maryland") - [USS Colorado](https://azurlane.koumakan.jp/Colorado) [USS West Virginia](https://azurlane.koumakan.jp/West_Virginia) [USS Maryland](https://azurlane.koumakan.jp/Maryland)
+#### ![BB](/Images-for-the-Guide/ColoradoChibi.png "Edge") ![BB](/Images-for-the-Guide/West_VirginiaChibi.png "Eddge") ![BB](/Images-for-the-Guide/MarylandChibi.png "Edgy") - [USS Colorado](https://azurlane.koumakan.jp/Colorado) [USS West Virginia](https://azurlane.koumakan.jp/West_Virginia) [USS Maryland](https://azurlane.koumakan.jp/Maryland)
 * Skill: 
   * 40% chance to fire a special barrage when firing main gun
   * (Maryland) When her HP drops below 70% increase her damage dealt based on how low her HP is, up to +35%.
