@@ -1954,9 +1954,9 @@ If you're sick of seeing your poor vanguard get turned inside out, Zara is the s
   * **Super Heavy Tank**, **extreme Gun DPS (Arcing, AoE shells; powerful secondary and innate secondaries), medium Barrage DPS**, self-healer.
 
 * Skill:
-  * Gain +8% FP/Eva. Every 8 Main Gun firing cycles, launch her CB barrage; if mounting a CB gun, launch an improved version every 4 MG firing cycles.
+  * Gain +8% FP/Eva. Every 8 Main Gun firing cycles, launch her CB barrage; if mounting a CB gun, launch [an improved version](https://patchwiki.biligame.com/images/blhx/3/3f/bru5mzp85h74ff1qz7ibugnla8z92y3.gif) every 4 MG firing cycles.
     * The 6 ARCING AP SHELLS deal 56 bdmg with 75/115/75 amods; the 15 ICICLES deal 15 bdmg with 100/100/100 amods. Both are modified by 100% of the unit's FP.
-  * Take -8% damage from AP shells, and every 4 Secondary Gun firing cycles, launch an icicle barrage that decreases enemy FP by 5%. If mounting ANY Northern Parliament piece of equipment, gain +45% Secondary Gun Efficiency and take -8% damage globally (instead of just from AP).
+  * Take -8% damage from AP shells, and every 4 Secondary Gun firing cycles, launch an [icicle barrage](https://patchwiki.biligame.com/images/blhx/4/4b/7ziuu1khqxs3qeqcqsspivgjkolhtew.gif) that decreases enemy FP by 5%. If mounting ANY Northern Parliament piece of equipment, gain +45% Secondary Gun Efficiency and take -8% damage globally (instead of just from AP).
     * The 15 ICICLES deal 15 bdmg with 100/100/100 amods, and debuff enemies hit with -5% FP for 5s. They are modified by 100% of the unit's FP.
   * Upon falling below 10% HP, take -50% Ignition damage and heal for 1% of max HP every 1s for 10s; also, grant other fleets' BB flagship -2 Scatter on their Main Gun and fire a cross-fleet barrage 20s past the battle start.
   * Has MGM+1 and mounts CL secondaries, plus a ghost Tbtsk-like CL secondary.
