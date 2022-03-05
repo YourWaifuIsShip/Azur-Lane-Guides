@@ -1,7 +1,7 @@
 # Welcome to Your Waifu is SHIP's highly opinionated and extra-biased Guides!
 
 **CURRENT NEWS**  
-HAPPY NEW YEAR! Added all the recent KMS units, caught up with PR4s Agir and Parseval, and kicked Roon off the main list. Long overdue. Enjoy~
+Well this deserved an update much earlier, but uh... shit's been wild all over, quite literally. Finally catching up with overdue additions, Kyiv will take special place. Slava Ukraini.
 
 If you've landed here because someone linked the Tier Guides to you or happened to read a pin about them, chances are you already know what these are all about and why the insistence on them being called 'Tier Guides'; on the off chance you don't, here's the long and short of it.
 
