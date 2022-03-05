@@ -34,16 +34,16 @@ Good reading, and godspeed cap'n!
 - If you'd like to know individual numbers, feel free to ask me on Discord (or Issues if you truly must).
 
 #### Retrofit/Kai Priority List and PRiority list:
-- DD                  : Yuudachi* > Ayanami = Z23 > Laffey > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
-- CL                  : San Diego* > Isuzu > Jintsuu > Leipzig = Leander > Kinu = Emile Bertin > Helena > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
+- DD                  : Yuudachi* > An Shan* = Chang Chun* > Ayanami = Z23 > Laffey > Kagerou = Tanikaze = Z1 > Nicholas = Cassin/Downes > Javelin > Foxhound = Shiranui
+- CL                  : San Diego > Isuzu > Jintsuu > Leipzig = Leander > Kinu = Emile Bertin > Helena > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
 - CA                  : London > Mogami > Portland > Furutaka/Kako > Suffolk > Exeter
-- BB/C                : Hyuuga > Warspite* > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) = Nevada/Oklahoma
-- CV/L                : Hiryu/Soryu > Shouhou = Independence > Langley > Ranger = Saratoga
+- BB/C                : Hyuuga > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) > Warspite > Nevada/Oklahoma
+- CV/L                : Independence = Hiryu/Soryu > Shouhou > Langley > Ranger = Saratoga
  
  - PR1                : Monarch > Ibuki > Saint Louis > Neptune 
- - PR2                : Georgia > Kitakaze = Gascogne > Seattle > Azuma > Friedrich der Grobe (unless focusing on KMS)
- - PR3                : Odin = Champagne > Cheshire > Mainz > Drake
- - PR4                : Parseval > Marco Polo = Agir > Hakuryuu > Anchorage
+ - PR2                : Kitakaze = Gascogne > Georgia > Seattle > Azuma > Friedrich der Grobe (unless focusing on KMS)
+ - PR3                : Odin > Champagne > Cheshire > Mainz > Drake
+ - PR4                : Parseval > Marco Polo = 3 > Hakuryuu > Anchorage
  
 #### What gear do I give X?
 Courtesy of two ALEC veterans of ours, xscore#4740 and ʝimmy#8049, have some handy flowcharts. No need to memorise the names anymore, refer to the images!  
@@ -561,10 +561,11 @@ If you're taking her, that's the reason you're doing it - and it is a pretty goo
 
 ![DD](/Images-for-the-Guide/KyivChibi.png "It's Kyiv, not Kiev") - **[SN Kyiv](https://azurlane.koumakan.jp/wiki/Kiev)**
 * Roles:
-  * **Barrage Gunship DD (very high Gun DPS, very high Barrage DPS, average Torp DPS)**.
+  * **Barrage Gunship DD (very high Gun DPS, very high Barrage DPS, average Torp DPS)**; medium tank.
 
 * Skill:
   * 5s after battle start, launch [Stage 1](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/Images-for-the-Guide/KyivStage1.jpg) of the special barrage; 10s later, add [Stage 2](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/Images-for-the-Guide/KyivStage2.jpg) and gain +10% CritRate/CritDmg; 10s later, add [Stage 3](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/Images-for-the-Guide/KyivStage3.jpg) and gain +10% CritRate/Dmg; every 10s afterwards, launch all three Stages of the barrage.
+    * As with other incremental barrages, listing them all gets irritating quickly. Full details [here](https://azurlane.koumakan.jp/wiki/User:Riceist/BarrageDatamine).
   * Gain +10% Accuracy. If sortied with another SN vanguard or a full vanguard, gain +15% FP/Torp; if sortied solo, gain +15% AA/Eva.
 
 - Desc: Слава Україні!
@@ -572,10 +573,9 @@ If you're taking her, that's the reason you're doing it - and it is a pretty goo
 She can also be sortied solo with some success, but even with a defensive buff and a tough Soviet hull, she won't stand for *too* long without healing support and she'll be somewhat weaker than she'd otherwise be.
 
 
-
 ![DD](/Images-for-the-Guide/TashkentChibi.png "Ypa 1") - **[SN Tashkent](https://azurlane.koumakan.jp/Tashkent#Retrofit)**
 * Roles:
-  * **Superior Gunship DD (extreme Gun DPS w/ Light focus, average Torp DPS)**; medium tank, minor Slow support.
+  * **Gunship DD (very high Gun DPS w/ Light focus and time limit, average Torp DPS)**; medium tank, minor Slow support.
 
 * Skill:
   * Upon battle start, gain +10% FP and summon ~~Navi~~ an ice fairy for 50s, whose shots inflict 1 stack of -1.5% Speed for 4s (max 10 stacks; each icicle refreshes the 4s duration).
@@ -589,7 +589,7 @@ Impressive as she is, Tashkent does have a couple of drawbacks; first of all is 
 
 ![DD](/Images-for-the-Guide/Tashkent_µChibi.png "Ypa 1") - **[Muse Tashkent](https://azurlane.koumakan.jp/Tashkent_µt#Retrofit)**
 * Roles:
-  * **Excellent Gunship DD (very high Gun DPS w/ Light focus, average Torp DPS)**; medium tank, minor carrier support.
+  * **Gunship DD (very high Gun DPS w/ Light focus, average Torp DPS)**; medium tank, minor carrier support.
 
 * Skill:
   * Upon battle start, gain +10% FP and summon ~~Navi~~ an ice fairy for 50s, whose shots inflict a -5% Aviation Damage Taken debuff upon enemies hit by them 10 times.
@@ -1397,8 +1397,6 @@ The heal on shield expiration is nice too, but hardly going to make a difference
 Whether it's defence (second largest HP pool among CLs, PRs aside; hefty and lengthy Evasion boost, AP and torpedo damage reductions; self-heal) or offence (quickload, straight up devastating torpedoes, extra barrage on torp launch), Duca degli Abruzzi is easily a match for the most biased IJN CLs out there as well as a priviledged partner of theirs.  
 It's worth mentioning how the -1 Torpedo Speed is a very good thing, despite what it sounds like - torpedoes on manual tend to either be shotgunned or launched at relatively close range if HMS, and as such they are not negatively impacted, whereas torpedoes on auto more or less have to use KMS launchers to compensate for the AI's idiocy, at which point the slowdown considerably increases their hitrate by being unable to zoom past things.  
 
-
-
 ![CL](/Images-for-the-Guide/AvroraChibi.png "Avrora") - **[SN Avrora](https://azurlane.koumakan.jp/Avrora)**
 * Roles:
   * **Excellent vanguard DPS booster**... and nothing else.
@@ -1412,7 +1410,6 @@ It's worth mentioning how the -1 Torpedo Speed is a very good thing, despite wha
 Her buff is the absolute best in the entire game, no exception allowed; she gets MGM+1 while keeping her torps, a rarity only six other ships have access to; and her Armour is Medium, letting her outlast a good number of her competitors.  
 As amazing as all this sounds, she is let down by one glaring flaw - her abysmal offensive statline, which even her impressive buff struggles to shore up, compounded with pre-WW1-era engines that grant her the questionable honour of being the slowest ship in the game (tied with Yat Sen).  
 All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and an amazing force multiplier, having her around won't cut into your DPS to the point of crippling your fleet and will help your other ships MvP.
-
 
 ![CL](/Images-for-the-Guide/ChapayevChibi.png "Pale Rider") - **[SN Chapayev](https://azurlane.koumakan.jp/Chapayev)**
 * Roles:
@@ -1516,7 +1513,7 @@ Her one job is being immensely irritating/powerful in the arena, and dying for y
   * ![CL](/Images-for-the-Guide/MurmStare.png)
 
 - Desc: :murmpain:
->By far the most recognisable of the second russian event units, she's also one of the absolute worst in the game (comes with a Omaha-class CL). Why is she in here, then?  
+>By far the most recognisable of the second russian event units, she's also one of the absolute worst in the game (comes with being a Omaha-class CL). Why is she in here, then?  
 Because of that smile. That damn smile. And the tons of memes featuring her.
 
 
@@ -1818,7 +1815,7 @@ On the flipside, said barrage is also her most noteworthy feature - manual play 
 
 ![CB](/Images-for-the-Guide/ÄgirChibi.png "seamen demon") - **[KMS Agir](https://azurlane.koumakan.jp/Ägir)**
 * Role:
-  * **Super Heavy Tank**, **Best Gun DPS (Arcing, AoE shells; strong innate secondaries)**, **strong Slow and Armour Break debuffer**.
+  * **Super Heavy Tank**, **extreme Gun DPS (Arcing, AoE shells; strong innate secondaries)**, **strong Slow and Armour Break debuffer**.
 
 * Skill:
   * Upon hitting an enemy with torpedoes, lower its Speed by -60% for 5s. So long as the fleet has ammo, gain +15% Evasion.
@@ -1950,6 +1947,24 @@ That is not to say she is frail, of course: she sports Zara's high eHP and bolst
 Portland Kai may be cheap, Prinz Eugen may have more eHP and Moon may have more DPS,  but none of them have her spectacular shields nor her combination of good DPS and high eHP at the same time, and that's what pushes her above her competitors.    
 While the damage boosts are undoubtedly good and allow her to perform optimally under every circumstance, the shields are the real stars of the show here - not only their uptime is much higher than the 18% would lead you to believe, able as they are to proc on *any* attack that collides with her chibi (even if she evades the damage), the front-facing shield is absolutely invaluable when it comes to blocking incoming enemy fire entirely, especially if it's piercing enemy fire.  
 If you're sick of seeing your poor vanguard get turned inside out, Zara is the solution to your problems.
+
+![CA](/Images-for-the-Guide/KronshtadtChibi.png "Kronk") - **[SN Kronshtadt](https://azurlane.koumakan.jp/wiki/Kronshtadt)**
+* Roles:
+  * **Super Heavy Tank**, **extreme Gun DPS (Arcing, AoE shells; powerful secondary and innate secondaries), medium Barrage DPS**, self-healer.
+
+* Skill:
+  * Gain +8% FP/Eva. Every 8 Main Gun firing cycles, launch her CB barrage; if mounting a CB gun, launch an improved version every 4 MG firing cycles.
+    * The 6 ARCING AP SHELLS deal 56 bdmg with 75/115/75 amods; the 15 ICICLES deal 15 bdmg with 100/100/100 amods. Both are modified by 100% of the unit's FP.
+  * Take -8% damage from AP shells, and every 4 Secondary Gun firing cycles, launch an icicle barrage that decreases enemy FP by 5%. If mounting ANY Northern Parliament piece of equipment, gain +45% Secondary Gun Efficiency and take -8% damage globally (instead of just from AP).
+    * The 15 ICICLES deal 15 bdmg with 100/100/100 amods, and debuff enemies hit with -5% FP for 5s. They are modified by 100% of the unit's FP.
+  * Upon falling below 10% HP, take -50% Ignition damage and heal for 1% of max HP every 1s for 10s; also, grant other fleets' BB flagship -2 Scatter on their Main Gun and fire a cross-fleet barrage 20s past the battle start.
+  * Has MGM+1 and mounts CL secondaries, plus a ghost Tbtsk-like CL secondary.
+    * The 4 AP GHOST SECONDARY SHOTS deal 21 bdmg with 100/80/60 amods. The gun has an efficency of 50%, range ?, and reloads in 2.79s.
+
+- Desc: [In these trying times, the Northern Parliament is certain of one thing...](https://www.youtube.com/watch?v=Pd472eOMxrs)
+>BURY THEM UNDER AN AVALANCHE OF LEAD. Or icicles. Or both, actually.  
+See the link above? There's your description. No, really: Kronk's main thing is dumping an ungodly amount of shells downrange, rivaled only by a select few vanguards like Kyiv or Le Terrible (all of them lacking her CB statline or arcing fire capabilities), thanks to her dual CL secondaries and dual barrages.  
+Where's the catch? Mostly in her comparative lack of support, although Agir is a total standout in that regard and Kronk compensates by having a minor-but-still-useful self-heal should it prove necessary, and the barrage patterns being somewhat wide (although still focus-able to some degree).  
 
 
 ![CA](/Images-for-the-Guide/TallinnChibi.png "Tallinn") - **[SN Tallinn](https://azurlane.koumakan.jp/Tallinn)**
