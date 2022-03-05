@@ -2510,7 +2510,7 @@ It is important to remember that the former set makes up for about 1/3rd of her 
 
 * Skill: 
   * Upon main gun fire, launch an [aimed slowing salvo](https://streamable.com/1wk61d). If an enemy moves within 100 units from her (ie. very slightly beyond the white line), launch a [proximity scatter barrage](https://streamable.com/q02n66).
-    * The 4 SHELLS deal 110 bdmg with 100/100/1000 amods. They slow the targets hit by 30% for 3s, and are modified by 100% of the unit's FP.
+    * The 4 SHELLS deal 110 bdmg with 100/100/100 amods. They slow the targets hit by 30% for 3s, and are modified by 100% of the unit's FP.
     * The 48 NEEDLES deal 65 bdmg with 100/100/100 amods; the 6 HOMING TORPEDOES deal 65 bdmg with 80/100/130 amods. Both are modified by 100% of the unit's FP.
   * Gain +15% FP/Reload. If mounting a HE gun, increase its Light and Medium armour modifiers by +15%. If not flagship, halve the cooldown of her main guns and deal -45% dmain gun damage.
   * Deal +20% CritDmg. If alive, KMS units in the other fleets take -5% dmg and grant them +10% CritDmg; also, if an enemy unit moves within 80 units from their end of the screen, launch a [defensive proximity barrage](https://streamable.com/jmkqj1) up to 6 times in a single fight, with a 5s between procs.
