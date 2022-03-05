@@ -565,7 +565,7 @@ If you're taking her, that's the reason you're doing it - and it is a pretty goo
   * **Barrage Gunship DD (very high Gun DPS, very high Barrage DPS, average Torp DPS)**; medium tank.
 
 * Skill:
-  * 5s after battle start, launch [Stage 1](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/Images-for-the-Guide/KyivStage1.jpg) of the special barrage; 10s later, add [Stage 2](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/Images-for-the-Guide/KyivStage2.jpg) and gain +10% CritRate/CritDmg; 10s later, add [Stage 3](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/Images-for-the-Guide/KyivStage3.jpg) and gain +10% CritRate/Dmg; every 10s afterwards, launch all three Stages of the barrage.
+  * 5s after battle start, launch [Stage 1](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/Images-for-the-Guide/KyivStage1.jpg) of the special barrage; 10s later, add [Stage 2](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/Images-for-the-Guide/KyivStage2.jpg) and gain +10% CritRate/CritDmg; 10s later, add [Stage 3](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/Images-for-the-Guide/KyivStage3.jpg) and gain +10% CritRate/Dmg; every 10s afterwards, launch all three Stages of the barrage. Full package [here](https://wiki.biligame.com/blhx/基辅#/media/File:基辅技能锐不可当弹幕.gif).
     * As with other incremental barrages, listing them all gets irritating quickly. Full details [here](https://azurlane.koumakan.jp/wiki/User:Riceist/BarrageDatamine).
   * Gain +10% Accuracy. If sortied with another SN vanguard or a full vanguard, gain +15% FP/Torp; if sortied solo, gain +15% AA/Eva.
 
