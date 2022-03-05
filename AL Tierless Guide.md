@@ -2,8 +2,10 @@
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, dinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
+  
 While a very laudable approach, it is also one that lends itself to misconceptions of the toxic casual "ez gaem lmao use w/e ur gud" variety: to quote a wise Azur Lane Community member, "just because it works, it doesn't mean it's good": while all units are indeed viable, there are clearly objectively superior ones, and this Tierless Guide aims to identify who are they and for what reasons.  
-A few years at this and counting, and it's become to me abundantly clear that tiers cause a lot more issues than they actually solve; most people only pay attention to the tier and ignore the reasons why they're tiered that way, engage in pointless debates over which tier is *right* (like it's not all subjective anyway) and are left knowing just as much as they did before about the unit itself or how they are supposed to use it. 
+A few years at this and counting, and it's become to me abundantly clear that tiers cause a lot more issues than they actually solve; most people only pay attention to the tier and ignore the reasons why they're tiered that way, engage in pointless debates over which tier is *right* (like it's not all subjective anyway) and are left knowing just as much as they did before about the unit itself or how they are supposed to use it.  
+  
 The Tierless Guide means to dispense with all that nonsense and tell you all the important stuff, with none of the nastiness and drivel that inevitably follows tiers. Should you still wish for a shorter form writeup on what the units are like, [consider checking the Ko-Fi posts here.](https://ko-fi.com/ywisguides#).  
 Whatever the case and however you choose to read this guide, I want to stress this - ALL units are viable, SOME are better than others, NONE of them will work if you don't know how to use them.
 Good reading, and godspeed cap'n!
