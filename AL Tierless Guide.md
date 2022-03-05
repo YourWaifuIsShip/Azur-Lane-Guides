@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (MADDY'S ADAL ULRICH EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (FUCK PUTIN EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, dinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -72,13 +72,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (03/01/2022)
+## Changelog as of last major update (05/03/2022)
 
-- Added KMS Ulrich von Hutten, KMS Prinz Adalbert, KMS Magdeburg, Gneisenau META.
-- Added KMS Elbe and KMS U-1204 to the Unlisted.
-- Finally wrote in KMS Agir and KMS August von Parseval.
-- Revised KMS Bismarck's entry.
-- Demoted KMS Roon to the Unlisted.
+- Added ROC Anshan and Changchun. More to come.
 
 <br/><br/>
 ---
@@ -678,13 +674,37 @@ In her case, it's a nifty barrage proccing on damage taken by anyone but her on 
 >See above for comments about her statline; this one brings some heavier duty defensive support, however, courtesy of the 5s of +15% Evasion for all Regia Marina ships.  
 Considering how often a vanguard gets pelted with sprinkles or the backline tickled by planes, when not accompanied by AA-capable units, the chances of it firing up are very high; the smokescreen is also worth a mention, not because it's good at its intended job (smokescreens never are) but because it can proc a lot faster, meaning you could realistically get some use out of them even on auto. Imagine that!
 
- ![DD](/Images-for-the-Guide/Nicoloso_da_ReccoChibi.png "Nico") - **[RN Nicoloso da Recco](https://azurlane.koumakan.jp/Nicoloso_da_Recco)**
+![DD](/Images-for-the-Guide/Nicoloso_da_ReccoChibi.png "Nico") - **[RN Nicoloso da Recco](https://azurlane.koumakan.jp/Nicoloso_da_Recco)**
 * Skill:
   * For the first three battles of the map, gain +15% AA/Eva and +5 Speed; gain +5% FP/Torp/Reload (up to +15%) for every fleet defeated by hers.
   * Enemy CL take +8% more damage. Nicoloso da Recco takes +1% more damage.
 
 * Desc: 
 >Little miss CL botherer. Fairly okay statline with the customary good guns, poor torps and non-existent AA.
+ 
+![DD](/Images-for-the-Guide/An_ShanKaiChibi.png "Anshan") ![DD](/Images-for-the-Guide/Chang_ChunKaiChibi.png "Changchun") - **[ROC An Shan Kai](https://azurlane.koumakan.jp/wiki/An_Shan)** **[ROC Chang Chun Kai](https://azurlane.koumakan.jp/wiki/Chang_Chun)**
+* Roles: **Gunship Missile Destroyers (very high Gun DPS, high Gun DPS, high Barrage DPS); map strike provider (3x3 area, damage stacks with sub strikes);** damage buffer (Anshan), faction booster (Changchun).
+
+* Skill (Anshan):
+  * Grant +25% FP, Torp and Accuracy and +10% Evasion to all An Shan-class DDs (Anshan, Changchun, Taiyuan, Fushun).
+  * Gain 1 Tactical Missile Strike (use it on the map). Ignitions last -3s and deal -15% damage on An Shan. Every 15s, fire a special barrage inflicting armour break for 6s.
+  * If Vanguard, AOA is fired every 16 Main Gun firing cycles; if Backline, AOA is fired every Main Gun firing cycle.
+  * Has MGM+1. Torpedoes are replaced with Missiles (which still use Torp as scaling stat) and fire automatically, like guns. Can become Backliner by paying 200g, acting as a preload BB with a single MGM.
+
+* Skill (Changchun):
+  * Grant +12% FP, Reload and Accuracy and +10% Evasion to all Vanguard ROC/SN units, and +12% FP, Torp and AA to all Backline ROC/SN units.
+  * Gain 1 Tactical Missile Strike (use it on the map). Ignitions last -3s and deal -15% damage on An Shan. Every 15s, fire a special barrage inflicting a +6% Torp damage taken debuff for 6s.
+  * If Vanguard, AOA is fired every 16 Main Gun firing cycles; if Backline, AOA is fired every Main Gun firing cycle.
+  * Has MGM+1. Torpedoes are replaced with Missiles (which still use Torp as scaling stat) and fire automatically, like guns. Can become Backliner by paying 200g, acting as a preload BB with a single MGM.
+
+* Desc: The Stalinium Shipment came in!
+>And so did the gimmicks. But oh, how sweet these gimmicks are!  
+Whereas before they were standard fare Russian DDs (strong guns, tough hulls, high speed, abysmal torpedoes), now they slug it out with the best and ~~biasedest~~ brightest DD stars out there, courtesy of their MGM+1 and now-actually-functional secondary weapons, in the form of missiles, allowing them to not only shred Light Armour but also threaten the rest on the field and soften up enemy mob nodes on the map.
+Their barrage game also improved significantly, with their upgraded AOA firing more often and dealing more damage and the acquisition of a timed skill barrage, each slapping a somnwhat minor but not insignificant debuff on the enemies they hit (and the patterns are wide enough to make hits a guarantee).  
+The main gimmick is perhaps the ability to turn into a backliner - interesting but less than desirable outside of niche scenarios, like cheesing stat requirements on Hardmodes, as they cannot really contest the firepower of actual BBs, including preloaders, and their carrier-like stealth still gets negated easily without AA coverage.
+*About Anshan*... she's the solo player of the duo, for the most part. Used standalone she's far stronger and more likely to benefit from her own skill barrage, but will obviously improve with Changchun.
+*About Changchun*... think of her as a vanguard Gangut, except she never stops firing at full force. She'll also buff Chinese units, but since there are none legitimately worth using beyond personal preference, it won't matter much.
+
  
 ![DD](/Images-for-the-Guide/Shirakami_FubukiChibi.png "Not Kawakaze") - **[Shirakami Fubuki](https://azurlane.koumakan.jp/Shirakami_Fubuki)**
 * Skill:
@@ -712,32 +732,7 @@ One can only hope we'll see more DDVs like this one in the future.
 >An IJN Torp-DD armed with actual guns, Marie Rose barges into a fight swinging with a very considerable damage boost on her main weapon, ie. torpedoes, while sporting an unassumingly solid frame (all the better to proc those barrages) and a useful defensive buff.  
 Fairly straightforward, extremely capable.
 
-
-### Pro Team Players:
----
-#### ![DD](/Images-for-the-Guide/An_ShanChibi.png "Anshan") ![DD](/Images-for-the-Guide/Chang_ChunChibi.png "Changchun") ![DD](/Images-for-the-Guide/Fu_ShunChibi.png "Fushun") ![DD](/Images-for-the-Guide/Tai_YuanChibi.png "Taiyuan") - [PRAN Anshan](https://azurlane.koumakan.jp/An_Shan), [PRAN Changchun](https://azurlane.koumakan.jp/Chang_Chun), [PRAN Fushun](https://azurlane.koumakan.jp/Fu_Shun) [PRAN Taiyuan](https://azurlane.koumakan.jp/Tai_Yuan)
-* Skill (Anshan): While in combat, Anshan-class (all PRAN) ships have increased Accuracy, Firepower by 25% and evasion by 10%
-* Skill (Changchun): Increases Firepower, Reload and Accuracy by 12% for all North Union and Eastern Radiance (ROC, PRAN) ships in fleet.
-* Skill (Fushun): Increase own main gun's critical rate by 20%.
-* Skill (Taiyuan): While in combat with 6 ships in the fleet, increase own Firepower and Reload by 25%, and evasion by 10%.
-
-- Description:
-Use Fushun if you don't want to pony up for a full fleet: her DPS won't be as stable as Taiyuan's, but she won't be far off and you'll be burning a lot less Oil.
  
-#### ![DD](/Images-for-the-Guide/ForbinKaiChibi.png "Forbin Kai") ![DD](/Images-for-the-Guide/Le_MarsKaiChibi.png "Mars Black")- **[FFNF Forbin Kai](https://azurlane.koumakan.jp/Forbin#retrofit)** **[MNF Le Mars Kai](https://azurlane.koumakan.jp/Le_Mars#retrofit)**
-* Skill (Forbin):
-  * If the vanguard only fields FFNF/MNF units and every 20s, 50% chance to grant the entire fleet -30% damage taken for 8s.
-  * Every 20s, 30% chance to avoid all incoming damage for 6s.
-
-* Skill (Le Mars):
-  * If the vanguard only fields FFNF/MNF units and every 20s, 50% chance to grant the entire fleet +25% Damage for 8s.
-  * Every 20s, 30% chance to avoid all incoming damage for 6s.
-
-* Desc: 
->Vaguely reminiscent of HMS DDs in both defence, offence and skillset quality, Le Mars and Forbin are a cut slightly above them - but not quite enough to make them worth taking in their own right.  
-Still, if you're willing to field a full french vanguard (and you do have good options for that, namely Saint Louis and Emile Bertin), the buffs they provide are quite substantial. 
-
-
 
 ### Honourable Mentions:
 ---
