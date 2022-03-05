@@ -559,6 +559,20 @@ Proud owner of a quick-firing, high-volume, AP conal barrage with four homing to
 >A floating medkit with guns, Gromky's statline plays it straight with her nation's traits (tougher but less evasive hulls, strong guns, torpedoes so bad even Roon would laugh at them) and thankfully spices it up with a useful, if admittedly somewhat roundabout, vanguard heal.  
 If you're taking her, that's the reason you're doing it - and it is a pretty good reason, if you're concerned about a vanguard dying on you and your backline's too busy DPSing to bring healers.
 
+![DD](/Images-for-the-Guide/KyivChibi.png "It's Kyiv, not Kiev") - **[SN Kyiv](https://azurlane.koumakan.jp/wiki/Kiev)**
+* Roles:
+  * **Barrage Gunship DD (very high Gun DPS, very high Barrage DPS, average Torp DPS)**.
+
+* Skill:
+  * 5s after battle start, launch Stage 1 of the special barrage; 10s later, add Stage 2 and gain +10% CritRate/CritDmg; 10s later, add Stage 3 and gain +10% CritRate/Dmg; every 10s afterwards, launch all three Stages of the barrage.
+  * Gain +10% Accuracy. If sortied with another SN vanguard or a full vanguard, gain +15% FP/Torp; if sortied solo, gain +15% AA/Eva.
+
+- Desc: Слава Україні!
+>Unyielding in the face of oppressors, Kyiv starts out guns blazing and never really stops firing, owing to her near-constant barrage fire (AOA and skill, both of which great); all she asks for is, perhaps, a little time to ramp up and get her Crit stacks on and some allies around to let her get the extra stats.  
+She can also be sortied solo with some success, but even with a defensive buff and a tough Soviet hull, she won't stand for *too* long without healing support and she'll be somewhat weaker than she'd otherwise be.
+
+
+
 ![DD](/Images-for-the-Guide/TashkentChibi.png "Ypa 1") - **[SN Tashkent](https://azurlane.koumakan.jp/Tashkent#Retrofit)**
 * Roles:
   * **Superior Gunship DD (extreme Gun DPS w/ Light focus, average Torp DPS)**; medium tank, minor Slow support.
@@ -624,9 +638,10 @@ Strong guns and barrage, a useful debuff skill, okay AA and defences, weak torpe
 >Le Memin returns to the fore as an angelic idol while retaining the kit concept behind the original: very good gunnery, valuable if quirky support, middling torpedoes, excessive amounts of speed.  
 The quirks are especially notable this time around, even if her moment-to-moment play doesn't change all that much. The 3s stops are the most notable item on the list, and are more of a boon than a detriment (will prevent ramming on auto and not slow the vanguard significantly); the mini-airstrikes she throws out are remisnescent of Shirakami Fubuki, with the same AA bypass and more bombs; the heals are somewhat more consistent and welcome, if not quite enough to sustain her under heavy fire.  
 
-![DD](/Images-for-the-Guide/Le_TerribleChibi.png "Le Terrible") - **[FFNF Le Terrible](https://azurlane.koumakan.jp/Le_Terrible)**
+![DD](/Images-for-the-Guide/Le_
+Chibi.png "Le Terrible") - **[FFNF Le Terrible](https://azurlane.koumakan.jp/Le_Terrible)**
 * Roles:
-  * **Gunship Barrager DD (high Gun DPS, very high Barrage DPS, average Torp DPS), mob fleet shredder**; average ramming enjoyer.
+  * **Gunship Barrager DD (high Gun DPS, very high - but wide pattern - Barrage DPS, average Torp DPS), mob fleet shredder**; average ramming enjoyer.
 
 * Skill:
   * Every 20s, launch a [FLOWER POWER](https://streamable.com/ateiqe) barrage. Also, gain a +5% FP stack for every 5 main gun bullets that hit an enemy (up to +20%); once four stacks have been acquired, also gain a +20% Torp buff and launch the FLOWER POWER barrage.
