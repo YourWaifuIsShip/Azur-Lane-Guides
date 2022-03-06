@@ -76,8 +76,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ## Changelog as of last major update (05/03/2022)
 
-- Added ROC Anshan and Changchun; SN Kyiv, Kronshtadt.
-- VOLGA STILL PENDING due to her barrage being probably borked (she has Essex's, which SHOULD NOT be intentional).
+- Added ROC Anshan and Changchun, as well as SN Kyiv and Kronshtadt.
+- Finally added USS Anchorage and IJN Hakuryuu.
+- VOLGA STILL PENDING due to her barrage being probably borked (she has Essex's, which SHOULD NOT be intentional). If not fixed by next maintenance, it will be assumed it'll stay and her entry will be written.
 
 <br/><br/>
 ---
