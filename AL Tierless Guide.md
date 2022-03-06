@@ -1531,6 +1531,7 @@ Because of that smile. That damn smile. And the tons of memes featuring her.
 * Skill: 
   * Gain +15% Evasion. Upon torpedo launch, 75% chance to launch a [forward barrage](https://patchwiki.biligame.com/images/blhx/f/f6/8sfvsgup3qe5wu2fibtwe5grrgh431b.gif); if the proc fails, the currently loading torpedo cooldown accelerates by 3s.
   * Upon torpedo launch, deploy a smokescreen *and* a barrier on Anchorage. The smokescreen lasts 5s and increases EvaRate on those inside by +40%, and the barrier lasts 5s and can absorb up to 6% of the unit's max HP. If the barrier is destroyed, gain +100% EvaRate for 2s.
+    * The 16 CRYSTALS deal 40 bdmg with 135/95/70 amods, and have the CA standard 8% Ignition chance. They are modified by 100% of the unit's FP.
   * Deal +15% damage to Sirens.
   * Has MGM+1 and torpedoes. Awful torpedoes, so go ahead and use triples (or even duals, why not!)
 
