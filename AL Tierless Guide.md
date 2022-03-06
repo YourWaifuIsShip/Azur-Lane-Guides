@@ -639,8 +639,7 @@ Strong guns and barrage, a useful debuff skill, okay AA and defences, weak torpe
 >Le Memin returns to the fore as an angelic idol while retaining the kit concept behind the original: very good gunnery, valuable if quirky support, middling torpedoes, excessive amounts of speed.  
 The quirks are especially notable this time around, even if her moment-to-moment play doesn't change all that much. The 3s stops are the most notable item on the list, and are more of a boon than a detriment (will prevent ramming on auto and not slow the vanguard significantly); the mini-airstrikes she throws out are remisnescent of Shirakami Fubuki, with the same AA bypass and more bombs; the heals are somewhat more consistent and welcome, if not quite enough to sustain her under heavy fire.  
 
-![DD](/Images-for-the-Guide/Le_
-Chibi.png "Le Terrible") - **[FFNF Le Terrible](https://azurlane.koumakan.jp/Le_Terrible)**
+![DD](/Images-for-the-Guide/Le_TerribleChibi.png "Le Terrible") - **[FFNF Le Terrible](https://azurlane.koumakan.jp/Le_Terrible)**
 * Roles:
   * **Gunship Barrager DD (high Gun DPS, very high - but wide pattern - Barrage DPS, average Torp DPS), mob fleet shredder**; average ramming enjoyer.
 
