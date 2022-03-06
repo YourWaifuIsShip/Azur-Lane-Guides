@@ -3190,7 +3190,7 @@ As is customary for IJN sister ships, they truly shine when used together - but 
   * Has a 3/4/2 loadout; 3 can be Fighters or Torpedo Bombers, 2 can be Torpedo Bombers or Dive Bombers.
 
 - Desc: stupidest horns this side of annie may
-> The P2 version of Shinano, Hakuryuu swaps bombs for torpedoes and some fleet support for damage debuffs; their damage output is fairly comparable and they do complement each other well, burying unfortunate targets with an avalanche of ordnance.  
+> The P2 version of Shinano, Hakuryuu swaps torpedoes for bombs and some fleet support for damage debuffs; their damage output is fairly comparable and they do complement each other well, burying unfortunate targets with an avalanche of ordnance.  
 For best results, do give her the IJN plane she wants (hint, it starts in 'T' and ends in 'enrai') and avoid giving her a Fighter unless the situation calls for it; those second skill barrages aren't particularly noteworthy, although helpful.
 
   
