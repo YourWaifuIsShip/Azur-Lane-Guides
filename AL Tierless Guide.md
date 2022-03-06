@@ -3178,6 +3178,22 @@ Lastly, she can lob a heal over to the fleet in which she isn't; helpful for pat
 >Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they sport exceptional amounts of Aviation and get to launch faster than almost anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle compared to almost any other carrier.  
 As is customary for IJN sister ships, they truly shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch (and extra screenclear) is.
 
+ ![CV](/Images-for-the-Guide/HakuryuuChibi.png "heccuwu") - **[IJN Hakuryuu](https://azurlane.koumakan.jp/wiki/Hakuryuu)**
+ * Skill: 
+  * Upon airstrike, launch a special airstrike.
+    * The 3 BOMBS deal 432 bdmg with 90/120/140 amods, and debuffs targets hit with +8% damage taken for 7s and a special ignition for 255x2 damage; the 4 AIMED TORPEDOES deal 239 bdmg with 80/110/130 amods. The bombs are modified by 80% of the unit's Aviation, the torpedoes by 100% of it.
+  * If mounting a Fighter, drop [some fiery flies](https://patchwiki.biligame.com/images/blhx/a/ad/7re9caiykse7fjeunrkn8fedxp9hl6k.gif) on an enemy every 12s; otherwise, go [swing swing](https://patchwiki.biligame.com/images/blhx/f/f0/5glzpna6t5yp2yi0e6mms97sgiucap1.gif) with the sword upon every airstrike.
+    * The 3 PLANES deal 85 bdmg with 100/100/100 amods, and behave as bombs; the 3 SHELLS? deal 85 bdmg with 100/100/100 amods. Both are modified by 100% of the unit's Aviation.
+    * The 8 SWINGS deal 85 bdmg with 100/100/100 amods, ignoring shields and piercing up to 3 enemies. They are modified by 100% of the unit's Aviation.
+  * If mounting 1+ IJN plane, gain +15% Aviation and Accuracy; if not, gain +15% AA and Accuracy. You will always give her at least one IJN plane.
+  * Deal +15% damage to Sirens.
+  * Has a 3/4/2 loadout; 3 can be Fighters or Torpedo Bombers, 2 can be Torpedo Bombers or Dive Bombers.
+
+- Desc: stupidest horns this side of annie may
+> The P2 version of Shinano, Hakuryuu swaps bombs for torpedoes and some fleet support for damage debuffs; their damage output is fairly comparable and they do complement each other well, burying unfortunate targets with an avalanche of ordnance.  
+For best results, do give her the IJN plane she wants (hint, it starts in 'T' and ends in 'enrai') and avoid giving her a Fighter unless the situation calls for it; those second skill barrages aren't particularly noteworthy, although helpful.
+
+  
 ![CV](/Images-for-the-Guide/HiryuuKaiChibi.png "Usagi Yojimbo") ![CV](/Images-for-the-Guide/SouryuuKaiChibi.png "Long Legs Monster") - **[IJN Hiryuu Kai](https://azurlane.koumakan.jp/Hiryuu#retrofit)**  **[IJN Souryuu Kai](https://azurlane.koumakan.jp/Souryuu#retrofit)**
 * Skill (Hiryu): 
   * Once per battle and upon taking lethal damage, Hiryu becomes invincible for 15s and immediately launches a full airstrike.
