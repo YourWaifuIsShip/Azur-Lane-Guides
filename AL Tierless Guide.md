@@ -6,7 +6,7 @@ Be it because of the very generous gacha, dinctly not predatory monetisation, th
 While a very laudable approach, it is also one that lends itself to misconceptions of the toxic casual "ez gaem lmao use w/e ur gud" variety: to quote a wise Azur Lane Community member, "just because it works, it doesn't mean it's good": while all units are indeed viable, there are clearly objectively superior ones, and this Tierless Guide aims to identify who are they and for what reasons.  
 A few years at this and counting, and it's become to me abundantly clear that tiers cause a lot more issues than they actually solve; most people only pay attention to the tier and ignore the reasons why they're tiered that way, engage in pointless debates over which tier is *right* (like it's not all subjective anyway) and are left knowing just as much as they did before about the unit itself or how they are supposed to use it.  
   
-The Tierless Guide means to dispense with all that nonsense and tell you all the important stuff, with none of the nastiness and drivel that inevitably follows tiers. Should you still wish for a shorter form writeup on what the units are like, [consider checking the Ko-Fi posts here.](https://ko-fi.com/ywisguides#).  
+The Tierless Guide means to dispense with all that nonsense and tell you all the important stuff, with none of the nastiness and drivel that inevitably follows tiers. Should you still wish for a shorter form writeup on what the units are like, [consider checking the Ko-Fi posts here](https://ko-fi.com/ywisguides#).  
 Whatever the case and however you choose to read this guide, I want to stress this - ALL units are viable, SOME are better than others, NONE of them will work if you don't know how to use them.
 Good reading, and godspeed cap'n!
 ## _VERY IMPORTANT OPENING NOTE_ 
@@ -1523,6 +1523,20 @@ Because of that smile. That damn smile. And the tons of memes featuring her.
 <br/><br/>
 ## CA ![CA](/Images-for-the-Guide/45px-CA_img40.png "CA Icon")
 ---
+
+![CA](/Images-for-the-Guide/AnchorageChibi.png "Anchorage") - **[USS Anchorage](https://azurlane.koumakan.jp/Anchorage)** 
+* Role:
+  * **Toughest tank in the game as of writing (06/03/22)**; high Gun damage, average Barrage damage, low Torpedo damage.
+
+* Skill: 
+  * Gain +15% Evasion. Upon torpedo launch, 75% chance to launch a [forward barrage](https://patchwiki.biligame.com/images/blhx/f/f6/8sfvsgup3qe5wu2fibtwe5grrgh431b.gif); if the proc fails, the currently loading torpedo cooldown accelerates by 3s.
+  * Upon torpedo launch, deploy a smokescreen *and* a barrier on Anchorage. The smokescreen lasts 5s and increases EvaRate on those inside by +40%, and the barrier lasts 5s and can absorb up to 6% of the unit's max HP. If the barrier is destroyed, gain +100% EvaRate for 2s.
+  * Deal +15% damage to Sirens.
+  * Has MGM+1 and torpedoes. Awful torpedoes, so go ahead and use triples (or even duals, why not!)
+
+* Desc: [oh no](http://memes.ucoz.com/_nw/10/71782030.jpg)
+>Another superheavy tank joins the roster. Not sure we needed more, but there she is, and she's undoubtedly the hardest to shift unit in the entire roster so far. She manages to be this tough thanks to the passive Evasion boost, higher-than-usual HP pool, barrier-with-attached-invulnerability on breakage, and lastly the smokescreen (assuming the vanguard will stay in it, a big 'if' on manual).  
+There is not much else to say about her, all her kit is eminently defensive and the barrage is more of a nice addition than a powerful offensive implement; the AOA is somewhat more effective in that regard, but still, dealing damage is not her main job.
 
 ![CA](/Images-for-the-Guide/BaltimoreChibi.png "Baltimore") - **[USS Baltimore](https://azurlane.koumakan.jp/Baltimore)** 
 * Role:
