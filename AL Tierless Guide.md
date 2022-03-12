@@ -560,7 +560,7 @@ Proud owner of a quick-firing, high-volume, AP conal barrage with four homing to
 >A floating medkit with guns, Gromky's statline plays it straight with her nation's traits (tougher but less evasive hulls, strong guns, torpedoes so bad even Roon would laugh at them) and thankfully spices it up with a useful, if admittedly somewhat roundabout, vanguard heal.  
 If you're taking her, that's the reason you're doing it - and it is a pretty good reason, if you're concerned about a vanguard dying on you and your backline's too busy DPSing to bring healers.
 
-![DD](/Images-for-the-Guide/KyivChibi.png "It's Kyiv, not Kiev") - **[SN Kyiv](https://azurlane.koumakan.jp/wiki/Kiev)**
+![DD](/Images-for-the-Guide/KyivChibi.png "It's Kyiv, not Kiev") - **[SN ~~Kiev~~ Kyiv](https://azurlane.koumakan.jp/wiki/Kiev)**
 * Roles:
   * **Barrage Gunship DD (very high Gun DPS, very high Barrage DPS, average Torp DPS)**; medium tank.
 
