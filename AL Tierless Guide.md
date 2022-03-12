@@ -3369,7 +3369,7 @@ Her damage output is very average by CV standards, however, and shouldn't be rel
 >One of the, if not THE, most flexible carrier in the game, Aquila can either be ~~ur angle or ur debil~~ an exceptional healer and protector or an accomplished and fast damage dealer depending on which loadout you choose to give her. It's almost like having two carriers in one!  
 In her healer configuration, she gets extra mileage out of her kit by running 1:1s or 2:1s with tough CA/CL; in her DPS configuration, which you should consider using if your units aren't going to keel over anyways, she'll perform somewhat better on mobbing duties most of the time because of the aforementioned preload (and her damage output, which while impressive doesn't quite match dedicated top-of-the-line DPS CV).  
   
-  #### ![CV](/Images-for-the-Guide/VolgaChibi.png "Volga") - **[SN Volga](https://azurlane.koumakan.jp/Volga)**
+  #### ![CV](/Images-for-the-Guide/VolgaChibi.png "Volga") - **[SN Volga](https://azurlane.koumakan.jp/wiki/Volga)**
 * Roles:
   * **Multitarget(?) healer w/ improved performance on lower HP pools, mob fleet damage dealer**.
 
