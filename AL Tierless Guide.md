@@ -3357,7 +3357,7 @@ Her damage output is very average by CV standards, however, and shouldn't be rel
 
 #### ![CV](/Images-for-the-Guide/AquilaChibi.png "Aquila") - **[RN Aquila](https://azurlane.koumakan.jp/Aquila)**
 * Roles:
-  * **Single Back/Front targeted healer AND shielder** or **High DPS w/ preload**, AA supporter.
+  * **Single Back/Front targeted healer AND shielder** or **Very High DPS w/ preload**, AA supporter.
 
 * Skill: 
   * Upon airstrike launch, 75% chance to scramble [two fighters and two aimed torpedo bombers](https://streamable.com/5mb3u6)
@@ -3368,7 +3368,25 @@ Her damage output is very average by CV standards, however, and shouldn't be rel
 
 * Desc: 
 >One of the, if not THE, most flexible carrier in the game, Aquila can either be ~~ur angle or ur debil~~ an exceptional healer and protector or an accomplished and fast damage dealer depending on which loadout you choose to give her. It's almost like having two carriers in one!  
-In her healer configuration, she gets extra mileage out of her kit by running 1:1s or 2:1s with tough CA/CL; in her DPS configuration, which you should consider using if your units aren't going to keel over anyways, she'll perform somewhat better on mobbing duties most of the time because of the aforementioned preload (and her damage output, which isn't quite as high as that of fully dedicated DPS CV).  
+In her healer configuration, she gets extra mileage out of her kit by running 1:1s or 2:1s with tough CA/CL; in her DPS configuration, which you should consider using if your units aren't going to keel over anyways, she'll perform somewhat better on mobbing duties most of the time because of the aforementioned preload (and her damage output, which while impressive doesn't quite match dedicated top-of-the-line DPS CV).  
+  
+  #### ![CV](/Images-for-the-Guide/VolgaChibi.png "Volga") - **[SN Volga](https://azurlane.koumakan.jp/Volga)**
+* Roles:
+  * **Multitarget(?) healer w/ improved performance on lower HP pools, mob fleet damage dealer**.
+
+* Skill: 
+  * Upon airstrike launch, 75% chance to launch... Essex's barrage? If it doesn't proc, fire two chevrons of linear weak shots. You'll want the 75%.
+    * The 8 PARALLEL TORPEDOES deal 301 bdmg with 80/110/130 amods, and deal Flooding to enemies hit for 15s (ticks 300 base damage every 3s). Both the parallel torpedoes AND the Flooding scale with 100% of the unit's Aviation.
+    * The 28 SHELLS deal 20 bdmg with 100/100/100 amods. They are modified by 80% of the unit's Aviation.
+  * Every 20s, heal the unit with the lowest HP% in the fleet and two RANDOM other units by 5% of VOLGA's max HP (the same unit can be healed multiple times). Also, drop a crystalline bomb.
+    * The BOMB deals 350 bdmg with 100/100/100 amods, drops in the centre of the screen, and has a large 35 AoE. It scales with 100% of the unit's Aviation.
+  * Gain a +5% Aviation stack per vanguard unit, up to +15%; if the flagship AND/OR the lead vanguard is Russian, gain three stacks of +15% Aviation immediately.
+  * Has a 3/2/3 loadout.
+
+* Desc: 
+>This isn't quite the Volga we were promsised but hey, new healer!   
+ And she's pretty damn good at it, albeit slightly scatterbrained - normally the "heals for x% of carrier's max HP" is a mixed bag of a clause, making said carrier a darling for DDs and a disappointment for CAs and larger, but Volga avoids it by having a large CV HP pool, making her about as good as 'normal' healers and *very good* at healing squishies. As per usual, do not bother giving her toolboxes for the heal, you'll be losing a ton of damage (and therefore suffer more damage as the fight drags on) for a meagre +50HP restored.  
+  As for the damage output, she can handle herself fairly well. The barrage is STILL wrong, having received and apparently *kept* Essex's for some inexplicable reason, but on the flipside Essex's barrage is very solid, if basically worthless when not facing waves of enemies; the crystalline bomb is pretty and is free damage but doesn't accomplish much, and lastly the chervron-pattern shots accoplish even less.  She'll be relying on that barrage and her very respectable efficiencies (3x140/2x120/3x130) to plow through the enemies.  
 
  #### ![CV](/Images-for-the-Guide/Chise_AsukagawaChibi.png "who")- **[Chise Asukagawa]**(https://azurlane.koumakan.jp/wiki/Chise_Asukagawa)
 * Role:
