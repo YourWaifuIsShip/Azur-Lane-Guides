@@ -43,7 +43,7 @@ Good reading, and godspeed cap'n!
  - PR1                : Monarch > Ibuki > Saint Louis > Neptune 
  - PR2                : Kitakaze = Gascogne > Georgia > Seattle > Azuma > Friedrich der Grobe (unless focusing on KMS)
  - PR3                : Odin > Champagne > Cheshire > Mainz > Drake
- - PR4                : Parseval > Agir > Marco Polo > Hakuryuu > Anchorage
+ - PR4                : Agir (up to Dev15) > Parseval > Agir (the rest) > Marco Polo > Hakuryuu > Anchorage
  
 #### What gear do I give X?
 Courtesy of two ALEC veterans of ours, xscore#4740 and ʝimmy#8049, have some handy flowcharts. No need to memorise the names anymore, refer to the images!  
