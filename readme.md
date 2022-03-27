@@ -1,7 +1,7 @@
 # Welcome to Your Waifu is SHIP's highly opinionated and extra-biased Guides!
 
 **CURRENT NEWS**  
-Well this deserved an update much earlier, but uh... shit's been wild all over, quite literally. Finally catching up with overdue additions, Kyiv will take special place. Slava Ukraini.
+All new units written in except ~~ghetto loli Renown~~ ~~Mashi~~ META Yamashiro. Waiting on her for a while to see what she's capable of once decently built.
 
 If you've landed here because someone linked the Tier Guides to you or happened to read a pin about them, chances are you already know what these are all about and why the insistence on them being called 'Tier Guides'; on the off chance you don't, here's the long and short of it.
 
@@ -13,6 +13,9 @@ If you happen to have questions for me, want to discuss tierings or would like t
 
 ## Featured news and Changelog
 ```
+[27/03/2022]
+It's been one whole year (and some months) without anything major breaking down? Really?
+
 [20/01/2021]
 Cleanup mostly done. Only the recent Muses and DoAs are still missing, and they will be added with the RM rerun units. Currently debating whether to keep the gear recommendations or link to handy flowcharts like this one: https://cdn.discordapp.com/attachments/770435752080310342/800743671842603038/BB_gun_selection_guide.png
 
