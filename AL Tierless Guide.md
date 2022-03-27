@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (FUCK PUTIN EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (LASAGNA LIGHT EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, dinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -76,8 +76,7 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ## Changelog as of last major update (05/03/2022)
 
-- Added ROC Anshan and Changchun, as well as SN Kyiv and Kronshtadt. Also Volga!
-- Finally added USS Anchorage and IJN Hakuryuu.
+- Added RM Impero, Pompeo Magno, Trieste.
 
 <br/><br/>
 ---
@@ -698,7 +697,22 @@ Considering how often a vanguard gets pelted with sprinkles or the backline tick
 
 * Desc: 
 >Little miss CL botherer. Fairly okay statline with the customary good guns, poor torps and non-existent AA.
- 
+
+ ![DD](/Images-for-the-Guide/PompeoMagnoChibi.png "Pompom") - **[RN Pompeo Magno](https://azurlane.koumakan.jp/wiki/Pompeo_Magno)**
+* Role:
+  * **Mobber. Hybrid DD (MGM+1, Spread-1) w/ very high Firepower and very/high Torpedo damage (if manual/auto)**. Medium tank if built for toughness, Light tank otherwise.
+
+* Skill:
+  * 5s after battle start and every 20s afterwards, inflict a -20% Accuracy debuff to every enemy on screen for 5s and drop a flare lasting 15s.
+    * The flare deals 81 damage per second to enemies standing in it. The damage does not scale.
+  * Gain a +5% FP/Torp stack per defeated enemy node by the fleet she's in, up to +15% FP/Torp; also, deal an increasing amount of damage with torps depending on proximity to the target (goes from +0% at 60 range to +15% at 10 range).
+  * Has MGM+1 and can store only one torpedo spread. MLB perk is +30% aux stats.
+
+* Desc: 
+>The first gold Regia Marina DD comes out swinging, armed to the teeth with a MGM+1, high FP (by MGM+1 DD standards) and strong torpedoes (especially when shotgunned)... and also the potential to make CL feel insecure about their HP pool, if you so desire.  
+Her MLB perk allows her to be built effectively in a variety of ways, according to your needs: as mentioned above you may bulk up her HP pool for tanking purposes, or you may take FP auxiliaries to lean further into the gunnery, or better yet (if you're feeling up to manual play) give her rainbow torpedoes to maximise the power of her torpedoes.  
+As for the skills, the ramping FP/Torp buff solidly cements her role as a mob fleet mainstay while the flare is mostly useful as a temporary defence boost for your fleet; the damage it deals is very low and does not scale, so expect very little from that front. On the other hand her AOA picks up the slack, but is not particularly worth chasing after with rapid DD guns due to the MLB perk.
+
 ![DD](/Images-for-the-Guide/An_ShanKaiChibi.png "Anshan") ![DD](/Images-for-the-Guide/Chang_ChunKaiChibi.png "Changchun") - **[ROC An Shan Kai](https://azurlane.koumakan.jp/wiki/An_Shan)** **[ROC Chang Chun Kai](https://azurlane.koumakan.jp/wiki/Chang_Chun)**
 * Roles: **Gunship Missile Destroyers (very high Gun DPS, high Gun DPS, high Barrage DPS); map strike provider (3x3 area, damage stacks with sub strikes);** damage buffer (Anshan), faction booster (Changchun).
 
@@ -1948,6 +1962,21 @@ Her staying power is also impressive, in part because of the excellent statline,
 Owing to her slightly increased weapon efficiencies, a powerful linear SAP barrage and a valuable set of buffs (AA aside as no Regia Marina vanguard presently can even pretend to shoot up properly), Pola serves as the sword to Zara's shield(s).  
 That is not to say she is frail, of course: she sports Zara's high eHP and bolsters it further with the 45s Eva boost as well as the damage reduction, but as Zara's shielding hinges on her taking hits, it is clear whose job it is to tank and whose to off-tank.  
 
+![CA](/Images-for-the-Guide/TriesteChibi.png "Trieste") - **[RN Trieste](https://azurlane.koumakan.jp/Trieste)**
+* Roles:
+  * **Barrage Torp-CA** (average Gun DPS, average Torp DPS, extreme Barrage DPS); damage resistance buffer. Goes squish.
+
+* Skill:
+  * Take -20% dmg from AP. If vanguard lead, heal 5% max HP upon battle start; if not lead, Trieste and the lead vanguard take -10% damage.
+  * After 10s from battle start (at a 100% chance) and every 20s afterwards (at a 40% chance), launch a flare at the closest enemy. Enemies within the flare lose -25% Evasion Rate and lasts 10s.
+  * If mounting any Regia Marina piece of gear, massively improve [her AOA](https://media.discordapp.net/attachments/460645783021289472/956433262291591208/bullet_pattern_skill_25214.gif?width=675&height=225) and launch it only after 4 Main Gun firing cycles. Use an AA gun, not a Zaragun!
+    * The 24 AIMED LANCES deal 45 bdmg w/ 140/90/70 amods. They are modified by 100% of the unit's FP.
+  * Has Light Armour, unfortunately.
+
+- Desc: Defying expectations!
+>When the news dropped there'd be a new Trento-class and that she'd be purple, what little hope there was evaporated. As it happens, that judgement may have been slightly premature.  
+Granted, her statline has improved little over poor Trento and retains the depressing Light Armour, but her kit seems to acknowledge that by giving her a useful defence buff for herself and whoever will lead - and more importantly, or perhaps surprisingly, *the best CA barrage in the entire game*.  
+Keep her safely sandwiched between tougher units and let her wreak havoc undisturbed.  
 
 ![CA](/Images-for-the-Guide/ZaraChibi.png "Zara") - **[RN Zara](https://azurlane.koumakan.jp/Zara)**
 * Roles:
@@ -3354,7 +3383,7 @@ Criminally botched design. Still very competent.
 One of the most *peculiar* examples of carrier the war has birthed, Béarn is a very unconventional creature focusing on providing semi-costant fire support, be it through her barrage and CL guns or the accelerated airstrike and the post-cooldown extra airstrikes.   
 Her damage output is very average by CV standards, however, and shouldn't be relied upon against bosses; her kit is better suited to acting as a mob fleet flagship of sorts anyway.
 
-#### ![CV](/Images-for-the-Guide/AquilaChibi.png "Aquila") - **[RN Aquila](https://azurlane.koumakan.jp/Aquila)**
+#### ![CV](/Images-for-the-Guide/AquilaChibi.png "Aquila") - **[RN Aquila](https://azurlane.koumakan.jp/wiki/Aquila)**
 * Roles:
   * **Single Back/Front targeted healer AND shielder** or **Very High DPS w/ preload**, AA supporter.
 
@@ -3368,6 +3397,27 @@ Her damage output is very average by CV standards, however, and shouldn't be rel
 * Desc: 
 >One of the, if not THE, most flexible carrier in the game, Aquila can either be ~~ur angle or ur debil~~ an exceptional healer and protector or an accomplished and fast damage dealer depending on which loadout you choose to give her. It's almost like having two carriers in one!  
 In her healer configuration, she gets extra mileage out of her kit by running 1:1s or 2:1s with tough CA/CL; in her DPS configuration, which you should consider using if your units aren't going to keel over anyways, she'll perform somewhat better on mobbing duties most of the time because of the aforementioned preload (and her damage output, which while impressive doesn't quite match dedicated top-of-the-line DPS CV).  
+  
+#### ![CV](/Images-for-the-Guide/ImperoChibi.png "i slep") - **[RN Impero](https://azurlane.koumakan.jp/Impero)**
+* Roles:
+  * **Mob fleet accelerated DPS carrier** or **Boss fleet timed DPS carrier**; minor heal for RM units, HP transfusion for backliners.
+
+* Skill: 
+  * Gain +15% Aviation. Every 20s and at a 75% chance, launch one of two airstrikes depending on which plane is in the first slot; if it's a fighter, also accelerate the first airstrike by 40%, if it's a dive bomber, upon the reload of the **second** airstrike gain a +60% damage buff for 5s.
+    * (Fighter) The 4 SMALL BOMBS deal 162 bdmg w/ 80/85/100 amods; the 9 PARALLEL TORPEDOES deal 330 bdmg w/ 80/110/130. The bombs are modified by 80% of the unit's Aviation, the torpedoes by 100% of it. 
+    * (Bomber) The 6 BOMBS deal 360 bdmg w/ 80/90/110 amods; the 12 SMALL BOMBS deal 200 bdmg w/ 80/85/100 amods. All bombs are modified by 80% of the unit's Aviation.
+  * Deal +15% damage. Also, HP transfusion at the 10s mark and every 20s afterwards for backliners between 20% and 90% max HP!
+    * If Impero is the backliner with the most HP%, takes 5% of her HP and gives it to the backliner with the least HP%.
+    * If Impero is NOT the backliner with the most HP%, drain 5% of the HP of the backliner who does.
+    * The healed unit gains +15% Evasion for 5s, and is healed by 183HP if it was a Regia Marina backliner.
+  * Has a 2/3/3 OR a 0/5/3 loadout. The first slot may accommodate Dive Bombers upon reaching Max Limit Break. Can only store 1 airstrike.
+
+* Desc: 
+>An oddball through and through, Impero doesn't seem to play by anyone's rules specifically while retaining considerable flexibility in loadout, and her main asset (dealing tons of damage) is buried beneath layers of text - but with the sheer amount of damage she can unleash, it's worth digging through it.  
+It may not look like much, but the +15% damage and the +15% Aviation passive buffs amount to a surprising amount of extra DPS, which will in turn fuel the second strongest CV barrages in the game! Which, *in turn*, may get supercharged by the +60% boost on her second airstrike if on bomber mode for a nasty boss-melting surprise! You'll have to make sure she doesn't launch again before reaching the boss however, which depending on what you're taking on, may be harder than it seems. Thankfully, the Regia Marina just so happens to have a preloading DPS CV at their disposal...
+Alternatively, you can simply focus on her abilities as a mob fleet CV and let her rip with that accelerated first airstrike, which again works excellently with preloads as she won't waste all her ordnance on a clear screen. Less fuss, just as effective!  
+As for her transfusion skill, it's kind of a janky mess but the gist of it is that she'll try to keep backline HPs balanced - convenient if you happen to have units who heal the backline, *like again Aquila*, and risk overhealing.  
+ 
   
   #### ![CV](/Images-for-the-Guide/VolgaChibi.png "Volga") - **[SN Volga](https://azurlane.koumakan.jp/wiki/Volga)**
 * Roles:
