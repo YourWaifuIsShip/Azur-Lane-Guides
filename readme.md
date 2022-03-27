@@ -2,6 +2,7 @@
 
 **=== CURRENT NEWS ===**  
 All new units written in except ~~ghetto loli Renown~~ ~~Mashi~~ META Yamashiro. Waiting on her for a while to see what she's capable of once decently built.
+
 **=== CURRENT NEWS ===**
 
 If you've landed here because someone linked the Tier Guides to you or happened to read a pin about them, chances are you already know what these are all about and why the insistence on them being called 'Tier Guides'; on the off chance you don't, here's the long and short of it.
