@@ -706,12 +706,12 @@ Considering how often a vanguard gets pelted with sprinkles or the backline tick
   * 5s after battle start and every 20s afterwards, inflict a -20% Accuracy debuff to every enemy on screen for 5s and drop a flare lasting 15s.
     * The flare deals 81 damage per second to enemies standing in it. The damage does not scale.
   * Gain a +5% FP/Torp stack per defeated enemy node by the fleet she's in, up to +15% FP/Torp; also, deal an increasing amount of damage with torps depending on proximity to the target (goes from +0% at 60 range to +15% at 10 range).
-  * Has MGM+1 and can store only one torpedo spread. MLB perk is +30% aux stats.
+  * Has MGM+1 and can store only one torpedo spread. Despite being an MGM+1 DD, her AOA only takes **10** Main Gun firing cycles to launch her AOA. MLB perk is +30% aux stats.
 
 * Desc: 
 >The first gold Regia Marina DD comes out swinging, armed to the teeth with a MGM+1, high FP (by MGM+1 DD standards) and strong torpedoes (especially when shotgunned)... and also the potential to make CL feel insecure about their HP pool, if you so desire.  
 Her MLB perk allows her to be built effectively in a variety of ways, according to your needs: as mentioned above you may bulk up her HP pool for tanking purposes, or you may take FP auxiliaries to lean further into the gunnery, or better yet (if you're feeling up to manual play) give her rainbow torpedoes to maximise the power of her torpedoes.  
-As for the skills, the ramping FP/Torp buff solidly cements her role as a mob fleet mainstay while the flare is mostly useful as a temporary defence boost for your fleet; the damage it deals is very low and does not scale, so expect very little from that front. On the other hand her AOA picks up the slack, but is not particularly worth chasing after with rapid DD guns due to the MLB perk.
+As for the skills, the ramping FP/Torp buff solidly cements her role as a mob fleet mainstay while the flare is mostly useful as a temporary defence boost for your fleet; the damage it deals is very low and does not scale, so expect very little from that front. On the other hand her AOA picks up the slack and fires a lot more often than you'd expect from a MGM+1 DD!
 
 ![DD](/Images-for-the-Guide/An_ShanKaiChibi.png "Anshan") ![DD](/Images-for-the-Guide/Chang_ChunKaiChibi.png "Changchun") - **[ROC An Shan Kai](https://azurlane.koumakan.jp/wiki/An_Shan)** **[ROC Chang Chun Kai](https://azurlane.koumakan.jp/wiki/Chang_Chun)**
 * Roles: **Gunship Missile Destroyers (very high Gun DPS, high Gun DPS, high Barrage DPS); map strike provider (3x3 area, damage stacks with sub strikes);** damage buffer (Anshan), faction booster (Changchun).
