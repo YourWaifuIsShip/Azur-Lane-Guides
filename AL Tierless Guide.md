@@ -2276,7 +2276,7 @@ Remember to have her be the flagship to make the most out of her barrage, and th
 
 ![BB](/Images-for-the-Guide/HoweChibi.png "Amazon Kai Ni") - **[HMS Howe](https://azurlane.koumakan.jp/wiki/Howe)**
 * Role:
-  * **BB/BC/BBV Accuracy** and Reload **buffer; aimed BBarrager;** very high DPS (very high Gun DPS, average but aimed Barrage DPS) w/ 1 KGV-class or 3+ HMS units.
+  * **BB/BC/BBV Accuracy** and Reload **buffer; off-flag BBarrager;** very high DPS (very high Gun DPS, average but aimed Barrage DPS) w/ 1 KGV-class or 3+ HMS units.
 
 * Skill: 
   * Every 15s, fire an [aimed barrage](https://streamable.com/g97ciy) at a random enemy; when this barrage fires, all BB/BC/BBV in the fleet gain +20% Reload and Accuracy for 8s.
