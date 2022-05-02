@@ -2676,7 +2676,7 @@ Solid, all things considered.
 >As befitting a mecha musume, Gascogne is shockingly efficient and stable - and it's not even entirely the heal's doing.  
 No, while the heal (and the defensive buff it comes stock with) are definitely very appreciated, the real stars of the show here are both the guaranteed barrage fired every 20s and the way in which her main guns fire, ensuring that every shell will land on priority target no matter how fast it moves.  
 These are all very desirable characteristics for a mob fleet flagships, but don't forget that her gunnery is more than good enough to earn her a place in a boss fleet as well if need be - an effective 220%+ Efficiency is horrifyingly devastating, all you have to do is take the shot yourself.  
-If all this sounds like perfection for a newer player who would just love a strong battleship that is certain to shell what needs shelling and not whiff barrages, it's because she is - but a newer player would never be able to unlock her until this amazing kit loses its lustre, since KMS backliners are hard to come by.  
+If all this sounds like perfection for a newer player who would just love a strong battleship that is certain to shell what needs shelling and not whiff barrages, it's because she is - so consider putting those War Archives tickets to good use on those KMS events, especially the first one, for tech points and profit. 
  
  ![BB](/Images-for-the-Guide/Jean_BartChibi.png "Jean Bart") - **[MNF Jean Bart](https://azurlane.koumakan.jp/Jean_Bart)**
 * Roles:
