@@ -3482,7 +3482,7 @@ In her healer configuration, she gets extra mileage out of her kit by running 1:
     * If Impero is the backliner with the most HP%, takes 5% of her HP and gives it to the backliner with the least HP%.
     * If Impero is NOT the backliner with the most HP%, drain 5% of the HP of the backliner who does.
     * The healed unit gains +15% Evasion for 5s, and is healed by 183HP if it was a Regia Marina backliner.
-  * Has a 2/3/3 OR a 0/5/3 loadout. The first slot may accommodate Dive Bombers upon reaching Max Limit Break. Can only store 1 airstrike, the other hangar being filled with spaghetti. Allegedly. Don't ask.
+  * Has a 2/3/3 OR a 0/5/3 loadout. The first slot may accommodate Dive Bombers upon reaching Max Limit Break. Can only store 1 airstrike, the other hangar being filled with spaghetti. *Allegedly*. Don't ask.
 
 * Desc: Built different.
 >An oddball through and through, Impero doesn't seem to play by anyone's rules specifically while retaining considerable flexibility in loadout, and her main asset (dealing tons of damage) is buried beneath layers of text - but with the sheer amount of damage she can unleash, it's worth digging through it.  
