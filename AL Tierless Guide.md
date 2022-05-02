@@ -2541,7 +2541,7 @@ If one were to look hard for any chinks in her Plot Armour it could be said that
 * Skill: 
   * Deal +10% dmg with the Main Gun. Upon Main Gun fire, there's a 70% chance to launch a [frontal barrage](https://media.discordapp.net/attachments/961498428628664331/969110786976907304/bullet_pattern_skill_15461.gif).
     * The 2 AIMED SHELLS deal 200 bdmg with 100/100/100 amods; the 36 BLACK LASERS deal 25 bdmg with 100/100/100 amods; the 22 NEEDLES deal 20 bdmg with 100/80/70 amods; the 4 TORPEDOES deal 80 bdmg with 80/100/130 amods. The shells, lasers and needles are modified by 100% of the unit's FP, the torpedoes by 110% of the unit's Torp.
-  * Every enemy sunk by Lutzow grants +5% FP/Accuracy, up to +15%; once the cap is reached, also gain +15% FP.
+  * Every enemy sunk by Lutzow grants +5% FP/Accuracy, up to +15%; once the cap is reached, also gain +15% Reload.
   * Deal +10% dmg to BC/BB. If an enemy sinks within 5s of taking damage from Lutzow, she counts as having sinked it as well. If mounting an AP or SAP gun... reduce enemy FP/Accuracy by -10% for 3s, and inflict a delayed damage debuff on them on a 10% chance (deal 3.000 damage after 3s).
   * Can mount DD guns in the AA slot (and should). Has SGM-1.
 
@@ -2555,7 +2555,7 @@ The PvP design in her is more evident than it is in Seyds, and the biggest clue 
   * **Very high DPS Preloader, SMS booster (sharply cuts first cooldown for SMS flagships, depending on remaining HP) and protector (absorbs reduced damage from other German backliners), self-healer.** Damage output degrades sharply with damage taken as defences increase.
 
 * Skill: 
-  * Gain +18% FP and Reload if deployed with 1+ SMS/KMS units. Also, her first salvo's cooldown is reduced from -20% to -80%, depending on her current HP (the more HP, the greater the reduction).
+  * Gain +18% FP and Reload if deployed with 1+ SMS/KMS units. Also, her first salvo's cooldown is reduced from -20% to -80%, depending on her current HP (the more HP, the greater the reduction). Also, absorb 60% of the damage taken by other SMS/KMS backliners and reduce it by -20%; if her self-heal activates, this damage absorption stops.
   * Once per fight, if the next attack would sink her, she doesn't and... becomes invulnerable for 10s, heals for 22% of her max HP, takes -5% damage for the rest of the fight. Also, the higher her current HP is, the more +% damage she deals (max +20%); the lower her current HP is, the less -% damage she takes (max -20%).
   * Upon firing the first salvo of the fight, launch an [aimed plunging HE barrage](https://cdn.discordapp.com/attachments/460645783021289472/969117383765659678/bullet_pattern_skill_15361.gif). If the flagship has a skill with "Marvel of History" in the name, said flagship's first salvo cooldown is reduced from -20% to -80% depending on her current HP (the more, the greater the reduction).
     * The 8 HE SHELLS deal 86 bdmg with 145/85/65 amods. They are modified by 100% of the unit's FP.
