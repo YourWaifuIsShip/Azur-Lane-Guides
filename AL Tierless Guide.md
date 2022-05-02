@@ -1315,7 +1315,7 @@ Personal recommendation: she's better off without the DDs overall, and the DDs h
 >Yuubari, ever the tinkerer, has an impressive array of tools at her disposal - shame she's an indecisive bastard and has to roll a die to decide which to crack out.
 Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outcomes are desirable (namely the two heals, one intentionally meant to be bad and one that is bad merely because Yuubari has barely more HP than the average DD without their Evasion), but the complete inability to control the results makes her a tough sell for anyone but the most compulsive gamblers - or the most squeamish about oil costs (8 Oil at MLB).
 
-![CL](/Images-for-the-Guide/EmdenChibi.png "blehmden") - **[SMS Emden](https://azurlane.koumakan.jp/Emden)**
+![CL](/Images-for-the-Guide/EmdenChibi.png "blehmden") - **[SMS Emden](https://azurlane.koumakan.jp/wiki/Emden)**
 * Roles:
   * **KMS fleetwide FP buffer, high DPS (if CL secondary)**. Medium DPS and medium tank (if DD secondary); Light tank and minor slow (if CL secondary).
 
@@ -2568,7 +2568,7 @@ Her naked statline may seem uninspiring, but it's very easily bulked up by a sub
 Defensively, history repeats as Seyds gets progressively tougher the more damage she takes, and she *will* be taking damage (especially if using other German backliners), although this comes at the expense of her damage/preload output; she can even cheat death once per fight, à là Hiryu, with a long period of invincibility and large HP restoration backed by a further heavy damage reduction. Such an ability screams 'flagship', but alas, Lutzow will want to be there instead (her barrage is frontal and mostly unaimed).  
 As things stand, your best use cases for her are two - either solo with another German, so you can use her as a murderous preloader aiming to end the battle as soon as it starts, or with Lutzow as an off-flag, and go to town with the both of them.
 
-![BB](/Images-for-the-Guide/ThuringenChibi.png "Thurible") - **[SMS Thuringen](https://azurlane.koumakan.jp/Thuringen)** 
+![BB](/Images-for-the-Guide/ThuringenChibi.png "Thurible") - **[SMS Thuringen](https://azurlane.koumakan.jp/wiki/Thuringen)** 
 * Roles:
   * Duke of York but German-only, without a slow and slightly weaker.
 
