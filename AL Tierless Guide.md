@@ -1329,7 +1329,7 @@ Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outco
 * Desc: i can b ur angle & ur debil..................
 > "We're going to add Emden!"   
 "[There are two](https://ibb.co/9WxxKnX), boss! Which one?"   
-"yes" 
+"yes"  
 Clever (very) implementation as a character - if hampered by the characterisation - aside, Emden launches as a strong and quite unique offering for German fleets. Depending on her choice of secondary weapon, she plays either as a powerful damage dealer and slower or a reliable tank, while granting the rest of her fleet a nifty FP boost. Convenient!
 One minor thing to bear in mind for manual play is her inability to store two torpedo spreads, as she reloads both tubes in a single cooldown. This increases her damage output with the things far beyond the terrible efficiency and low Torp stat, but there can be that to keep in mind.
 
