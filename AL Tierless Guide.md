@@ -1315,6 +1315,23 @@ Personal recommendation: she's better off without the DDs overall, and the DDs h
 >Yuubari, ever the tinkerer, has an impressive array of tools at her disposal - shame she's an indecisive bastard and has to roll a die to decide which to crack out.
 Make no mistake, she can hold her ground and all but 2 of the RNG Fiesta's outcomes are desirable (namely the two heals, one intentionally meant to be bad and one that is bad merely because Yuubari has barely more HP than the average DD without their Evasion), but the complete inability to control the results makes her a tough sell for anyone but the most compulsive gamblers - or the most squeamish about oil costs (8 Oil at MLB).
 
+![CL](/Images-for-the-Guide/EmdenChibi.png "blehmden") - **[SMS Emden](https://azurlane.koumakan.jp/Emden)**
+* Roles:
+  * **KMS fleetwide FP buffer, high DPS (if CL secondary)**. Medium DPS and medium tank (if DD secondary); Light tank and minor slow (if CL secondary).
+
+* Skill: 
+  * If mounting a CL gun as secondary, gain +25% MGEff and SGEff, and launch a [strong aimed barrage](https://cdn.discordapp.com/attachments/961498428628664331/969119861789818920/bullet_pattern_skill_15511.gif) reducing the Speed of those hit by -30% for 5s; if mounting a DD gun as secondary, every 10s deploy a 5-hit hitshield that when broken launches a [weak aimed barrage](https://cdn.discordapp.com/attachments/961498428628664331/969119645145632788/bullet_pattern_skill_15513.gif) that ignores shields and heals by 15% of the damage dealt.
+    * (CL barrage) The 24 ARROWS deal 40 bdmg with 100/100/100 amods, piercing through 1 target and slowing them by -30% for 5s. 100% FP scaling.
+    * (DD barrage) The 12 ARROWS deal 20 bdmg with 100/100/100 amods. 100% FP scaling.
+  * Gain +10% Eva upon the start of the battle. If solo vanguard, ignore the Out of Ammo debuff; if sortied with other KMS units, deal them 11 dmg and grant them +10% FP. Also, gain +5% Eva for every enemy sunk by her (up to +15% Eva).
+  * Can mount either a CL gun or a DD gun in her secondary slot. Her AA slot is replaced by Torpedoes. Reloads **2** torpedo spreads per cooldown.
+
+* Desc: i can b ur angle & ur debil..................
+> "We're going to add Emden!"   
+"[There are two](https://ibb.co/9WxxKnX), boss! Which one?"   
+"yes" 
+Clever (very) implementation as a character - if hampered by the characterisation - aside, Emden launches as a strong and quite unique offering for German fleets. Depending on her choice of secondary weapon, she plays either as a powerful damage dealer and slower or a reliable tank, while granting the rest of her fleet a nifty FP boost. Convenient!
+One minor thing to bear in mind for manual play is her inability to store two torpedo spreads, as she reloads both tubes in a single cooldown. This increases her damage output with the things far beyond the terrible efficiency and low Torp stat, but there can be that to keep in mind.
 
 ![CL](/Images-for-the-Guide/LeipzigKaiChibi.png "Leipzig Kai") - **[KMS Leipzig Kai](https://azurlane.koumakan.jp/Leipzig#retrofit)**
 * Roles:
@@ -1330,12 +1347,12 @@ Ziggy's Kai gave her the statline she needed to compete favourably with the othe
 
 ![CL](/Images-for-the-Guide/MainzChibi.png "Mainz Beans") - **[KMS Mainz](https://azurlane.koumakan.jp/Mainz)**
 * Roles:
-  * **Very high Gun DPS and medium shielded tank** or High Gun DPS and shielded Heavy tank.
+  * **Very high Gun DPS and heavy shielded tank**.
 
 * Skill: 
   * Every 15s, deploy a hitshield in front of Mainz (blocks up to 6 shots, lasts for 8s). If the hitshield breaks, gain +8% FP/Accuracy (up to +16%) until the end of the battle and fire a special aimed barrage.
     * The 8 AP SHOTS deal 36 bdmg with 90/70/40 mods; the 8 HE SHOTS deal 36 bdm with 120/60/60 mods. They are modified by 100% of the unit's FP.
-  * If vanguard lead, gain +5 Speed and +12% Evasion until the end of the battle and take -15% damage for 30s; if NOT vanguard lead, deal +25% CritDmg and fire a special barrage every 15s at a 70% chance. IF FATE 5: positioning within the vanguard does not matter anymore.
+  * If vanguard lead, gain +5 Speed and +12% Evasion until the end of the battle and take -15% damage for 30s; if NOT vanguard lead, deal +25% CritDmg and fire a special barrage every 15s at a 70% chance. IF FATE 5: gain both effects regardless of position.
     * The 6 SHOTS deal 36 bdmg with 200/200/200 mods. They are modified by 100% of the unit's FP. IF FATE 5, the shots are 12 and deal 40 bdmg.
   * Deal +15% damage to Sirens.
   * Has Medium Armour, MGM+1 and torpedoes. Really,  *really* bad torpedoes.
@@ -2551,6 +2568,19 @@ Her naked statline may seem uninspiring, but it's very easily bulked up by a sub
 Defensively, history repeats as Seyds gets progressively tougher the more damage she takes, and she *will* be taking damage (especially if using other German backliners), although this comes at the expense of her damage/preload output; she can even cheat death once per fight, à là Hiryu, with a long period of invincibility and large HP restoration backed by a further heavy damage reduction. Such an ability screams 'flagship', but alas, Lutzow will want to be there instead (her barrage is frontal and mostly unaimed).  
 As things stand, your best use cases for her are two - either solo with another German, so you can use her as a murderous preloader aiming to end the battle as soon as it starts, or with Lutzow as an off-flag, and go to town with the both of them.
 
+![BB](/Images-for-the-Guide/ThuringenChibi.png "Thurible") - **[SMS Thuringen](https://azurlane.koumakan.jp/Thuringen)** 
+* Roles:
+  * Duke of York but German-only, without a slow and slightly weaker.
+
+* Skill: 
+  * Upon Main Gun fire, there is a 70% chance to fire a [pretty aimed starshower](https://media.discordapp.net/attachments/460645783021289472/969117204282998815/bullet_pattern_skill_15440.gif)! Enemies hit by the blue shells lose -10% Evasion and take +12% dmg from SMS/KMS units for 10s.
+  * If mounting a German secondary gun, there's a 70% chance to fire it again. Internal cooldown: 10s.
+  * Can equip a DD gun in the AA slot. Has SGM-1.
+
+- Desc: 
+>Ancient WWI vintage puts... er... not many to shame, let's be honest, but dedicated ~~wehraboos~~ German captains may still find some use for her!  
+Dork's debuff remains top-notch to this day, and with her damage output being somewhat lacklustre but not quite terrible per se, she may prove herself an useful addition in a German-only fleet.
+
 ![BB](/Images-for-the-Guide/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** 
 * Roles:
   * Bismarck fire support.
@@ -2571,7 +2601,7 @@ On the bright side... she's worth a lot of tech points, which means you can unlo
 
 * Skill: 
   * Odin spawns in front of the flagship, regardless of her actual placement in the comp, and takes -20% damage. Every 15s, Odin sends out a sonar ping revealing all subs for 10s, reducing their Accuracy by 25% and decreasing the damage the vanguard takes from torpedoes by -15% for 10s. Note that her being in front will make her more likely to be targeted by enemy fire.
-  * Every 18s, 75% chance to fire a [barrage](https://streamable.com/svrjmd); also, all torpedoes mounted change their pattern from conal to parallel.
+  * Every 18s, 75% chance to fire a [barrage](https://streamable.com/svrjmd); also, all torpedoes mounted change their pattern from conal to parallel. If Fate 5, fire this barrage *twice* and the needles deal +8 bdmg.
     * The SHIELD-IGNORING RAILGUN deals 240 bdmg with 150/150/150 mods; the 24 NEEDLES deal 92 bdmg with 100/80/60 mods. Both are modified by 100% of the unit's FP.
   * Has torpedoes instead of regular DD/CL secondary guns... and has two sets of special ghost guns (one for long-range support fire, one for close-range defence) to compensate.
 
