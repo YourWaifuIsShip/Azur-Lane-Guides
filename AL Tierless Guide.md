@@ -2646,7 +2646,7 @@ It is important to remember that the former set makes up for about 1/3rd of her 
 
 
 ![BC](/Images-for-the-Guide/Ulrich_von_HuttenChibi.png "Ulcer") - **[KMS Ulrich von Hutten](https://azurlane.koumakan.jp/wiki/Ulrich_von_Hutten)
-  * **Extreme DPS (high Gun DPS at a very high rate of fire, average Barrage DPS), BB slow supporter, off-flagger**. Cross-fleet defender, HE specialist.
+  * **Extreme DPS (high Gun DPS at a very high rate of fire, average Barrage DPS), BB slow supporter, off-flag BBarrager**. Cross-fleet defender, HE specialist.
 
 * Skill: 
   * Upon main gun fire, launch an [aimed slowing salvo](https://streamable.com/1wk61d). If an enemy moves within 100 units from her (ie. very slightly beyond the white line), launch a [proximity scatter barrage](https://streamable.com/q02n66).
@@ -6403,7 +6403,7 @@ As things stand, your best use cases for her are two - either solo with another 
 
 ![BB](/Images-for-the-Guide/ThuringenChibi.png "Thurible") - **[SMS Thuringen](https://azurlane.koumakan.jp/wiki/Thuringen)** 
 * Roles:
-  * Duke of York but German-only, without a slow and slightly weaker.
+  * Duke of York but German-only, without a slow and slightly weaker. Off-flag BBarrager.
 
 * Skill: 
   * Upon Main Gun fire, there is a 70% chance to fire a [pretty aimed starshower](https://media.discordapp.net/attachments/460645783021289472/969117204282998815/bullet_pattern_skill_15440.gif)! Enemies hit by the blue shells lose -10% Evasion and take +12% dmg from SMS/KMS units for 10s.
