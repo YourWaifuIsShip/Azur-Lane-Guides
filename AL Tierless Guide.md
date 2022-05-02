@@ -2635,9 +2635,9 @@ And lastly, about her supportive capabilities - the fact she grants a damage red
   * **Chibi sniper (Very High single target damage, rapid reload but low volume of fire)**, flagship protector.
 
 * Skill: 
-  * Main Gun cooldown reduced by -40% and, upon firing, launch a [burst of DD AP shots](https://streamable.com/wrkban); also, every 20s, fire [three BB AP shells](https://streamable.com/wrkban) at a target (chibi preferred).
-    * The 16 DD AP SHOTS deal 36 bdmg with 90/70/40 mods. They are modified by 100% of the unit's FP.
-    * The 3 BB AP SHELLS deal 170 bdmg with 30/130/110 mods. They are modified by 100% of the unit's FP.
+  * Main Gun cooldown reduced by -40% and, upon firing, launch a [burst of DD AP shots](https://streamable.com/wrkban); also, every 20s, fire [three BB AP shells](https://streamable.com/wrkban) at a target (chibi preferred). If Fate 5, the barrage is fired from the flagship position regardless of her own.
+    * The 16 DD AP SHOTS deal 40 bdmg with 90/70/40 mods. They are modified by 100% of the unit's FP.
+    * The 3 BB AP SHELLS deal 186 bdmg with 30/130/110 mods. They are modified by 100% of the unit's FP.
   * If mounting a HE main gun... gain +5% FP, +15% AA and increase the modifier against Heavy Armour by +15%. If mounting an AP main gun... gain +5% FP, +15% Reload and +20% Main Gun CritRate. If the unit is above 75% HP, absorb half the damage taken by the flagship; if the unit is below 75% HP, gain +15% Evasion and Accuracy.
   * Deal +15% damage to Sirens.
   * Starts the battle with a preloaded volley. Has no additional MGM.
@@ -2667,7 +2667,7 @@ Solid, all things considered.
 
 * Skill: 
   * Upon falling below half HP, gain +50% Evasion and regenerate 8% of max HP over 8s; while above 50% HP, gains +12% AA and improves the barrage. Works twice per battle.
-  * Manually aimed volleys deal +40% Damage; also, every 20s, launch a [special barrage](http://p9.qhimg.com/dr/400__/t0135d3754023d7df8a.gif).
+  * Manually aimed volleys deal +40% Damage; also, every 20s, launch a [special barrage](http://p9.qhimg.com/dr/400__/t0135d3754023d7df8a.gif). If Fate 5, the barrage deals more damage and becomes slightly wider.
     * The 12 RED ARROWS deal 58 bdmg with 120/80/80 mods; the 12 WHITE ARROWS deal 58 bdmg with 80/120/80 mods; the 12 BLUE ARROWS deal 58 bdmg with 80/80/120 mods. All are modified by 100% of the unit's FP.
   * Deal +15% dmg to Sirens.
   * Main Gun salvo are split into separate volleys, and has only two Main Gun Mounts.
