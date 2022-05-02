@@ -1,4 +1,4 @@
-# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (LASAGNA LIGHT EDITION)
+# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (BLAST FROM THE PAST EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, dinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
@@ -74,9 +74,10 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 - ### [SS ![SS](/Images-for-the-Guide/45px-SS_img40.png "Submarine Icon")](#ss--1)
 - ### [AR ![AR](/Images-for-the-Guide/45px-AR_img40.png "AR Icon")](#ar--1)
 
-## Changelog as of last major update (05/03/2022)
+## Changelog as of last major update (02/05/2022)
 
-- Added RM Impero, Pompeo Magno, Trieste.
+- Added SMS Seydlitz, Lutzow, Thuringen, Emden.
+- Revised KMS Tirpitz's description.
 
 <br/><br/>
 ---
@@ -2502,7 +2503,7 @@ In short... she's a very hard sell. Even as a CV buffer you'd be better off usin
 
 ![BC](/Images-for-the-Guide/Friedrich_der_GrosseChibi.png "Fred the Fat") - **[KMS Friedrich der Grosse](https://azurlane.koumakan.jp/Friedrich_der_Grosse)**
 * Roles:
-  * **Extreme DPS (extreme Gun DPS, above average Barrage DPS), excellent staying power**. 
+  * **Extreme DPS (extreme Gun DPS, above average Barrage DPS), excellent staying power**. Performance degrades with damage sustained.
 
 * Skill: 
   * Upon taking damage OR when an enemy surface unit gets too close, launch a [special barrage](http://p1.qhimg.com/dr/400__/t01b505ceaf20a03f2d.gif).
@@ -2516,6 +2517,40 @@ In short... she's a very hard sell. Even as a CV buffer you'd be better off usin
 What, you want more? Fine. Fred the Fat is unreasonably strong, fully deserving of her status as a DR (and the disgusting ***19*** Oil cost) brimming as she is in the sheer staying power granted by her escalating defence buff and nearly 10k base HP as well as firepower, courtesy of the devastating 160% Main Gun Efficiency she gets without sacrificing gun mounts or an easily-procced, powerful defensive barrage.  
 If one were to look hard for any chinks in her Plot Armour it could be said that her HitRate is abysmal, not that BBs exactly shine in that regard; nevertheless she's uncharacteristically bad in that regard, suffering from the PR standard 0 Luck and a meagre 65 Accuracy, but it's an easily solved issue anyway.
 
+![BB](/Images-for-the-Guide/LutzowChibi.png "Lulzcow") - **[SMS Lutzow](https://azurlane.koumakan.jp/wiki/Lutzow)** 
+* Roles:
+  * **Seydlitz BFF, very high DPS (barrage-reliant, minor anti-BC/BB boost)**. Enemy debuffer, surprise PvP wrecker.
+
+* Skill: 
+  * Deal +10% dmg with the Main Gun. Upon Main Gun fire, there's a 70% chance to launch a [frontal barrage](https://media.discordapp.net/attachments/961498428628664331/969110786976907304/bullet_pattern_skill_15461.gif).
+    * The 2 AIMED SHELLS deal 200 bdmg with 100/100/100 amods; the 36 BLACK LASERS deal 25 bdmg with 100/100/100 amods; the 22 NEEDLES deal 20 bdmg with 100/80/70 amods; the 4 TORPEDOES deal 80 bdmg with 80/100/130 amods. The shells, lasers and needles are modified by 100% of the unit's FP, the torpedoes by 110% of the unit's Torp.
+  * Every enemy sunk by Lutzow grants +5% FP/Accuracy, up to +15%; once the cap is reached, also gain +15% FP.
+  * Deal +10% dmg to BC/BB. If an enemy sinks within 5s of taking damage from Lutzow, she counts as having sinked it as well. If mounting an AP or SAP gun... reduce enemy FP/Accuracy by -10% for 3s, and inflict a delayed damage debuff on them on a 10% chance (deal 3.000 damage after 3s).
+  * Can mount DD guns in the AA slot (and should). Has SGM-1.
+
+- Desc: Break out the museum pieces!
+>Ancient WWI vintage puts to shame terminally ill fox. Love it!
+Amagi may not be the first unit that comes to mind for a comparison, but the similarities become more evident the more you look at her: the barrage pattern is quite close (despite the lower damage), the ability to slap debuffs on enemies is also there (albeit somewhat reduced), so is the ability to accelerate the first volley (and is strong enough to basically preload, provided you accompany her with Seydlitz).  
+The PvP design in her is more evident than it is in Seyds, and the biggest clue is the fixed 3.000 damage: by PvE standards it's basically nothing, but in PvP that may very well be half of a DD's HP pool! Still, with a 10% chance, it's best not to rely on it.
+
+![BB](/Images-for-the-Guide/SeydlitzChibi.png "Seyds") - **[SMS Seydlitz](https://azurlane.koumakan.jp/wiki/Seydlitz)** 
+* Roles:
+  * **Very high DPS Preloader, SMS booster (sharply cuts first cooldown for SMS flagships, depending on remaining HP) and protector (absorbs reduced damage from other German backliners), self-healer.** Damage output degrades sharply with damage taken as defences increase.
+
+* Skill: 
+  * Gain +18% FP and Reload if deployed with 1+ SMS/KMS units. Also, her first salvo's cooldown is reduced from -20% to -80%, depending on her current HP (the more HP, the greater the reduction).
+  * Once per fight, if the next attack would sink her, she doesn't and... becomes invulnerable for 10s, heals for 22% of her max HP, takes -5% damage for the rest of the fight. Also, the higher her current HP is, the more +% damage she deals (max +20%); the lower her current HP is, the less -% damage she takes (max -20%).
+  * Upon firing the first salvo of the fight, launch an [aimed plunging HE barrage](https://cdn.discordapp.com/attachments/460645783021289472/969117383765659678/bullet_pattern_skill_15361.gif). If the flagship has a skill with "Marvel of History" in the name, said flagship's first salvo cooldown is reduced from -20% to -80% depending on her current HP (the more, the greater the reduction).
+    * The 8 HE SHELLS deal 86 bdmg with 145/85/65 amods. They are modified by 100% of the unit's FP.
+  * Can mount DD guns in the AA slot (and should). Has SGM-1.
+
+- Desc: Old but gold.
+>Ancient WWI vintage puts to shame the supposed 'Terror of the Seas'. Love it!
+Seydlitz has been designed, not unlike Lutzow, with an eye towards historical performance and one towards PvP - and not unlike Lutzow, this results in a somewhat odd kit that nevertheless manages to provide a sterling performance.  
+Her naked statline may seem uninspiring, but it's very easily bulked up by a substantial +18% to FP and Reload (just take another German unit, or better yet, her partner in crime) and a massive +20% damage dealt, allowing her to push exceptional DPS numbers she can also demonstrate at a moment's notice with her -80% first salvo cooldown. Her barrage is a nice addition, but it's not very strong and only fires once, so best not to pay too much attention to it - what you should pay attention to is the condition on her two best assets, the quasi-preload and the damage boost.  
+Defensively, history repeats as Seyds gets progressively tougher the more damage she takes, and she *will* be taking damage (especially if using other German backliners), although this comes at the expense of her damage/preload output; she can even cheat death once per fight, à là Hiryu, with a long period of invincibility and large HP restoration backed by a further heavy damage reduction. Such an ability screams 'flagship', but alas, Lutzow will want to be there instead (her barrage is frontal and mostly unaimed).  
+As things stand, your best use cases for her are two - either solo with another German, so you can use her as a murderous preloader aiming to end the battle as soon as it starts, or with Lutzow as an off-flag, and go to town with the both of them.
+
 ![BB](/Images-for-the-Guide/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** 
 * Roles:
   * Bismarck fire support.
@@ -2526,10 +2561,9 @@ If one were to look hard for any chinks in her Plot Armour it could be said that
     * The 4 TORPEDOES deal 137 bdmg with 80/100/130 mods. Their damage is modified by 150% of the unit's Torp stat.
   * Has only SGM+1.
 
-- Desc: Slow but steady...
->One of the most consistent and hardest hitting BBs in the game, provided you cater to her social anxiety.  
-While not as flashy as her competition, Tirpitz is, in a way, the "safe" choice - her abilities can't misfire, her defensive statlines makes her tougher than most and her damage buff extends to both her CL guns and torpedo spread, ensuring that even at 0 Ammo she will still be able to strike and defend herself with remarkable effectiveness.
-However, all this becomes quickly irrelevant as soon as she loses her +30% damage buff as it the main reason behind her power; without it she has very little reason to be used and will be easily outshone by pretty much everyone.   
+- Desc (2022): Slow...
+>Time has not been kind to her. While her power (and the drawbacks that came with it) made her remarkable in 2019, by now she's a faded relic of the past at best, as her unwieldiness far outstrips the damage boost she **needs** to even be taken into consideration as a backline pick.  
+On the bright side... she's worth a lot of tech points, which means you can unlock a good big gun from Research. See below for an example.
 
 ![BB](/Images-for-the-Guide/OdinChibi.png "Zantetsuken") - **[KMS Odin](https://azurlane.koumakan.jp/Odin)**
 * Roles:
