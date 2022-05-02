@@ -2606,7 +2606,8 @@ As things stand, your best use cases for her are two - either solo with another 
 
 * Skill: 
   * Upon Main Gun fire, there is a 70% chance to fire a [pretty aimed starshower](https://media.discordapp.net/attachments/460645783021289472/969117204282998815/bullet_pattern_skill_15440.gif)! Enemies hit by the blue shells lose -10% Evasion and take +12% dmg from SMS/KMS units for 10s.
-  * If mounting a German secondary gun, there's a 70% chance to fire it again. Internal cooldown: 10s.
+    * The 4 AP SHELLS deal 86 bdmg with 65/135/115 amods; the 18 HE PELLETS deal 20 bdmg with 120/60/60 amods; the 6 NORMAL shots deal 20 bdmg with 100/80/70 amods. 100% FP scaling on all of them.
+  * If mounting a German secondary gun, there's a 70% chance to fire said secondary gun again. Internal cooldown: 10s.
   * Can equip a DD gun in the AA slot. Has SGM-1.
 
 - Desc: 
