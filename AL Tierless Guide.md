@@ -807,31 +807,6 @@ Fairly straightforward, extremely capable.
 * Desc: Cheap and inexpensive bubblewrap.
 >While their Kai does augment their DPS somewhat, it's fair to say that the star of the show is still their self-rescue skill and their pretty good base HP; therefore, if all you want are some ablative wounds for a more valuable unit or just something to stall with while the backline does all the work, there are no better options than a 0LB Cassin and Downes.
 
-#### ![DD](https://azurlane.koumakan.jp/wiki/w/images/d/dc/AmazonChibi.png "HMS Amazon") [HMS Amazon](https://azurlane.koumakan.jp/wiki/Amazon)
-* Skill:
-  * +18% Exp gain for DDs.
-
-* Desc: 
->The first real DD to hit the seas, and boy does it show. Her barely combat-worthy statline and lack of any skill beyond the XP boost makes her a very poor candiate for Limit Breaks, and a very good candidate for 0LB shenanigans.
-
-
-#### ![DD](https://azurlane.koumakan.jp/wiki/w/images/f/f3/ShiranuiChibi.png "IJN Shiranui") [IJN Shiranui](https://azurlane.koumakan.jp/wiki/Shiranui)
-* Skill:
-  * 30% chance upon launching a torpedo spread to launch a second one.
-
-* Desc: 
->One of the top DD choices for a 0LB min-cost farm fleet due to her high torpedo stat, low fuel usage, and chain torpedo skill.
-
-![DD](https://azurlane.koumakan.jp/wiki/w/images/0/0f/Kizuna_AIChibi.png "DDakyu") - **[Kizuna AI](https://azurlane.koumakan.jp/wiki/Kizuna_AI)**
-* Skill:
-  * Every 20s, initiate RNG fiesta. (35% chance for -8% FP/Torp/Aviation to all enemies; 35% chance for -6%; 18% chance for -4%; 12% chance for +4% instead).
-  * Upon taking damage, 12% chance to launch a torpedo barrage, become invincible for 3s and gain +40% Eva for 3s afterwards. This skill may only activate thrice per battle.
-
-* Desc: AI-TAN BIIIIIMU!
->Also known as "Nowaki but not completely awful", DD AI is overall surprisingly okay - a decent statline, a reliable debuff and a nice-if-short lived defensive/offensive skill aren't enough to let her outshine the vast majority of proper DD (and the lack of a real barrage doesn't help), but she's still an interesting and fairly competent addition.
-
-
-
 <br/><br/>
 ---
 <br/><br/>
