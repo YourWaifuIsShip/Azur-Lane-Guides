@@ -2259,8 +2259,8 @@ Her double damage proc needs RNG to work, but when it does it'll let her deal si
   * Enemies hit by Duke of York's Main Gun fire take +12% damage from all sources for 8s; also, her first volley deals x1.5 damage.
 
 - Desc: 
->A nasty beatstick statline and a consistently useful support kit coming with basically no strings attached? Yes please!  
-Bear in mind that despite her having a barrage, she isn't *really* one - it's at best a little bit of extra utility and a smattering of free damage every 20s, its damage being too piddly (and the accuracy too poor) to really be considered.
+>A solid statline and a consistently useful support kit coming with basically no strings attached? Yes please!  
+Bear in mind that despite her having a barrage, she isn't *really* a BBarrager - what she has is little bit of extra utility, intended for BBs to make sure they land shots on the zippiest enemies, and a smattering of free damage every 20s. Emphasis on smattering.
 
 ![BC](/Images-for-the-Guide/HoodChibi.png "The Mighty Hood") - **[HMS Hood](https://azurlane.koumakan.jp/wiki/Hood)**
 * Roles:
