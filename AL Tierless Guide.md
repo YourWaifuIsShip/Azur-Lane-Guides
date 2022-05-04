@@ -1,38 +1,6 @@
 # Your Waifu is SHIP's opinionated & extra-biased Unit Guide (BLAST FROM THE PAST EDITION)
 
 ## _VERY IMPORTANT OPENING NOTE_ 
-Be it because of the very generous gacha, distinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
-  
-While a very laudable approach, it is also one that lends itself to misconceptions of the toxic casual "ez gaem lmao use w/e ur gud" variety: to quote a wise Azur Lane Community member, "just because it works, it doesn't mean it's good": while all units are indeed viable, there are clearly objectively superior ones, and this Tierless Guide aims to identify who are they and for what reasons.  
-A few years at this and counting, and it's become to me abundantly clear that tiers cause a lot more issues than they actually solve; most people only pay attention to the tier and ignore the reasons why they're tiered that way, engage in pointless debates over which tier is *right* (like it's not all subjective anyway) and are left knowing just as much as they did before about the unit itself or how they are supposed to use it.  
-  
-The Tierless Guide means to dispense with all that nonsense and tell you all the important stuff, with none of the nastiness and drivel that inevitably follows tiers. Should you still wish for a shorter form writeup on what the units are like, [consider checking the Ko-Fi posts here](https://ko-fi.com/ywisguides#).  
-Whatever the case and however you choose to read this guide, I want to stress this - ALL units are viable, SOME are better than others, NONE of them will work if you don't know how to use them.
-Good reading, and godspeed cap'n!
-## _VERY IMPORTANT OPENING NOTE_ 
- 
-  
-  
-### Evaluation Criteria:
-- Ships are evaluated by their PvE PERFORMANCE first and foremost, but notes on notable PvP usage will be made if suitable.
-- Ships are evaluated according to their ability to act as a STAND-ALONE unit.
-- Ships unable to evaluated the above criterion (eg. carriers as a whole, Vestal) are rated according to their ability to act as a SUPPORT unit; buffs/debuffs/aa/heals garner higher ranks than sheer damage output, especially during boss fights. See assorted notes for reasoning.
-- Ships are compared to others in their OWN CLASS for tiering purposes; if two ships are have comparable stats and purpose, the least expensive one will be ranked higher.
-- Ships are listed alphabetically and in order of nationality (USS -> HMS -> IJN -> KMS -> France -> Italy -> Russia).
-- All units are assumed to be MAXED (ie. lv120, BiS gear, SL10 across the board). PRs are an exception, as they take at the very least two full months to max, let alone rainbow ones.
-- Auto or Manual performance is not taken into consideration, unless it is specifically relevant to the unit.
-- The Retrofit Priority List orderings are decided on the basis of how effective is the retrofitted unit, not how much does it need the retrofit; in other words, the better (more powerful/more useful) the retrofit, the higher it is.
-  
-  
-  
-#### Role Explanations:
-- The Role field seeks to explain at a glance what's the purpose of a unit, how it should be employed, and how does it compare in those roles to other units in her hull class. A **bold** role means that should be the unit's main purpose; an absent role means the unit cannot be relied upon to perform said role at all.
-- DPS can be Gun, Torp, Plane or Barrage focused, and can be Light / Below Average / Medium / Above Average / Heavy / Extreme.
-- Tank can be Light / Medium / Heavy.
-- AA can be either Carry (will spearhead the fleet's AA damage) or Support (will assist significatively to the fleet's AA damage but should not be expected to handle things on its own), with both having Light / Medium / Heavy variants.
-- Support is too varied a field and thus simply references how the unit supports others via heals, buffs or debuffs.# Your Waifu is SHIP's opinionated & extra-biased Unit Guide (BLAST FROM THE PAST EDITION)
-
-## _VERY IMPORTANT OPENING NOTE_ 
 Be it because of the very generous gacha, dinctly not predatory monetisation, the shoot-em-up RPG gameplay or the ever-increasing unit roster, Azur Lane stands out among oceans of mobage for several reasons; the most relevant of which, in my opinion, is fostering a Pokémon-esque approach to compbuilding, where the player is encouraged and/or expected to use the units they like the most, rather than simply homing into the 'strongest' ones.  
   
 While a very laudable approach, it is also one that lends itself to misconceptions of the toxic casual "ez gaem lmao use w/e ur gud" variety: to quote a wise Azur Lane Community member, "just because it works, it doesn't mean it's good": while all units are indeed viable, there are clearly objectively superior ones, and this Tierless Guide aims to identify who are they and for what reasons.  
