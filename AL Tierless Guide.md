@@ -2514,8 +2514,8 @@ If one were to look hard for any chinks in her Plot Armour it could be said that
   * **Seydlitz BFF, very high DPS (barrage-reliant, minor anti-BC/BB boost)**. Enemy debuffer, surprise PvP wrecker.
 
 * Skill: 
-  * Deal +10% dmg with the Main Gun. Upon Main Gun fire, there's a 70% chance to launch a [frontal barrage](https://media.discordapp.net/attachments/961498428628664331/969110786976907304/bullet_pattern_skill_15461.gif).
-    * The 2 AIMED SHELLS deal 200 bdmg with 100/100/100 amods; the 36 BLACK LASERS deal 25 bdmg with 100/100/100 amods; the 22 NEEDLES deal 20 bdmg with 100/80/70 amods; the 4 TORPEDOES deal 80 bdmg with 80/100/130 amods. The shells, lasers and needles are modified by 100% of the unit's FP, the torpedoes by 110% of the unit's Torp.
+  * Deal +10% dmg with the Main Gun. Upon Main Gun fire, there's a 70% chance to launch a [frontal barrage](https://patchwiki.biligame.com/images/blhx/1/1e/iy4chvf6l0osvzk7bcgcn26a2847omw.gif.
+    * The 2 AIMED SHELLS deal 200 bdmg with 100/100/100 amods; the 36 BLACK LASERS (only 27 displayed, but some shots overlap - notice the brighter red auras) deal 25 bdmg with 100/100/100 amods; the 22 NEEDLES deal 20 bdmg with 100/80/70 amods; the 4 TORPEDOES deal 80 bdmg with 80/100/130 amods. The shells, lasers and needles are modified by 100% of the unit's FP, the torpedoes by 110% of the unit's Torp.
   * Every enemy sunk by Lutzow grants +5% FP/Accuracy, up to +15%; once the cap is reached, also gain +15% Reload.
   * Deal +10% dmg to BC/BB. If an enemy sinks within 5s of taking damage from Lutzow, she counts as having sinked it as well. If mounting an AP or SAP gun... reduce enemy FP/Accuracy by -10% for 3s, and inflict a delayed damage debuff on them on a 10% chance (deal 3.000 damage after 3s).
   * Can mount DD guns in the AA slot (and should). Has SGM-1.
