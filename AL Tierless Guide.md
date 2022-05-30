@@ -3204,7 +3204,7 @@ Anyway, this epochal turn of events is mostly only due to a legitimately good Li
 As is the random set of buffs. None of them are bad, per se, but some are clearly preferable to others (ie. +10% backline dmg boost) and the slow is just kind of there, not really helping or hindering the fleet.  
 All in all, the best Lusty you could hope for. Maybe the fourth one will be legitimately great.  
  
-![CVL](/Images-for-the-Guide/Indomitable.png "Teahoe") - **[HMS Indomitable](https://azurlane.koumakan.jp/wiki/Hermes#retrofit)**
+![CVL](/Images-for-the-Guide/IndomitableChibi.png "Teahoe") - **[HMS Indomitable](https://azurlane.koumakan.jp/wiki/Indomitable)**
 * Skill: 
   * Upon airstriking, launch a bomblets barrage.
     * The 6 BOMBS deal 260 bdmg with 80/95/115 amods, and inflict a special Ignition dealing 300bdmg and scaling with Aviation; the Ignition ticks four times, every 3s.
