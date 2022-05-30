@@ -38,7 +38,7 @@ Good reading, and godspeed cap'n!
 - CL                  : San Diego > Isuzu > Jintsuu > Leipzig = Leander > Kinu = Emile Bertin > Helena > Curlew/Curacoa > Abukuma = Ping Hai/Ning Hai (ONLY WITH YAT SEN) > Ajax/Achilles
 - CA                  : London > Mogami > Portland > Furutaka/Kako > Suffolk > Exeter
 - BB/C                : Hyuuga > Ise > Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES) > Warspite > Nevada/Oklahoma
-- CV/L                : Independence = Hiryu/Soryu > Shouhou > Langley > Ranger = Saratoga
+- CV/L                : Unicorn > Independence = Hiryu/Soryu > Shouhou > Langley > Ranger = Saratoga
  
  - PR1                : Monarch > Ibuki > Saint Louis > Neptune 
  - PR2                : Kitakaze = Gascogne > Georgia > Seattle > Azuma > Friedrich der Grobe (unless focusing on KMS)
@@ -76,8 +76,9 @@ tldr; BB/BC and CV/CVL do different things, holding them to the same standards m
 
 ## Changelog as of last major update (02/05/2022)
 
-- Added SMS Seydlitz, Lutzow, Thuringen, Emden.
-- Revised KMS Tirpitz's description.
+- Added Jervis, Bellona, Vanguard, Indomitable.
+- Retrofitted Unicorn's entry.
+- Removed Edinburgh, Little Belfast, Illustrious.
 
 <br/><br/>
 ---
@@ -236,6 +237,18 @@ Certainly as an AA barge at least, whenever her double AA mount is allowed to do
 
 * Desc: 
 >While her starter version is pretty much undeniably the worst out of the three, the Kai does her some justice. Still nowhere as powerful as Ayanami or Laffey, but the EX barrage helps to close the gap to some extent... alas, the Evasion boost still accomplishes little due to powerful diminishing returns the stat incurs, with little to show for it.
+
+![DD](/Images-for-the-Guide/JervisChibi.png "Jarpiss") - **[HMS Jervis](https://azurlane.koumakan.jp/wiki/Jervis)**
+* Roles: **(full) Vanguard Super-Heavy tank**, vanguard healer, HMS DD buffer. Middling DPS, torp-focused.
+
+* Skill:
+  * Gain +10% FP/ASW. If there are 3+ HMS units in the fleet, grant all HMS DD +10% FP, Torp, ASW. Once 20s have elapsed since the start of the battle, heal the vanguard by 5% of their max HP.
+  * Take -10% Aviation damage. If the vanguard only consists of DD and/or CL, gain +10% Torp and take -20% Torp damage. Upon battle start, if there are 3 units in the vanguard and Jervis is leading it, damage taken has a 15% chance to increase her EvaRate by +30% for 10s (on a 20s cooldown).
+
+* Desc: Helloooooo nurse.
+>While it is true that prevention is better than cure, Jervis knows that having both is better than either - and that's exactly what she brings, in the form of a supremely tanky frame and a reliable, fairly potent vanguard heal.  
+The incredible staying power is the true star of the show here, granting her a survivability only rivaled by the notorious and desperately obsolete Chinawall - or, for a more modern example, Agir - with just one minor caveat, namely having to field a full vanguard and ensuring they live. Neither is particularly hard, but it's definitely easier in a boss fleet - however, her middling damage output may prove a liability there.  
+Less important are the DD buffs, as Royal Navy DD are quite the sorry bunch and the only competitive one is, well, Jervis. At least she'll benefit from her own skill.  
 
 ![DD](/Images-for-the-Guide/AyanamiKaiChibi.png "Ayanami Kai") - **[IJN Ayanami Kai](https://azurlane.koumakan.jp/wiki/Ayanami#Retrofit)** 
 * Skill:
@@ -985,18 +998,6 @@ While powerful for their class, they are also dangerously frail and lacking in s
 >Okay and niche DD/CL-busting skills paired with middling CL stats, with the glaring exception of her sub-par HP.  
 More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
 
-![CL](/Images-for-the-Guide/Little_BelChibi.png "Belchan") - **[HMS Belchan](https://azurlane.koumakan.jp/wiki/Little_Bel)**
-* Roles:
-  * **Medium tank**, very weak fleetwide healer, below average Gun DPS, average Torp DPS.
-
-* Skill:
-  * +8 Speed and +25% Evasion.
-  * Upon battle start, heals the fleet by 3.5% of her max HP.
-
-* Desc: 
->The cutest Belfast you'll ever see, and with a brand new support-focused skillset to boot.  
-Not entirely as powerful as her older self, but she's up there without being forced to take a subpar gun, is considerably more Evasive and that full fleet healing is a nice addition.
-
 ![CL](/Images-for-the-Guide/BelfastChibi.png "Belfast") - **[HMS Belfast](https://azurlane.koumakan.jp/wiki/Belfast)**
 * Roles:
   * **Medium tank**, PvP annoyance, above average Gun DPS (HE locked), average Torp DPS.
@@ -1009,6 +1010,18 @@ Not entirely as powerful as her older self, but she's up there without being for
 >Dealing more damage than usual with HE guns and packing better torps than every other HMS cruiser, she tends to have a decent answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate plus lower defence compared to the 'regular' screen and planes not attacking you.  
 That said, the recent introduction of a CL HE gun that deigns itself to fire *straight* singlehandedly makes her considerably more combat-effective, if still lacking in support power.  
 Her place is mostly PvP, as there are many other CL who will do what she does - be it DPS or tanking - better for less.
+
+![CL](/Images-for-the-Guide/BellonaChibi.png "It's time to D-D-") - **[HMS Bellona](https://azurlane.koumakan.jp/wiki/Bellona)**
+* Roles:
+  * **Carrier damage booster, heavy AA support**; light tank, low DPS. 
+
+* Skill: 
+  * Gain +20% AA/EVa. Upon battle start, if sortied with 3+ HMS units, gain +15% AAEff and grant HMS DD +15% AA.
+  * As long as this unit is alive, CV/CVL deal +15% damage.Th
+
+* Desc: Why yes, she DOES have a line with Hermes.
+>Sirius' estranged sister - bringing the powerful carrier boost and AA she doesn't, and severely lacking the damage output she does.  
+While the low DPS doesn't sound like a good deal, it's worth keeping in mind that for an ARA (Air Raid Assistance, the carrier booster skill), survivability is more important than their own direct contribution to the fight - and in that regard, she's the toughest of them.  
 
 ![CL](/Images-for-the-Guide/Black_PrinceChibi.png "Black Prince") - **[HMS Black Prince](https://azurlane.koumakan.jp/wiki/Black_Prince)**
 * Roles:
@@ -1068,18 +1081,6 @@ On the flipside, the buffs can be unwieldy: while the Dido+3HMS requirements is 
 > As it turns out, the much-desired third Dido-class member for the vanguard Dido wants is Dido herself. Variety!  
 Sameness aside, Mido will behave more or less like the regular one does save for the extra barrage and a greater focus on AA; a welcome addition, considering these so-called AA cruisers have proven more adept at shooting up ships than simply shooting up (not that's a bad thing, but still).  
 Slightly better as a standalone unit, slightly worse in terms of Dido-class support. Use both Dido together and enjoy the best of both worlds.
-
-![CL](/Images-for-the-Guide/EdinburghChibi.png "Edinburgh") - **[HMS Edinburgh](https://azurlane.koumakan.jp/wiki/Edinburgh)**
-* Roles:
-  * **Medium tank**, average Gun DPS (AP locked), average Torp DPS.
-
-* Skill:
-  * Deal +25% AP damage.
-
-- Desc: Worth her weight in gold.
->Edinburgh is in a similar situation as Cleveland: both have merely 'okay' skills, both have impressive statlines, both will stay in front and tank for days while the rest of the team gets the job done.  
-The difference lies in how 'safe' they play things, as Edinburgh gets a passive boost to AP damage inflicted, an even bulkier HP pool (4.1k is amazing for both varieties of Cruiser) and no AA skill to burn her FP, but doesn't get that lone shot at the fleetwide buff and her DPS is still par for the course for a CL.  
-Still, there's very few more reliable frontline tanks than she - and that's a definite plus.
 
 ![CL](/Images-for-the-Guide/HermioneChibi.png "Maid no.???") - **[HMS Hermione](https://azurlane.koumakan.jp/wiki/Hermione)**
 * Role:
@@ -2351,6 +2352,25 @@ It goes without saying she's entirely worthless *outside* of USS fleets, without
 >Valiant doesn't really stack up to most high-end BB in their own playing field, be it shelling or barraging or supporting, but she does provide easy access to a special (ie. applies to any unit) Armour Break; the duration is long enough to allow her to permabreak a boss, which translates in a +8% fleetwide damage.  
 It's pretty good, all things considered, even if her damage output is fairly mediocre.
 
+![BB](/Images-for-the-Guide/VanguardChibi.png "does not fit in vanguard slots") - **[HMS Vanguard](https://azurlane.koumakan.jp/wiki/Vanguard)**
+* Role:
+  * **Fleetwide Force Multiplier, favouring BC/BB backlines; heavy AA support; very high DPS**. Cross-fleet HMS vanguard FP booster and fleetwide AA booster. 
+  
+* Skill: 
+  * When the Main Guns have finished reloading, fire an [aimed barrage](https://cdn.discordapp.com/attachments/901103255935942706/979296857815654440/bullet_pattern_skill_15680.gif) and grant +8% damage dealt to BC/BB for 6s.
+    * The 8 SHELLS deal 145 bdmg with 110/110/110 amods; 4 of them have priority targeting, 4 pick a random target. They are modified by 100% of the unit's FP.
+  * Gain +12% Accuracy and +20% Reload. For the duration of the battle, enemies on the field for more than 2s take +10% more damage from all sources. (CROSS-FLEET) Grant +10% FP to HMS vanguards in other fleets; 30s past the start of the battle, fire an aimed barrage and grant +10% AA fleetwide for 15s.
+    * The 4 SHELLS deal 130 bdmg with 110/110/110 amods. They are modified by 100% of the unit's FP.
+  * Vanguard's secondary guns always crit. Gain +30% AAEff and -2 Main Gun scatter when mounting at least 1 Royal Navy piece of equipment. If sortied with 2+ HMS units, all HMS units take -10% Aviation damage.
+  
+- Desc: [linebacker.jpg](https://i.postimg.cc/hG7PmngQ/FknWeeb.jpg)
+>Vanguard is not a vanguard, despite her moniker, but she can help vanguards as long as Vanguard stays alive. Got it? Good.  
+You may consider Vanguard a more modern Duke of York - relatively light on the damage and making up for it in spades through her support - that received some sorely-needed upgunning and a barrage worthy of the name, exceptionally strong secondaries owing to the guaranteed crits and the strongest AA suite you'll find on a backliner in the whole game. It's not just good - it's enough to compete with dedicated AA vanguards!  
+Of course, the crown jewel of the arrangement remain the de/buffs. Vanguard does not slow anymore, preferring instead to debuff enemies that dare exist in her presence for more than 2s and boosting her fellow big guns' damage output when her guns reload (thus ensuring the buff always fires off in time, including her own barrage) - not that firing off first is a major concern for her, courtesy of the hefty +20% Reload on a considerable stat base.  
+The one weaknesses she would have, would be her relative weakness (relative to her rainbow BB peers, that is) - so long as she is sortied solo, she'll fall behind them (as well as the strongest gold big guns, like Vittorio Veneto or Seydlitz), but of course, she's at her best when she's NOT going it solo.  
+She's a force multiplier first and foremost, remember!  
+
+
 ![BC](/Images-for-the-Guide/AmagiChibi.png "Amagi") - **[IJN Amagi](https://azurlane.koumakan.jp/wiki/Amagi)**
 * Roles:
   * **Very high DPS (high Gun DPS, high Barrage DPS; half of Barrage DPS is aimed), fleet protector**.
@@ -3170,15 +3190,6 @@ Formidable also happens to have a barrage if her Albacore tax is paid, but expec
 >Hellbent on dealing surface damage and dealing it (relatively) quickly, Hermes Kai boasts staggering amounts of Reload that allow her to airstrike in just about 19s with high-efficiency BiS torpedo bombers - and little to no support capabilities, which mostly come in screenclear form.  
 Her skills further semi-reliably let her stack her hand, either by dealing more damage on both her airstrike and the subsequent barrage or just by barraging and potentially cracking single hard targets or dispatching a cluster of adds.  
 All things considered - pretty okay, and very cheap to boot.
-
-![CV](/Images-for-the-Guide/IllustriousChibi.png "Lusty") - **[HMS Illustrious](https://azurlane.koumakan.jp/wiki/Illustrious)**
-* Skill: 
-  * Upon airstrike launch, grants every vanguard unit a shield for 10% of Illustrious' max HP, lasting 8s.
-  * Has a 6/0/2 loadout.
-
-* Desc: Zero to (AS) Hero.
->A very defensive-focused CV with double fighter slots, a shield generator and staggering amounts of Air Superiority. To this day, her low DPS is the stuff of legend.    
-Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (eg. Eldridge) and keeping vanguards light on HP (eg. DDs) running for longer, especially on torpedo strikes. 
  
  ![CV](/Images-for-the-Guide/Illustrious_µChibi.png "Musty") - **[Muse Illustrious](https://azurlane.koumakan.jp/wiki/Illustrious_µ)**
 * Skill: 
@@ -3193,6 +3204,20 @@ Anyway, this epochal turn of events is mostly only due to a legitimately good Li
 As is the random set of buffs. None of them are bad, per se, but some are clearly preferable to others (ie. +10% backline dmg boost) and the slow is just kind of there, not really helping or hindering the fleet.  
 All in all, the best Lusty you could hope for. Maybe the fourth one will be legitimately great.  
  
+![CVL](/Images-for-the-Guide/Indomitable.png "Teahoe") - **[HMS Indomitable](https://azurlane.koumakan.jp/wiki/Hermes#retrofit)**
+* Skill: 
+  * Upon airstriking, launch a bomblets barrage.
+    * The 6 BOMBS deal 260 bdmg with 80/95/115 amods, and inflict a special Ignition dealing 300bdmg and scaling with Aviation; the Ignition ticks four times, every 3s.
+  * 10s from battle start and every 20s afterwards, launch three rocket planes. Upon shooting down an aircraft with one of her planes, the entire fleet takes -15% Aviation damage for 10s (internal cooldown: 20s).
+    * The 9 ROCKETS deal 150 bdmg with 120/90/90 amods, and inflict a similar special Ignition.
+  * Deal +8% damage. If sortied with other Illustrious-class CV, grant THEM (and NOT herself) +15% Aviation/Accuracy; if sortied without other Illustrious-class CV, gain +15% Aviation; if sortied with Prince of Wales or Repulse, gain +15% Aviation and +12% Accuracy.
+  * Has a 6/0/2 loadout.
+
+* Desc: Lo and behold, it actually is! If you're fighting things smaller than a BB, at any rate...
+> The tagline more or less covers what needs saying. [Teahou](https://cdn.discordapp.com/attachments/352975182065041410/978180080943632424/1653284375321.png) follows in the steps of IJN progenitor by being strongly damage-oriented at the expense of support capabilities, which in her case amount to toughening up the fleet against enemy Aviation and, maybe, shooting planes down.  
+The 'maybe' is there because her typical ideal plane choice (BF109s as Fighters) is unable to intercept, leaving only a couple of Wyverns - if you can spare them - to pick up the slack inbetween airstrikes. Still, all the needs is to take one down for the proc.
+Given these preferences, it is clear her intended role is making Light/Medium Armour units regret getting out of bed. Likewise expect her performance to suffer when faced with Heavy CV or BB.
+  
 ![CV](/Images-for-the-Guide/EagleChibi.png "I can't believe it's not Bearn!") - [HMS Eagle](https://azurlane.koumakan.jp/wiki/Eagle)
 * Role:
   * **Self-defence and long-range supportive fire capable mob fleet carrier**; fast airstrike carrier; average CV DPS.
@@ -3226,14 +3251,15 @@ Perseus, unlike all other carriers in the game, starts with two whole airstrikes
 To some extent, this applies to her damage as well; once the airstrikes are out, she's forced to rely almost entirely on her random 12s planes for DPS, which may be nice but aren't a proper airstrike, nor do they have a strong Aviation stat to bolster them. Again, better than nothing, but won't destroy much on its own.  
 Lastly, she can lob a heal over to the fleet in which she isn't; helpful for patching up pre-boss battle damage.  
 
-  ![CVL](/Images-for-the-Guide/UnicornChibi.png "HMS Unicorn") - **[HMS Unicorn](https://azurlane.koumakan.jp/wiki/Unicorn)**
+  ![CVL](/Images-for-the-Guide/UnicornKaiChibi.png "Unicorn Mk 2") - **[HMS Unicorn Kai](https://azurlane.koumakan.jp/wiki/Unicorn#retrofit)**
 * Skill: 
-  * On launching an airstrike, heals the escort fleet for 8% HP
-  * Increases Reload of escort fleet by 15%
-  * Has a 3/0/3 loadout.
+  * Start the battle with one preloaded airstrike. Upon launching an airstrike, heal the vanguard by 8% of their max HP. The first airstrike heals the backline for 5% of their max HP, plus a +3% max HP heal to the most damaged backliner in the fleet.
+  * Increases Reload of escort fleet by 15%.
+  * Has a 4/0/3 loadout.
 
-* Desc: 
->Easily acquired and packing the ever-valuable standard vanguard heals, between that, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
+* Desc: Harder, better, faster, Unicorner.
+>The retrofit did wonders for Unicorn, as she can now stand her ground against the new generation healcarriers with a shiny preload of her own and a whole extra Fighter, helping bridge the gap between them and her; while she won't manage that, it's still appreciated and it is a valid tradeoff for the only other strong backline heal you'll find in the game.  
+Thus commences the rivalry between Perseus and Unicorn. If you want more heals, pick Perseus; if you want more damage, pick Unicorn.
 
 ![CV](/Images-for-the-Guide/AkagiChibi.png "IJN Akagi") ![CV](/Images-for-the-Guide/KagaChibi.png
  "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/wiki/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/wiki/Kaga)**
